@@ -1,0 +1,332 @@
+e64eca0	Select Envoy
+e64ecc0	Select Post
+e64ecd0	Select Princess
+e64ece8	Select Destination
+e64ecf8	Select Reward
+e64ed08	Confirm Reward
+e64ed18	Change Treasure
+e64ed28	Select Treasure
+e64ed38	Select Fief
+e64ed48	Select Target
+e64ed58	Select Origin
+e64ed70	No navy to cross the sea.
+e64ed90	Select Unit Type
+e64eda0	Select Province
+e64eda8	Select Magistrate
+e64edb8	Select Poach Target
+e64edc8	Select Uprising Target
+e64eeb8	Def.
+e64eec0	+%4d
+e64eec8	No change
+e64f010	Emperor Ogimachi
+e64f020	Emperor Gonara
+e64f030	Death
+e64f038	Emperor Go-Yozei
+e64f048	Abdication
+e64f050	Emperor Go-Mizunoo
+e64f060	Empress Meisho
+e64f070	Emperor Go-Komyo
+e64f080	Emperor Go-Sai
+e64f090	Emperor Reigen
+e64f0a0	Emperor Higashiyama
+e64f0b0	Officers stationed at %s
+e64f0d0	Change
+e64f0d8	Auto
+e64f0e8	Officers
+e64f0f0	Defence
+e64f110	Vassals
+e64f150	No officers available to reinforce.
+e64f170	Select a castle.
+e64f2f0	Select an officer to send to %s.
+e64f3e0	Scribe
+e64f440	Min.
+e64f448	Max.
+e64f470	Treasure
+e64f498	-
+# emulator pass s22: bare chapter names (mission result field ~85 px; guide texts say "the Warlords Chapter")
+e650140	Warlords
+e650150	Heroes
+e650160	Overlords
+e650170	Realm
+e650180	Dream
+e6501d8	Raise
+e6501f8	Dispatch
+e650200	Infiltrate
+e650208	Create
+e650210	Organise
+e650218	Sortie
+e650220	Close
+e650228	Details
+e650230	Abandon Goal
+e6502a8	Goal
+e6502b0	%04d/%2d
+e6502c0	Due
+e6502c8	Steps to Achieve
+e650408	Close
+e650428	Check Goal
+e650438	Mission Info
+e6505f0	Details
+e6505f8	End
+e6506c0	Raise Yield
+e6506d0	Raise Troops
+e6506e0	Raise Commerce
+e6506f0	Raise Training
+e650700	Aid Ninja
+e650710	Aid Gentry
+e650720	Scout Enemy
+e650740	Sortie Drill
+e650750	Request Ninja
+e650880	Proposal by %s\n
+e650cf8	Senior Vassal
+e650d90	Elder
+e650dc0	Azuchi
+e650dc8	-
+e650dd0	Okabe
+e650dd8	Matauemon
+e650de8	Hirai
+e650df0	Clan
+e650df8	Shingen
+e650e00	-
+e650e10	Gishu
+e650e18	Genpaku
+e650e20	Maid
+e650e28	No. 1
+e650e30	No. 2
+e650e38	Kuwanomidera
+e650e40	Head Priest
+e650e48	Rosario Chapel
+e650e58	-
+e650e68	Santos Chapel
+e650e78	-
+e650e88	Usuki
+e650e90	-
+e650e98	Anrike
+e650ea8	-
+e650eb8	Hirado
+e650ec0	-
+e650ec8	Porro
+e650ed0	-
+e650ed8	Xavi
+e650ee0	er
+e650ee8	Nihonmatsu clan
+e650ef8	Ashigaru
+e651080	Gifu
+e651088	-
+e651090	Takuhiko
+e651098	Soon
+e6510a0	Jukei
+e6510a8	Nun
+e6510b0	Genko
+e6510b8	Etan
+e6510c0	Kongo
+e651e50	Select the player Daimyo.
+e652140	Hour of Awakening
+e652150	Opening
+e652160	Unseen Dawn
+e652180	Hidden Feelings
+e652190	Vassal Daimyo
+e6521a0	Misty Morning
+e6521b0	Minor Daimyo
+e6521b8	Raging Land
+e6521c8	Sengoku Daimyo
+e6521d8	Road to Supremacy
+e6521e8	Ruler of All
+e6521f0	Banquet of Schemes
+e652200	Pre-Battle
+e652208	Backlit Rebellion
+e652218	Battle (Normal)
+e652228	Beyond Morning Haze
+e652238	Battle (Plains)
+e652248	Emerald Struggle
+e652258	Battle (Mountains)
+e652268	Stormy Seas
+e652278	Battle (Coast)
+e652288	Hour of Crimson Snow
+e652298	Battle (Snow)
+e6522a8	Flames of the Demon Eye
+e6522b8	Battle (Monto)
+e6522c8	Wind of Twilight
+e6522d8	Post-Battle
+e6522e0	Shadow of Doubt
+e6522f0	Talks: Daimyo and Gentry
+e652308	Spring Dance
+e652318	Talks: the Court
+e652328	Merchants
+e652330	Talks: Free Cities
+e652348	Twin Walls of the Bell
+e652358	Talks: Buddhist Temples
+e652368	Prayer
+e652370	Talks: Nanban Church
+e652380	Fleeting Spirits
+e652398	Ripples of Time
+e6523a8	Event 1
+e6523b8	Dandelion
+e6523c0	Event 2
+e6523d0	Hazy Capital
+e6523e0	Event 3
+e6523f0	Tears of Memory
+e652400	Fall of a Daimyo
+e652410	Flicker of Light
+e652420	Conquest
+e652430	Drops of the Wilderness
+e652440	Unity by Vassalage
+e652450	Evening Calm Plain
+e652460	Ending
+e653620	Ironclad
+e653698	Orders
+e6536a8	List
+e6536b0	Goal
+e653888	Wait
+e653890	Combat
+e653898	Rest
+e6538a0	Retreat
+e6538a8	Captive
+e6538c0	Retreat %s?\nAre you sure?
+e653a70	Accept mediation?
+e653aa0	Ask which power to mediate?
+e653b50	Undefined
+e653b58	Attack %s
+e653b68	Attack %s
+e653b80	Attack %s
+e653c00	Defend %s
+e653c80	Attack %s
+e653d98	Enter %s
+e653e08	Enter %s
+e653ee0	Game Speed
+e653ef0	Scroll Speed
+e653f00	Battle Messages
+e653f18	Evade
+e653f28	Spirit
+e653f30	Join
+e653f38	Split
+e653f40	Camp
+e653f48	Request
+e653f50	Mediate
+e653f58	Break Camp
+e653fc0	Select Order
+e654190	Grass
+e654198	Wasteland
+e6541a0	Marsh
+e6541a8	Road
+e6541b0	Shore
+e6541b8	Shallows
+e6541c0	Plain
+e6541c8	Swamp
+e6541d0	Spikes
+e6541d8	River
+e6541e0	Sea
+e6541f0	Gate
+e6541f8	Fence
+e654200	Building
+e6543a8	%2d/%2d
+e6549c0	Officer
+e6549c8	Crest
+e6549d0	Current
+e6549d8	Morale
+e6549f8	Location
+e654a60	Loyalty
+e654ae8	Farming
+e6510c8	Sagami
+e6510d0	Mount Hiei
+e6510d8	's Woman
+e6510e0	Iwamatsu
+e6510e8	Yaya
+e6510f0	Misc.
+e6510f8	Soldier
+e651100	Nakajima
+e651108	Kanosuke
+e651128	Nonaka
+e651130	Shigemasa
+e651138	Inoue
+e651140	Motoari
+e651148	Narikane
+e651150	Tenshitsu
+e651158	Koiku
+e651160	Takeda clan
+e651170	Hirate
+e651178	Nagamasa
+e651180	Uesugi
+e651188	-
+e651198	Kenshin
+e6511a0	-
+e6511b0	Kagekatsu
+e6511b8	-
+e6511c8	Maeda
+e6511d0	Matsu
+e6511d8	Mu
+e6511e0	Be
+e6511e8	Ieyasu
+e6511f0	-
+e651200	Tokugawa
+e651208	-
+e651218	Yoshinaga
+e651220	-
+e651230	Harukata
+e651238	-
+e651248	Dosan
+e651250	-
+e651260	Saito
+e651268	-
+e651278	Abe
+e651280	Yashichiro
+e651288	Luis
+e651290	Frois
+e6512a0	Luis
+e6512a8	Frois
+e6512b8	Kosai
+e6512c0	Yamato-no-kami
+e6512c8	Saito
+e6512d0	Harima-no-kami
+e6512d8	Taguchi
+e6512e0	Shinkurodo
+e6512e8	Tsukumi
+e6512f0	Mimasaka-no-kami
+e6512f8	Ieyasu
+e651300	-
+e651310	Hattori
+e651318	Koheita
+e651320	Mori
+e651328	Shinsuke
+e651330	Owari Province
+e651338	Farmer
+e651340	Dosetsu
+e651348	-
+e651358	Tachibana
+e651360	-
+e651370	Osaka
+e651378	-
+e651388	Todaiji
+e651390	Monk
+e651398	Temple
+e6513a8	Hotta
+e6513b0	Doku
+e6513b8	Komaki
+e6513c0	Genta
+e6513c8	Dosan
+e6513d0	-
+e6513e0	Saito
+e6513e8	-
+e6513f8	Toshitaka
+e651400	Town
+e651408	Person
+e651410	Ichi no
+e651418	Dai
+e651420	Hashiba
+e651428	-
+e651430	Nei
+e651438	ko
+e651440	Onishi
+e651448	Jubei
+e651450	Hotta
+e651458	Doku
+e651460	Toyotomi
+e651468	-
+e651478	Tsuge Saburo
+e651488	Zaemon
+e6514a0	Tsugaru
+e6514a8	-
+e6514b0	Yoshiaki
+e6514b8	Sorin
+e6514c0	-
+e6514d0	Iun
+e6514d8	Priest

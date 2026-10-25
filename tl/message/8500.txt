@@ -1,0 +1,1000 @@
+@8501
+Kamachi Shigenami
+@8503
+Tajiri Akitane
+@8505
+Akashi Mitsumasa
+@8507
+Nishimuta Shigetoyo
+@8509
+Monjujo Munekage
+@8511
+Shoni Sukemoto
+@8513
+Shoni Fuyuhisa
+@8515
+Egami Taketane
+@8517
+Oda Masamitsu
+@8519
+Kumashiro Katsutoshi
+@8521
+Takagi Akifusa
+@8523
+Baba Yorichika
+@8525
+Yokodake Sukemasa
+@8527
+Ryuzoji Iekane
+@8529
+Ryuzoji Iezumi
+@8531
+Ryuzoji Chikaie
+@8533
+Ryuzoji Takanobu
+@8535
+Ryuzoji Masaie
+@8537
+Ryuzoji Nobuchika
+@8539
+Ryuzoji Naganobu
+@8541
+Ryuzoji Tanehisa
+@8543
+Ryuzoji Tanemitsu
+@8545
+Ryuzoji Ienari
+@8547
+Nabeshima Kiyohisa
+@8549
+Nabeshima Kiyofusa
+@8551
+Nabeshima Naoshige
+@8553
+Nabeshima Katsushige
+@8555
+Eriguchi Nobutsune
+@8557
+Enjoji Nobutane
+@8559
+Kinoshita Masanao
+@8561
+Narimatsu Nobukatsu
+@8563
+Hyakutake Tomokane
+@8565
+Naritomi Shigeyasu
+@8567
+Matsura Okinobu
+@8569
+Matsura Takanobu
+@8571
+Matsura Shigenobu
+@8573
+Koteda Yasumasa
+@8575
+Koteda Yasutsune
+@8577
+Koteda Yasukazu
+@8579
+Goto Sumiharu
+@8581
+Goto Harumasa
+@8583
+Arima Haruzumi
+@8585
+Arima Yoshisada
+@8587
+Arima Harunobu
+@8589
+Omura Sumisaki
+@8591
+Omura Sumitada
+@8593
+Omura Yoshisaki
+@8595
+Hirai Tsuneharu
+@8597
+Yasutomi Sumiharu
+@8599
+Yasutomi Sumiyasu
+@8601
+Akahoshi Chikaie
+@8603
+Akahoshi Muneie
+@8605
+Kanokogi Chikakazu
+@8607
+Kanokogi Shigeari
+@8609
+Kumabe Chikanaga
+@8611
+Jo Chikafuyu
+@8613
+Jo Chikakata
+@8615
+Jo Chikamoto
+@8617
+Aso Koretoyo
+@8619
+Aso Koremasa
+@8621
+Aso Koretane
+@8623
+Aso Koremitsu
+@8625
+Kai Soun
+@8627
+Kai Chikahide
+@8629
+Kitazato Masayoshi
+@8631
+Takamori Korenao
+@8633
+Sagara Yoshishige
+@8635
+Uemura Yorioki
+@8637
+Sagara Haruhiro
+@8639
+Sagara Yoshihi
+@8641
+Sagara Yorifusa
+@8643
+Uemura Yoriyoshi
+@8645
+Uemura Nagatane
+@8647
+Sagara Haruyori
+@8649
+Akaike Nagato
+@8651
+Indo Yoriyasu
+@8653
+Indo Yorimori
+@8655
+Uemura Nagakuni
+@8657
+Okamoto Yoriuji
+@8659
+Samuta Nagakata
+@8661
+Fukami Nagatomo
+@8663
+Marume Nagayoshi
+@8665
+Ito Tadasuke
+@8667
+Ito Yoshisuke
+@8669
+Ito Yoshimasu
+@8671
+Ito Yoshikata
+@8673
+Ito Suketaka
+@8675
+Ito Sukenori
+@8677
+Ito Sukeyasu
+@8679
+Aratake Kankyu
+@8681
+Yuji Sadatoki
+@8683
+Kiwaki Sukemori
+@8685
+Mera Suketsugu
+@8687
+Yamada Munemasa
+@8689
+Hongo Tokihisa
+@8691
+Kimotsuki Kanetsugu
+@8693
+Kimotsuki Yoshikane
+@8695
+Kimotsuki Kanesuke
+@8697
+Kimotsuki Kanemori
+@8699
+Ijichi Shigeoki
+@8701
+Anraku Kanehiro
+@8703
+Nejime Kiyotoshi
+@8705
+Nejime Shigetake
+@8707
+Nejime Shigeharu
+@8709
+Yakumaru Kanemasa
+@8711
+Shimazu Tadayoshi
+@8713
+Shimazu Takahisa
+@8715
+Shimazu Yoshihisa
+@8717
+Shimazu Yoshihiro
+@8719
+Shimazu Tadatsune
+@8721
+Shimazu Toshihisa
+@8723
+Shimazu Iehisa
+@8725
+Shimazu Toyohisa
+@8727
+Ijuin Tadaaki
+@8729
+Ijuin Tadaao
+@8731
+Ijuin Tadamune
+@8733
+Uwai Kakuken
+@8735
+Ei Hisatora
+@8737
+Kabayama Hisataka
+@8739
+Kamata Masatoshi
+@8741
+Saruwatari Nobumitsu
+@8743
+Tanegashima Satotoki
+@8745
+Tanegashima Tokitaka
+@8747
+Tanegashima Hisatoki
+@8749
+Niiro Tadamoto
+@8751
+Yamada Arinobu
+@8753
+Yamada Arinaga
+@8755
+Shimazu Sanehisa
+@8757
+Shimazu Yoshitora
+@8759
+Shimazu Tadatoki
+@8761
+Kawakami Tadakatsu
+@8763
+Kawakami Hisaaki
+@8765
+Hirata Muneshige
+@8767
+Hirata Mitsumune
+@8769
+Aoki Kazushige
+@8771
+Aoki Kazunori
+@8773
+Aoki Toshinori
+@8775
+Aoyama Munekatsu
+@8777
+Akaza Yoshiie
+@8779
+Akamatsu Norihide
+@8781
+Asano Nagashige
+@8783
+Adachi Shigenobu
+@8785
+Amakusa Shiro
+@8787
+Araki Shigekata
+@8789
+Araki Mataemon
+@8791
+Arima Naozumi
+@8793
+Iki Tokatsu
+@8795
+Ikeda Toshitaka
+@8797
+Ikeda Hideuji
+@8799
+Ikoma Kazumasa
+@8801
+Ikoma Masatoshi
+@8803
+Ishikawa Sadakiyo
+@8805
+Ishikawa Sadamasa
+@8807
+Ishikawa Sadamichi
+@8809
+Ishikawa Yasukatsu
+@8811
+Ishida Shigeie
+@8813
+Ishida Masazumi
+@8815
+Itakura Shigemune
+@8817
+Itakura Shigemasa
+@8819
+Ichihashi Nagakatsu
+@8821
+Ito Nagatsugu
+@8823
+Ito Morimasa
+@8825
+Inaba Shigemichi
+@8827
+Inaba Michito
+@8829
+Inaba Sadamichi
+@8831
+Inaba Norimichi
+@8833
+Ozeki Sukemasu
+@8835
+Ota Kazuyoshi
+@8837
+Otani Yoshiharu
+@8839
+Ono Harufusa
+@8841
+Ono Harutane
+@8843
+Okamoto Yoshikatsu
+@8845
+Okumura Nagatomi
+@8847
+Oda Hideo
+@8849
+Oda Nobushige
+@8851
+Oda Nobunari
+@8853
+Obama Mitsutaka
+@8855
+Kakimi Iezumi
+@8857
+Kasuya Saneo
+@8859
+Katagiri Sadataka
+@8861
+Kato Akinari
+@8863
+Kato Sadayasu
+@8865
+Kanamori Yoshishige
+@8867
+Gamo Satoie
+@8869
+Kinoshita Iesada
+@8871
+Kinoshita Katsutoshi
+@8873
+Kinoshita Toshifusa
+@8875
+Kinoshita Nobutoshi
+@8877
+Sugihara Nagafusa
+@8879
+Kyogoku Tadataka
+@8881
+Kumagai Naomori
+@8883
+Koide Hidemasa
+@8885
+Koide Yoshimasa
+@8887
+Koizumi Yasutsuna
+@8889
+Kori Muneyasu
+@8891
+Konishi Yukikage
+@8893
+Sakakibara Yasukatsu
+@8895
+Suwa Yorimizu
+@8897
+Sengoku Hidenori
+@8899
+Sengoku Tadamasa
+@8901
+Takagi Morikane
+@8903
+Kozukuri Katsutoshi
+@8905
+Takenaka Takashige
+@8907
+Yoshihiro Naotsugu
+@8909
+Teranishi Korenari
+@8911
+Matsudaira Tadanao
+@8913
+Matsudaira Iemitsu
+@8915
+Matsudaira Tadanaga
+@8917
+Matsudaira Masayuki
+@8919
+Matsudaira Yoshinao
+@8921
+Matsudaira Yorinobu
+@8923
+Matsudaira Yorifusa
+@8925
+Matsudaira Mitsukuni
+@8927
+Tomita Nobutaka
+@8929
+Tomita Nobuyoshi
+@8931
+Torii Tadamasa
+@8933
+Naito Joan
+@8935
+Nakagawa Hidenari
+@8937
+Nakagawa Hisamori
+@8939
+Nakamura Ujitsugu
+@8941
+Nishio Mitsunori
+@8943
+Niwa Nagamasa
+@8945
+Nose Yoritsugu
+@8947
+Hachisuka Yoshishige
+@8949
+Hayami Morihisa
+@8951
+Hitotsuyanagi Naomori
+@8953
+Hineno Takahiro
+@8955
+Hineno Yoshiaki
+@8957
+Hirano Nagayasu
+@8959
+Fukushima Takaharu
+@8961
+Fukuhara Nagataka
+@8963
+Furuta Shigekatsu
+@8965
+Hotta Morishige
+@8967
+Hori Chikayoshi
+@8969
+Hori Hidetane
+@8971
+Hori Naoyori
+@8973
+Horio Tadauji
+@8975
+Horio Tadaharu
+@8977
+Sakai Yasutoshi
+@8979
+Maita Hirosada
+@8981
+Maeda Keiji
+@8983
+Maeda Shigekatsu
+@8985
+Maeda Toshitsune
+@8987
+Matsukura Katsuie
+@8989
+Matsushita Shigetsuna
+@8991
+Okudaira Tadaaki
+@8993
+Okochi Nobutsuna
+@8995
+Matsui Yasushige
+@8997
+Toda Yasunaga
+@8999
+Marumo Kanetoshi
+@8700
+Osumi gentry, lord of Obama Castle. Allied with the Kimotsuki against the Shimazu but lost his castle and yielded. Later served the Shimazu against the Otomo.
+@8702
+Kimotsuki vassal, lord of Osumi Irifune Castle. Held it against Shimazu Yoshihisa, but no aid came and he yielded after a 15-month siege.
+@8704
+Osumi gentry, lord of Nejime. Served the Kimotsuki. Failed to mediate between Shimazu Katsuhisa and Tadayoshi; given Takakuma Castle by Kanetsugu, then lost it.
+@8706
+Osumi gentry, lord of Nejime. Son of Kiyotoshi. Served the Kimotsuki, then made a separate peace with the Shimazu and repelled Kimotsuki attacks. Traded with Ming.
+@8708
+Shimazu vassal, lord of Nejime. Son of Shigenaga. Styled Aki no Kami. Served Yoshihisa, Yoshihiro and Tadatsune; transferred to Satsuma Kiire after the Taiko survey.
+@8710
+Kimotsuki vassal, styled Izumo no Kami, Koun-sai after taking vows. Served as elder. Fought the Ijuin at Kagoshima; killed in battle against the Ito.
+@8712
+10th head of the Isaku Shimazu. Passed the Shimazu headship to his heir Takahisa. Wrote the Iroha poem to teach vassals; restorer of the Shimazu house.
+@8714
+15th head of the Shimazu. Tadayoshi's heir. Unified Satsuma with his father's help. Adopted guns and bold diplomacy, laying the base of Shimazu growth.
+@8716
+16th head of the Shimazu. Takahisa's heir. Expanded with his able brothers and took nearly all Kyushu, but lost to Hideyoshi's army and kept only Satsuma.
+@8718
+17th head of the Shimazu. Takahisa's second son. Crushed the Ito and Otomo; the house's fiercest general. In Korea he beat huge Ming armies, feared as "Demon Shimazu".
+@8720
+18th head of the Shimazu. Yoshihiro's third son. Served in Korea; took the headship after Sekigahara. Built up castle town and ports, founding the Satsuma domain.
+@8722
+Shimazu vassal. Takahisa's third son, founder of the Heki Shimazu. Resisted Hideyoshi's Kyushu campaign to the end; killed himself over the Umekita Kunikane revolt.
+@8724
+Shimazu vassal. Takahisa's fourth son, founder of the Nagayoshi Shimazu. Beat the tenfold Ryuzoji at Okitanawate. Submitted to Hideyoshi and died suddenly after meeting Hidenaga.
+@8726
+Shimazu vassal. Son of Iehisa. Won merit in Korea. At Sekigahara he led the rearguard retreat, fighting Honda Tadakatsu and Ii Naomasa, and fell.
+@8728
+Shimazu vassal, wise and brave. Helped unify Satsuma. First in Japan to use guns in battle, at Osumi Kajiki. Later senior councillor in government.
+@8730
+Shimazu vassal. Son of Tadaaki. Attacked Kimotsuki Kanehiro at Osumi Kajiki Castle and handled his lands. Later senior councillor, expanding the house.
+@8732
+Shimazu vassal. Son of Tadakura. Senior councillor. Taken hostage after losing to Hideyoshi. Treated as equal to his lord, he clashed with Tadatsune and was killed.
+@8734
+Shimazu vassal. Active mainly in Hyuga and a senior councillor aiding Yoshihisa's rule. A cultured man, he wrote the Ise no Kami Kokoroetsuke and Uwai Kakukane Diary.
+@8736
+Shimazu vassal. Fought at Mimikawa, Higo Minamata and Okitanawate. Yoshihiro said, "Every victory over Toyo and Hizen was Hisatora's doing."
+@8738
+Shimazu vassal, elder. In Korea he beat Yi Sun-sin's turtle ships. Commander-in-chief of the Ryukyu expedition; took Shuri and captured the prince.
+@8740
+Shimazu vassal. Distinguished at Higo Yazaki and Satsuma Magoe. Praised by Tadayoshi; one of four men named in the Shimazu Kankin-sho.
+@8742
+Shimazu vassal. Beat the Ryuzoji at Okitanawate and fought across Hizen and Higo. Defeated and killed at Nejirozaka against Hideyoshi's Kyushu army.
+@8744
+Shimazu vassal, lord of Tanegashima. Won at Satsuma Ichiki. Fought the Nejime, fled to Yakushima, and obtained guns from a wrecked Portuguese ship.
+@8746
+Shimazu vassal, lord of Tanegashima. Son of Shigetoki. Fought the Nejime. Got guns from a Portuguese ship wrecked on Tanegashima, studied and copied them.
+@8748
+Shimazu vassal, lord of Tanegashima. Tokitaka's second son. Came of age under Yoshihisa after his brother Tokitsugu died. Led gun troops with great renown.
+@8750
+Shimazu vassal. Served at Satsuma Magoe and in Higo; one of four named in the Shimazu Kankin-sho. Wrote the Nisai Banashi Kakushiki Jomoku to warn the young.
+@8752
+Shimazu vassal. Lord of Hyuga Takajo after the Ito fell. At Mimikawa he held his castle with few men against the huge Otomo army, aiding victory.
+@8754
+Shimazu vassal. Arinobu's heir. Outstanding at the Ijuin Tadazane revolt and Sekigahara. Governor of Izumi, a wise and brave man who fostered industry.
+@8756
+5th head of the Satsushu Shimazu. Denied the main headship, he rebelled. Expanded for a time, then lost to Shimazu Tadayoshi, yielded and retired to Izumi.
+@8758
+Shimazu vassal, lord of Satsuma Izumi. Sanehisa's heir. Led the van against the Sagara and took Yoshihi's surrender. Fought at Okitanawate in Higo and Hizen.
+@8760
+Shimazu vassal, lord of Satsuma Izumi. Yoshitora's heir. Sent to Busan in Korea, feigned illness and halted; rebuked by Hideyoshi, dispossessed, died ill in Korea.
+@8762
+Shimazu vassal, lord of Satsuma Kushikino. Served Sanehisa, yielded to Tadayoshi and was exiled 3 years to Koshiki. Later elder; restored Hakusan Gongen.
+@8764
+Shimazu vassal. Son of Tadakatsu. One of four named in the Shimazu Kankin-sho. At 18 Yoshihisa proposed him as Deputy Constable. Died at Satsuma Oguchi.
+@8766
+Shimazu vassal, lord of Satsuma Kushin Castle. Son of Munehide. Styled Awa no Kami. Served Sanehisa, then yielded to Tadayoshi's attack and served him.
+@8768
+Shimazu vassal. Munehide's second son. Won at Hyuga Ishi, Higo Kenshida and Okitanawate. Held Higo Yatsushiro. Senior councillor aiding Takahisa.
+@8770
+Tokugawa vassal. Slew Asakura's Magara Naotaka at Anegawa. Served the Niwa and Toyotomi, then returned to Tokugawa before Osaka; held Settsu Asada, 10,000 koku.
+@8772
+Toyotomi vassal. Fought at Shizugatake; held Echizen Kitanosho, 200,000 koku. In the Western Army at Sekigahara but ill; died soon after and the house was cut.
+@8774
+Toyotomi vassal. Son of Kazunori. Horse guard. Served Hideyori after Hideyoshi; held Echizen Kongoin, 20,000 koku. Fell after joining the Western Army.
+@8776
+Niwa vassal. Served Hideyoshi after Nagahide died. Fought in Kyushu; held Echizen Maruoka, 46,000 koku. Fell after joining the Western Army at Sekigahara.
+@8778
+Toyotomi vassal. Western Army at Sekigahara but defected east with Kutsuki Mototsuna. Cut after the war, served Maeda; drowned in the flooded Daimon River.
+@8780
+Toyotomi vassal. Son of Norifusa. Inherited Awa Sumiyoshi, 10,000 koku. Western Army; besieged in Omi Sawayama, escaped before the fall, killed himself in Kyoto.
+@8782
+Toyotomi vassal. Third son of Nagamasa. Later served Tokugawa, shone at Osaka and held Hitachi Kasama, 53,000 koku. Great-grandfather of Asano Naganori.
+@8784
+Kato vassal. At Sekigahara kept Yoshiaki's Iyo Matsumae Castle and beat the Mori, becoming elder. Skilled at river works, irrigating and flood-proofing the domain.
+@8786
+Commander of the Shimabara Rising. Converted to Christianity in Nagasaki while studying. Led the rebels in Hizen Hara Castle, resisting the shogunate stubbornly until slain.
+@8788
+Araki vassal, Murashige's page. Served Hideyoshi after the Araki fell; granted the Kinoshita name, held Inaba Wakasa, 20,000 koku. Western Army; killed himself.
+@8790
+Swordsman of Iga. Served Yamato Koriyama as sword instructor. His aid in a brother-in-law's vendetta inspired the 36-man fight in the "Kagiya no Tsuji" tale.
+@8792
+Lord of Hizen Arima. Harunobu's heir. When his father fell in the Okamoto Daihachi affair, he was spared as Ieyasu's adopted daughter's husband. Moved to Nobeoka.
+@8794
+Toyotomi vassal. Rose from page to Yellow Horo Guard. A ronin after Sekigahara, entered Osaka Castle. At the summer siege he escaped, then died in a mutual kill with Mano Yoritane.
+@8796
+Tokugawa vassal. Terumasa's heir. Inherited Harima Himeji, 520,000 koku, but died suddenly after 3 years. Said poisoned by his stepmother Tokuhime for her own son Tadatsugu.
+@8798
+Toyotomi vassal. Held Iyo Ozu, 22,000 koku. Western Army at Sekigahara, joined the Fushimi attack. Cut after the war, fled to Koya, later served Todo Takatora.
+@8800
+Oda vassal. Son of Chikamasa. Fought at Saika; crossed to Korea, fought at Ulsan. Eastern Army at Sekigahara; afterwards lord of Sanuki Takamatsu.
+@8802
+Tokugawa vassal. Son of Kazumasa. Second lord of Sanuki Takamatsu after his father, 171,000 koku. Joined the Osaka campaign in reserve. Wed Todo Takatora's daughter.
+@8804
+Toyotomi vassal, lord of Owari Inuyama. Fought bravely for the Western Army at Sekigahara. Cut but spared death; shaved his head as Sorin and lent money in Kyoto.
+@8806
+Toyotomi vassal. Eastern Army at Sekigahara, took the first head. Served Hideyori, then went to Koya before the Osaka winter siege. Served Tokugawa after the fall.
+@8808
+Toyotomi vassal. Fought at Komaki-Nagakute and Odawara. Western Army at Sekigahara. Cut and held by Nanbu Toshinao; his descendants served the Nanbu.
+@8810
+Toyotomi vassal. Kazumasa's second son. Eastern Army at Sekigahara. Cut for his brother Yasunaga's hidden fief; entered Osaka Castle and died in the summer siege.
+@8812
+Son of Mitsunari. Left in Osaka Castle as hostage at Sekigahara. Shaved his head at Kyoto's Jusho-in, spared on the abbot's plea, and became its third abbot.
+@8814
+Toyotomi vassal. With his father Masatsugu he defended his brother Mitsunari's Sawayama at Sekigahara. After the Western defeat Kobayakawa Hideaki's attack felled it; died with his kin.
+@8816
+Tokugawa vassal. Katsushige's heir. Called one of Hidetada's Three Retainers with Nagai Naomasa and Inoue Motonari. As Kyoto Deputy he watched western daimyo.
+@8818
+Tokugawa vassal. Katsushige's third son, lord of Mikawa Fukozu. Quelled the Shimabara Rising, but when Matsudaira Nobutsuna was sent, he stormed Hara in haste and died.
+@8820
+Toyotomi vassal, lord of Mino Imao. Fought in Kyushu and Odawara. Eastern Army at Sekigahara; took Fukazuka from Marume Kanetoshi, gaining 10,000 koku.
+@8822
+Toyotomi vassal, Yellow Horo Guard. At Sekigahara he reported Mitsunari's rising to Ieyasu. Fought for Osaka in the sieges, but won back his old fief for Sekigahara.
+@8824
+Toyotomi vassal. Inherited from his father Morikage; held Mino Ogaki, 34,000 koku. Western Army at Sekigahara; stripped and exiled, later served Maeda Toshitsune.
+@8826
+Oda vassal. Ittetsu's eldest illegitimate son. Served Hideyoshi after Honnoji as horse guard. Fought at Komaki-Nagakute; after his father died held Mino Shimizu, 12,000 koku.
+@8828
+Toyotomi vassal. Shigemichi's fifth son. After his brother Makimura Toshisada died, took the heir's Ise Iwate, 20,000 koku. Eastern Army, fought Kuki Yoshitaka.
+@8830
+Oda vassal. Ittetsu's eldest son. Served Hideyoshi after Honnoji. Western Army with Oda Hidenobu at Sekigahara, then yielded east. Lord of Bungo Usuki, 50,000 koku.
+@8832
+Toyotomi vassal. Sadamichi's eldest son. Confined for angering Hideyoshi in Kyushu, he returned to serve in many battles. Succeeded his father; marched in the Osaka winter siege.
+@8834
+One of the Seven Nasu Riders. Takamasu's third son. After his brother Harumasu died, held Shimotsuke Kurobane, 13,000 koku. Eastern Army, kept his fief; gave it to a nephew.
+@8836
+Niwa vassal. Served Hideyoshi after the Niwa fell. Western Army at Sekigahara; held Bungo Usuki but yielded after the main force lost. Retired in Kyoto.
+@8838
+Toyotomi vassal. Yoshitsugu's eldest son. Fought with his father for the Western Army. A ronin after the war, summoned by Hideyori to Osaka; died at Tennoji.
+@8840
+Toyotomi vassal. Harunaga's brother. A leader of the war faction at Osaka. After the fall he fled with Kunimatsu, Hideyori's son, but was caught and beheaded.
+@8842
+Toyotomi vassal. Harunaga's brother, called Doken-sai. Burned Sakai in the Osaka summer siege. After the castle fell he fled, was caught and beheaded at Sakai.
+@8844
+Oda vassal. Nobutaka, Nobunaga's third son, was said born at Yoshikatsu's house. Left his lord, served Toyotomi as lord of Ise Kameyama. Western Army; killed himself.
+@8846
+Maeda vassal, lord of Noto Suemori. Repelled Sassa Narimasa's 15,000 with just 300 men. His wife is said to have rallied the garrison.
+@8848
+Toyotomi vassal. Nobukatsu's son. Held Echizen Ono, 50,000 koku. Eastern Army at Sekigahara, then joined his father in the west; cut. Retired to Asakusa in Musashi.
+@8850
+Toyotomi vassal. Nobukane's eldest son, lord of Ise Hayashi. Western Army but kept his fief. Sued his brother Nobunori over their father's lands and was cut instead.
+@8852
+Toyotomi vassal. Fought at Komaki-Nagakute and Odawara. Eastern Army at Sekigahara against Toda Katsushige. Later cut for mob violence in Kyoto.
+@8854
+Tokugawa vassal. Kagetaka's son. Naval commander with 3,000 koku in Sagami and Kazusa. At the Osaka winter siege he seized two warships and two fast boats of Ono Harunaga.
+@8856
+Toyotomi vassal. Messenger with the gold-cut banner; held Bungo Tomiku, 20,000 koku. Western Army in Ogaki Castle; killed by Sagara Yorifusa's eastern defectors.
+@8858
+Toyotomi vassal, one of the Seven Spears of Shizugatake. Western Army at Sekigahara, joined the Fushimi attack. Lost his lands, later served the shogunate on 500 koku.
+@8860
+Toyotomi vassal. Katsumoto's brother. Fought at Odawara. After Hideyoshi he served Hideyori, but the Hoko-ji bell affair raised suspicion and he left Osaka with his brother.
+@8862
+Tokugawa vassal. Yoshiaki's heir. Inherited Mutsu Aizu, 400,000 koku, then clashed with his elder. Destroyed the fleeing elder but was himself cut.
+@8864
+Toyotomi vassal. Eastern Army at Sekigahara; fought the Shimazu and took Omi Minakuchi Castle. Received Hachijo-style horse secrets; skilled in poetry and renga.
+@8866
+Oda vassal. Son of Nagaya Kagesige, adopted by Nagachika; inherited on his death. Fought in the Osaka campaigns. Loved tea like his father; named in tea records.
+@8868
+Gamo vassal. Once Yokoyama Kinai; won merit in Kyushu and was granted the Gamo name and the character "Sato". Left for Ishida Mitsunari; died at Sekigahara.
+@8870
+Toyotomi vassal. Brother of Kita no Mandokoro, Hideyoshi's wife. Lord of Harima Himeji. Guarded her at Sekigahara; afterwards held Bitchu Ashimori, 25,000 koku.
+@8872
+Toyotomi vassal. Iesada's eldest son, lord of Wakasa Obama. Eastern Army, held Fushimi but was cut for abandoning his post. Retired in Kyoto, called a founder of modern waka.
+@8874
+Toyotomi vassal. Iesada's second son. Held Wakasa Takahama, 30,000 koku. Cut as Western Army, but won Bitchu Ashimori, 25,000 koku, by merit at Osaka.
+@8876
+Toyotomi vassal. Iesada's son. Held 20,000 koku in Harima. Eastern Army, attacked Onogi Shigetsugu's Tamba Fukuchiyama. Given Bungo Hiji, 30,000 koku, after the war.
+@8878
+Toyotomi vassal. Held Tajima Toyooka, 30,000 koku. Western Army at Sekigahara, joined the Tango Tanabe attack. His father-in-law Asano Nagamasa helped him keep his fief.
+@8880
+Lord of Izumo Matsue. Takatsugu's son. Joined the Osaka campaign. His nephew Takakazu was named heir on deathbed but refused, so lands were seized; later Takakazu got Harima Tatsuno, 60,000 koku.
+@8882
+Toyotomi vassal. Known for bravery. Won merit in Korea; held Bungo Aki, 15,000 koku. Western Army defending Ogaki, but killed by Sagara Yorifusa and others.
+@8884
+Toyotomi vassal. Held Izumi Kishiwada, 30,000 koku. Hideyoshi asked him to aid Hideyori. Western Army, but his second son Hideie joined the east, so he kept his fief.
+@8886
+Toyotomi vassal. Hidemasa's heir. Held Tajima Izushi, 60,000 koku. Western Army, joined the Tango Tanabe attack. His brother Hideie joined the east, so he kept his fief.
+@8888
+Grandson of Kamiizumi Nobutsuna, founder of Shinkage-ryu. Before Sekigahara he answered Uesugi Kagekatsu's call for ronin under Naoe Kanetsugu. Killed fighting Mogami at Dewa Hasedo.
+@8890
+Toyotomi vassal, horse guard. Western Army at Sekigahara, joined the Otsu attack. As Hideyori's attendant he handled talks with daimyo. Died with Hideyori at Osaka's fall.
+@8892
+Toyotomi vassal. Nephew of Yukinaga. A Christian. Held Higo Uto for Yukinaga against Kato Kiyomasa, then yielded on hearing of the Western defeat and killed himself.
+@8894
+Tokugawa vassal. Yasumasa's third son. His eldest brother was adopted out and the second died young, so he took Kozuke Tatebayashi, 100,000 koku. Saved Satake at Osaka's winter siege.
+@8896
+Lord of Shinano Takashima. Yorichika's heir. Inherited 27,000 koku. Devoted to domestic rule. Took charge of the cut and confined Matsudaira Tadateru.
+@8898
+Toyotomi vassal. Hidehisa's son. Lost his lands as Western Army at Sekigahara. Disinherited, he entered Osaka Castle and fought in the winter siege; said to flee to Tamba.
+@8900
+Toyotomi vassal. Hidehisa's third son. Fought in Tokugawa Hidetada's army at Sekigahara. Inherited Shinano Komoro, 50,000 koku, after his brother's disinheritance; later moved to Ueda.
+@8902
+Toyotomi vassal, lord of Mino Takasu, 10,000 koku. Western Army at Sekigahara, lost to Fukushima Masanori. Went to Izumo to serve Horio Yoshiharu; died there of illness.
+@8904
+Oda vassal. Son of Kidzukuri Toshishige. Married Takigawa Kazumasu's daughter and took the Takigawa name. Served Hideyoshi as strategist. Western Army at Sekigahara; lost his lands.
+@8906
+Toyotomi vassal. Cousin of Hanbei Shigeharu. Held Bungo Takada, 13,000 koku. Western Army at first, joining the Tango Tanabe attack, then turned east and kept his fief.
+@8908
+Otomo vassal. Son of Takahashi Joun. Joined Toyotomi after Kyushu. Western Army at Sekigahara with his brother Munetora; cut. Joined the Tokugawa side at Osaka.
+@8910
+Niwa vassal. Served Toyotomi after Nagahide died. Went to relieve Niwa Nagashige at Kaga Komatsu, but withdrew and took vows after the Western defeat. Later served Niwa again.
+@8912
+Eldest son of Yuki Hideyasu. Inherited on his father's death. Blocked Sanada Yukimura's charge at Osaka. Cut and exiled for repeated misconduct.
+@8914
+3rd Tokugawa Shogun. Hidetada's second son. Set up the alternate attendance system, revised the Buke Shohatto and closed the country, making the stable "Kan'ei rule".
+@8916
+Hidetada's third son. Rivalled Iemitsu for the 3rd Shogun but was blocked by Ieyasu. Held Suruga, styled Suruga Dainagon. Angered his brother, was cut and made to kill himself.
+@8918
+Hidetada's fourth son. Raised by Kenshoin, Takeda Shingen's daughter. As lord of Aizu he set the Aizu house rules, and aided the 4th Shogun Ietsuna in government.
+@8920
+Ieyasu's ninth son, founder of Owari, one of the Three Tokugawa Houses, called "Strong". Loved learning and Confucianism; promoted industry, taxes and flood works, founding the shogunate order.
+@8922
+Ieyasu's tenth son, founder of Kishu, one of the Three Tokugawa Houses, called "Brave". Hot-blooded; wept in anger at being kept in the rear at Osaka.
+@8924
+Ieyasu's eleventh son, founder of Mito, one of the Three Tokugawa Houses, called "Gifted". Clever from youth and favoured by Ieyasu. Asked his wish, he answered, "The realm."
+@8926
+Yorifusa's third son. Famed as the hero of the Komon travel tales but said never to have left the Kanto. Gathered scholars and compiled the Dai Nihon Shi.
+@8928
+Toyotomi vassal. Eastern Army at Sekigahara; lost Ise Anotsu Castle and went to Koya. Recalled after the war to hold Iyo Uwajima, 120,000 koku; later cut.
+@8930
+Toyotomi vassal. Son of Tomita Ikkaku. Took Shimotsuke Karasawayama when Sano Fusatsuna retired. Eastern Army, kept his fief; later cut with his brother Tomita Nobutaka.
+@8932
+Tokugawa vassal. Mototada's second son. Succeeded when his father died at Fushimi. Kept Edo Castle at Sekigahara and Osaka. Later enfeoffed Dewa Yamagata, 220,000 koku.
+@8934
+Toyotomi vassal. Baptised Floris. Negotiated peace with Konishi Yukinaga in Korea. When Ieyasu banned Christianity he was exiled to Manila with Takayama Shigetomo.
+@8936
+Toyotomi vassal. Kiyohide's second son. Inherited after Hidemasa died; held Bungo Oka, 70,000 koku. Served in Korea. Eastern Army at Sekigahara, beat Ota Kazuyoshi.
+@8938
+2nd lord of Bungo Oka. Hidenari's heir. Inherited on his father's death. Guarded Tenmaguchi in the Osaka winter siege. His line held Oka until the Meiji Restoration.
+@8940
+Toyotomi vassal. Brother of Kazuuji. Held Suruga Numazu, 30,000 koku. Took his brother's place in the Eastern Army at Sekigahara, losing to Shima Kiyooki at Kuisegawa.
+@8942
+Saito vassal. Served Oda and Toyotomi after the Saito fell. Eastern Army at Sekigahara, took Ogaki Castle; held Mino Ibi, 30,000 koku. Also distinguished at Osaka.
+@8944
+Toyotomi vassal. Nagahide's son. Western Army guarding the Hokkoku road; lost his lands. Served Hideyori but fled before Osaka and died in Echizen Fukui.
+@8946
+Settsu gentry, lord of Maruyama Castle. Often fought Shiokawa Kunimitsu of neighbouring Shiokawa. Eastern Army at Sekigahara, kept his lands; distinguished at Osaka.
+@8948
+Toyotomi vassal. Ienaga's heir. Fought at Odawara. Eastern Army at Sekigahara. Succeeded after the war as first lord of Awa Tokushima; also distinguished at Osaka.
+@8950
+Toyotomi vassal. Captain of attendants at Komaki-Nagakute and Odawara. Served Hideyori after Hideyoshi, one of the Seven Captains. Killed himself with Hideyori in the summer siege.
+@8952
+Toyotomi vassal. Succeeded his brother Naosue, killed at Odawara. Eastern Army at Sekigahara, won merit. Fought at Osaka. Later moved with a raise to Iyo Saijo.
+@8954
+Toyotomi vassal. Son of Hironari. Fought at Odawara; held Shinano Takashima, 28,000 koku. Served in Korea and on Fushimi Castle works. Died of illness before Sekigahara.
+@8956
+Tokugawa vassal. Takahiro's son. Eastern Army at Sekigahara, held his castle against Sanada Masayuki. Won merit at Osaka; held Bungo Funai, 20,000 koku, but died heirless.
+@8958
+Toyotomi vassal, one of the Seven Spears of Shizugatake. Eastern Army at Sekigahara. Before Osaka he said he would join the castle, so Ieyasu kept him in Edo Castle.
+@8960
+Toyotomi vassal. Masanori's brother. Eastern Army at Sekigahara, attacked Ise Kuwana; held Yamato Matsuyama, 30,000 koku. Cut for suspected contact with Toyotomi at Osaka.
+@8962
+Toyotomi vassal. Ishida Mitsunari's son-in-law. Crossed to Korea as magistrate. Western Army at Sekigahara, defended Ogaki; yielded after the main force fell, killed himself half a month later.
+@8964
+Toyotomi vassal. Succeeded after his father Shigenori died at Harima Miki. Held Ise Matsusaka, 35,000 koku. Eastern Army; gained 20,000 koku after the war.
+@8966
+Toyotomi vassal, horse guard. Told Ieyasu of Mitsunari's rising but joined the Western Army and attacked Fushimi. Killed himself with Hideyori at Osaka's fall.
+@8968
+Toyotomi vassal. Hidemasa's second son. Held Echigo Zaodo, 40,000 koku. Eastern Army with his brother Hideharu. Left the Hori and became lord of Shimotsuke Karasuyama, 25,000 koku.
+@8970
+Toyotomi vassal. Second son of Hori Hideshige. Western Army, joined the Otsu attack. Cut, he relied on his nephew Hori Hideharu, later serving Maeda Toshitsune at Osaka.
+@8972
+Hori vassal. Naomasa's second son. Cut after a feud with his half-brother Naotsugu, then raised for merit at the Sunpu Castle fire. Won Echigo Murakami, 100,000 koku, at Osaka.
+@8974
+Toyotomi vassal. Yoshiharu's second son. Granted a character by Tokugawa Hidetada. Won merit under him at Sekigahara. Raised to Izumo and Oki, 240,000 koku, but died before his father.
+@8976
+Lord of Izumo Matsue. Tadauji's son. Succeeded at 6 on his father's death, guided by his grandfather Yoshiharu. Took Hiroshima Castle when Fukushima Masanori fell. Died heirless.
+@8978
+Tokugawa vassal. Second son of Sakai Tadatsugu, adopted by Honda Tadatsugu. Held Mikawa Nishio, 20,000 koku, after Sekigahara. Quelled uprisings at Osaka; later Omi Zeze, 30,000 koku.
+@8980
+Toyotomi vassal. Western Army at Sekigahara, joined the Ise Anotsu attack. Confined on Koya, then made a 10,000-koku daimyo of Bitchu Asao through Asano Yukinaga's efforts.
+@8982
+Oda vassal, said to be Takigawa Masuuji's son. Adopted by Maeda Toshiie's brother Toshihisa. A ronin styled Kokuzo-in Kotsushi-sai. Answered Uesugi's call for ronin at Sekigahara and fought hard.
+@8984
+Toyotomi vassal. Genai's second son, a devout Christian. Held Tamba Yagami after his father, but went mad and had many retainers kill themselves. Cut and exiled to Oki.
+@8986
+Lord of Kaga Kanazawa. Toshiie's fourth son. Succeeded his brother Toshinaga. Won merit at Osaka. Worked to preserve the domain, said to feign foolishness to deceive the shogunate.
+@8988
+Lord of Hizen Shimabara. Shigemasa's son. Persecuted Christians and ruled harshly like his father, causing the Shimabara Rising. Cut after it was put down and beheaded for the revolt.
+@8990
+Toyotomi vassal. His father Yukitsuna fostered the young Hideyoshi. Eastern Army at Sekigahara. Won merit at Osaka; held Mutsu Nihonmatsu, 50,000 koku.
+@8992
+Tokugawa vassal. Okudaira Nobumasa's fourth son. Adopted by Ieyasu and took the Matsudaira name. Won merit at Osaka; held Settsu Osaka, 100,000 koku, a shogunate elder.
+@8994
+Tokugawa vassal. Rose from page of the 3rd Shogun Iemitsu to senior councillor. Brilliant, called "Wise Izu". Helped found the shogunate order. Shogunal envoy at Shimabara.
+@8996
+Tokugawa vassal. Succeeded after his father Yasuchika died, granted a character by Ieyasu. Won merit at Odawara; held Musashi Yorii, 20,000 koku, later Izumi Kishiwada, 50,000 koku.
+@8998
+Tokugawa vassal. Allowed the Matsudaira name by Ieyasu. First battle at Totomi Takatenjin; won merit across the land. Took Mino Ogaki Castle at Sekigahara.
+@8500
+Chikugo gentry, lord of Yanagawa Castle, Akihisa's heir. Served the Otomo. Twice sheltered the Ryuzoji when they were near ruin. Fought at Mimikawa and died there with his kin and retainers.
+@8502
+Chikugo gentry, lord of Yanagawa Castle, Akimori's heir. Aided Ryuzoji Takanobu's Chikugo conquest, then fell out and was summoned to Takanobu's Saga Castle in Hizen and killed.
+@8504
+Chikugo gentry, lord of Takao Castle. Served Ryuzoji Takanobu and led the van against Miike Shigezane. Briefly estranged from Takanobu, soon reconciled. Served in Korea and wrote the "Korai Nikki".
+@8506
+Chikugo gentry, lord of Akashi Castle. Befriended Ryuzoji Iekane when he was exiled from Hizen. In the Ryuzoji succession dispute after Iekane's death backed Takanobu and served him.
+@8508
+Chikugo gentry, lord of Nishimuta Castle. First served Otomo Sorin, but disliking his destruction of shrines and temples joined Ryuzoji Takanobu with Kamachi Shigenami. Won merit in Higo.
+@8510
+Chikugo gentry, lord of Nagaiwa Castle. Kept fighting for the Otomo after Mimikawa and was rewarded by lord Yoshimune. After the Kyushu campaign joined the Kobayakawa. Died in Korea.
+@8512
+16th head of the Shoni, lord of Seifukuji Castle in Hizen. Pressed by Ouchi Yoshitaka, made peace and gave up his castle, but Yoshitaka confiscated all his lands, attacked and beat him, and he killed himself.
+@8514
+17th head of the Shoni, Sukemoto's son. Killed Ryuzoji Iekane's kin and sought to recover with eastern Hizen lords' help, but Iekane's great-grandson Takanobu rose, attacked and beat him; he killed himself.
+@8516
+Shoni vassal, lord of Seifukuji Castle in Hizen. One of the Nineteen Generals of eastern Hizen who opposed Ryuzoji Takanobu's succession. Killed Ryuzoji vassal Oda Masamitsu, but later became a Ryuzoji vassal.
+@8518
+Shoni vassal, lord of Hasuike Castle in Hizen. One of the Nineteen Generals who opposed Takanobu's succession and fought him. After Takanobu returned to Hizen served him and died fighting Egami Taketane.
+@8520
+Shoni vassal, lord of Mitose Castle in Hizen. Bought a dream of "pillowing on the north mountain, feet in the southern sea" and had good fortune in war. Opposed the Ryuzoji all his life.
+@8522
+Ryuzoji vassal, one of the Nineteen Generals of eastern Hizen who opposed Takanobu's succession. Killed when Takanobu returned to Hizen. Even headless, he is said to have cut down his retainer.
+@8524
+Shoni vassal, lord of Ayabe Castle in Hizen. Used a plot to kill Ryuzoji Iekane's kin and bring him down. Later attacked and killed by Iekane, who had returned to Hizen.
+@8526
+Shoni vassal, given a character of lord Sukemoto's name. Married a daughter of Sukemoto's son Fuyuhisa. The Yokotake were a Shoni branch founded by Shoni Yoritomo at Nishijima, Hizen.
+@8528
+Shoni vassal, active in beating the Ouchi at Tadenawate, but Baba Yorichika's plot killed many of his kin and he fled to Chikugo. Returned to Hizen, killed Yorichika and revived his house.
+@8530
+Shoni vassal, Iekane's son. When his father withdrew to Chikugo after Baba Yorichika's plot, he set out for Chikuzen with his brothers but was attacked on the way by Kumashiro Katsutoshi and died.
+@8532
+Shoni vassal, Ienori's son. When his grandfather Iekane withdrew to Chikugo, tricked by Baba Yorichika, he visited Shoni Fuyuhisa with his brother Yorizumi to apologise, but was attacked by Baba's men and died.
+@8534
+19th head of the Ryuzoji, Chikaie's son. United the Muranaka and Mizugae lines and ruled five provinces and two islands of Kyushu, the "Bear of Hizen". Lost to the Shimazu at Okitanawate and died.
+@8536
+20th head of the Ryuzoji, Takanobu's heir. Led the van of Hideyoshi's Kyushu force and kept his lands. Ill, he handed rule of his domain to vassal Nabeshima Naoshige with Hideyoshi's leave.
+@8538
+Ryuzoji vassal, Chikaie's second son. Founder of the Suko Nabeshima. After the Otomo declined, expanded into Buzen and ran its government, subduing its lords and aiding his brother Takanobu's growth.
+@8540
+Ryuzoji vassal, Chikaie's third son. Founder of the Taku house. Lord of Kajimine Castle in Hizen, guarding against the Arima and Matsuura of western Hizen. Greatly aided his brother Takanobu's rise in Hizen.
+@8542
+17th head of the Ryuzoji. After his father Ienori's death succeeded the main Muranaka Ryuzoji. Given lands in Hizen by Shoni vassal Chiba Tanekatsu and also by Otomo Yoshiakira.
+@8544
+18th head of the Ryuzoji, Tanehisa's son. Succeeded the Muranaka Ryuzoji. Sided with Ouchi Yoshitaka against the Shoni; expelled Shoni Fuyuhisa and was made Hizen deputy by Yoshitaka.
+@8546
+Ryuzoji vassal, Tanehisa's second son. Followed Takanobu after he united the Muranaka and Mizugae. Won merit against the Shoni. Later went to Higo and fought the northbound Shimazu.
+@8548
+Ryuzoji vassal. At Tadenawate, wearing a red-bear-hair headdress and a demon mask, led his troops into the Ouchi flank and saved lord Iekane from peril. Iekane rewarded him with land after the battle.
+@8550
+Ryuzoji vassal, Kiyohisa's son. At Tadenawate with his father saved the Ryuzoji, then married Ryuzoji Ienori's daughter. Later remarried Takanobu's mother, the nun Keigin-ni, deepening ties with the lord.
+@8552
+Ryuzoji vassal, Kiyofusa's son. A wise and brave general who helped the house grow. Guarded lord Masaie and ran the government. Joined the East at Sekigahara and gained control of Hizen.
+@8554
+Lord of Saga domain in Hizen, Naoshige's heir. Joined the West at Sekigahara but kept his lands by deft handling afterwards. Contributed to quelling the Shimabara Rebellion at great cost.
+@8556
+Ryuzoji vassal, one of the Four Guardians. At Okitanawate, hearing lord Takanobu had died, charged alone into Shimazu Iehisa's headquarters and died. Iehisa called him "a peerless brave".
+@8558
+Ryuzoji vassal, said to be one of the Four Guardians. At Okitanawate, told of Takanobu's death, dressed like Takanobu and charged the enemy camp, dying there.
+@8560
+Ryuzoji vassal, said to be one of the Four Guardians. At Okitanawate, hearing of Takanobu's death, helped Nabeshima Naoshige escape before charging the enemy. Whether he lived or died is unclear.
+@8562
+Ryuzoji vassal, one of the Four Guardians. Slew the Otomo commander at Imayama. At Okitanawate served as war magistrate and, hearing of Takanobu's death, charged the enemy camp and died.
+@8564
+Ryuzoji vassal, one of the Four Guardians. Active at Imayama; Takanobu gave him the name Hyakubu, "worth a hundred". At Okitanawate guarded Takanobu and died.
+@8566
+Ryuzoji vassal, a brave general who won many merits; Hideyoshi acknowledged his valour. Later served Nabeshima, lords of Saga in Hizen, working on civil engineering and irrigation.
+@8568
+Hizen gentry, lord of Hirado Castle. Served the Ouchi and took a character of lord Yoshioki's name. The Matsuura descend from the Saga Genji Watanabe: Watanabe Hisashi settled in Matsuura District, Hizen.
+@8570
+Hizen gentry, lord of Hirado Castle, Okinobu's son. Traded with the Nanban from Hirado port. Grew rich and powerful, but later lost to Ryuzoji Takanobu and submitted to him.
+@8572
+Hizen gentry, lord of Hirado Castle, Takanobu's son. Joined Hideyoshi's Kyushu campaign. Worked to bring Chinese and Nanban ships to port, trading overseas. Joined the East at Sekigahara and kept his lands.
+@8574
+Matsuura vassal. When a succession dispute broke out after lord Okinobu's death, he suppressed the opposition and raised Takanobu. Then a chief retainer. Later baptised after his son Yasutsune.
+@8576
+Matsuura vassal, Yasumasa's son. A missionary called him "the most important man after the king (lord Takanobu)". Aided Takanobu, commanding the force against Hata Chikashi. Later baptised.
+@8578
+Matsuura vassal, Yasutsune's son. When Hideyoshi banned missionaries, lord Shigenobu ordered churches destroyed; he told the missionaries he would die a martyr or leave the country and was praised.
+@8580
+Hizen gentry, lord of the Goto Islands. First called himself Uku. Hideyoshi confirmed his lands. Led warships in Korea and fought everywhere, but fell ill and died.
+@8582
+Hizen gentry, lord of the Goto Islands, Sumisada's third son. Succeeded after his nephew Sumiharu died. Served in Korea. Granted the Toyotomi name and made Awaji no kami.
+@8584
+Hizen gentry, lord of Hinoe Castle. Expanded around the Shimabara Peninsula to the Arima's greatest domain. Made peace by adopting his second son Sumitada into the Omura, securing a stable rule.
+@8586
+Hizen gentry, lord of Hinoe Castle, Harusumi's heir. Became a companion to Shogun Ashikaga Yoshiharu. Fought Ryuzoji Takanobu but kept losing and lost his lands. Said to have loved poetry.
+@8588
+Hizen gentry, lord of Hinoe Castle, Yoshisada's second son. Succeeded after his brother's death. Allied with the Shimazu to recover power. Involved in the Okamoto Daihachi affair and beheaded in Kai.
+@8590
+Hizen gentry, lord of Sanjo Castle. Pressed by Arima Harusumi, he made his heir Takaaki a Goto heir and made peace by giving the headship to Harusumi's second son Sumitada. His vassals resented this.
+@8592
+Hizen gentry, lord of Sanjo Castle, Arima Harusumi's second son. Adopted by Omura Sumisaki and succeeded him. Opened Nagasaki and traded with Portugal. Famed as Japan's first Christian daimyo.
+@8594
+Hizen gentry, lord of Sanjo Castle, Sumitada's heir. Joined the East at Sekigahara and kept his lands. Left Christianity for Nichiren and persecuted Christians, and was later poisoned.
+@8596
+Arima vassal, lord of Suko Takagi Castle in Hizen. Married lord Harusumi's daughter. Fought the Ryuzoji, made peace once, then turned hostile again. Beaten by the Ryuzoji's great army, he killed himself.
+@8598
+Arima vassal, lord of Fukae Castle in Hizen. Fought Ryuzoji Takanobu with lord Harunobu, then joined Takanobu, bringing peace between the Arima and Ryuzoji. Died at Okitanawate.
+@8600
+Arima vassal, lord of Fukae Castle in Hizen. Later joined Ryuzoji Takanobu. When the Arima attacked his castle, the Ryuzoji helped repel them. After Takanobu died at Okitanawate he took the name Fukae.
+@8602
+Kikuchi vassal. When lord Yoshitake retook Kumamoto Castle in Higo he joined the Otomo and was rewarded with Kumabe Castle in Higo, ruling Kikuchi District. Later fought and lost to Kumabe Chikanaga.
+@8604
+Ryuzoji vassal, lord of Kumabe Castle in Higo, Chikaie's son. Suspected of disloyalty, his hostage was killed and he joined the Shimazu. Not restored after the Kyushu campaign, he lived in Osaka.
+@8606
+Kikuchi vassal, lord of Kumamoto Castle in Higo. Became Yoshitake's elder after Otomo Yoshinaga's second son entered the Kikuchi. A man of letters, he bought the "Tale of Genji" from Sanjonishi Sanetaka.
+@8608
+Kikuchi vassal, lord of Kumamoto Castle in Higo, Chikakazu's grandson. At the Nikai Kuzure Incident rallied anti-Otomo forces against the Otomo but lost and fell.
+@8610
+Kikuchi vassal, lord of Nagano Castle in Higo. After the Kikuchi fell joined the Ryuzoji. Yielded to Hideyoshi's Kyushu force, but resisted Sassa Narimasa's survey with the Higo gentry uprising and was killed.
+@8612
+Kikuchi vassal. When lord Yoshitake retook Kumamoto Castle in Higo he joined the Otomo and was rewarded with Kumamoto Castle, ruling Akita and Takuma Districts. Later lost in Hizen.
+@8614
+Otomo vassal, lord of Kumamoto Castle in Higo, Chikafuyu's heir. After the Otomo declined joined the Shimazu, inviting them in. As the Ryuzoji advanced south, followed them.
+@8616
+Shimazu vassal, lord of Kumamoto Castle in Higo, Chikafuyu's second son. Beat the Ryuzoji, but yielded to Hideyoshi's Kyushu force and kept his lands. Took no part in the Higo gentry uprising.
+@8618
+Higo gentry, lord of Iwao Castle. Briefly driven out by his brother Koretaka, regained the post of Aso chief priest with vassal Kai Chikanobu's help. Presented imperial repair funds and welcomed an envoy.
+@8620
+Higo gentry, lord of Iwao Castle, Koretoyo's son. Aso chief priest and Otomo ally. With vassal Kai Chikanao negotiated peace with the Ryuzoji and Shimazu, keeping his domain.
+@8622
+Higo gentry, lord of Iwao Castle, Koretoyo's son. As his brother Korenobu had no sons he succeeded as Aso chief priest, but died just a month after taking the headship.
+@8624
+Higo gentry, lord of Iwao Castle, Koretane's son. Became Aso chief priest at just 3. Yielded to Hideyoshi and served Sassa Narimasa, but was killed on slander that he incited the Higo gentry uprising.
+@8626
+Aso vassal, lord of Mifune Castle in Higo. Allied with the Otomo and negotiated with the Ryuzoji and Shimazu to preserve his house. Repelled an attack by Sagara Yoshihi, who had joined the Shimazu.
+@8628
+Aso vassal, lord of Mifune Castle in Higo, Soun's son. Lost to the Shimazu and made peace, but was held at Yatsushiro on suspicion of Otomo contacts. Joined the gentry uprising and was killed fleeing.
+@8630
+Aso vassal, lord of Ishibitsu Castle in Higo. Also friendly with the Otomo, marched to Buzen. Yielded to the Shimazu but fought his pro-Otomo son Shigeyoshi. Later served Kato Kiyomasa.
+@8632
+Higo gentry, lord of Takamori Castle. Refused persuasion from the Aso and Shimazu and joined the Otomo. The Shimazu attacked his castle and, with no Otomo reinforcements, he fought and died.
+@8634
+Sengoku daimyo of Higo. With Kikuchi Yoshitake and others formed an anti-Otomo league. Purged vassals suspected of treason and produced silver in his domain, laying the base of Sagara rule.
+@8636
+Sagara vassal, lord of Kamimura Castle in Higo. Helped lord Yoshishige on promise his son Haruhiro would be heir. A hidden power in Yoshishige's government, he murdered his brother and brother-in-law to secure it.
+@8638
+Sengoku daimyo of Higo, lord of Furufumoto Castle, Kamimura Yorioki's son. Adopted by Sagara Yoshishige and succeeded. Traded with Ming China and drew up the "Sagara Code" to strengthen his rule.
+@8640
+Sengoku daimyo of Higo, lord of Hitoyoshi Castle, Haruhiro's son. Guided by his grandfather Kamimura Yorioki. Survived two civil wars and expanded, but yielded to the Shimazu and died fighting the Aso.
+@8642
+Lord of Hitoyoshi domain in Higo, Yoshihi's second son. Succeeded when his brother Tadafusa died young. Surrendered to Hideyoshi. At Sekigahara dealt with the East at Ogaki, keeping his lands.
+@8644
+Sagara vassal, lord of Kamimura Castle in Higo, Yorioki's second son. After his father's death he and two brothers rebelled against nephew Yoshiharu, lost and fled to Satsuma. Lured back by a plot and killed.
+@8646
+Sagara vassal, Yorioki's brother. Arranged the alliance of Yorioki and lord Yoshishige and joined the government. Highly trusted, he was killed by his brother, who feared his power. Many curses followed.
+@8648
+Sagara vassal, lord of Oka Castle in Higo. Able and talented, trusted by the vassals. On rumour of treason he fled and fought his house, but lost and died of illness in exile. Curses reportedly followed.
+@8650
+Sagara vassal, captain of the Okuchi Castle garrison in Satsuma. Never fell behind in the Shimazu wars. Shimazu Yoshihiro is said to have escaped danger once through a retainer's sacrifice.
+@8652
+Sagara vassal, brave and active everywhere. At the siege of Minamata Castle in Higo exchanged renga with enemy general Niiro Tadamoto. After Yoshihi's death guarded young Yorifusa with Fukami Nagatomo.
+@8654
+Sagara vassal, Yoriyasu's son. At Sekigahara had lord Yorifusa deal with the East, preserving the house. Later chief elder, but his arbitrary conduct led to exile in Tsugaru.
+@8656
+Sagara vassal, Yorioki's father-in-law, in charge of documents. When Yorioki's son Haruhiro took over the Sagara, wrote the "Dozen Koji Jo" on Sagara history and a lord's duties.
+@8658
+Sagara vassal who won merit in 19 battles from his first. Killed Shimazu vassal Kawakami Hisaaki at Okuchi in Satsuma. Wrote the Sagara war record "Okamoto Yoriuji Senjo Nikki".
+@8660
+Sagara vassal, lord of Ohata Castle on the Satsuma-Higo border. Bold, he hunted at the border with dogs. Refused Shimazu inducements and was killed by an ambush on his hunting route.
+@8662
+Sagara vassal. Got the Shimazu to recognise Tadafusa, son of the slain Yoshihi, and cleared a misunderstanding by going to Kyoto during the Higo uprising. Active in diplomacy, preserving the house.
+@8664
+Sagara vassal. Studied swordsmanship under Kamiizumi Nobutsuna and founded Shinkage Taisha-ryu. Blamed for a defeat by the Shimazu, he lay low, then returned as sword instructor and worked on reclamation.
+@8666
+Sengoku daimyo of Hyuga. His father Sukekuni died fighting the Shimazu at Obi Castle in Hyuga, so he succeeded. Made peace when Shimazu Tadamasa took Mimata-in in Osumi in exchange for Obi.
+@8668
+Sengoku daimyo of Hyuga. Built the Ito's largest domain but lost to the Shimazu at Kizakihara and declined. Relied on Otomo Sorin in Bungo and wandered after the Otomo lost badly at Mimikawa.
+@8670
+Sengoku daimyo of Hyuga, Yoshisuke's son. A younger son, he succeeded when the heir died young and, guided by his father, brought the Ito to their peak. Died of illness facing the Shimazu.
+@8672
+Ito vassal, Yoshimasu's son. Relied on Otomo Sorin with his grandfather Yoshisuke. After Hideyoshi's Kyushu campaign followed his uncle Suketake, who retook Obi in Hyuga. Died of illness in Korea.
+@8674
+Toyotomi vassal, Yoshisuke's son. Guided Hideyoshi's Kyushu force and recovered his old Obi in Hyuga. Served in Korea. Joined the East at Sekigahara but died of illness after the war.
+@8676
+Lord of Obi domain in Hyuga, Suketake's son. Joined the East at Sekigahara with his father and fought Takahashi Mototane and the Shimazu. Held Hyuga Obi, 36,000 koku. Carried out surveys and reclamation.
+@8678
+Ito vassal, said to be Yoshisuke's brother-in-law, a wise and brave general. Commanded at Kizakihara but lost to the outnumbered Shimazu's harassment and surprise attacks, and died.
+@8680
+Ito attendant. In 1549, with Ito and Shimazu armies facing each other, the festival was celebrated. He won a sumo bout against Shimazu man Chuman Musashi and is said to have taken Musashi's head.
+@8682
+Ito vassal. After the house left Hyuga, held Mino Castle in Hyuga against the Shimazu. After the Otomo defeat at Mimikawa, the Shimazu surrounded his castle and he killed himself.
+@8684
+Ito vassal, keeper of Onigajo in Hyuga, styled Echizen no kami, steward. When the house was driven out by the Shimazu, they feared his bravery, found him and made him kill himself.
+@8686
+Ito vassal, lord of Kadogawa Castle in Hyuga. After the house left Hyuga, gave hostages and joined the Shimazu, but secretly passed Hyuga news to the Otomo. Joined the Otomo at Mimikawa and died.
+@8688
+Ito vassal. After the house fell relied on Otomo vassal Saeki Korenori. Held Korenori's Togamure Castle in Bungo against the Shimazu invasion, preparing the defence and commanding the battle.
+@8690
+Hyuga gentry, lord of Shonai. Served the Shimazu and fought the Ito and Kimotsuki. Yielded to Hideyoshi's Kyushu force and kept his lands. Later transferred to Miyanojo in Satsuma.
+@8692
+Sengoku daimyo of Osumi, lord of Takayama Castle. Built the Kimotsuki's largest domain. Married Shimazu Tadayoshi's daughter but later fought his son Takahisa. Killed himself on hearing his castle had fallen.
+@8694
+Sengoku daimyo of Osumi, lord of Takayama Castle, Kanetsugu's son. Allied with the Ito, attacked Obi Castle in Hyuga and drove out Shimazu Tadachika. Aided Ijichi Shigeoki and fought the Shimazu all his life.
+@8696
+Sengoku daimyo of Osumi, lord of Takayama Castle, Kanetsugu's son. Succeeded after his brother Yoshikane died. Allied with the Ito against the Shimazu, so his mother and vassals expelled him.
+@8698
+Sengoku daimyo of Osumi, lord of Takayama Castle, Kanetsugu's son. Succeeded when his second brother Kaneaki was expelled, but lost to the Shimazu attack and surrendered his lands. Died at Sekigahara.

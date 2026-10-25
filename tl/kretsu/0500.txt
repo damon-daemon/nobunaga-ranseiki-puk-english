@@ -1,0 +1,520 @@
+@500
+Kage-ryu Hisoka
+@502
+Bokuden Hundred Verses
+@504
+Kanemaki-ryu Sword Book
+@506
+Shinkage Hundred Verses
+@508
+Takeuchi-ryu Martial Arts
+@510
+Daito-ryu Martial Arts
+@512
+Takagi-ryu Martial Arts
+@514
+Shibukawa-ryu Martial Arts
+@516
+Kiraku-ryu Martial Arts
+@518
+Hozoin Spearmanship
+@520
+Fuden-ryu Spearmanship
+@522
+Kashima-ryu Spearmanship
+@524
+Owari Kan-ryu Spearmanship
+@526
+Saburi Spearmanship
+@528
+Ogasawara Horsemanship
+@530
+Koshu-ryu Horsemanship
+@532
+Araki-ryu Horsemanship
+@534
+Honma-ryu Horsemanship
+@536
+Shibuya-ryu Horsemanship
+@538
+Inadome-ryu Gunnery
+@540
+Tsuda-ryu Gunnery
+@542
+Geki-ryu Gunnery
+@544
+Hojutsu Shingyoroku
+@546
+Teppo Uchikata
+@548
+Ami-ryu Gunnery
+@550
+Kasumi-ryu Gunnery
+@552
+Ippi-ryu Gunnery
+@554
+Kishiwada-ryu Gunnery
+@556
+Nishimura-ryu Gunnery
+@558
+Essentials of Government
+@560
+Records of the Historian
+@562
+Joei Code Commentary
+@564
+Kojiki
+@566
+Roeishu
+@568
+Chirizuka Monogatari
+@570
+Setsuyoshu Dictionary
+@572
+Nihon Daibunten
+@574
+Sekiso Orai
+@576
+Nippo Jisho
+@578
+The Art of War
+@580
+Six Secret Teachings
+@582
+Three Strategies
+@584
+Wu Zi
+@586
+Wei Liaozi
+@588
+Thirty-Six Stratagems
+@590
+Methods of the Sima
+@592
+Guiguzi
+@594
+Questions of Li Weigong
+@596
+Strategies of the Warring States
+@598
+Globe
+@600
+Kunyu Wanguo Quantu
+@602
+Gyoki Map
+@604
+Shugaisho
+@606
+Keicho Map of Japan
+@608
+Eight Views of Xiaoxiang
+@610
+Kannon
+@612
+Sweet Flag
+@614
+Hotei
+@616
+Chestnuts and Persimmons
+@618
+Sweets
+@620
+White Herons
+@622
+Sunset and Morning Hills
+@624
+Ducks
+@626
+Dove on a Peach Branch
+@628
+Castella
+@630
+Biscuits
+@632
+Konpeito
+@634
+Oborozuki
+@636
+Walnut Mochi
+@638
+Tokiwa Manju
+@640
+Nishiki Chimaki
+@642
+Barley Rakugan
+@644
+Togetsuto
+@646
+Usuzumi Yokan
+@648
+Rose Wine
+@650
+Aqua Vitae
+@652
+Sparkling Wine
+@654
+White Wine
+@656
+Bodaisen
+@658
+Tonomine
+@660
+Red Wine
+@662
+Awamori
+@664
+Hogen
+@666
+Beer
+@668
+Spectacles
+@670
+Telescope
+@672
+Striking Clock
+@674
+Table Clock
+@676
+Sundial Cannon
+@678
+Hourglass
+@680
+Ranjatai Incense
+@682
+Taishi Incense
+@684
+Kojin Incense
+@686
+Miyoshino Incense
+@688
+Shoyo Incense
+@690
+Yokihi Incense
+@692
+Momiji no Ga Incense
+@694
+Hanachirusato Incense
+@696
+Jugoya Incense
+@698
+Yushigure Incense
+@700
+Akenokoromo Katatsuki Caddy
+@702
+Osaka Katatsuki Caddy
+@704
+Tenkaichi Marutsubo Caddy
+@706
+Eighteen Histories
+@708
+Jinno Shotoki
+@710
+Essays in Idleness
+@712
+Fukushima Ido
+@714
+Bishamondo
+@716
+Konchiin Ido
+@718
+Taiko Land Survey
+@720
+Suruga-ryu Land Survey
+@722
+Geishu-ryu Land Survey
+@724
+Koshu-ryu Flood Control
+@726
+Etchu-ryu Flood Control
+@728
+Dewa-ryu Flood Control
+@730
+Mongol Invasion Scrolls
+@732
+Autumn and Winter Landscapes
+@734
+Map of Tartary
+@736
+Honganji Diary
+@738
+Uwai Kakuken Diary
+@740
+Nobunaga Koki
+@742
+Asaarashi
+@744
+Heianjo Nagayoshi
+@746
+Shinano no Kami Kunihiro
+@748
+Nihon Shoki
+@750
+Konjaku Monogatari
+@752
+Gikeiki
+@754
+Kagemusha
+@756
+The Gallic War
+@758
+Bishamonten
+@501
+Book by Aisu Motokosai, son of Kage-ryu founder Aisu Ikosai and said teacher of Kamiizumi Nobutsuna. A concrete, technical manual.
+@503
+Verses on the secrets of swordsmanship by Tsukahara Bokuden, who fought in 37 battles, 19 duels and slew 212 foes.
+@505
+Secrets of the Kanemaki school, founded by Kanemaki Jisai: short sword, then medium sword. Pupils: Ito Ittosai and Sasaki Kojiro.
+@507
+Verses by Shinkage-ryu founder Yagyu Sekishusai Muneyoshi on its secrets, "sword-less taking" first. Declined Ieyasu's call to serve.
+@509
+Book on Takeuchi-ryu, jujutsu rooted in "hip turns". Founder Takeuchi Hisamori devised it from an ascetic's short-armour and quick-rope arts.
+@511
+Book on Daito-ryu, aiki art of Shinra Saburo Yoshimitsu passed with the Minamoto flag and armour to the Takeda. Daito was Yoshimitsu's home.
+@513
+Book on Takagi-ryu. Takagi Umanosuke of Mimasaka studied under Date vassal Takagi and, licensed in Takeuchi-ryu, founded it.
+@515
+Book on Shibukawa-ryu by founder Shibukawa Bangoro, who opened a dojo in Edo's Shiba. A general art centred on jujutsu and iai.
+@517
+Book on Kiraku-ryu, a general art of Isesaki, Kozuke, from Kamiizumi's Shinkage-ryu. Besides jujutsu it stresses sickle and naginata.
+@519
+Book on Hozoin spearmanship by founder Inei, monk of Hozoin at Kofukuji, who studied under noted masters. Famed for the cross-bladed spear.
+@521
+Book on Fuden-ryu. Founder Nakayama Genbee Yoshinari learned Takeuchi-ryu from his father, then used a longer spear. Strong with the plain spear.
+@523
+Book on Kashima-ryu, the oldest spear school, begun when Iizasa Choi's Shinto-ryu reached Kashima, Hitachi, in the early Sengoku.
+@525
+Book on Kan-ryu. Founder Tsuda Gonnojo Nobuyuki of Owari favoured the tube spear, whose tube on the front grip allowed quick thrusts.
+@527
+Book on Saburi-ryu. Founder Saburi Inosuke Shigetaka learned Tomita-ryu spearmanship, then founded his own with a big hooked blade.
+@529
+Book on Ogasawara horsemanship. Yoritomo had Ogasawara Nagakiyo set military arts and rites; the house was called the "house of bow and horse".
+@531
+Book on Koshu-ryu, or Takeda-ryu, ranked with Ogasawara-ryu as a source of horsemanship. Handed down in the Kai Takeda since the Kamakura.
+@533
+Book on Araki-ryu. Founder Araki Motokiyo, of Murashige's kin, held Hanakuma Castle in Settsu but lost, fled, and later served Hideyoshi.
+@535
+Book on Honma-ryu, from Otsubo-ryu, which founded Japanese horsemanship. Many Otsubo branches arose, but most vanished from history.
+@537
+Book on Shibuya-ryu, said to branch from Otsubo-ryu, which founded Japanese horsemanship. Perhaps being secret, it is shrouded in mystery.
+@539
+Book on Inadome-ryu. Founder Inadome Sukenao of Tango served the Isshiki and Hosokawa, then the shogunate. His gunnery was the realm's finest.
+@541
+Book on Tsuda-ryu. Founder Tsuda Kenmotsu Kazunaga of Kii learned gunnery on Tanegashima and later made Sakai a gun-making hub.
+@543
+Book on Geki (Inoue) -ryu. Founder Inoue Geki Masatsugu served the Tokugawa and became shogunate gunner; killed in a duel with Inadome Naotaka.
+@545
+Book by Tabuse Tadamune, founder of Tabuse-ryu gunnery, from Kawachi. He is said to have studied guns in the Nanban or under Tsuda Jiyusai.
+@547
+Gunnery secrets by Tatsuke Hyogonosuke Kagezumi of Omi. He served Ieyasu, joined the Osaka Summer Campaign, and wrote "Kyuchushu".
+@549
+Book on Ami-ryu, founded by Ami Ukon-no-jo Katsuyuki of Kawachi, a crack shot who served Hideyoshi and, after Sekigahara, Maeda Toshinaga.
+@551
+Kasumi-ryu manual of founder Maruta Moritsugu, Uesugi gunner, who studied under 18 masters across the land, licensed by all. Skilled with cannon.
+@553
+Secrets of the Sengoku-era Ippi-ryu gunnery, said to be founded by Tomari Hyobu-no-sho Ippi.
+@555
+Secrets of the Sengoku-era Kishiwada-ryu gunnery, said to be founded by Kishiwada Sakyo-no-shin Moritaka.
+@557
+Secrets of the Sengoku-era Nishimura-ryu gunnery, said to be founded by Nishimura Tango-no-kami Tadatsugu.
+@559
+Excerpts on political ethics from Tang Emperor Taizong's dialogues. Long read by emperors and nobles as a model of good rule; Ieyasu liked it.
+@561
+History by Sima Qian, who served Emperor Wu of Western Han. One of the 24 Histories, 130 volumes from the Yellow Emperor to Wu.
+@563
+Commentary on the Joei Code (Goseibai Shikimoku) by Confucian Kiyohara Nobukata. Kamakura warrior law, required reading for Sengoku samurai sons.
+@565
+Japan's oldest history, compiled in early Nara. Imperial lore from the age of gods to Empress Suiko; "Ama no Iwato" is best known.
+@567
+Required reading for upper-ranking Sengoku warriors, read before coming of age with the Four Books, Five Classics and strategy. A source of poetry.
+@569
+Tale collection of 1552 in 6 volumes with 65 old and medieval tales and sightings. Many instructive stories for warriors of troubled times.
+@571
+Sengoku dictionary. Title means "saving expense" (money, effort and time). Covers most Sengoku Japanese vocabulary.
+@573
+Book by missionary Rodrigues Tsuzu on Japanese parts of speech, sentences and style. A precious source for Sengoku Japanese.
+@575
+Miscellany copied in 1522 by courtier Hashimoto Kimika. Covers politics, fine sake and regional specialities, very widely.
+@577
+Dictionary compiled in 1603 by Jesuit missionaries. About 32,800 words: daily speech, poetic, women's and dialect words.
+@579
+Ancient Chinese art of war, one of the Seven Military Classics, beloved of Sengoku lords. Shingen's "Furinkazan" banner quotes it.
+@581
+Ancient Chinese art of war, one of the Seven Military Classics. Six volumes of wisdom on politics and tactics. Tao means a leather book case.
+@583
+Ancient Chinese art of war, one of the Seven Military Classics: the Three Strategies. Three volumes on rule and war; paired with Six Secrets.
+@585
+Ancient Chinese art of war, one of the Seven Military Classics. On rule, intelligence, and managing and leading troops. Said equal to Sun Zi.
+@587
+Ancient Chinese art of war, one of the Seven Military Classics. Gathers the views of Wei Liao, who served the First Emperor of Qin, or is forged.
+@589
+Distillation of ancient Chinese strategy, author unknown. Six sections of six plans each; says the best plan is to avoid battle.
+@591
+Ancient Chinese art of war, one of the Seven Military Classics. Said based on Tian Rangju of Qi, Grand Marshal, supreme military commander.
+@593
+Attributed to Guiguzi, thinker of Warring States China, teacher of Su Qin and Zhang Yi. Skilled in scheming and persuasion.
+@595
+Ancient Chinese art of war, one of the Seven Military Classics. Li Jing answers Tang Emperor Taizong's questions on rule and war.
+@597
+Tales of Zhou-to-Qin persuaders in 12 states, compiled by Liu Xiang of late Western Han. Source of idioms like "two birds, one stone".
+@599
+Gift to Nobunaga from missionary Luis Frois. Nobunaga grasped at once, from Frois's explanation, that the Earth is round.
+@601
+World map made by Matteo Ricci, a missionary in China. An oval map centred on China, with names and geography in Chinese characters.
+@603
+An old map type, also the Gyoki-style map of Japan. A simple map of the Five Home and Seven Circuits and routes from Kyoto, Heian to early Edo.
+@605
+Kamakura encyclopedia. Its map is called Japan's oldest; small, but packed with information on regional rule.
+@607
+Map of Japan made in 1639 and revised in 1653. Said based on provincial maps the shogunate had lords collect in the Keicho era.
+@609
+Paintings of eight scenes where the Xiao and Xiang meet and flow into Dongting Lake, Hunan. By Muqi, Yujian and others; prized by tea masters.
+@611
+Ink painting of Guanyin by Muqi of Southern Song, treasured by Ashikaga Yoshimitsu. Taigen Sessai sold it to Daitokuji for 50 kan.
+@613
+Ink painting by Bai Ziting of Yuan China, one of Juko's famed pieces. Owned by Sakai's Hirano Dozei. Irises in a stone-like shell.
+@615
+Ink painting by Muqi of Southern Song: Hotei rubbing his belly with his left hand. Owned by Uesugi Kenshin and the Tokugawa shoguns.
+@617
+Pair of ink paintings by Muqi of Southern Song. Tsuda Sogyu's tea diary says: "chestnuts on a branch, persimmons with stems, set side by side".
+@619
+Pair of coloured silk paintings by Zhao Chang of Northern Song: melons and lotus left, pomegranates and peaches right. Nobunaga's; lost at Honnoji.
+@621
+Pair of coloured silk paintings by Xu Xi of Northern Song, one of the Three Matsuya Treasures. Rikyu grasped the essence of tea from it.
+@623
+Landscapes by Ma Lin of Southern Song: sunset left, morning hills right. The morning hills, Joo's famed piece, were Hideyoshi's.
+@625
+Coloured silk hanging scrolls by Emperor Huizong: a hen with one foot raised left, a drake right. Hirano Soe and Hakataya Soju each owned one.
+@627
+Coloured painting by Emperor Huizong of Northern Song, a masterpiece of the realistic academy style. Ashikaga shogun treasure.
+@629
+Nanban cake of flour, eggs and white sugar, named for Spain's Castile. First a medicine for the sick, it became a fashionable tea-room treat.
+@631
+Nanban baked wheat biscuit. Said unpopular with Japanese tastes then. From Latin for "twice baked".
+@633
+Nanban sweet of sugar and syrup. Among the Nanban rarities Frois gave Nobunaga were these konpeito.
+@635
+A famed Owari sweet, a poured rice cracker whose edges brown naturally, like the hazy moon of a spring night (oborozuki).
+@637
+A seasonal Sakai sweet made with "Konrinzai" beans. Then called Nanban mochi and made Nanban-style; today's walnut mochi derives from it.
+@639
+Tea sweet: white yam skin around thick green bean paste. Split in two, it becomes a Tokiwa pine under white snow. Elegant and seasonal.
+@641
+Tea sweet. Unlike ordinary chimaki it is made of yokan: red and white strips twisted, wrapped in bamboo leaf and bound with five-coloured silk.
+@643
+A famed sweet of Tatebayashi, Kozuke, a barley region. Roasted barley powder with sugar, pressed into hexagons. Fragrant and charming.
+@645
+A famed sweet of Hirose, Izumo, named for scenic Mt Togetsu. Pressed starch and rice flour in white and pale pink; an elegant sugar confection.
+@647
+A famed Iyo sweet named for Saihoji's Usuzumi cherry. Azuki yokan kneaded with matcha and dotted with white beans: ink and blossoms.
+@649
+A kind of wine made by removing skins and seeds from red wine in progress and fermenting only the juice. Balanced sweet, sour and tannic.
+@651
+Nanban liquor distilled from brewed liquor, said found by chance by a medieval alchemist. Latin for "water of life".
+@653
+A wine containing bubbles. Sugar and yeast are added to brewed wine for a second fermentation. Said devised by French monks.
+@655
+A kind of wine, clear and white because only the juice, without skins and seeds, is fermented. Milder than red, with less tannin.
+@657
+Sake brewed at Shoryakuji on Mt Bodai, birthplace of refined sake. Nobunaga served it to Ieyasu at Azuchi, and Ieyasu was delighted.
+@659
+Sake brewed at Tanzan Temple in Yamato. Temples brewed widely in the Muromachi; such "monks' sake" was highly prized.
+@661
+Nanban wine fermented from whole grapes. A bottle Francis Xavier gave Shimazu Takahisa is said to be the first in Japan.
+@663
+A distinct Ryukyu spirit distilled from rice, said to have come from Siam in the early Muromachi. Later a prized Ryukyu trade good.
+@665
+Sake brewed at Horaiji on Mt Haku, Echizen, a kind of "monks' sake". Its method is said close to early modern brewing.
+@667
+Nanban liquor brewed from malt: crushed malt fermented in water. Very sparkling, with a refreshingly crisp finish.
+@669
+Lenses worn before the eyes to aid sight. Francis Xavier gave Ouchi Yoshitaka Japan's first; they had no ear cords yet.
+@671
+A telescope, also "star glasses" or "thousand-ri glass". Said brought by English envoys in 1613. Prized by lords and the rich as Nanban glass.
+@673
+Gear-driven clock that reached Japan in the Muromachi. It struck a bell to tell the hour, hence the name. The Shimazu owned one.
+@675
+One of Luis Frois's gifts to Nobunaga. Nobunaga could not grasp how a table clock worked and returned it to Frois.
+@677
+Clock using a small Nanban gun. A lens focuses the sun on its touch-hole; it fires with a bang to tell the time.
+@679
+Two matching gourd-shaped glass vessels hold sand, and its flow measures time. Said used in ancient Egypt with the water clock.
+@681
+Fragrant wood from the Shosoin of Todaiji. Nobunaga was the first Sengoku lord granted it since Ashikaga Yoshimasa, marking him ruler of the realm.
+@683
+Also Horyuji. Brought from India, kept at Horyuji by Prince Shotoku, forgotten until a rat dragged it out. Top of the Ten Famed Incenses.
+@685
+Aloeswood said presented to Emperor Shomu, one of the Ten Famed Incenses. "Kojin" praises the royal capital: even its dust is red.
+@687
+Aloeswood ranked among the Eleven Famed Incenses, chosen by Shogun Yoshimasa, Sanjonishi Sanetaka and Shino Soshin.
+@689
+Aloeswood, one of the Eleven Famed Incenses. Its scent is sour, bitter, sweet and salty. "Shoyo" means a stroll, an elegant noble pastime.
+@691
+Aloeswood, one of the Fifty Famed Incenses. Yang Guifei was Tang Xuanzong's beautiful beloved; in Japan a name for flower-like beauty.
+@693
+Aloeswood, one of the Fifty Famed Incenses. Like the Eleven, the Fifty were chosen by Shogun Yoshimasa, Sanjonishi Sanetaka and Shino Soshin.
+@695
+Aloeswood, one of the Fifty Famed Incenses. Its scent is bitter and sour; of five kinds (bitter, acrid, salty, sweet, sour), it blends them.
+@697
+Aloeswood, one of the Fifty Famed Incenses. Bitter, salty, acrid. Wood washing up on Awaji under Suiko began incense imports.
+@699
+One of the Fifty Famed Incenses. The wood is Manaban (Managa). Besides it, aloeswood, Manaka, Rakoku and red sandalwood are used.
+@701
+Chinese katatsuki caddy. Its reddish, flowing glaze resembles a monk's vermilion robe hem. Owned by tea master Takeno Joo and Ieyasu.
+@703
+Chinese katatsuki caddy said found at Osaka by Furuta Shigenari. Vivid and rich in scenery. Later to Tokugawa Yorinobu of the Kii Tokugawa.
+@705
+Chinese tea caddy. "Finest in the realm" was Nobunaga's and Hideyoshi's favourite phrase. Soft yet firm. Owned by Yoshimitsu and Yoshimasa.
+@707
+Chinese history by Zeng Xianzhi of Yuan. Adds Song histories to the 17 dynastic histories since the Shiji, abridged for beginners.
+@709
+Early Muromachi history by Kitabatake Chikafusa, aide of Go-Daigo. Insists the Southern Court is legitimate and guides courtiers among warriors.
+@711
+Fine essays of the late Kamakura by the cultured priest Kenko. Wide topics: nature, human nature, court usage; in a dignified style.
+@713
+Korean bowl, a large Ido, owned by the fierce Fukushima Masanori, who loved tea and drew up tea-house plans. Later with the Kaga Maeda.
+@715
+Red Raku bowl named for Koetsu's gift to Rinnoji-no-miya at Bishamondo, Yamashina. Called the pearl of Koetsu bowls; Juraku clay's rich red.
+@717
+A Korean bowl, one of the famed hand-Ido. Named for being Konchiin's property, or Konchiin Suden's own. A masterpiece beyond words.
+@719
+Book on the basics of Hideyoshi's land survey, which put the realm in koku. Run by Ishida Mitsunari, Asano Nagamasa and Mashita Nagamori.
+@721
+Book on the Imagawa's land-survey method. Repeated across Suruga, it sometimes waived increases to win over powerful landlords.
+@723
+Book on the survey method Fukushima Masanori used on entering Aki. It used a measuring rod different from the Taiko survey's.
+@725
+Book on flood control said devised by Takeda Shingen: master nature using nature's force. The famed "Shingen Levee" was built this way.
+@727
+Book on Sassa Narimasa's flood control. The levee on Etchu's Joganji River, the "Sassa Levee", often stopped flooding.
+@729
+Book on Mogami Yoshiaki's flood control. A fine administrator, he worked on the Mamigasaki and Mogami Rivers, aiding Dewa's growth.
+@731
+Scrolls of the Mongol invasions commissioned by Takezaki Suenaga. Mongol fire arrows and mass tactics stunned Kamakura warriors.
+@733
+Ink landscapes by Sesshu of the Muromachi, a pair of autumn and winter. His unique style greatly influenced the Kano and Hasegawa schools.
+@735
+Old map by Dutchman Ortelius, 16th century. It notes the Iwami silver mine. "Tartary" means the Mongol-descended Tatars.
+@737
+Diary and letter drafts of the Honganji, a Sengoku power equal to the daimyo. By Uematsu Torazo. Shows monks' and followers' moves.
+@739
+Diary of Uwai Kakuken, Shimazu elder. Vividly shows Shimazu life; "The Shimazu are old since Yoritomo; Hashiba's Kampaku is a joke" is famous.
+@741
+Nobunaga biography by Ota Gyuichi, magistrate to Nobunaga and Hideyoshi. Details Nobunaga's career from entering Kyoto with Yoshiaki to Honnoji.
+@743
+"Asaarashi" means freshness after a storm. A bright, clear tachi by a Sengoku master of Osafune, Bizen, with a kurikara dragon carved on the blade.
+@745
+Straight sword signed "Heianjo Nagayoshi", the finest work of Muromachi smith Nagayoshi. Carved with a kurikara and goma-bashi.
+@747
+Sword by Kunihiro of Horikawa, Kyoto, also Osaka Masamune. A Keicho-era master of "new swords"; earlier blades are "old swords".
+@749
+With the Kojiki, a history of Japan since the age of gods. Tells of creation and legends from Emperor Jimmu to Jito.
+@751
+Tale collection opening "Now it is past...". Nobles, monks, farmers, courtesans, thieves, beggars, animals and spirits appear, in plain style.
+@753
+Life of Minamoto no Yoshitsune: Ushiwakamaru, his brother Yoritomo's wise general, then the luckless Hogan driven to Hiraizumi.
+@755
+Armour that deceives enemy eyes. It draws the whole enemy force to guard its general, so it is unmatched in toughness. Only the loyal may wear it.
+@757
+History by Rome's hero Julius Caesar. Valuable as a record of war and also of the society of the time, and prized as literature.
+@759
+Phantom armour made by the age's finest smith in the likeness of Bishamonten's. Its wearer fights like the war god: a divine work.

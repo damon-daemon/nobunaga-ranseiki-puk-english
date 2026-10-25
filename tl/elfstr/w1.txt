@@ -1,0 +1,427 @@
+# w1: e620460 - e640240
+e620460	Unrest toward %s
+e620480	Rising against %s
+e620490	Trading at\nrequest of %s
+e6206c0	Call off
+e6206d0	Give treasure
+e6206e0	Own treasure
+e620b70	Rice income
+e621110	Settings
+e621120	Editor
+e621130	Events
+e621140	Quit game
+e625af0	\eCYCannot be done in this mission\eCD
+e625b38	Win condition
+e625b48	Lose condition
+e625b58	Mission
+e625b68	Deadline
+e625b78	Choose tribute
+e625b90	Prestige halved (vassal)
+e625bb0	Marriage with %d clans
+e625bc8	Prestige details
+e625bd8	Yield held
+e625be8	Mountain castles
+e625bf8	Court relations
+e625c08	Castle building
+e625c18	Vassals held
+e625c28	Waters held
+e625c38	Relation to us
+e625c48	Clan relations
+e625c58	Free cities
+e625c68	Stat gains
+e625c78	Skills gained
+e625c88	Troop types
+e625ca8	Change mode
+e625cb8	Change script
+e625ce0	Quit without saving changes?
+e625d00	Adjust value
+e625d10	Face type shown
+e625d20	Selected skill
+e625d30	Cancel
+e625d40	Switch type
+e625d50	Enter the name
+e625d70	Enter the reading
+e625db8	Brief/Full
+e625dc8	Choose Daimyo
+e625dd8	Navy retainers
+e625df0	Give double the demand
+e625e08	Accept demand
+e625e18	Refuse demand
+e625e30	No close clans
+e625e48	Choose policy
+e625e58	Rice balance
+e625e68	Current policy
+e625e78	Stratagem cost
+e625e88	Dev. cost
+e625e98	Choose task
+e625ea8	Avg. training
+e625eb8	Yield breakdown
+e625ec8	Magistrates
+e625ed8	Close to %s
+e625ef0	Rules %d clans
+e625f08	Vassal of\n%s
+e625f20	Rules %d clans
+e625f38	Vassal of %s
+e625f48	Sortie cost
+e625f58	%4d/%2d
+e625f68	Sortie
+e625f78	Move
+e625f98	Raise all
+e625fa8	Choose corps
+e625fb8	Can buy
+e625fc8	Total yield
+e625fd8	Total commerce
+e625fe8	Scheme progress
+e625ff8	Officers
+e626008	Set to max
+e626018	Set value
+e626028	Choose goods
+e626038	Show minimap
+e626048	Hide minimap
+e626058	Brief/Full
+e626068	Switch powers
+e626078	Switch display
+e626090	\eCPPurple: ill/hurt  \eCGGreen: magistrate\eCW
+e6260b0	Historical 1
+e6260c0	Historical 2
+e6260d0	Fictional
+e6260e0	Added
+e6260f0	Three Kingdoms
+e626100	Loading of registered officers cancelled
+e626130	Create officer
+e626150	Edit officer
+e626170	Delete officer
+e626190	Load officer data
+e6261b0	Save officer data
+e6261d0	Create event
+e6261f0	Edit event
+e626210	Delete event
+e626230	Load events
+e626250	Save events
+e626270	Create treasure
+e626290	Edit treasure
+e6262b0	Delete treasure
+e6262d0	Load treasure data
+e6262f0	Save treasure data
+e626310	Load standard officers
+e626330	End demo play
+e626340	Nanban clock
+e626ca8	Max commerce
+e626cb8	Max defence
+e626cc8	Corps supplies
+e626cd8	Treasure CG
+e626ce8	Choose owner
+e626cf8	Clan relations
+e626d08	Set to max
+e626d18	Set to min
+e626d28	Cultivation aptitude
+e626d38	Commerce aptitude
+e626d48	Repair aptitude
+e6317e0	%4d/%2d
+e631800	Used blocks
+e631810	Format
+e634230	Install
+e634240	Uninstall
+e634850	Switch list/map (now: %s)
+e635410	Daimyo who dies of illness
+e635420	Successor
+e635430	Daimyo assassinated
+e635440	Assassinating daimyo
+e635450	Daimyo who retires
+e635460	Defecting officer
+e635470	Defector's clan
+e635488	Defection target clan
+e635498	Fief at new clan
+e6354a8	Ronin entering service
+e6354b8	Clan taken into service
+e6354c8	Rebelling officer
+e6354d8	Rebelled-against daimyo
+e6354e8	Officer punished
+e6354f8	Punishing daimyo
+e635510	Officer urging punishment
+e635530	Daimyo plotting a scheme
+e635550	Friendship after event
+e635568	Daimyo becoming vassal
+e635578	Daimyo served
+e635590	Daimyo proposing marriage
+e6355b0	Daimyo proposed to
+e6355c8	Daimyo going independent
+e6355d8	Daimyo made independent
+e6355e8	Officer coming of age
+e6355f8	Officer being adopted
+e635610	Father of adopted princess
+e635628	Daimyo receiving rank
+e635638	Rank granted
+e635648	Daimyo taking post
+e635658	Post taken
+e635670	Gentry destroyed
+e635688	Temple/shrine destroyed
+e635698	Daimyo destroying
+e6356a8	Officer moving
+e6356c0	Moving officer's clan
+e6356d8	Destination province
+e6356e8	Princess's husband
+e6356f8	Castle hit by earthquake
+e635708	Officer becoming ronin
+e635718	Officer's clan
+e635730	Notable's power
+e635750	Notable's new clan
+e635770	Officer receiving treasure
+e635790	Daimyo giving treasure
+e6357a8	Treasure given
+e6357c0	Daimyo receiving aid
+e6357e0	Daimyo pestered by princess
+e63b7f8	-
+e63bc30	-
+e63c5a8	-
+e63c5b8	-
+e63c608	-
+e63e660	Shogunate
+e63e668	Shogunate daimyo
+e63e678	Pike
+e63e680	Bow
+e63e688	Cavalry
+e63e690	Gunners
+e63e698	Cannon
+e63e6a0	Baggage
+e63e6a8	None
+e63e6b0	Clan
+e63e6b8	Ikko
+e63e6c0	Christian
+e63e6d0	Buddhist
+e63e6d8	Ninja
+e63e6e0	Navy
+e63e6e8	Gentry
+e63e6f0	Free city
+e63e700	Attack
+e63e708	Defend
+e63e710	Neutral
+e63e718	Unknown
+e63e778	-
+e63e798	Done
+e63e7a0	Not yet
+e63e8a8	Comm.
+e63e8b0	Repair
+e63e8b8	Service
+e63e8c0	Training
+e63e8c8	Recruit
+e63e8d0	Poach
+e63e8d8	Diplomacy
+e63e8e0	Survey
+e63e8e8	Trade
+e63e8f0	Flood Control
+e63e8f8	Tea
+e63e900	Recovery
+e63e908	Swordsman
+e63e910	Restore Order
+e63e918	Rally
+e63e920	Capture
+e63e928	Flee
+e63e930	Siege
+e63e938	Defence
+e63e940	Shadow
+e63e948	War God
+e63e950	Iron Wall
+e63e958	Spear Wall
+e63e960	Charge
+e63e968	Rapid Fire
+e63e970	Volley
+e63e978	Arrow Rain
+e63e980	Confuse
+e63e988	Persuade
+e63eb40	Castle
+e63eb48	Province
+e63eb50	Adoptive parent
+e63eb60	Betraying daimyo
+e63eb70	Service history
+e63eb80	Skill
+e63eb88	Command
+e63eb98	POL
+e63eba0	POL exp.
+e63ebb0	POL skill
+e63ebc0	LDR
+e63ebc8	LDR exp.
+e63ebd8	LDR skill
+e63ebe8	INT
+e63ebf0	INT exp.
+e63ec00	INT skill
+e63ec10	Amb.
+e63ec18	Merit
+e63ec20	Fief
+e63ec28	Joined
+e63ec30	Famous
+e63ec38	Yrs served
+e63ec48	Clan
+e63ec58	Clan
+e63ec68	Clan ID
+e63ec78	Court rank
+e63ec80	Post
+e63ec88	Princess
+e63ec90	Officer
+e63ec98	Notable
+e63eca0	Daimyo
+e63eca8	Emperor
+e63ecb0	Active
+e63ecb8	Retired
+e63ecc0	Ronin
+e63ecc8	Underage
+e63ecd0	Unborn
+e63ecd8	Dead
+e63ece0	Merchant
+e63ece8	Temple
+e63ecf0	Shogunate
+e63ecf8	Court
+e63ed00	Ninja officer
+e63ed10	Ninja
+e63ed18	Status
+e63ed20	Power name
+e63ed28	C-in-C
+e63ed30	Troops
+e63ed38	Corps
+e63ed48	Kin
+e63ed50	Loyalty
+e63ed58	Action
+e63ed68	Squad
+e63ed70	Training
+e63ed78	Treasure
+e63ed80	Total stats
+e63ed98	Power type
+e63eda8	EV off.
+e63edb0	Notable made
+e63edc0	Power
+e63edd0	Birth parent
+e63ede0	Spouse
+e63ede8	Reserve
+e63edf0	Position
+e63edf8	Int-merit gap
+e63ee00	Friendship
+e63ee08	Ties
+e63ee10	Scale
+e63ee18	Treasures held
+e63ee28	Lifetime
+e63ee30	Poach target
+e63ee40	Uprising target
+e63ee50	Rebellion
+e63ee58	Power
+e63ee60	Magist.
+e63ee68	Scheme progress
+e63ee78	Unit
+e63ee80	Origin
+e63ee90	Name
+e63ee98	Tea ware held
+e63ef10	Region name
+e63ef18	Region reading
+e63ef28	Province
+e63ef30	No.
+e63ef38	Friendship
+e63f0f0	Punish target
+e63f100	Punish: joined
+e63f110	Punish: carried out
+e63f120	-
+e63f210	Clan
+e63f218	Crest
+e63f220	Banner colour
+e63f228	Castle building
+e63f238	Ruling daimyo
+e63f248	Wed
+e63f250	Court enemy
+e63f258	Punish
+e63f260	Friend
+e63f268	Fame
+e63f270	Renown
+e63f278	Daimyo name
+e63f288	Castle
+e63f290	Yield
+e63f298	Corps
+e63f2a0	Gold
+e63f2a8	Rice
+e63f2b0	Horses
+e63f2b8	Guns
+e63f2c0	Troops
+e63f2c8	Cannon
+e63f2d0	Officer
+e63f2d8	Mining
+e63f2e0	Prov.
+e63f2e8	Ninja sent
+e63f2f8	Ninja waiting
+e63f308	Surplus yield
+e63f318	Vassal fiefs
+e63f328	Treasure
+e63f330	Daimyo rank
+e63f340	Post
+e63f348	Court rank
+e63f350	Reserve
+e63f358	Daimyo-held
+e63f368	Court friendship
+e63f378	Court relations
+e63f390	Friendship with powers
+e63f3a8	Ties
+e63f3b0	Vassals held
+e63f3c0	Squad
+e63f3c8	Clan
+e63f3d0	-
+e63f3d8	Family
+e63f3e0	-
+e63f3e8	Band
+e63f3f0	-
+e63f3f8	Sect
+e63f400	-
+e63f410	Province
+e63f418	Yield
+e63f420	Return
+e63f428	Corps %s land
+e63f438	 Corps %s
+e63f448	Direct
+e63f450	Conquer
+e63f458	Defend
+e63f460	Develop
+e63f4d0	Corps
+e63f4d8	Corps no.
+e63f4e8	Corps Commander
+e63f4f8	Clan
+e63f508	Trade
+e63f510	Gold
+e63f518	Rice
+e63f520	Horses
+e63f528	Guns
+e63f530	Cannon
+e63f538	Yield
+e63f540	Castle
+e63f548	Troops
+e63f550	Officer
+e63f558	Delegation data
+e63f568	Prov.
+e63f570	Reserve
+e63f578	Policy
+e63f580	Target castle
+e63f590	Attack target
+e63f5a0	Troop gain
+e63f5b0	Gold balance
+e63f5b8	Rice balance
+e63f5c8	Squad
+e63ff00	Shogunate
+e63ff08	-
+e63ff48	Suzuki
+e63ff50	-
+e63ff58	Kazaguruma-no
+e63ff60	-
+e63ff98	Christian
+e63ffa0	Ikko
+e63ffa8	Buddhist
+e63ffc8	%s daimyo
+e63ffd8	%s officer
+e63ffe8	%s retired officer
+e6401a8	Name
+e6401b0	Type
+e6401b8	Grade
+e6401c0	Graphic
+e6401d0	Stats
+e6401d8	Effect
+e6401e0	Owner
+e6401f0	Nanban
+e6401f8	Sabotage
+e640200	Skill
+e640210	Buy price
+e640220	Sell price
+e640238	Gold
+e63e8a0	Farm

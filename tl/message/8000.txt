@@ -1,0 +1,1000 @@
+@8001
+Yamana Toyosada
+@8003
+Yamana Toyokuni
+@8005
+Kakiya Tsugunari
+@8007
+Kakiya Mitsunari
+@8009
+Kakiya Tsunefusa
+@8011
+Tainosho Koreyoshi
+@8013
+Nakamura Harutsugu
+@8015
+Morishita Michiyo
+@8017
+Yoshioka Sadakatsu
+@8019
+Nanjo Munekatsu
+@8021
+Nanjo Mototsugu
+@8023
+Nanjo Mototada
+@8025
+Ogamo Motokiyo
+@8027
+Yamada Shigenao
+@8029
+Amago Tsunehisa
+@8031
+Amago Haruhisa
+@8033
+Amago Yoshihisa
+@8035
+Amago Kunihisa
+@8037
+Amago Masahisa
+@8039
+Amago Katsuhisa
+@8041
+Akana Hisakiyo
+@8043
+Akana Mitsukiyo
+@8045
+Akana Morikiyo
+@8047
+Uyama Hisakane
+@8049
+Ogasawara Nagataka
+@8051
+Kamei Korenori
+@8053
+Sase Kiyomune
+@8055
+Sase Motoyoshi
+@8057
+Tachihara Hisatsuna
+@8059
+Honjo Tsunemitsu
+@8061
+Misawa Tamekiyo
+@8063
+Yamanaka Shikanosuke
+@8065
+Bessho Nariharu
+@8067
+Bessho Yasuharu
+@8069
+Bessho Nagaharu
+@8071
+Bessho Shigemune
+@8073
+Bessho Yoshiharu
+@8075
+Arima Shigenori
+@8077
+Arima Noriyori
+@8079
+Arima Toyoji
+@8081
+Akamatsu Harumasa
+@8083
+Akamatsu Yoshisuke
+@8085
+Akamatsu Norifusa
+@8087
+Akamatsu Masahide
+@8089
+Saimura Masahiro
+@8091
+Uragami Masamune
+@8093
+Kodera Masamoto
+@8095
+Kuroda Shigetaka
+@8097
+Kuroda Mototaka
+@8099
+Kuroda Kanbei
+@8101
+Kuroda Nagamasa
+@8103
+Goto Matabei
+@8105
+Mori Tahee
+@8107
+Fukuhara Sukenari
+@8109
+Miura Sadahisa
+@8111
+Miura Sadakatsu
+@8113
+Miura Sadahiro
+@8115
+Miura Sadamori
+@8117
+Maki Yoshinaga
+@8119
+Maki Kuninobu
+@8121
+Uragami Munekage
+@8123
+Shimamura Morizane
+@8125
+Nakayama Nobumasa
+@8127
+Akashi Kagechika
+@8129
+Akashi Teruzumi
+@8131
+Nobuhara Kageyoshi
+@8133
+Ukita Yoshiie
+@8135
+Ukita Okiie
+@8137
+Ukita Naoie
+@8139
+Ukita Hideie
+@8141
+Ukita Tadaie
+@8143
+Ukita Akiie
+@8145
+Oka Toshikatsu
+@8147
+Oka Ietoshi
+@8149
+Osafune Sadachika
+@8151
+Osafune Tsunanao
+@8153
+Osafune Sadayuki
+@8155
+Togawa Hideyasu
+@8157
+Togawa Michiyasu
+@8159
+Hanabusa Masayuki
+@8161
+Hanabusa Masanari
+@8163
+Hanabusa Motohide
+@8165
+Harada Tadasuke
+@8167
+Mimura Iechika
+@8169
+Mimura Motochika
+@8171
+Mimura Chikashige
+@8173
+Ueno Takanori
+@8175
+Ishikawa Hisatomo
+@8177
+Ishikawa Hisanori
+@8179
+Shimizu Muneharu
+@8181
+Mori Motonari
+@8183
+Mori Takamoto
+@8185
+Mori Terumoto
+@8187
+Kikkawa Motoharu
+@8189
+Kikkawa Motonaga
+@8191
+Kikkawa Hiroie
+@8193
+Kobayakawa Takakage
+@8195
+Hoida Motokiyo
+@8197
+Mori Hidemoto
+@8199
+Kobayakawa Hidekane
+@8201
+Amano Takashige
+@8203
+Ichikawa Tsuneyoshi
+@8205
+Inoue Motokane
+@8207
+Katata Motoyoshi
+@8209
+Katsura Motozumi
+@8211
+Shiji Hiroyoshi
+@8213
+Kuchiba Michiyoshi
+@8215
+Kumagai Nobunao
+@8217
+Kumagai Motonao
+@8219
+Kodama Naritada
+@8221
+Kodama Narikata
+@8223
+Saha Takahide
+@8225
+Shishido Takaie
+@8227
+Sugihara Morishige
+@8229
+Nomi Munekatsu
+@8231
+Hiraga Motosuke
+@8233
+Fukuhara Sadatoshi
+@8235
+Miura Mototada
+@8237
+Minakata Narimasa
+@8239
+Ankokuji Ekei
+@8241
+Kikkawa Okitsune
+@8243
+Kikkawa Tsuneyasu
+@8245
+Kikkawa Tsuneie
+@8247
+Kobayakawa Masahira
+@8249
+Kobayakawa Shigehira
+@8251
+Kobayakawa Okikage
+@8253
+Ouchi Yoshitaka
+@8255
+Aokage Takaakira
+@8257
+Iida Okihide
+@8259
+Era Fusahide
+@8261
+Munakata Masauji
+@8263
+Munakata Ujisada
+@8265
+Sagara Taketo
+@8267
+Sue Okifusa
+@8269
+Sue Harukata
+@8271
+Sugi Okikazu
+@8273
+Sugi Shigenori
+@8275
+Sugi Shigeyoshi
+@8277
+Toida Takamori
+@8279
+Naito Okimori
+@8281
+Naito Takaharu
+@8283
+Niho Takayasu
+@8285
+Hironaka Takakane
+@8287
+Yoshimi Masayori
+@8289
+Yoshimi Hiroyori
+@8291
+Masuda Fujikane
+@8293
+Masuda Motoyoshi
+@8295
+Reizei Takatoyo
+@8297
+Kawamura Jukichi
+@8299
+Shichijo Kanenaka
+@8301
+Mori Muraharu
+@8303
+Hayuka Suketoshi
+@8305
+Kono Michinao
+@8307
+Kono Michimasa
+@8309
+Kono Michinobu
+@8311
+Kono Michinao
+@8313
+Hiraoka Fusazane
+@8315
+Hiraoka Naofusa
+@8317
+Kurushima Michiyasu
+@8319
+Tokui Michitoshi
+@8321
+Kurushima Michifusa
+@8323
+Kurushima Nagachika
+@8325
+Kaneko Motoie
+@8327
+Murakami Yoshitada
+@8329
+Murakami Takeyoshi
+@8331
+Murakami Yoshimitsu
+@8333
+Saionji Sanemitsu
+@8335
+Saionji Kinhiro
+@8337
+Doi Kiyomune
+@8339
+Doi Kiyoyoshi
+@8341
+Hokezu Sakinobu
+@8343
+Utsunomiya Toyotsuna
+@8345
+Chosokabe Kunichika
+@8347
+Chosokabe Motochika
+@8349
+Chosokabe Nobuchika
+@8351
+Kagawa Chikakazu
+@8353
+Tsuno Chikatada
+@8355
+Chosokabe Morichika
+@8357
+Kira Chikasada
+@8359
+Kira Chikazane
+@8361
+Kosokabe Chikayasu
+@8363
+Yoshida Takayori
+@8365
+Yoshida Shigetoshi
+@8367
+Yoshida Masashige
+@8369
+Yoshida Yasutoshi
+@8371
+Kuwana Yoshinari
+@8373
+Tani Tadazumi
+@8375
+Hisatake Chikanobu
+@8377
+Hisatake Chikanao
+@8379
+Fukudome Norishige
+@8381
+Motoyama Shigemune
+@8383
+Motoyama Shigetoki
+@8385
+Motoyama Chikashige
+@8387
+Aki Kunitora
+@8389
+Kumon Shigetada
+@8391
+Kuroiwa Tanenao
+@8393
+Hosokawa Sadasuke
+@8395
+Yokoyama Tomotaka
+@8397
+Ichijo Fusaie
+@8399
+Ichijo Fusafuyu
+@8401
+Ichijo Fusamoto
+@8403
+Ichijo Kanesada
+@8405
+Ojima Masaaki
+@8407
+Satake Chikanao
+@8409
+Takashima Masashige
+@8411
+Tateishi Masayoshi
+@8413
+Tsuno Mototaka
+@8415
+Tsuno Sadakatsu
+@8417
+Tsuno Katsuoki
+@8419
+Doi Sosan
+@8421
+Kii Masafusa
+@8423
+Kii Nagafusa
+@8425
+Kii Shigefusa
+@8427
+Sada Takaoki
+@8429
+Otomo Yoshiaki
+@8431
+Otomo Yoshishige
+@8433
+Otomo Yoshimune
+@8435
+Otomo Chikaie
+@8437
+Otomo Chikamori
+@8439
+Ouchi Yoshinaga
+@8441
+Kikuchi Yoshitake
+@8443
+Ichimada Akizane
+@8445
+Usuki Akitsugu
+@8447
+Usuki Akihaya
+@8449
+Saeki Korenori
+@8451
+Saeki Koresada
+@8453
+Shiga Chikamori
+@8455
+Shiga Chikanori
+@8457
+Shiga Chikatsugu
+@8459
+Takita Shigekane
+@8461
+Tawara Chikakata
+@8463
+Tachibana Dosetsu
+@8465
+Takahashi Akitane
+@8467
+Tsunokuma Sekiso
+@8469
+Nyuda Chikazane
+@8471
+Yoshioka Nagamasu
+@8473
+Yoshihiro Akitada
+@8475
+Yoshihiro Shigenobu
+@8477
+Yoshihiro Muneyuki
+@8479
+Takahashi Joun
+@8481
+Tachibana Muneshige
+@8483
+Akizuki Fumitane
+@8485
+Akizuki Tanezane
+@8487
+Akizuki Tanenaga
+@8489
+Takahashi Mototane
+@8491
+Tsukushi Korekado
+@8493
+Tsukushi Hirokado
+@8495
+Harada Nobutane
+@8497
+Kamachi Akihisa
+@8499
+Kamachi Akimori
+@8000
+Constable of Tajima. Adopted by his uncle Tokitoyo and succeeded him. Sent his brother Toyosada to Inaba and ruled both provinces. Defeated by Hideyoshi's army and surrendered.
+@8002
+Constable of Inaba, lord of Tottori Castle. Entered Inaba by his brother Sukitoyo's order after their uncle Tokitoyo died. Killed the self-styled Constable Yamana Tokimichi and developed Inaba.
+@8004
+Constable of Inaba, lord of Tottori Castle, Toyosada's third son. Killed Takeda Takanobu and retook his castle. Followed Hideyoshi but was expelled by vassals allied with the Mori. Later Hideyoshi's storyteller.
+@8006
+Yamana vassal, lord of Rakurakuzen Castle. Became Deputy Constable when Mochitoyo became Constable of Tajima and held real power. Fell out with Taiyusho Koreyoshi and killed himself in his surprise attack.
+@8008
+Yamana vassal, Tsunagu's son. Fought and killed Taiyusho Koreyoshi, his father's killer. Yielded to Hideyoshi's Chugoku force and joined the Tottori assault, holding 10,000 koku in Inaba.
+@8010
+Toyotomi vassal, Mitsunari's son. Served at Odawara and in Korea, holding Inaba Uramiyama, 10,000 koku. Joined the West at Sekigahara and attacked Otsu Castle. Killed himself after the war.
+@8012
+Yamana vassal, lord of Tsuru Castle in Tajima, one of the Four Guardians of the Yamana. Urged submission to the Oda and killed the pro-Mori Kakiya Tsunagu, but was killed by Tsunagu's son Mitsunari.
+@8014
+Yamana vassal. Expelled lord Toyokuni, who surrendered to Hideyoshi, from Tottori Castle and invited Kikkawa Tsunei from the Mori. Lost to Hideyoshi's starvation siege and killed himself.
+@8016
+Yamana vassal. With Nakamura Harutsugu expelled lord Toyokuni and held Tottori Castle under Kikkawa Tsunei. Lost to Hideyoshi's starvation siege and killed himself with Tsunei and Harutsugu.
+@8018
+Yamana vassal, lord of Boimo Castle in Inaba. Resisted Hideyoshi's Chugoku force and won fame by seizing the Thousand Gourds standard. Fled when Tottori fell and farmed with his daughter's family.
+@8020
+7th head of the Nanjo, lord of Hoki Ueki Castle. Driven out by Amago Tsunehisa and became a ronin. Retook the castle with Mori Motonari's help and served the Mori.
+@8022
+8th head of the Nanjo, lord of Ueki Castle in Hoki, Munekatsu's son. Served Hideyoshi in the Kyushu campaign. Left government to brother Mototada because of illness but joined Odawara though ill.
+@8024
+9th head of the Nanjo, lord of Ueki Castle in Hoki, Mototsugu's son. Joined the West at Sekigahara and was dispossessed. Served Hideyori but was killed on suspicion of dealing with the Tokugawa.
+@8026
+Nanjo vassal, Munekatsu's illegitimate son. Took over the Ogamo, a noble house of eastern Hoki. Slandered by nephew Mototada during the Korean campaign, fell and served Konishi Yukinaga, later Kato Kiyomasa.
+@8028
+Hoki gentry serving the Mori. Retook Tsutsumi Castle, lost to the Amago in his father Takanao's time. Later followed Nanjo Mototsugu; fought him when he joined the Hashiba, but lost.
+@8030
+Sengoku daimyo of Izumo. Served the Kyogoku but was dismissed as Deputy Constable of Izumo for seizing land. Retook Gassan Toda Castle, expanded and became master of 11 Chugoku provinces.
+@8032
+Sengoku daimyo of Izumo, lord of Gassan Toda Castle. Constable of 8 Chugoku provinces. Mori Motonari's scheme destroyed his kin, the Shingu band, weakening him. Died suddenly while fighting the Mori.
+@8034
+Sengoku daimyo of Izumo, lord of Gassan Toda Castle, Haruhisa's heir. Held the castle against Mori Motonari's Izumo expedition, but lost to Motonari's division scheme, which had him kill chief elder Uyama Hisakane.
+@8036
+Amago vassal, Tsunehisa's second son. Led the Shingu band and supported his nephew Haruhisa, but they fell out. Motonari's scheme had Haruhisa kill him, a major cause of the Amago's decline.
+@8038
+Amago vassal, Kunihisa's eldest. Led the Shingu band with his father but, proud of his valour, quarrelled with his cousin Haruhisa. Attacked by Haruhisa, who fell for Motonari's scheme, he died.
+@8040
+Sadahisa's son. Raised by Yamanaka Shikanosuke and others to revive the Amago. Relied on Nobunaga and tried to enter Izumo but failed. Lost to the Mori at Kozuki Castle in Harima and killed himself.
+@8042
+Amago vassal, lord of Setoyama Castle in Izumo. Fought Ouchi Yoshitaka's Izumo force with his son Mitsukiyo, but yielded when Mitsukiyo died. Retook his castle after the Ouchi withdrew.
+@8044
+Amago vassal, lord of Setoyama Castle in Izumo, Hisakiyo's son. Resisted Ouchi Yoshitaka's invasion and killed Mori vassal Kumagai Naotsugu, but was shot in the throat by Sue Harukata's man.
+@8046
+Amago vassal, lord of Setoyama Castle in Izumo, Mitsukiyo's son. Haruhisa, moved by his father's heroic death, raised his fief. Yielded to Mori Motonari's invasion and became a Mori vassal.
+@8048
+Amago vassal, chief elder. During the Gassan Toda siege bought food with his own funds for the garrison. Killed by lord Yoshihisa, who fell for Motonari's division scheme.
+@8050
+Ouchi vassal, lord of Nukuyu Castle in Iwami. After Yoshitaka's death joined the Amago. Took over the Omori silver mine. Resisted Mori Motonari's attack, but lost and surrendered.
+@8052
+Amago vassal. After the Amago fell served the Toyotomi as lord of Kano Castle in Inaba. Promoted industry with reclamation and irrigation. Obtained a red-seal licence to send trade ships to Siam.
+@8054
+Amago vassal, second elder. Mainly active in domestic affairs, but also joined the attack on Motonari's Yoshida-Koriyama Castle. Resisted Motonari's Izumo invasion to the end, then surrendered.
+@8056
+Amago vassal, Kiyomune's son. Yielded with his father to Motonari's Izumo invasion and served the Mori. Held Hiroshima Castle for them in Korea and at Sekigahara.
+@8058
+Amago vassal. With nephew Yamanaka Shikanosuke backed Amago Katsuhisa to revive the house. Captured by the Mori after Kozuki Castle fell, escaped to Kyoto, then went to Awa.
+@8060
+Amago vassal, lord of Yamabuki Castle in Iwami, guarding the Omori silver mine. Repelled Mori Motonari and Kikkawa Motoharu and won fame. Yielded to Motonari, who feared his valour and killed him.
+@8062
+Amago vassal, lord of Mitsawa Castle in Izumo. Briefly followed Ouchi Yoshitaka, then returned after the Ouchi invasion failed. Yielded to Mori Motonari's invasion. His heirs served the Choshu Mori.
+@8064
+Amago vassal. Said to have prayed to the crescent moon, "Give me seven trials and eight hardships..." Backed Amago Katsuhisa's revival but lost to the Mori at Kozuki Castle in Harima; killed while escorted to Aki.
+@8066
+Harima gentry, lord of Miki Castle. The Bessho were a branch of the Akamatsu. Rose as the main Akamatsu line declined, holding eight districts of eastern Harima. Followed Hosokawa Harumoto and Miyoshi Nagayoshi.
+@8068
+Harima gentry, lord of Miki Castle, Narutsugu's heir. Repelled Miyoshi Nagayoshi's invasion. Sent his brother Shigemune when the Miyoshi Triumvirate attacked Shogun Yoshiaki, and Nobunaga rewarded him.
+@8070
+Harima gentry, lord of Miki Castle. Agreed to lead Nobunaga's Chugoku van, then turned hostile. Attacked by Hideyoshi, he held out about 2 years, then killed himself on condition his garrison be spared.
+@8072
+Bessho vassal, Narutsugu's son. Aided his nephew Nagaharu and followed him against Nobunaga. After Nagaharu's death lived as a ronin, then served Hideyoshi in the Kyushu campaign.
+@8074
+Toyotomi vassal, Shigemune's son. Held Tanba Sonobe, 15,000 koku. Joined the West at Sekigahara but kept his fief. Fought in the Summer Siege. Later dispossessed for neglect of duty.
+@8076
+Harima gentry. First lived in Arima District, Settsu, then moved to Harima. The Arima were a branch of the Akamatsu descended from Akamatsu Yoshisuke, steward of Arima District.
+@8078
+Harima gentry, Shigenori's son. Served Hideyoshi in the Kyushu and Korean campaigns. After Hideyoshi's death served Ieyasu at Sekigahara and afterwards held Settsu Sanda, 30,000 koku.
+@8080
+Toyotomi vassal, Norisuke's heir. After Hideyoshi's death joined Ieyasu, distinguished at Sekigahara and both Osaka sieges, and held Chikugo Kurume, 210,000 koku. Also helped put down the Shimabara Rebellion.
+@8082
+Constable of Harima, made a puppet by vassal Uragami Munemura. Allied with Hosokawa Harumoto and killed Munemura at Daimotsu, but attacked by Amago Haruhisa his rule was only nominal.
+@8084
+Harumasa's son. Joined Nobunaga but lost to Uragami Masamune and fell. The Akamatsu were a Murakami Genji line founded by Akamatsu Norimura (Enshin), who helped set up the Kenmu government.
+@8086
+Toyotomi vassal, Yoshisuke's son. Kept Harima Oshio, 10,000 koku. Served at Shizugatake, Komaki-Nagakute and the Shikoku campaign, gaining Awa Sumiyoshi, 10,000 koku. Also served in Korea.
+@8088
+Akamatsu vassal, lord of Tatsuno Castle in Harima. Took in his lord Harumasa. Killed Uragami Masamune; allied with Bessho Yasuharu and fought Kodera Masamoto and Kuroda Yoshitaka. Reportedly poisoned.
+@8090
+Toyotomi vassal, Akamatsu Masahide's son. Studied Chinese learning under Fujiwara Seika. Changed from West to East at Sekigahara, but burned Tottori's castle town and was ordered by Ieyasu to kill himself.
+@8092
+Akamatsu vassal, lord of Muro Castle in Harima. Wed his son Kiyomune to Kuroda Yoshitaka's daughter to ally with the Kodera, but Akamatsu Masahide attacked on the wedding day and both died.
+@8094
+Harima gentry, lord of Goshaku Castle. Friendly with the Bessho. First joined the Oda, but joined Araki Murashige's rebellion with the Bessho, was attacked by Hideyoshi, lost and fled.
+@8096
+Harima gentry. Moved from Fukuoka in Bizen to Himeji in Harima. Built wealth selling an eye medicine called "Reishuko" and sent his son Yoshitaka to serve the Kodera, laying the base of the Kuroda.
+@8098
+Kodera vassal, lord of Himeji Castle in Harima. Killed the gentry Koyama Shigemichi, married his lord Masamoto's adopted daughter and became elder. Granted the Kodera name and a character from "Masamoto".
+@8100
+Toyotomi vassal. Hideyoshi's strategist who greatly aided his unification. Feared for his brilliance, his fief was held to Buzen Nakatsu, 120,000 koku.
+@8102
+Toyotomi vassal, Kanbei Yoshitaka's heir. Distinguished in the Kyushu campaign. Joined the East at Sekigahara and held Chikuzen Fukuoka, 520,000 koku. Remained submissive to the shogunate.
+@8104
+Kuroda vassal, a cavalry captain. Became a ronin on suspicion of treason. Invited by Hideyori into Osaka Castle, won popular support and fought hard against the Tokugawa, dying in the Summer Siege.
+@8106
+Kuroda vassal, with Goto Matabei the clan's fiercest warriors. Drained a huge cup of sake for Fukushima Masanori and won the famed spear "Nihongo". Remembered in the song "Kuroda Bushi".
+@8108
+Harima gentry, lord of Takakurayama Castle, brother-in-law of Akamatsu Norinao. Beaten by Hideyoshi's army and killed. Norinao, attacked by Kuroda Kanbei, also lost and killed himself.
+@8110
+Mimasaka gentry, lord of Takada Castle. Attacked by the Amago, he died of illness after years of fighting and the Amago soon took the castle. The Miura claim descent from Miura Yoshiaki of the Kanto.
+@8112
+Mimasaka gentry, lord of Takada Castle, Sadahisa's heir. Rallied old retainers to retake Takada Castle from the Amago after his father's death, but was later attacked by Mimura Chikaie and killed himself.
+@8114
+Mimasaka gentry, lord of Takada Castle, Sadahisa's second son. Driven out by the Mori for joining the Amago. Retook it with Yamanaka Shikanosuke's help, was driven out again and fled.
+@8116
+Miura vassal, Sadahisa's brother. After Mimura Motochika, who drove nephew Sadakatsu to suicide, was murdered by Ukita Naoie, retook Takada Castle and made nephew Sadahiro lord.
+@8118
+Miura vassal. After Sadakatsu's suicide took in his widow and remarried her to Ukita Naoie. With Naoie's backing raised Sadakatsu's brother Sadahiro and retook Takada Castle.
+@8120
+Miura vassal, Yoshinaga's brother. Served the Ukita with his brother after the Miura fell, as lord of Kawarake-o Castle. After peace between the Ukita and Mori, defended Takada Castle with him.
+@8122
+Sengoku daimyo of Bizen. Fought his brother Munemasa, lord of Muro Castle in Harima, while expanding in Bizen. Attacked and driven from his castle by the rising vassal Ukita Naoie.
+@8124
+Uragami vassal, tonsured Kan'ami. Attacked Ukita Yoshiie at Togishi Castle and drove him to suicide, taking all power. Later killed by Yoshiie's grandson Ukita Naoie on suspicion of treason.
+@8126
+Uragami vassal, lord of Kameyama Castle in Bizen. His daughter married Ukita Naoie. Rumoured to plot treason with Shimamura Morizane, he was killed by his son-in-law Naoie on lord Munekage's order.
+@8128
+Uragami vassal, lord of Sakane Castle in Bizen. Fought at Myozenji. When Ukita Naoie attacked his lord's Tenjinyama Castle he sided with Naoie, causing the Uragami's fall, and served him.
+@8130
+Ukita vassal, Kagechika's son. After the clan's civil strife ran the government. Led the Ukita van at Sekigahara. Entered Osaka Castle and led the Christian warriors bravely in the Osaka campaign.
+@8132
+Uragami vassal. Served the Ukita after the Uragami fell. With Hanabusa Motohide hunted Uragami remnants such as Goto Katsumoto of Mitsuboshi Castle and Hoshiga Tonai. Praised for wit and courage.
+@8134
+Uragami vassal who served Norimune, Norisuke and Muramune, saving the house from danger and praised for wit and courage. Attacked by Shimamura Morizane, who sought sole power, he killed himself.
+@8136
+Uragami vassal, Yoshiie's son. After his father's suicide at Shimamura Morizane's attack he fled to the merchant Abe Zenjo of Fukuoka in Bizen and soon died of illness. Called "foolish and cowardly".
+@8138
+Uragami vassal, lord of Otogo Castle. Eliminated enemies with every scheme and built the clan's greatest power. A rare plotter who finally expelled lord Munekage and took all Bizen.
+@8140
+Toyotomi vassal, Naoie's heir. Favoured by Hideyoshi and made one of the Five Elders, but lost most of his chief retainers to internal strife. Joined the West at Sekigahara; exiled to Hachijojima.
+@8142
+Ukita vassal, Okiie's son. Greatly aided his brother Naoie in founding the house. After Naoie's death guarded his nephew Hideie, and followed him to Korea as Toyotomi commander.
+@8144
+Ukita vassal, Tadaie's son. Fled in the house's strife and joined Ieyasu. Won Iwami Hamada, 20,000 koku, for Sekigahara. In the Osaka campaign rescued Ieyasu's granddaughter Senhime.
+@8146
+Ukita vassal, one of the Three Elders. Skilled in sword and spear, fought in over 40 battles. Helped rebuild Okayama Castle in Bizen and its town. Died of illness in camp in Korea.
+@8148
+Ukita vassal, Toshikatsu's son. Fled in the house's strife and served Ieyasu. But his son Heinai joined Osaka in the Osaka campaign, so Ieyasu was angered and he killed himself.
+@8150
+Ukita vassal, one of the Three Elders. Fought at Myozenji and elsewhere, helping Naoie found the house. After Togawa Hideyasu retired he ran the government. Later killed by his brother-in-law.
+@8152
+Ukita vassal, Sadachika's son. Ran the government, surveying land and improving the castle town. Favoured by Hideie and wielding sole power, he was reportedly poisoned by rivals.
+@8154
+Ukita vassal, Sadachika's son. Succeeded after his brother Tsunanao died. One of the clan's greatest, with 24,000 koku. Followed Hideie to Sekigahara and vanished after the war.
+@8156
+Ukita vassal, one of the Three Elders. Fought at Myozenji and Kojima Yahama, helping Naoie found the house. Later chief elder, ran the government.
+@8158
+Ukita vassal, Hideyasu's heir. Active in Korea and elsewhere. A devout Nichiren follower, he clashed with the Christian Osafune Tsunanao, caused civil strife, left the house and served the Tokugawa.
+@8160
+Ukita vassal, lord of Mushiage Castle in Bizen, a chief retainer who helped Naoie found the house. A famed archer. Also a man of letters who received the Kokin Denju from Hosokawa Fujitaka.
+@8162
+Ukita vassal, Masayuki's son. Said to have advised flooding Takamatsu Castle in Bitchu when serving in Hideyoshi's Chugoku force. Fled in the house's strife and served the Tokugawa.
+@8164
+Ukita vassal, a bold warrior who often won first spear and first entry. Angered Hideie with his remonstrance and fled. Joined the East at Sekigahara and received Bitchu Takamatsu, 8,000 koku.
+@8166
+Ukita vassal, lord of Inariyama Castle in Mimasaka. Lost it to Yamana Ujikane and lay low after his father Tadanaga's suicide. Restored with Naoie's help and aided his Mimasaka conquest.
+@8168
+Bitchu gentry, lord of Tsurukubi Castle. Subdued neighbouring gentry to become Bitchu's greatest power. Planned to enter Bizen and Mimasaka, fought Ukita Naoie and was assassinated by him.
+@8170
+Bitchu gentry, Chikaie's son. Succeeded his father and sought to recover power through the Mori, but left them when his father's enemy Ukita Naoie allied with them. Attacked and killed himself.
+@8172
+Mimura vassal, Chikaie's brother. Opposed when nephew Motochika contacted Nobunaga to recover power and was expelled. Guided the Mori army to kill Motochika and became lord of Tsurukubi Castle.
+@8174
+Mimura vassal, lord of Tsuneyama Castle in Bitchu. Married lord Motochika's daughter. Held out after Motochika's death against the Mori and was crushed by Kobayakawa Takakage's Mori army.
+@8176
+Bitchu gentry, lord of Takayama Castle in Bizen. Followed Mimura Motochika at Myozenji, was beaten by Ukita Naoie, wounded and died. The Ishikawa rose from the Kibitsu Shrine administrators.
+@8178
+Bitchu gentry, lord of Takayama Castle in Bizen, Hisatomo's son. Succeeded his father. Fought the Mori with his brother-in-law Mimura Motochika but lost. Tried to recover, attacked by the Mori, killed himself.
+@8180
+Mori vassal, lord of Takamatsu Castle in Bitchu. Resisted Nobunaga's Chugoku force stubbornly, but was hard pressed by Hideyoshi's flooding. Made peace on condition his men be spared and killed himself.
+@8182
+Sengoku daimyo of Aki. Expanded by every scheme to become master of 10 Chugoku provinces. At Itsukushima tricked Sue Harukata with many ruses and beat an enemy five times his number.
+@8184
+Sengoku daimyo of Aki, Motonari's heir. A hostage of the Ouchi, he came of age under Ouchi Yoshitaka. Worked on Chugoku conquests under his father's guidance, but died suddenly en route to Izumo.
+@8186
+Sengoku daimyo of Aki, Takamoto's heir. Succeeded after his grandfather Motonari died. Joined the Toyotomi as one of the Five Elders. Joined the West at Sekigahara and was cut to Suo and Nagato.
+@8188
+Second son of Mori Motonari. Took over the Aki gentry house of Kikkawa and conquered the Sanin. The house's fiercest unbeaten warrior, he reportedly copied all 40 books of the "Taiheiki" in camp.
+@8190
+Motoharu's eldest. As brave as his father, said to have always won in Hideyoshi's Kyushu campaign. Succeeded when his father retired, but died soon after his father.
+@8192
+Motoharu's third son. Foreseeing the West's defeat at Sekigahara, he schemed through diplomacy to preserve the Mori main line. The Mori were still cut to Suo and Nagato, and he was blamed as a traitor.
+@8194
+Third son of Mori Motonari. Took over the Aki gentry house of Kobayakawa and conquered the Sanyo. After Honnoji approached Hideyoshi to preserve the Mori and became one of the Five Elders.
+@8196
+Fourth son of Mori Motonari. Took over the Bitchu gentry house of Hoida. Won merit taking Kozuki Castle in Harima from Yamanaka Shikanosuke, etc. Later reverted to Mori and founded the Chofu Mori.
+@8198
+Hoida Motokiyo's son, adopted by his cousin Terumoto. Commanded the Mori army in Korea. At Sekigahara went to the main battlefield, producing the tale of the "Councillor's empty lunch box".
+@8200
+Ninth son of Mori Motonari, adopted by his brother Takakage. Favoured by Hideyoshi, who gave him a character of his name. Aided Takakage in Korea. Joined the West at Sekigahara and was dispossessed.
+@8202
+Ouchi vassal, joined the Mori after the Ouchi fell. After the Amago fell became keeper of Gassan Toda Castle in Izumo and repelled Yamanaka Shikanosuke. Ruled Izumo aiding Motonari's fifth son Motoaki.
+@8204
+Mori vassal. Helped Motonari's second son Motoharu enter the Kikkawa. After the Ouchi fell was Yamaguchi magistrate for Suo and Nagato. Murdered his eldest son Motonori, who dealt with the Otomo.
+@8206
+Mori vassal. Helped Motonari inherit the Mori. Later neglected duties such as military service and works with arrogance, so Motonari had 30 of the Inoue clan killed.
+@8208
+Mori vassal. Born Awaya, he was renamed Katada by Terumoto. After Kobayakawa Takakage moved to Iyo became lord of Mihara Castle in Bingo. Went to Sekigahara in Terumoto's place.
+@8210
+Mori vassal, lord of Sakurao Castle in Aki, managing the shrine lands including Itsukushima. At Itsukushima sent Sue Harukata false letters, luring him to the island.
+@8212
+Mori vassal. Helped Motonari inherit the Mori. Later at Motonari's request guarded Takamoto, telling him "the lord is the boat, the retainers the water".
+@8214
+Mori vassal, Shiji Hiroyoshi's second son. Aided Kikkawa Motoharu in conquering the Sanin. After Motonari's death became one of the Four, aiding lord Terumoto in the clan's government.
+@8216
+Mori vassal. First opposed Motonari, then submitted. After his daughter married Motonari's second son Kikkawa Motoharu he was favoured as kin, leading the Kikkawa van in many battles.
+@8218
+Mori vassal, Nobunao's grandson. Active in many battles. Influenced by Kuroda Kanbei, he became Christian. Refused lord Terumoto's order to convert and his whole family was sentenced to death.
+@8220
+Mori vassal. Served as Motonari's aide from his succession. Became one of the Five Magistrates. Motonari called him "broad of vision, pleasant, and skilled at affairs".
+@8222
+Mori vassal. Recommended by his brother Motomoto to Motonari. After Sue Harukata's forces were driven from Aki became lord of Kusatsu Castle in Aki. Led the Mori navy in northern Kyushu and the Sanin.
+@8224
+Iwami gentry. Served the Ouchi, then the Mori after the Ouchi fell, winning merit in the Iwami campaign. Held lord Terumoto's Hiroshima Castle while he was in Korea.
+@8226
+Mori vassal. First fought Motonari, then made peace by marrying Motonari's daughter and was treated as kin. Campaigned mainly with Kikkawa Motoharu and distinguished himself in many battles.
+@8228
+Mori vassal. First served Sugihara Masaoki, lord of Kannabe Castle in Bingo. After Masaoki's death became castle keeper on Kikkawa Motoharu's recommendation. Led the Sanin army's van.
+@8230
+Mori vassal who led the Kobayakawa navy. At Itsukushima won the Murakami navy over, aiding the Mori victory. Commander at Kizugawaguchi, where he beat the Oda navy.
+@8232
+Mori vassal. The Hiraga held Takaya in Aki. After Sekigahara his 18,000 koku was cut to 4,000, so he retired to Kyoto. Later moved to Hagi where his grandson Narutada lived.
+@8234
+Mori vassal, chief elder. Aided Kobayakawa Takakage in conquering the Sanyo. After Motonari's death was one of the Four, aiding lord Terumoto in the clan's government.
+@8236
+Mori vassal. Married the daughter of Shigesawa Motouji, Kikkawa Motoharu's second son, and succeeded the old Suo house of Miura in his place. Terumoto's aide and liaison, 16,000 koku.
+@8238
+Mori vassal, lord of Migitadakeyama Castle in Suo. When Ouchi Teruhiro, backed by Otomo Sorin, raised Ouchi remnants in Suo, he pursued and killed the army as it retreated to Hofu.
+@8240
+Mori vassal, diplomat monk. Predicted the futures of Nobunaga and Hideyoshi. In the Takamatsu siege made peace between the Mori and Hideyoshi. Joined the West at Sekigahara and was beheaded.
+@8242
+Aki gentry. Repeatedly switched between the Amago and Ouchi. Taking advantage of his retainers' split, Mori Motonari sent in his second son Motoharu as adopted heir and took over, then killed him.
+@8244
+Mori vassal. After the Mori conquered Iwami built Monomozu Castle as his seat. Later repelled with his son Tsuneie an attack by Fukuya Takakane, who rebelled over his land.
+@8246
+Mori vassal, Tsuneyasu's son. Invited into Tottori Castle in Inaba after Yamana Toyokuni's expulsion, he fought Hideyoshi. Lost to Hideyoshi's starvation siege and killed himself to spare his men.
+@8248
+Aki gentry serving the Ouchi. Tried to switch to the Amago but the Ouchi seized his Takayama Castle in Aki. Joined the Ouchi's Izumo expedition and died in the retreat.
+@8250
+Aki gentry, Masahira's son. Succeeded his father but went blind at 3. Unable to command, he adopted Mori Motonari's third son Takakage and took the tonsure.
+@8252
+Kobayakawa vassal, head of the Takehara Kobayakawa. Married Motonari's niece. Died of illness besieging Ginzan Castle in Aki. Childless, so Motonari's third son Takakage succeeded.
+@8254
+31st head of the Ouchi. Constable of 7 provinces who dominated Chugoku and Kyushu. After his heir Harumochi died, devoted himself to culture. Killed himself in vassal Sue Harukata's coup.
+@8256
+Ouchi vassal, a magistrate. Clashed with Sugi Shigenori but made peace. His slander of Sagara Takehito to Sue Harukata triggered Harukata's coup. Died fighting the Mori.
+@8258
+Ouchi vassal, a magistrate. Mostly stationed in Kyushu. Joined Sue Harukata's coup and after Yoshitaka's death served Yoshinaga, who succeeded. Skilled in archery and horsemanship.
+@8260
+Sue vassal, trusted aide of Harukata. After Orishikibata, invited by Mori Motonari but he objected to the terms, so Motonari spread word of his betrayal and Harukata killed him.
+@8262
+Ouchi vassal, chief priest of Munakata Shrine. Distinguished in the Amago wars and the Ono Castle attack in Aki; Yoshitaka gave him Suo Kurokawa-go. Renamed Kurokawa Takanao.
+@8264
+Ouchi vassal, chief priest of Munakata Shrine, Masauji's son. Won the succession dispute with Sue Harukata's support and built the clan's largest domain, but died suddenly without an heir.
+@8266
+Ouchi vassal versed in court lore, trusted by Yoshitaka. Fell out with Sue Harukata and fled but was detained by Sugi Okitsugu. Killed at Hanao Castle in Chikuzen during Harukata's coup.
+@8268
+Ouchi vassal, Deputy Constable of Suo. Went to Kyoto with lord Yoshioki and campaigned in Aki and Kyushu. Skilled in waka and renga, he mixed with cultured men.
+@8270
+Ouchi vassal, Okifusa's son, called the "peerless samurai captain of the west". Drove Yoshitaka to suicide and made the house a puppet. Beaten by Mori Motonari at Itsukushima, killed himself.
+@8272
+Ouchi vassal, Deputy Constable of Chikuzen. Commanded at Tadenawate in Hizen, fighting Shoni vassal Ryuzoji Iekane's army, and lost. Followed lord Yoshitaka in death during Harukata's coup.
+@8274
+Ouchi vassal, Deputy Constable of Buzen. First opposed Sue Harukata, then joined his coup and drove Yoshitaka to suicide. Fell out with Harukata again, lost and killed himself in Nagato.
+@8276
+Ouchi vassal. His grandfather and father were killed by Sue Harukata, so he joined the Mori and married Fukuhara Sadatoshi's daughter. Later joined the Otomo and was killed by Takahashi Akitane.
+@8278
+Ouchi vassal, Deputy Constable of Iwami. Joined Sue Harukata's coup and after Yoshitaka's death served the successor Yoshinaga. After Harukata's death killed himself at Tomita in Suo.
+@8280
+Ouchi vassal, Deputy Constable of Nagato. Joined Harukata's coup but not actively; his grandson Takayo followed Harukata and split the house. Held high repute as a man of letters.
+@8282
+Ouchi vassal, joined the Mori after the Ouchi fell. Favoured as the brother of Mori Takamoto's wife, he kept order in Suo and Nagato. In old age went to Osaka and reported the capital's affairs home.
+@8284
+Ouchi vassal, a magistrate. After Yoshitaka's death served Ouchi Yoshinaga, raised by Sue Harukata. After the Ouchi fell joined the Mori as keeper of Moji Castle in Buzen and steward of Kiku District.
+@8286
+Ouchi vassal, Deputy Constable of Aki. Served Yoshinaga after Harukata's coup and at Harukata's order murdered Era Fusahide. Followed Harukata to Itsukushima and died there.
+@8288
+Ouchi vassal who married Yoshitaka's sister. Rose against Yoshitaka's enemy Sue Harukata, allied with Mori Motonari and fought him. After Harukata died at Itsukushima joined the Mori.
+@8290
+Mori vassal, Masayori's son. Distinguished in attacks such as Shirakasa Castle in Izumo. Unlucky at home: lost his first and second wives and his eldest son in Korea.
+@8292
+Ouchi vassal, lord of Masuda Castle. Followed the Mori after the Ouchi fell and distinguished himself in the Sanin campaign. Devout in old age. His vassal Shinagawa Daizen lost a duel to Shikanosuke.
+@8294
+Mori vassal, Kanekane's son. Active in the Sanin campaign. When the Mori were cut after Sekigahara he carried out financial reform, laying the base for Hagi domain in Nagato.
+@8296
+Ouchi vassal, lord of Ginzan Castle in Aki. When Sue Harukata rebelled fled to Nagato with Yoshitaka and acted as his second at death. After Yoshitaka's death fought the Sue and died heroically.
+@8298
+Date vassal, versed in arithmetic and irrigation. Rebuilt the Kitakami River and oversaw many works. Laid the economic base of Sendai domain, said to be worth 2,000,000 koku.
+@8300
+Awa gentry, lord of Shichijo Castle. Killed at Nakatomigawa. A giant of great strength with many tales; the "Rice Cake Contest" at Daisenji is said to derive from one.
+@8302
+Hachisuka vassal, chief of the navy based at Tosadomari, Naruto. Later moved to Tsubakidomari on lord Iemasa's order to guard against Tosa. Died serving in Hideyoshi's Korean campaign.
+@8304
+Sanuki gentry, lord of Hayuka Castle. Attacked by Chosokabe Motochika, he surrendered on Motochika's advice, giving his second son Sukeyoshi as hostage. Died of illness besieging Sogo Masayasu's Sogo Castle.
+@8306
+Sengoku daimyo of Iyo, lord of Yuzuki Castle. Troubled by vassal rebellions and invasions. Tried to cede the headship to son-in-law Kurushima Michiyasu, but vassals objected, causing strife.
+@8308
+Sengoku daimyo of Iyo, lord of Yuzuki Castle, of the Yoshu Kono branch. Beat Kurushima Michiyasu in the succession dispute, took the main line as Michimasa, and died young.
+@8310
+Sengoku daimyo of Iyo, lord of Yuzuki Castle. Succeeded when his brother Harumichi died young. Struggled with rebellions by vassals such as the Ono and invasions by the Mori and others.
+@8312
+Sengoku daimyo of Iyo, lord of Yuzuki Castle, of the Ikehara Kono branch. Beaten by Chosokabe Motochika and became his vassal, then lost to Hideyoshi's Shikoku force. Dispossessed and moved to Aki.
+@8314
+Kono vassal, lord of Ebara Castle in Iyo, a magistrate. Fought the rebel Ono and Wada while holding off invaders such as the Otomo, working tirelessly for his house.
+@8316
+Kono vassal. When Kato Yoshiaki, who held Iyo after the Kono fell, left for Sekigahara, he rose to revive his house but lost and then served the Mori.
+@8318
+Kono vassal, chief of the Kurushima Murakami navy. Named heir by lord Michinao, but opposition prevented it. Aided the Mori at Itsukushima and contributed to their victory.
+@8320
+Toyotomi vassal, lord of Era Castle, Kurushima Michiyasu's son. Took the name Tokui from the Doi and Tokunou houses of his ancestry. Led the navy in Hideyoshi's Korean campaign and died there.
+@8322
+Toyotomi vassal, Michiyasu's fourth son. First served the Kono. Led the van in Hideyoshi's Shikoku campaign with his brother Tokui Michitoshi. Led the navy in Korea and died there.
+@8324
+Tokugawa vassal, Michifusa's son. Succeeded after his father's death. Defected to the East at Sekigahara but was given inland Bungo Mori, 13,000 koku, ending his navy's role.
+@8326
+Iyo gentry, lord of Kaneko Castle. Aided Chosokabe Motochika's unification of Shikoku. Judged a brave general of fine character and vision. Resisted Hideyoshi's Shikoku force, lost, and killed himself.
+@8328
+Chief of the Noshima Murakami navy. The navy began when Murakami Morokiyo split the house: Yoshiaki founded the Noshima, Akitada the Innoshima, Akinaga the Kurushima.
+@8330
+Chief of the Noshima Murakami navy, Yoshitada's son. Contributed greatly to the Mori victory at Itsukushima. Then served the Mori, winning big over the Oda navy at Kizugawaguchi and elsewhere.
+@8332
+Chief of the Innoshima Murakami navy. Joined the Mori at Itsukushima, contributing to the victory. At Kizugawaguchi won big over the Oda navy with his fire-arrow tactics.
+@8334
+Iyo gentry, lord of Kurose Castle. Lost his heir Kimitaka fighting Utsunomiya Toyotsuna and adopted nephew Kimihiro. Skilled in letters and arms; attended a poetry gathering in Kyoto.
+@8336
+Iyo gentry, lord of Kurose Castle. Adopted by his uncle Sanemitsu and succeeded him. Surrendered to Hideyoshi's Shikoku force, but was murdered by Toda Katsutaka, wary of revolts by Saionji old retainers.
+@8338
+Saionji vassal, lord of Omori Castle in Iyo, one of the Fifteen Saionji Generals. Often repelled invasions by the Tosa Ichijo and Otomo, trusted by lord Sanemitsu. Died fighting the Otomo.
+@8340
+Saionji vassal, lord of Omori Castle in Iyo, one of the Fifteen Saionji Generals. Fled briefly to Tosa, returned with Tosa Ichijo help and was active everywhere. Known for wit and valour; wrote the "Seiryoki".
+@8342
+Saionji vassal, lord of Hokezu Castle in Iyo, one of the Fifteen Saionji Generals. Repeatedly repelled Otomo invasions. Left his castle on orders of Toda Katsutaka, who held Uwa after Hideyoshi's conquest.
+@8344
+Iyo gentry, lord of Ozu Castle, allied with the Tosa Ichijo. Wielded power by killing Saionji Kimitaka at Asuka Castle in Iyo, but lost to the Kono-Mori force at Torizaka Pass and declined.
+@8346
+Sengoku daimyo of Tosa, lord of Okoso Castle. After his father's death retook his castle with Ichijo Fusaie's help. Spent his life reviving the Chosokabe by marriage diplomacy and enrichment.
+@8348
+Sengoku daimyo of Tosa, lord of Okoso Castle, Kunichika's son. Led the fierce Ichiryo Gusoku and quickly subdued neighbouring lands. Unified Shikoku in ten-odd years, nicknamed "Tosa's Prodigy".
+@8350
+Motochika's heir. Given a character of his name by Nobunaga. Skilled in letters and arms, popular. Died at Hetsugigawa in Bungo in Hideyoshi's Kyushu campaign; Motochika was devastated.
+@8352
+Motochika's second son. Took over the Sanuki gentry Kagawa as lord of Amagiri Castle, but lost to the Toyotomi and returned to Tosa. No heir named after Nobuchika's death; died of illness in despair.
+@8354
+Motochika's third son. Took over the Tosa gentry Tsuno. Confined after his father passed the headship to his brother Morichika. After Sekigahara killed by Morichika on Hisatake Chikanao's slander.
+@8356
+Motochika's fourth son. Joined the West at Sekigahara, was dispossessed and ran a village school in Kyoto. Entered Osaka Castle and destroyed Todo Takatora's force, but was beheaded after the fall.
+@8358
+Chosokabe Kunichika's second son. A resolute, shrewd general, right hand to his brother Motochika in uniting Tosa. After the Tosa Ichijo fell became keeper of Nakamura Castle in Tosa, but soon died of illness.
+@8360
+Chosokabe vassal, Chikasada's heir. Remonstrated with his uncle Motochika, who wanted fourth son Morichika as heir, but was slandered by rival Hisatake Chikanao and made to kill himself by Motochika.
+@8362
+Chosokabe Kunichika's third son. Helped his brother Motochika unify Shikoku, beating Sogo Masayasu's army at Nakatomigawa among others. Also active in diplomacy, going to the Oda as envoy.
+@8364
+Chosokabe vassal who married lord Kunichika's sister. Praised for wit and courage; used every scheme and won merit everywhere, as Kunichika's right hand expanding the house.
+@8366
+Chosokabe vassal, Takayori's brother. Clever strategist who collapsed the Aki house from within by intrigue in the war against Aki Kunitora. Contributed with his brother to the house's rise.
+@8368
+Chosokabe vassal, a fierce warrior who took 115 heads and slew a tiger in Korea. Fought hard in the Osaka campaign beside former lord Morichika. After the fall returned to Tosa and became a doctor.
+@8370
+Chosokabe vassal. Distinguished at Nakatomigawa and Hetsugigawa. After the Chosokabe fell served the Yamauchi, soon retired to Yamato. Entered Osaka Castle and fought with Morichika.
+@8372
+Chosokabe vassal, keeper of Nakamura Castle in Tosa. Active at Hetsugigawa and in putting down the Urado uprising. After the house's dispossession joined the Todo. Died in the Summer Siege against Morichika.
+@8374
+Chosokabe vassal, a clever diplomat. Fought Hideyoshi's Shikoku force but judged resistance impossible and urged Motochika to make peace, saving the house from destruction.
+@8376
+Chosokabe vassal, honest and sensible, trusted by Motochika. Assigned to southern Iyo, he fought small gentry repeatedly. Killed attacking Okamoto Castle in Iyo.
+@8378
+Chosokabe vassal. Drove many colleagues to suicide by plots and slander, causing the house's fall. His brother Chikanobu told Motochika, "my brother will surely harm the house".
+@8380
+Chosokabe vassal, a fierce warrior in a nursery rhyme who aided the unification of Shikoku. When Motochika banned drinking, he smashed sake barrels in remonstrance. Died at Hetsugigawa.
+@8382
+Tosa gentry, lord of Motoyama Castle. Extended his rule from Reihoku to the southern plains, the Motoyama's largest domain. Gave the castle to son Shigetoki and moved to Asakura Castle.
+@8384
+Tosa gentry, Shigemune's son. Married Chosokabe Kunichika's daughter. Later became hostile, lost to the Chosokabe at Nagahamado, lost his plains base Asakura Castle, and steadily declined.
+@8386
+Tosa gentry, Shigetoki's son. Made his debut fighting Chosokabe Motochika and lost. Soon succeeded, but under the Chosokabe's fierce attack surrendered and became their vassal.
+@8388
+Tosa gentry, lord of Aki Castle. Refused Chosokabe Motochika's invitation to Okoso Castle and fought him. Lost when Motochika's scheme split his vassals and killed himself.
+@8390
+Tosa gentry, lord of Tokuzen Castle. First fought Chosokabe Kunichika, then became his vassal and distinguished himself in many battles. A brave general, yet so poor he could not afford New Year rice cakes.
+@8392
+Aki vassal. His father Echizen escorted lord Kunitora's wife home to the Tosa Ichijo when the house fell, then died at Kunitora's grave. Served the Chosokabe and died at Nakatomigawa.
+@8394
+Chosokabe vassal, lord of Kuriyama Castle in Tosa. Won merit at Kaifu in Awa and Kitagawa and Takamori in Iyo, aiding Motochika's unification of Shikoku. Later took the name Sotou.
+@8396
+Tosa gentry, lord of Kera Castle. First fought Chosokabe Kunichika, then became his vassal. Active against the Aki and built Wakamiya Hachiman Shrine, which his lords revered.
+@8398
+First head of the Tosa Ichijo. Took in and raised Chosokabe Kunichika, driven from Okoso Castle in Tosa. Returned him to Okoso on coming of age, laying the base of the Chosokabe's rise.
+@8400
+2nd head of the Tosa Ichijo, Fusaie's son. Believing a vassal's slander he ordered his guardian Shikichi Fujiyasu to kill himself; learning he was innocent he sent a pardon, but Fujiyasu had already died.
+@8402
+3rd head of the Tosa Ichijo, Fusafuyu's son. Killed Tsuno Mototaka of Himenono Castle and took Hasuike Castle from the Ohira, expanding his power, but suddenly killed himself, reportedly in madness.
+@8404
+4th head of the Tosa Ichijo, Fusamoto's son. Indulged in drink and women day and night, so vassals expelled him. Later tried to recover his lands with Otomo Sorin's backing but failed.
+@8406
+Tosa Ichijo vassal. Angered by lord Kanesada's exile to Bungo, attacked the castles of vassals who betrayed him. Later yielded to Chosokabe Motochika's force and helped pacify Hata District.
+@8408
+Chosokabe vassal, lord of Kaminoe Castle in Tosa. Succeeded after his father Yoshihide's death. Married Motochika's daughter. Fought for former lord Morichika and died in the Summer Siege.
+@8410
+Chosokabe vassal, Motochika's attendant. Served the Yamauchi after the house's dispossession. A fine writer and calligrapher, he wrote the "Motochikaki" for Motochika's 33rd memorial.
+@8412
+Chosokabe vassal. Won merit at Mitaki Castle in Iyo and elsewhere. After Sekigahara went as envoy to surrender. After the house's dispossession served the Hosokawa of Higo. Later wrote the "Chogenki".
+@8414
+Tosa gentry, lord of Himenono Castle. Fought the Ichijo everywhere, lost, surrendered and kept his lands. The Tsuno claim descent from Fujiwara Tsunetaka, who opened Tsunoyama.
+@8416
+Tosa gentry, lord of Himenono Castle, Mototaka's son. Joined the Tosa Ichijo's aid to the Utsunomiya of Iyo and lost at Torizaka Pass. Later expelled by his vassals.
+@8418
+Tosa gentry, lord of Himenono Castle, Sadakatsu's son. Became head after vassals expelled his father. Yielded to Chosokabe Motochika, adopted Motochika's third son Chikatada and retired.
+@8420
+Tosa Ichijo vassal. Often remonstrated with the dissolute lord Kanesada, who in anger cut him down. This led vassals to desert and was a cause of Kanesada's exile.
+@8422
+14th head of the Kii Utsunomiya. Served the Ouchi. Allied with the Shoni and Otomo against his lord but lost to kinsman Sada Toshikage's attack, surrendered and followed the Ouchi again.
+@8424
+15th head of the Kii Utsunomiya, Masafusa's son. Passed the headship early to his son Shigefusa. Twice involved in the Shimotsuke Utsunomiya succession. Later killed with Shigefusa by Kuroda Nagamasa.
+@8426
+16th head of the Kii Utsunomiya, Nagafusa's son. Kept his lands under the Otomo and Shimazu. Yielded to Hideyoshi but refused a transfer to Iyo, rebelled, and was killed by Kuroda Nagamasa.
+@8428
+Ouchi vassal, steward of Usa District. After the Ouchi fell joined the Otomo as a core of the Usa gentry. When Ajimu Rinsei turned on the Otomo, brought him back on condition of keeping his lands.
+@8430
+20th head of the Otomo. Expanded by fighting neighbours like the Ouchi. His plot to disinherit heir Yoshishige led to the Nikai Kuzure Incident, where he was cut down by vassals and died.
+@8432
+21st head of the Otomo, tonsured as Sorin. At his peak held six provinces of northern Kyushu, but was crushed by the Shimazu at Mimikawa, losing most vassals, and declined.
+@8434
+22nd head of the Otomo, Sorin's son. Pressed by the Shimazu and Ryuzoji, relied on Hideyoshi and kept Bungo. Dispossessed for fleeing the enemy in Korea.
+@8436
+Otomo vassal, Sorin's second son. Became a monk at his father's order but trained in arms and left the order. Lost his lands for dealing with Shimazu Yoshihisa. Later served the Hosokawa of Higo.
+@8438
+Otomo vassal, Sorin's third son. Stayed in Bungo at Mimikawa. Active mainly in Buzen. Fought at Hetsugigawa and lost to the Shimazu. After the house fell served the Hosokawa.
+@8440
+32nd head of the Ouchi, Otomo Yoshiaki's second son. Succeeded the Ouchi under Sue Harukata's backing after Yoshitaka died. After Harukata fell at Itsukushima, attacked by the Mori, killed himself.
+@8442
+Otomo Yoshinaga's second son. Took over the noted Higo house of Kikuchi. Allied with the Ouchi against his brother Yoshiaki and lost. After Nikai Kuzure rose to take Higo, but was killed by nephew Sorin.
+@8444
+Otomo vassal, lord of Komure Castle in Bungo. Spent most of his life on campaign yet was a man of taste who held a cherry-blossom party for lord Sorin. Killed himself for a rebel in his clan.
+@8446
+Otomo vassal, castellan of Koshigatake in Chikuzen, active in the Chikuzen campaign. Also managed the house's diplomacy, arranging peace with the Ouchi and Sorin's brother Yoshinaga's entry into the Ouchi.
+@8448
+Otomo vassal, one of the Three Elders of Bungo. Handled diplomacy, administered Hizen and commanded the Chikuzen force, involved in all the house's domestic, military and foreign affairs.
+@8450
+Otomo vassal. At Nikai Kuzure upheld Sorin and put down the incident. Briefly served the Saionji, then returned. Advanced into Hyuga on Sorin's order and died at Mimikawa.
+@8452
+Otomo vassal, lord of Togamure Castle in Bungo, Korenori's grandson. Held his castle against Shimazu Iehisa's Bungo invasion and was praised by Hideyoshi. After the house fell served Todo Takatora.
+@8454
+Otomo vassal, lord of Oka Castle in Bungo, administrator for Higo. Took passive action at Mimikawa, causing the Otomo defeat. Stayed in Bungo when lord Yoshimune went to Korea.
+@8456
+Otomo vassal, lord of Oka Castle in Bungo, Chikamori's son, administrator for Higo. Often clashed with lord Yoshimune and dealt with Shimazu Yoshihisa's Bungo force, so his son Chikatsugu made him kill himself.
+@8458
+Otomo vassal, lord of Oka Castle in Bungo, Chikasada's son. With only 1,000 men repelled a force of 35,000 under Shimazu vassal Niiro Tadamoto, retook nearby castles and was praised by Hideyoshi.
+@8460
+Otomo vassal, lord of Kanoo Castle in Bungo, a council member. At Mimikawa, angered that commander Tahara Chikakata backed Saeki Korenori's caution, he charged the Shimazu in the van and died.
+@8462
+Otomo vassal, Sorin's brother-in-law, aide in governance. Commanded at Mimikawa but could not control his generals and lost heavily. Died fighting in Kyushu at Sekigahara.
+@8464
+Otomo vassal, castellan of Tachibana Castle's west. Lamed by lightning, he rode a palanquin yet always led the Otomo van, nicknamed "Demon Dosetsu". Spent his life on campaign, the clan's fiercest warrior.
+@8466
+Otomo vassal, lord of Homan Castle in Chikuzen, active in the Chikuzen campaign. Later rebelled with the Mori, sparking all-out Otomo-Mori conflict in Chikuzen.
+@8468
+Otomo vassal, Sorin's strategist and Tachibana Dosetsu's teacher. When Sorin ignored his advice to postpone the Hyuga expedition, he burned his secret books, marched out and died.
+@8470
+Otomo vassal, tutor of lord Yoshiaki's heir Yoshishige, who disliked him. Urged Yoshiaki to disinherit Yoshishige and set off Nikai Kuzure, then fled and was killed in Higo.
+@8472
+Otomo vassal, one of the Three Elders of Bungo, a clever strategist. When the Otomo and Mori faced each other in Chikuzen, incited Ouchi Yoshitaka's cousin Teruhiro to invade Suo, forcing the Mori to withdraw.
+@8474
+Otomo vassal, one of the Three Elders of Bungo, aide to lord Yoshishige in governance. Won merit at Senbagahara against the Ouchi, Tatarahama against the Mori and many other battles.
+@8476
+Otomo vassal, Akimichi's son. Attended Sorin from childhood. As castellan of Tachibana Castle's west ran Hakata and befriended rich merchants like Shimai Soshitsu. Died at Mimikawa.
+@8478
+Otomo vassal, Shigenobu's son. At Sekigahara opposed lord Yoshimune's plan to join the West and urged the East, but was rejected. Followed Yoshimune, fought Kuroda Kanbei's army and died.
+@8480
+Otomo vassal, lord of Iwaya Castle in Chikuzen, Yoshihiro Akimichi's second son. A fierce warrior on par with Tachibana Dosetsu. Met 50,000 Shimazu with 700 men and died fighting, taking many with him.
+@8482
+Otomo vassal, Takahashi Joun's son. Married Tachibana Dosetsu's daughter. Hideyoshi praised his "loyalty and courage first in Chinzei". Joined the West at Sekigahara and was dispossessed, later restored.
+@8484
+Chikuzen gentry, lord of Koshosan Castle. Served the Otomo but, dissatisfied, allied with Mori Motonari and rebelled. Fought well against 20,000 Otomo but lost to numbers and killed himself.
+@8486
+Chikuzen gentry, lord of Koshosan Castle, Fumitane's eldest. Retook his castle from the Otomo with Mori aid. Defeated by Hideyoshi's Kyushu force, he presented the "Narashiba" tea caddy to avoid dispossession.
+@8488
+Chikuzen gentry, lord of Koshosan Castle, Tanezane's eldest. Yielded to Hideyoshi's Kyushu force and was moved to Hyuga Takanabe, 30,000 koku. Defected to the East at Sekigahara and kept his lands.
+@8490
+Chikuzen gentry, Akizuki Tanezane's second son. Yielded to Hideyoshi and held Hyuga Nobeoka, 50,000 koku. Defected to the East at Sekigahara. Later dispossessed for hiding kin of a rebel.
+@8492
+Hizen gentry, lord of Gokayama Castle. Served the Shoni and lost to Ouchi vassal Sue Okifusa. After the Ouchi fell joined Mori Motonari with Akizuki Fumitane, attacked by the Otomo, killed himself.
+@8494
+Hizen gentry, lord of Gokayama Castle, Koremon's son. Switched repeatedly among the Mori, Otomo, Ryuzoji and Shimazu, then yielded to Hideyoshi. Joined the West at Sekigahara and was dispossessed.
+@8496
+Chikuzen gentry, lord of Kojo Castle, Kusano Shigenaga's son. Adopted by Harada Chikatane after his death. Yielded to Hideyoshi's Kyushu force and kept his lands. Died in Korea.
+@8498
+Chikugo gentry, lord of Kamachi Castle, styled Musashi no kami. Founder of the Shimo Kamachi, the main Kamachi line. Built Yanagawa Castle as his seat. Served the Otomo as head of the 24-castle daimyo.

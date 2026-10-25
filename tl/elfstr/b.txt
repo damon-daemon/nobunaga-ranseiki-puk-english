@@ -1,0 +1,5 @@
+# chunk b: e640000 .. e64ffff (ELF UI labels: editor fields, lists, name entry)
+# key<TAB>English; \n = newline; "-" = keep the Japanese (debug text); ASCII only.
+# Smoke-test set (phase 6b port): difficulty levels (pointer-table strings).
+e640da0	Beginner
+e640db0	Advanced

@@ -1,0 +1,1000 @@
+@7001
+Kuno Muneyoshi
+@7003
+Suganuma Sadamitsu
+@7005
+Sekiguchi Chikanaga
+@7007
+Mishuku Masatomo
+@7009
+Yamamoto Kansuke
+@7011
+Matsudaira Kiyoyasu
+@7013
+Matsudaira Hirotada
+@7015
+Tokugawa Ieyasu
+@7017
+Matsudaira Nobuyasu
+@7019
+Yuki Hideyasu
+@7021
+Tokugawa Hidetada
+@7023
+Matsudaira Tadayoshi
+@7025
+Matsudaira Tadateru
+@7027
+Sakai Tadatsugu
+@7029
+Sakai Ietsugu
+@7031
+Sakai Tadayo
+@7033
+Sakai Tadakatsu
+@7035
+Honda Tadakatsu
+@7037
+Honda Tadamasa
+@7039
+Honda Tadatomo
+@7041
+Honda Shigetsugu
+@7043
+Honda Masanobu
+@7045
+Honda Masazumi
+@7047
+Sakakibara Yasumasa
+@7049
+Ishikawa Kazumasa
+@7051
+Ishikawa Yasunaga
+@7053
+Ishikawa Ienari
+@7055
+Okubo Tadatoshi
+@7057
+Okubo Tadakazu
+@7059
+Okubo Tadayo
+@7061
+Okubo Tadachika
+@7063
+Okubo Tadasuke
+@7065
+Torii Mototada
+@7067
+Hattori Yasunaga
+@7069
+Hattori Hanzo
+@7071
+Hiraiwa Chikayoshi
+@7073
+Watanabe Moritsuna
+@7075
+Aoyama Tadanari
+@7077
+Aoyama Tadatoshi
+@7079
+Abe Sadayoshi
+@7081
+Itakura Katsushige
+@7083
+Ina Tadatsugu
+@7085
+Doi Toshikatsu
+@7087
+Naito Kiyonari
+@7089
+Makino Yasunari
+@7091
+Yamaguchi Shigemasa
+@7093
+Shiba Yoshimune
+@7095
+Shiba Yoshikane
+@7097
+Mori Hideyori
+@7099
+Tsugawa Yoshifuyu
+@7101
+Oda Nobutomo
+@7103
+Nagoya Katsuyasu
+@7105
+Oda Nobuyasu
+@7107
+Honda Toshihisa
+@7109
+Honda Toshitomo
+@7111
+Oda Nobuhide
+@7113
+Oda Nobunaga
+@7115
+Oda Nobutada
+@7117
+Oda Hidenobu
+@7119
+Oda Nobukatsu
+@7121
+Oda Nobutaka
+@7123
+Oda Nobuyuki
+@7125
+Oda Nobuzumi
+@7127
+Oda Nobukane
+@7129
+Oda Nagamasu
+@7131
+Oda Nobumitsu
+@7133
+Hayashi Hidesada
+@7135
+Hirate Masahide
+@7137
+Ikeda Tsuneoki
+@7139
+Ikeda Terumasa
+@7141
+Kawajiri Hidetaka
+@7143
+Kawajiri Hidenaga
+@7145
+Sakuma Nobumori
+@7147
+Sassa Narimasa
+@7149
+Shibata Katsuie
+@7151
+Shibata Katsutoyo
+@7153
+Niwa Nagahide
+@7155
+Niwa Nagashige
+@7157
+Hashiba Hideyoshi
+@7159
+Toyotomi Hideyori
+@7161
+Hashiba Hidenaga
+@7163
+Toyotomi Hidetsugu
+@7165
+Kobayakawa Hideaki
+@7167
+Hiraoka Yorikatsu
+@7169
+Matsuno Shigemoto
+@7171
+Harada Naomasa
+@7173
+Maeda Toshiie
+@7175
+Maeda Toshinaga
+@7177
+Maeda Toshimasa
+@7179
+Ikoma Chikamasa
+@7181
+Kanamori Nagachika
+@7183
+Hachisuka Masatoshi
+@7185
+Hachisuka Masakatsu
+@7187
+Hachisuka Iemasa
+@7189
+Hachiya Yoritaka
+@7191
+Mori Yoshinari
+@7193
+Mori Nagayoshi
+@7195
+Mori Ranmaru
+@7197
+Mori Tadamasa
+@7199
+Sakuma Morimasa
+@7201
+Sakuma Katsumasa
+@7203
+Sakuma Yasumasa
+@7205
+Maeno Nagayasu
+@7207
+Hori Hidemasa
+@7209
+Hori Hideharu
+@7211
+Murai Sadakatsu
+@7213
+Asano Nagamasa
+@7215
+Asano Yoshinaga
+@7217
+Asano Nagaakira
+@7219
+Onogi Shigetsugu
+@7221
+Kato Kiyomasa
+@7223
+Kato Yoshiakira
+@7225
+Ban Naoyuki
+@7227
+Kuwayama Motoharu
+@7229
+Sengoku Hidehisa
+@7231
+Nakamura Kazuuji
+@7233
+Fukushima Masanori
+@7235
+Horio Yoshiharu
+@7237
+Mashita Nagamori
+@7239
+Mizoguchi Hidekatsu
+@7241
+Mori Katsunaga
+@7243
+Yamanouchi Kazutoyo
+@7245
+Tokunaga Nagamasa
+@7247
+Tokuyama Hideaki
+@7249
+Toda Katsushige
+@7251
+Dodo Tsunaie
+@7253
+Hara Nagayori
+@7255
+Hiratsuka Tamehiro
+@7257
+Furuta Shigeteru
+@7259
+Menju Katsuteru
+@7261
+Toki Yoriaki
+@7263
+Toki Yoritsugu
+@7265
+Toki Yorimoto
+@7267
+Saito Dosan
+@7269
+Saito Yoshitatsu
+@7271
+Saito Tatsuoki
+@7273
+Saito Toshimitsu
+@7275
+Akechi Mitsuhide
+@7277
+Akechi Hidemitsu
+@7279
+Ando Morinari
+@7281
+Inaba Ittetsu
+@7283
+Ujiie Bokuzen
+@7285
+Ujiie Yukihiro
+@7287
+Takenaka Hanbei
+@7289
+Takenaka Shigekado
+@7291
+Hineno Hironari
+@7293
+Kani Saizo
+@7295
+Maeda Geni
+@7297
+Endo Yoshitaka
+@7299
+Toyama Kageto
+@7301
+Tsumaki Hirotada
+@7303
+Mizo Shigetomo
+@7305
+Mitsuki Naoyori
+@7307
+Anegakoji Yoshiyori
+@7309
+Anegakoji Yoritsuna
+@7311
+Mitsuki Akitsuna
+@7313
+Ichinomiya Kunitsuna
+@7315
+Uchigashima Ujimasa
+@7317
+Ema Tokimori
+@7319
+Ema Terumori
+@7321
+Asoya Naomori
+@7323
+Shioya Akisada
+@7325
+Seki Morinobu
+@7327
+Seki Kazumasa
+@7329
+Kanbe Tomomori
+@7331
+Nagano Tanefuji
+@7333
+Nagano Fujisada
+@7335
+Hosono Fujimitsu
+@7337
+Hosono Fujiatsu
+@7339
+Wakebe Mitsuyoshi
+@7341
+Kitabatake Harutomo
+@7343
+Kitabatake Tomonori
+@7345
+Kitabatake Tomofusa
+@7347
+Kitabatake Masanori
+@7349
+Nagano Tomofuji
+@7351
+Kozukuri Tomomasa
+@7353
+Kozukuri Nagamasa
+@7355
+Toriyao Mitsuhide
+@7357
+Fujikata Tomonari
+@7359
+Fujikata Yasumasa
+@7361
+Obama Kagetaka
+@7363
+Mukai Masatsuna
+@7365
+Kuki Yoshitaka
+@7367
+Kuki Moritaka
+@7369
+Takeda Nobutora
+@7371
+Takeda Shingen
+@7373
+Takeda Yoshinobu
+@7375
+Takeda Katsuyori
+@7377
+Nishina Morinobu
+@7379
+Takeda Nobushige
+@7381
+Takeda Nobutoyo
+@7383
+Takeda Nobukado
+@7385
+Anayama Nobukimi
+@7387
+Oyamada Nobuari
+@7389
+Oyamada Nobushige
+@7391
+Itagaki Nobukata
+@7393
+Amari Torayasu
+@7395
+Akiyama Nobutomo
+@7397
+Kosaka Masanobu
+@7399
+Baba Nobufusa
+@7401
+Naito Masatoyo
+@7403
+Obu Toramasa
+@7405
+Yamagata Masakage
+@7407
+Tsuchiya Masatsune
+@7409
+Obata Toramori
+@7411
+Obata Kagenori
+@7413
+Tada Mitsuyori
+@7415
+Hara Toratane
+@7417
+Yokota Takatoshi
+@7419
+Hajikano Masatsugu
+@7421
+Atobe Katsusuke
+@7423
+Okubo Nagayasu
+@7425
+Hirabayashi Masatsune
+@7427
+Sanada Yukitaka
+@7429
+Sanada Nobutsuna
+@7431
+Sanada Masayuki
+@7433
+Sanada Nobuyuki
+@7435
+Sanada Yukimura
+@7437
+Sanada Daisuke
+@7439
+Yazawa Yoritsuna
+@7441
+Yazawa Yoriyasu
+@7443
+Murakami Yoshikiyo
+@7445
+Murakami Kunikiyo
+@7447
+Takanashi Masayori
+@7449
+Takanashi Hidemasa
+@7451
+Takanashi Yorichika
+@7453
+Ashida Nobushige
+@7455
+Suda Mitsuchika
+@7457
+Suda Nagayoshi
+@7459
+Yashiro Masakuni
+@7461
+Yashiro Katsunaga
+@7463
+Shimazu Tadanao
+@7465
+Kasahara Kiyoshige
+@7467
+Ogasawara Nagamune
+@7469
+Ogasawara Nagatoki
+@7471
+Ogasawara Sadayoshi
+@7473
+Ogasawara Hidemasa
+@7475
+Inukai Masanori
+@7477
+Inukai Hisatomo
+@7479
+Futatsugi Shigeyoshi
+@7481
+Mizoguchi Sadayasu
+@7483
+Suwa Yorimitsu
+@7485
+Suwa Yorishige
+@7487
+Suwa Mitsuchika
+@7489
+Suwa Yoritada
+@7491
+Takato Yoritsugu
+@7493
+Hoshina Masatoshi
+@7495
+Kiso Yoshiari
+@7497
+Kiso Yoshiyasu
+@7499
+Kiso Yoshimasa
+@7014
+Lord of Mikawa. Son of Kiyoyasu. Driven from Okazaki Castle for a time, he returned and ruled under Imagawa Yoshimoto's protection. Killed by the anti-Matsudaira assassin Iwamatsu Hachiya.
+@7016
+Founder of the Edo shogunate. Son of Hirotada. Became independent after Okehazama; allied with the Oda, served the Toyotomi and grew in power. Won Sekigahara and became Shogun.
+@7018
+Ieyasu's eldest son. Married Nobunaga's daughter Tokuhime. Brave and brilliant, he was promising, but Nobunaga suspected him of ties to the Takeda and he was made to commit seppuku by his father.
+@7020
+Ieyasu's second son. Inherited the Yuki headship. Stayed in Kanto against Uesugi Kagekatsu at Sekigahara; afterwards held Echizen Fukui (750,000 koku). Said to be fiery-tempered.
+@7022
+Ieyasu's third son. At Sekigahara, Sanada Masayuki blocked his Nakasendo march and he earned his father's displeasure. Valued for his steady, plain nature, he became 2nd Shogun of the Edo shogunate.
+@7024
+Ieyasu's fourth son. Opened battle at Sekigahara with his father-in-law Ii Naomasa. Wounded, he still beat Shimazu Yoshihiro's army; afterwards held Owari Kiyosu (620,000 koku).
+@7026
+Ieyasu's sixth son. Shunned by his father for his plain looks. Held Echigo Takada (750,000 koku) but was late to the Osaka Summer Siege, was suspected of ties to the Toyotomi and was dispossessed.
+@7028
+Foremost of the Four Guardians of the Tokugawa. Was Ieyasu's guardian in youth. Led the East Mikawa men in many campaigns and won great merit. Hideyoshi too praised his ability.
+@7030
+Tokugawa vassal. Tadatsugu's heir. Took a character from Ieyasu's name. Lord of Usui Castle on Ieyasu's entry to Kanto. Shone at the Osaka Summer Siege; gained Echigo Takada (100,000 koku).
+@7032
+Tokugawa vassal. Chief strategist of the army at Osaka. With Doi Toshikatsu and Aoyama Tadatoshi, tutor to Shogun Iemitsu. A pillar of the shogunate and senior councillor.
+@7034
+Tokugawa vassal. First battle at Sekigahara. Served four Shoguns: Ieyasu, Hidetada, Iemitsu and Ietsuna. As senior councillor and tairo he handled domestic and foreign affairs. Ietsuna called him "the finest minister".
+@7036
+One of the Four Guardians of the Tokugawa. The fiercest warrior of the house, "too good for Ieyasu". Fought 57 battles with the famed spear Tonbokiri and never took a scratch.
+@7038
+Tokugawa vassal. Tadakatsu's heir. Served at Odawara, Sekigahara and Osaka; held Harima Himeji (150,000 koku). His son Tadatoki married Senhime, widowed from Toyotomi Hideyori.
+@7040
+Tokugawa vassal. Tadakatsu's second son. After Sekigahara held Kazusa Otaki (50,000 koku). Led the Tennoji vanguard in the Summer Siege, charged Mori Katsunaga head-on and fell.
+@7042
+Tokugawa vassal. Okazaki magistrate known as "Demon Sakuza". Angered Hideyoshi by treating his mother Okamandokoro coldly while she was a Tokugawa hostage, and was confined to his home.
+@7044
+Tokugawa vassal. Joined the Mikawa Ikko uprising and left his lord, wandered the provinces, then returned. Skilled in administration and plotting. Ieyasu is said to have called him "friend".
+@7046
+Tokugawa vassal. Masanobu's heir. Elder at Sunpu Castle. Active in domestic and foreign affairs with Konchiin Suden; held Shimotsuke Utsunomiya (150,000 koku) but displeased Hidetada and was dispossessed.
+@7048
+One of the Four Guardians of the Tokugawa. Raced the field under his "Mu" banner, winning great merit. Declined a councillor's post: "Elders contending for power is a sign of ruin."
+@7050
+Tokugawa vassal. An elder who led the West Mikawa men. After Komaki-Nagakute he fled to the Toyotomi, so the Tokugawa reformed their Mikawa military system on Takeda lines.
+@7052
+Tokugawa vassal. Kazumasa's son. Followed his father out of the house to the Toyotomi. Inherited Shinano Matsumoto (60,000 koku); on the Eastern side at Sekigahara. Later dispossessed for hiding land.
+@7054
+Tokugawa vassal. Kazumasa's uncle. Won merit pacifying the Mikawa Ikko uprising. After the Imagawa fell, became lord of Kakegawa; later held Mino Ogaki (50,000 koku). Called utterly loyal to Ieyasu.
+@7056
+Tokugawa vassal. A loyal retainer who aided his lord Hirotada's return to Okazaki and helped Ieyasu crush the Mikawa Ikko uprising, supporting the house through its hard years.
+@7058
+Tokugawa vassal. With his brother Tadatoshi, helped Hirotada return to Okazaki. Also fought at Kanie. In the Mikawa Ikko uprising held Kamiwada Fort with his kin against the rebels.
+@7060
+Tokugawa vassal. Tadakazu's eldest son. Fought at Mikatagahara, Nagashino and many more; his bold nature won great merit and the high regard of Nobunaga and Hideyoshi.
+@7062
+Tokugawa vassal. Tadayo's heir. Chief elder to Hidetada. Hugely trusted by Hidetada and the hatamoto, but was dispossessed through the schemes of his rival Honda Masanobu.
+@7064
+Tokugawa vassal. Tadakazu's second son. Won merit in many battles with his brother Tadayo. His bravery amazed even Nobunaga. After Sekigahara held Suruga Numazu (20,000 koku).
+@7066
+Tokugawa vassal. At Sekigahara held Fushimi Castle on Ieyasu's orders. After a 13-day siege he fell with the garrison. His loyalty was praised as "the mirror of the Mikawa warrior".
+@7068
+Tokugawa vassal. Led the Iga ninja as spy chief. Helped supply Odaka Castle at Okehazama. Before the Tensho Iga War persuaded the Koga to join the Tokugawa.
+@7070
+Tokugawa vassal. Son of Hanzo Yasunaga. Succeeded his father as spy chief. Guarded Ieyasu on his flight through Iga and saw him safely home. Known as "Demon Hanzo".
+@7072
+Tokugawa vassal. Gentle and sincere, he won Ieyasu's great trust and was guardian to Matsudaira Nobuyasu. After Nobuyasu's seppuku, guardian to Ieyasu's ninth son Yoshinao.
+@7074
+Tokugawa vassal. Won merit across the land and was called "Hanzo of the Spear". Joined Sekigahara as a hatamoto. Late in life, elder of the Owari Tokugawa, aiding the lord Yoshinao.
+@7076
+Tokugawa vassal. Guardian to Hidetada. After Sekigahara served with Naito Kiyonari as Edo magistrate and Kanto chief magistrate. Later incurred Ieyasu's wrath and was confined.
+@7078
+Tokugawa vassal. Guardian to Iemitsu with Doi Toshikatsu. Dispossessed after incurring Iemitsu's wrath, he refused a recall and retired. His son Munetoshi became guardian to Iemitsu's son Ietsuna.
+@7080
+Matsudaira vassal. His son Yashichiro killed lord Kiyoyasu by mistake; he tried to kill himself but was stopped. Helped Kiyoyasu's son Hirotada return to Okazaki and served as his aide.
+@7082
+Tokugawa vassal. A monk at first, he left the cloth and took the headship when his father and brother fell. Magistrate of Sunpu and Edo, then Kyoto Shoshidai, watching the western daimyo.
+@7084
+Tokugawa vassal. Ieyasu's attendant, took part in civil government. His Kanto land surveys, fief allotment and flood control built the shogunate's economy; his methods were called the "Ina style".
+@7086
+Tokugawa vassal. Son of Mizuno Nobumoto; said by some to be Ieyasu's illegitimate son. Served Hidetada and Iemitsu as senior councillor and tairo, and did much to steady the Edo shogunate.
+@7088
+Tokugawa vassal. Ieyasu's page. Trusted by him, served as Hidetada's guardian and Kanto chief magistrate. Later incurred Ieyasu's wrath and was confined at home.
+@7090
+Tokugawa vassal. Lord of Ushikubo Castle. In Hidetada's army at Sekigahara. Fought hard at the Ueda Castle siege but broke military orders and was confined. Pardoned later, he retired in ill health.
+@7092
+Tokugawa vassal. First served Oda vassal Sakuma Masakatsu, then Oda Nobukatsu. After Nobukatsu's dispossession, Ieyasu invited him, but later he incurred Ieyasu's wrath and was confined.
+@7094
+14th head of the Owari Shiba. Lived at Kiyosu Castle as a puppet of Deputy Constable Oda Nobutomo. Warned Nobunaga of Nobutomo's plot to assassinate him, and was murdered by Nobutomo.
+@7096
+15th head of the Owari Shiba. Yoshimune's heir. When Nobutomo killed his father, turned to Nobunaga and fought Nobutomo. Later fell out with Nobunaga, was exiled and wandered.
+@7098
+Shiba Yoshimune's second son. Served the Oda in campaigns; after pacifying Shinano held Ina District. After Honnoji joined Hideyoshi, fought in Kyushu and became lord of Iida Castle.
+@7100
+Shiba Yoshimune's third son. Lord of Matsugashima Castle and elder to Oda Nobukatsu. Killed at Nagashima Castle with Okada Shigetaka by Nobukatsu, who fell for Hideyoshi's scheme.
+@7102
+Deputy Constable of the lower four Owari districts, also called Hironobu. Lord of Kiyosu. Killed Constable Shiba Yoshimune; Oda Nobumitsu attacked his castle on Nobunaga's orders and he killed himself.
+@7104
+Shiba vassal. At 16 or 17 was bound in male love to Yanada Yajiemon. Later the two reportedly schemed to bring Kiyosu's elders over to Nobunaga.
+@7106
+Owari gentry. Lord of Iwakura Castle. Backed Oda Nobuyuki, lost to Nobunaga at Ukino, and was later driven out by his son Nobukata. Still fought Nobunaga with Saito Yoshitatsu's help.
+@7108
+Toyotomi vassal. First called Mizuno Hanemon, served Iwakura lord Oda Nobuyasu. Later served Toyotomi Hidenaga; when Wakisaka Yasuharu was transferred he became lord of Takatori (25,000 koku).
+@7110
+Toyotomi vassal. Toshihisa's son. Lord of Takatori. Joined the East at Sekigahara; his castle, left lordless, was attacked by the West but did not fall. Kept his domain afterwards.
+@7112
+Daimyo of Owari, the "Tiger of Owari". A fierce warrior who fought the Imagawa and Saito to unify Owari, but died suddenly of an epidemic with his aims unfulfilled.
+@7114
+Nobuhide's heir. Beat Imagawa Yoshimoto at Okehazama. Declared "Tenka Fubu" and destroyed one foe after another. On the eve of unification, fell at Honnoji to Akechi Mitsuhide's treachery.
+@7116
+Nobunaga's heir. Won merit crushing Matsunaga Hisahide's revolt and in the Kai campaign. Received the headship from Nobunaga, held Mino and Owari. Killed himself at Nijo Castle during Honnoji.
+@7118
+Nobutada's heir. After Honnoji, Hashiba Hideyoshi installed him at 3 as head of the Oda, but Hideyoshi took the power. Sided with the West at Sekigahara, lost, and took Buddhist vows on Koya.
+@7120
+Nobunaga's second son. Adopted by the Kitabatake, Ise governors, and took the headship. Served the Toyotomi after Honnoji. Refused a transfer from Ieyasu's old lands and was dispossessed.
+@7122
+Nobunaga's third son. Adopted by Ise gentry Kanbe Tomomori and took the headship. After Honnoji allied with Shibata Katsuie against Hideyoshi, lost, and was made to kill himself.
+@7124
+Nobuhide's second son. Unlike his "fool" brother Nobunaga, he was bright from childhood and well thought of. Backed by Hayashi Hidesada as heir, he was murdered by Nobunaga at Kiyosu.
+@7126
+Nobuyuki's son. Served his uncle Nobunaga. Married Akechi Mitsuhide's daughter. Called "a first-rate talent", he was killed by his cousin Nobutaka at Honnoji.
+@7128
+Nobuhide's fourth son. Fought in the Echizen campaign and at Ishiyama Hongan-ji. After Honnoji served Hideyoshi as guardian to Hideyori. His daughter became Hideyoshi's favoured concubine.
+@7130
+Nobuhide's tenth son, styled Uraku-sai. Devoted to tea, one of Rikyu's Seven Disciples. Joined the Toyotomi after Nobunaga's death, but sided with the Tokugawa just before Osaka and left the castle.
+@7132
+Nobusada's son. A fine warrior, led the rearguard at Azukizaka against the Imagawa. Helped nephew Nobunaga take Kiyosu; lord of Nagoya Castle, murdered by a retainer months later.
+@7134
+Oda vassal. Chief elder. Backed Nobuyuki in the succession fight and lost, but was forgiven. Did little afterwards; the Nobuyuki affair was raised again and he was exiled.
+@7136
+Oda vassal. Second elder and Nobunaga's guardian. Worked diplomatically, helping bring Saito Dosan's daughter Kicho to Nobunaga as wife. Died remonstrating to cure Nobunaga's eccentricity.
+@7138
+Oda vassal. Nobunaga's foster brother. Shone at Anegawa and elsewhere. After Honnoji became one of the Oda's four senior elders. Backed Hideyoshi at Komaki-Nagakute and fell there.
+@7140
+Oda vassal. Tsuneoki's second son. Served the Toyotomi after Honnoji. With the East at Sekigahara, afterwards held Harima Himeji (520,000 koku) as the "Himeji Councillor".
+@7142
+Oda vassal. Head of the Black Horo Guard. Aide to Nobunaga's heir Nobutada. Shone in the Kai campaign and was given all Kai. Killed in the Kai gentry uprising after Honnoji.
+@7144
+Toyotomi vassal. Lord of Naeki Castle. Hidetaka's son. Fought at Komaki-Nagakute and Odawara; in Korea was posted at Nagoya in Hizen. Joined the West at Sekigahara and fell.
+@7146
+Oda vassal. Won fame in many battles as "Retreating Sakuma". Commander at Ishiyama Hongan-ji, but after the Hongan-ji's withdrawal was rebuked for negligence and exiled.
+@7148
+Oda vassal. Helped Shibata Katsuie conquer Hokuriku. After Honnoji opposed Hashiba Hideyoshi, lost and surrendered. Failed to govern his transfer domain of Higo and was ordered to commit seppuku.
+@7150
+Oda vassal. A fierce warrior called "Charge Shibata". Commanded the Hokuriku army. After Honnoji fought Hideyoshi, lost at Shizugatake and killed himself at Kitanosho Castle.
+@7152
+Shibata vassal. Adopted by his uncle Katsuie. Lord of Nagahama Castle. Later fell out with Katsuie; Hideyoshi learned of it, attacked and he surrendered. Died of illness just after Shizugatake.
+@7154
+Oda vassal. Called "Rice Gorozaemon". Active in administration, as construction magistrate of Azuchi Castle. After Honnoji joined Hideyoshi and held Echizen Kitanosho (1,200,000 koku).
+@7156
+Toyotomi vassal. Nagahide's heir. Inherited Echizen Kitanosho (1,200,000 koku) but was cut back, losing all after Sekigahara. Fought at Osaka and held Mutsu Shirakawa (100,000 koku).
+@7158
+The Sengoku's greatest rise. Served Oda Nobunaga, his rare popularity and wits bringing him to the fore. After Honnoji felled Akechi Mitsuhide and Shibata Katsuie in turn and ruled the realm.
+@7160
+Hideyoshi's second son. After Sekigahara fell to a daimyo of 650,000 koku in Settsu, Kawachi and Izumi. At Osaka, overprotected by his mother Yodo-dono, he never took the field and killed himself.
+@7162
+Hideyoshi's half-brother. Right hand of his brother's rise. Gentle and popular, he negotiated between Hideyoshi and other daimyo. Died before Hideyoshi, mourned by all the generals.
+@7164
+Son of Miyoshi Yoshifusa (Hideyoshi's brother-in-law). Succeeded Hideyoshi as Regent, but after Hideyori's birth his savagery won him the name "Killer Regent"; made to commit seppuku for treason.
+@7166
+Son of Kinoshita Iesada (Hideyoshi's brother-in-law). Adopted by Kobayakawa Takakage on Hideyoshi's order. Defected to the East at Sekigahara and helped win it, then died suddenly two years later.
+@7168
+Kobayakawa vassal. After wandering, served the Toyotomi, then became Kobayakawa elder. At Sekigahara dealt with Kuroda Nagamasa to turn his lord Hideaki. Served the Tokugawa after.
+@7170
+Kobayakawa vassal. Gunner captain, appointed Shume no Kami. At Sekigahara he did not follow Hideaki's defection and left the field. Later served Tanaka Yoshimasa and Tokugawa Tadanaga.
+@7172
+Oda vassal. One of the Red Horo Guard. First took the Hanawa name. Was magistrate when Nobunaga was granted Ranjatai. Killed by the uprising forces at Ishiyama Hongan-ji.
+@7174
+Oda vassal. Famed in many battles as "Matazaemon of the Spear". Later followed Shibata Katsuie in pacifying Hokuriku. After Nobunaga's death served Hideyoshi and became one of the Five Tairo.
+@7176
+Toshiie's heir. After he took the headship, rumours of treason spread, but he escaped punishment by sending his mother Hoshun-in as hostage. With the East at Sekigahara, held Kaga (1,000,000 koku).
+@7178
+Toshiie's second son. Married Gamo Ujisato's daughter. Held Noto (210,000 koku). Dispossessed for joining the West at Sekigahara. Lived in seclusion in Kyoto and stayed neutral at Osaka.
+@7180
+Toyotomi vassal. Held Sanuki Takamatsu (170,000 koku). One of the Three Middle Elders. With the West at Sekigahara, but his son Kazumasa joined the East, so he escaped dispossession.
+@7182
+Oda vassal. One of the Red Horo Guard. Followed Shibata Katsuie in Hokuriku. After Katsuie's death lived confined, then served Hideyoshi. Skilled at tea, counted among Rikyu's Seven Disciples.
+@7184
+Owari gentry. Masaaki's son, styled Koroku and Kurando. Succeeded his father and held 200 kan at Hachisuka Village, Kaito District, Owari. The Hachisuka are said to descend from the Seiwa Genji Ashikaga.
+@7186
+Toyotomi vassal. Helped build Sunomata overnight castle, then Hideyoshi's staff officer in civil rule and intrigue. After the Shikoku campaign held Awa Tokushima (180,000 koku) against the Chosokabe.
+@7188
+Toyotomi vassal. Masakatsu's heir. At Sekigahara put his son Yoshishige on the East to secure Awa Tokushima. Still led the domain in practice and helped found its system.
+@7190
+Oda vassal. One of the Black Horo Guard. Served Nobunaga via the Saito. Led a flying column across the land. After Honnoji joined Hideyoshi and held Echizen Tsuruga (50,000 koku).
+@7192
+Oda vassal. Fought in the Owari unification and Okehazama. As lord of Usayama Castle he guarded Lake Biwa's south shore. Fell outnumbered to the combined Asai-Asakura army.
+@7194
+Oda vassal. Yoshinari's heir. Fought the Nagashima Ikko uprising and the Takeda campaign; called "Demon Musashi". After Honnoji followed Hideyoshi and fell at Komaki-Nagakute.
+@7196
+Oda vassal. Yoshinari's third son. Nobunaga's page. Bright and handsome, he was a favourite of Nobunaga. Full of promise, he fought hard beside Nobunaga at Honnoji and fell.
+@7198
+Toyotomi vassal. Yoshinari's sixth son. Took the headship when his brother Nagayoshi fell. Followed Hidetada against Ueda Castle at Sekigahara. Later moved to Mimasaka Tsuyama (180,000 koku).
+@7200
+Shibata vassal. Moritsugu's heir. Served his uncle Katsuie. A fierce warrior called "Demon Genba". Pushed too deep at Shizugatake and caused the Shibata defeat. Captured and beheaded.
+@7202
+Shibata vassal. Moritsugu's second son. A fine warrior, granted the Shibata name by his uncle Katsuie. Shone pacifying the Kaga Ikko uprising. After Shizugatake served Hideyoshi and received the Toyotomi name.
+@7204
+Shibata vassal. Moritsugu's third son. First called himself Yasuda. After Shizugatake served Oda Nobukatsu, then the Hojo and Gamo, and finally the Tokugawa, holding Shinano Iiyama (30,000 koku).
+@7206
+Toyotomi vassal. With Hachisuka Masakatsu built Sunomata overnight castle, then Hideyoshi's right hand; held Tajima Izushi (50,000 koku). Later implicated in the Hidetsugu affair and killed himself.
+@7208
+Oda vassal. Won merit in campaigns and entertained Ieyasu, skilled in both letters and arms. After Honnoji served Hideyoshi and was treated as kin.
+@7210
+Toyotomi vassal. Hidemasa's heir. Took the headship on his father's death; held Echigo Kasugayama (450,000 koku). With the East at Sekigahara, crushed Uesugi Kagekatsu's uprising and kept his lands.
+@7212
+Oda vassal. The house's finest administrator. Kyoto Shoshidai, kept order in Kyoto and repaired the palace, aiding Nobunaga's domestic rule. Killed at Nijo Palace during Honnoji.
+@7214
+Toyotomi vassal. Brother-in-law of Hideyoshi's wife Nene. Foremost of the Five Magistrates. After Hideyoshi's death opposed Ishida Mitsunari, drew close to Ieyasu and served the Tokugawa.
+@7216
+Toyotomi vassal. Nagamasa's heir. With the East at Sekigahara, afterwards held Kii Wakayama (370,000 koku). With Kato Kiyomasa arranged the meeting of Ieyasu and Hideyori.
+@7218
+Tokugawa vassal. Nagamasa's second son. Became lord of Kii Wakayama after Yukinaga's death. Killed Hanawa Danemon at the Summer Siege. After the Fukushima fell, held Aki Hiroshima (420,000 koku).
+@7220
+Toyotomi vassal. Served at Odawara and held Tanba Fukuchiyama (40,000 koku). With the West at Sekigahara, took Tanabe Castle, but when the West's main force lost he opened it and killed himself.
+@7222
+Toyotomi vassal. One of the Seven Spears of Shizugatake. Shone in Korea, leaving the "Tiger Kato" tale. Opposed Ishida Mitsunari; with the East at Sekigahara, won Higo Kumamoto (520,000 koku).
+@7224
+Toyotomi vassal. One of the Seven Spears of Shizugatake. Called "a man of quiet courage". Main strength of the Toyotomi navy. With the East at Sekigahara, held Iyo Matsuyama (200,000 koku).
+@7226
+Kato vassal. Gunner captain who quarrelled with his lord Yoshiakira at Sekigahara, deserted and became ronin. Entered Osaka Castle and fell fighting Asano Nagaakira's army at the Summer Siege.
+@7228
+Tokugawa vassal. Shigeharu's second son. First served Hideyoshi in Korea and elsewhere. With the East at Sekigahara, afterwards held Yamato Gose (26,000 koku and more).
+@7230
+Toyotomi vassal. For pacifying Awaji, held Awaji Sumoto (50,000 koku). Leading the Kyushu vanguard, lost badly to the Shimazu at Hetsugigawa and was stripped of his domain, but later returned.
+@7232
+Toyotomi vassal. Lord of Kishiwada Castle. After Hideyoshi's death one of the Three Middle Elders, holding Suruga Fuchu (140,000 koku). With the East at Sekigahara, but died of illness just before the battle.
+@7234
+Toyotomi vassal. Foremost of the Seven Spears of Shizugatake. Fought hard for the East at Sekigahara; won Aki Hiroshima (490,000 koku). Later dispossessed for repairing Hiroshima Castle unbidden.
+@7236
+Toyotomi vassal. Warm-hearted, known as "Mosuke the Buddha". After Hideyoshi's death one of the Three Middle Elders. His son Tadauji joined the East at Sekigahara and held Izumo Matsue (240,000 koku).
+@7238
+Toyotomi vassal. One of the Five Magistrates, ran land surveys. After Hidetsugu's death held Yamato Koriyama (200,000 koku). Guarded Hideyori in Osaka Castle at Sekigahara. Dispossessed afterwards.
+@7240
+Niwa vassal, later a direct Oda retainer. After Honnoji served Hideyoshi. Guarded Nagoya Castle in Hizen in the Korean campaign. With the East at Sekigahara, kept his lands.
+@7242
+Toyotomi vassal. Joined the West at Sekigahara and was exiled to Tosa, but escaped to Osaka Castle. Second only to Sanada Yukimura in popularity, he shone at the Summer Siege and killed himself at its fall.
+@7244
+Oda vassal. Famed for the support of his wife Chiyo. After Honnoji served Hideyoshi. At Sekigahara gave Kakegawa Castle to Ieyasu, and afterwards won Tosa Kochi (240,000 koku).
+@7246
+Shibata vassal. At Shizugatake joined Hideyoshi with his lord Katsutoyo. After Hideyoshi's death carried the withdrawal order to the whole army in Korea. With the East at Sekigahara.
+@7248
+Shibata vassal. Followed Katsuie in suppressing the Echizen Ikko uprising and became lord of Komatsu. After Katsuie's death joined Hideyoshi; then the Niwa, Maeda and finally Ieyasu.
+@7250
+Niwa vassal. After his lord Nagahide's death joined the Toyotomi. Won merit at Odawara and elsewhere. Fell with the West at Sekigahara, mourned even by Eastern generals.
+@7252
+Toyotomi vassal. Won merit at Yamazaki and elsewhere. Later elder to Oda Hidenobu. At Sekigahara urged Hidenobu to join the East but failed; fought with the West, lost and wandered.
+@7000
+Hojo vassal. Son of Ujishige. Became lord of Tamanawa Castle on his father's death. Held Yamanaka Castle in Hideyoshi's Odawara campaign; it fell. Surrendered his own castle and served the Tokugawa.
+@7002
+Tokugawa vassal. Lord of Kuno Castle. First served the Imagawa, then joined Tokugawa Ieyasu through Koriki Kiyonaga. Became lord of Sakura Castle when Ieyasu entered the Kanto, later returned to Kuno.
+@7004
+Tokugawa vassal. Lord of Noda Castle. First with the Imagawa. In Takeda Shingen's Mikawa invasion, stayed with the Tokugawa while many kin defected to Shingen, and Shingen took his castle.
+@7006
+Imagawa vassal. Lord of Mochimune Castle. Imagawa kin who wed Yoshimoto's sister. His daughter Sena (Tsukiyama-dono) wed Tokugawa Ieyasu. Killed himself in 1562, said to be on lord Ujizane's order.
+@7008
+Hojo vassal. Called Kanbei. After serving the Imagawa and Takeda, served Yuki Hideyasu. Under Hideyasu's son Tadanao he deserted and entered Osaka Castle, falling in the Osaka summer campaign.
+@7010
+Takeda vassal, versed in letters and arms, strategist to Shingen. At the 4th Battle of Kawanakajima, blamed when Kenshin saw through his "woodpecker" plan, he charged to his death.
+@7012
+Mikawa daimyo. Inherited at 13. Pacified Mikawa by bold campaigns and fought Oda Nobuhide of Owari, but in the so-called "Moriyama Collapse" was killed by his vassal Abe Yashichiro.
+@7254
+Oda vassal. Yoriki of Shibata Katsuie. Fought hard as the Shibata vanguard at Shizugatake, then served the Toyotomi. Active for the West at Sekigahara; killed himself after the defeat.
+@7256
+Toyotomi vassal. Served at Odawara. With the West at Sekigahara, led the Otani army for the ailing Otani Yoshitsugu. Fought hard against the defecting Kobayakawa and fell.
+@7258
+Toyotomi vassal. Appointed Oribe no Kami. One of Rikyu's Seven Disciples. Founded Oribe ware and taught tea to many daimyo. Made to commit seppuku on suspicion of ties to the Toyotomi at Osaka.
+@7260
+Shibata vassal. Page captain to Katsuie, held 10,000 koku. When the Shibata broke at Shizugatake, he held off the Hashiba pursuit, let Katsuie retreat to Echizen, and fell.
+@7262
+Constable of Mino. Allied with Saito Dosan to exile his brother Masayori and took the headship, but Dosan later drove him from Mino. Returned briefly under truce, was exiled again and wandered.
+@7264
+Tokugawa vassal. Yorinari's second son. Became heir when his brother Yorihide fell from favour. Driven out with his father, served Matsunaga Hisahide, then the Toyotomi and Tokugawa.
+@7266
+Tokugawa vassal. Yorinari's fourth son. After his father's exile was supported by Saito Dosan. After the Saito fell served the Takeda and Toyotomi; joined Ieyasu after Sekigahara and kept his lands.
+@7268
+Sengoku daimyo of Mino, the "Viper". Monk turned oil merchant, then served Constable Toki Yorinari, exiled him and ruled Mino. Later fought his son Yoshitatsu and fell.
+@7270
+Sengoku daimyo of Mino. Dosan's son, some say Toki Yorinari's. Fought his father over the headship, killed him and ruled Mino, then died suddenly. A giant of 6 shaku 5 sun.
+@7272
+Sengoku daimyo of Mino. Yoshitatsu's heir. Took the headship at his father's death. Abandoned by the Mino Triumvirate, beaten and exiled by Nobunaga. Joined the Asakura and fell at Tonezaka.
+@7274
+Saito vassal. After the Saito fell became Akechi Mitsuhide's elder. Fought at Honnoji and Yamazaki, was captured after defeat and beheaded. His daughter was Kasuga no Tsubone, Iemitsu's nurse.
+@7276
+Oda vassal. Prized by Nobunaga for wit and learning, he suddenly rebelled and struck Nobunaga down at Honnoji. His intrigues then failed; lost at Yamazaki and was killed by peasants.
+@7278
+Akechi vassal. Son-in-law of Mitsuhide and a party to Honnoji. Held Azuchi Castle at Yamazaki, but on news of the defeat withdrew to Sakamoto, gave his treasure to the besiegers and killed himself.
+@7280
+Saito vassal. One of the Mino Triumvirate. Served Nobunaga after the Saito fell, but was later exiled. Raised troops to retake his lands after Honnoji and fell fighting Inaba Ittetsu.
+@7282
+Saito vassal. One of the Mino Triumvirate. Served the Oda after the Saito fell. At Anegawa struck the Asai flank and led his side to victory. His stubbornness gave us the word "ittetsu".
+@7284
+Saito vassal. One of the Mino Triumvirate. Served the Oda after the Saito fell. Won merit in the Ise campaign. Led the rearguard when the Oda lost at Nagashima and fell.
+@7286
+Toyotomi vassal. Bokuzen's son. Served at Odawara and gained Ise Kuwana (22,000 koku). With the West at Sekigahara, then wandered. Entered Osaka Castle and died with Hideyori at the Summer Siege.
+@7288
+Saito vassal. Seized the lord's Inabayama Castle with just 16 men. Hideyoshi prized his sharp wits and made him strategist. Followed Hideyoshi's Chugoku campaign and died of illness in camp.
+@7290
+Toyotomi vassal. Son of Hanbei Shigeharu. With the East at Sekigahara, captured Konishi Yukinaga in the Kasuyama hills. Skilled in verse and prose, he wrote the Hideyoshi chronicle "Hokyo".
+@7292
+Toyotomi vassal. Served the Saito and fought Nobunaga, then the Asai, then the Toyotomi after the Asai fell. Devised the practical battle helmet "Hine bowl".
+@7294
+Fukushima vassal. Samurai captain who studied spear arts under Hozoin Inei. At Sekigahara he stuck bamboo leaves in all 17 heads he took, earning the name "Sasa no Saizo".
+@7296
+Toyotomi vassal. An Enryakuji monk who left the cloth to serve Oda Nobutada. At Honnoji he escaped with Nobutada's heir Hidenobu. Later one of the Toyotomi Five Magistrates.
+@7298
+Mino gentry. Lord of Gujo Hachiman Castle. Served Hideyoshi. Cut back for suspected ties to the Oda at Komaki-Nagakute. With the East at Sekigahara and regained his old lands afterwards.
+@7300
+Mino gentry. Lord of Iwamura Castle. Married Nobunaga's aunt. When Takeda vassal Akiyama Nobutomo attacked Iwamura, he asked Nobunaga for aid and fought the Takeda with Akechi Mitsuhide.
+@7302
+Akechi vassal. Lord of Tsumagi Castle, a branch of the Mino Constable Toki. His niece Hiroko (daughter of his brother Norihiro) married Mitsuhide. Killed himself at Sakamoto in Omi when Mitsuhide lost at Yamazaki.
+@7304
+Akechi vassal, known as Shobei. Mitsuhide's trusted aide. After the Yamazaki defeat he acted as Mitsuhide's second, hid his head in a thicket, and killed himself.
+@7306
+Hida gentry. Built Sakurado Castle as his seat and expanded across Hida. Allied with the northern Hida Anegakoji, the Mino Toki and the Hongan-ji, building a great power in Hida.
+@7308
+Hida gentry. Naoyori's son. Took the Anegakoji name, heirs of the Hida governors. Allied with Uesugi Kenshin and waged military and diplomatic war on the Ema, allied with Takeda Shingen.
+@7310
+Hida gentry. Yoshiyori's eldest son. Crushed neighbouring gentry and unified Hida. After Honnoji allied with Sassa Narimasa against Hideyoshi, lost, and retired to Kyoto, where he died.
+@7312
+Anegakoji vassal. Yoshiyori's second son. Poisoned his adoptive father Nabeyama Yasumuro, drove out his adoptive mother and seized Nabeyama Castle. Plotted against his brother Yoritsuna and was assassinated.
+@7314
+Anegakoji vassal. Married the sister of his lord Yoritsuna. Beaten and captured by Kanamori Nagachika's Hida invasion army, but spared. Later resented Nagachika's rule, rebelled and fell.
+@7316
+Hida gentry. Lord of Kaerikumo Castle. Submitted to Kanamori Nagachika's invasion, but a great earthquake buried his castle and a landslide flood destroyed the house. A buried-gold legend remains.
+@7318
+Hida gentry. Lord of Suwa Castle. Fought the Miki. Sought friendship with the Takeda but opposed his heir Terumori, who urged ties to the Uesugi, and was killed by Terumori's assassin.
+@7320
+Hida gentry. Tokimori's heir. Killed his father over a dispute, drove out his brother Nobumori and took the Ema house. Plotted to overthrow Anegakoji Yoritsuna after Honnoji, but was struck down.
+@7322
+Hida gentry. Ema Tokitsune's second son, Tokimori's brother. Took the Aso-no name from his seat, the Aso-no cave castle. His son Yoshimori was later killed by his cousin Ema Terumori.
+@7324
+Hida local lord. Lord of Ozaki Castle. Served Uesugi Kenshin in Etchu and Hida and was made magistrate by him. After Kenshin's death joined Nobunaga and fell fighting Etchu locals.
+@7326
+Ise gentry. Lord of Kameyama Castle. Submitted to Nobunaga's Ise invasion. After Honnoji followed Hideyoshi, later became Gamo Ujisato's yoriki and moved to Aizu with him.
+@7328
+Ise gentry. Lord of Kameyama Castle. Morinobu's second son. Served the Gamo, shone in the Oshu campaign. With the East at Sekigahara, held Hoki Kurosaka (50,000 koku); dispossessed after strife.
+@7330
+Ise gentry. Lord of Kanbe Castle. Adopted Nobunaga's third son Nobutaka. Later confined in Hino Castle in Omi, but pardoned to hold the castle when Nobutaka sailed for Shikoku.
+@7332
+14th head of the Nagano Kudo, one of the four Ise houses with the Kitabatake and Seki. Repeatedly fought and joined with the Kitabatake over central Ise.
+@7334
+15th head of the Nagano Kudo. Fought the Kitabatake, Ise governors, but with no sons made peace by adopting Kitabatake Tomonori's second son Tomofuji. Served the Kitabatake thereafter.
+@7336
+Nagano Michifuji's son, styled Izu no Kami. Adopted into the Hosono, a Nagano Kudo branch, and built his house at Ano. The Hosono descend from Fujinobu, second son of the 5th Nagano head Toyofuji.
+@7338
+Nagano Kudo vassal. Fujimitsu's heir. Urged resistance to Nobunaga's Ise invasion and held out in Ano Castle, then made peace. Served the Toyotomi after Honnoji.
+@7340
+Nagano Kudo vassal. Hosono Fujimitsu's second son. Urged submission to Nobunaga's Ise invasion and joined Oda Nobukane, who took the Nagano. Later served Hideyoshi as lord of Ueno Castle in Ise.
+@7342
+7th head of the Kitabatake, Ise governors. Fought the townsmen of Ujiyamada, the Ise Shrine's gate town (Yamada Sanpo), for years. A master of archery and horse, skilled in verse and calligraphy.
+@7344
+8th head of the Kitabatake, Ise governors. Harutomo's son. Held out in Okawachi Castle against Nobunaga, then made peace by adopting Nobunaga's second son Nobukatsu, who later had him murdered.
+@7346
+9th head of the Kitabatake, Ise governors. Tomonori's son. After Oda Nobukatsu killed his father, he was held by Takigawa Kazumasu and confined for 3 years in Kawachi, Anou. Died of illness soon after release.
+@7348
+Tomofusa's heir. Born in flight to a mother who escaped when Oda Nobukatsu murdered the Kitabatake. Wandered, became a guest of the Tsugaru and sought to revive the Kitabatake, in vain.
+@7350
+Kitabatake Tomonori's second son. Adopted into the Nagano and took the headship when the Kitabatake and Nagano made peace. Resisted Nobunaga's Ise invasion with his father; murdered by Oda Nobukatsu.
+@7352
+Kitabatake Harutomo's son. The Kizuki are a Kitabatake branch from Akitoshi, son of the first Ise governor. Defied his brother Tomonori, submitted to the Oda and served Nobukatsu.
+@7354
+Oda vassal. Tomomasa's son. Served Nobukatsu, who took the Kitabatake. After Nobukatsu's fall became elder to Oda Hidenobu. At Sekigahara urged Hidenobu to join the East, but failed.
+@7356
+Kitabatake vassal, styled Iwami no Kami. Called "skilled in letters and arms, deep in wit". After Nobukatsu murdered the Kitabatake, rallied old retainers with Kitabatake Tomochika, rose and fell.
+@7358
+Kitabatake vassal. Submitted to Nobunaga's Ise invasion and served Nobukatsu, who took the Kitabatake. On Nobunaga's order murdered his old lord Tomonori. Served Hideyoshi after Honnoji.
+@7360
+Oda vassal. Served Oda Nobukane, then Toyotomi Hidetsugu after Nobukane's dispossession. After the Hidetsugu affair, Ieyasu summoned him and gave 500 koku in Shimosa. Served the Tokugawa after.
+@7362
+Kitabatake vassal. One of the Shima pirates. Fell out with Kuki Yoshitaka, fled Shima and was invited by Takeda Shingen to be Takeda fleet captain. After the Takeda fell served the Tokugawa as fleet commander.
+@7364
+Takeda vassal. Took the headship when his father Masashige fell to the Tokugawa. After the Takeda fell became Tokugawa fleet magistrate, core of the Tokugawa navy.
+@7366
+Oda vassal. One of the Shima pirates. After the great defeat at Kizugawaguchi built the "ironclad" ships and smashed the Mori navy. Made daimyo for it, he was called the "Pirate Daimyo".
+@7368
+Lord of Shima Toba. Yoshitaka's son. With the East at Sekigahara, fought his father on the West. Afterwards asked for his father's life in place of his own reward, but the father had already killed himself.
+@7370
+Constable of Kai. Pacified Kai, but his harsh policies angered his heir Shingen, who exiled him to Suruga. He wandered the land and never returned to Kai.
+@7372
+Constable of Kai. Nobutora's heir. Opposed his father's harsh policies, exiled him and took the headship. Led mighty cavalry and tormented Nobunaga with adaptable wit. Known as the "Tiger of Kai".
+@7374
+Shingen's eldest son. Shone at Kawanakajima and elsewhere. Opposed the attack on his wife's family, the Imagawa, plotted revolt and failed. Confined at Tokoji and died 2 years later, by suicide or illness.
+@7376
+Sengoku daimyo of Kai. Shingen's fourth son. Expanded his domain by hard measures. After the defeat at Nagashino his retainer corps collapsed; he lost to the Oda and killed himself at Temmokuzan.
+@7378
+Shingen's fifth son. Took the name of the Shinano gentry Nishina. Held Takato Castle in Shinano on Katsuyori's orders. Resisted Nobunaga's army stubbornly but lost, outnumbered, and killed himself.
+@7380
+Nobutora's second son. Learned and popular, served as lieutenant to his brother Shingen. Held the headquarters at Kawanakajima and fell fighting. Later praised as "a true general".
+@7382
+Nobushige's son. Lord of Komoro Castle in Shinano. Took the headship when his father fell at Kawanakajima. Aided Katsuyori with his father's talent. Murdered during Nobunaga's invasion of Kai.
+@7384
+Nobutora's third son. After his brother Nobushige's death, foremost of the kin and aide to Shingen. Looked like Shingen and served as his double. Talented at painting; left portraits.
+@7386
+Takeda vassal. Foremost of the kin. Mostly guarded the headquarters in battle. After the Takeda fell surrendered to Ieyasu. Hearing of Honnoji, he was killed by peasants on the way home from Sakai.
+@7388
+Takeda vassal. Son of Echu no Kami Nobuari, styled Dewa no Kami. Shone at Shiga Castle in Shinano and Uedahara. Badly wounded attacking Toishi Castle and died; 10,000 attended the funeral.
+@7390
+Takeda vassal. Son of Dewa no Kami Nobuari. Led units skilled at stone-throwing in many battles. Submitted to Nobunaga's invasion, but after Katsuyori's death was cut down as a traitor.
+@7392
+Takeda vassal. Took part in exiling Nobutora. Served his son Shingen and shone in many battles. Led the vanguard at Uedahara against Murakami Yoshikiyo and fell in fierce fighting.
+@7394
+Takeda vassal. Took part in exiling Nobutora. Served Shingen and was an elder with Itagaki Nobukata. Fought Murakami Yoshikiyo's army fiercely at Uedahara and fell.
+@7396
+Takeda vassal. Led the Ina men. A fierce general whom Ieyasu called "the Takeda's wild bull". Held Iwamura Castle in Mino against Nobunaga, lost, was captured and executed.
+@7398
+One of the Four Great Retainers of the Takeda. From Shingen's page to samurai captain. Best in the house at strategy and command, known as "Fleeing Danjo". Said to be author of the "Koyo Gunkan".
+@7400
+One of the Four Great Retainers of the Takeda. Fought many battles unwounded and was called the "Immortal Demon Mino". Led the rearguard at Nagashino so Katsuyori could flee, and fell.
+@7402
+One of the Four Great Retainers of the Takeda. After Takeda Nobushige's death, Shingen's lieutenant. Superb strategist, lord of Minowa Castle in Kozuke, he governed western Kozuke. Fell at Nagashino.
+@7404
+Takeda vassal. Led a unit with all-red armour, called the "Fierce Tiger of Mt Kai". Guardian to Shingen's eldest son Yoshinobu; killed himself taking blame for Yoshinobu's failed revolt.
+@7406
+One of the Four Great Retainers of the Takeda. Obu Toramasa's brother. Like him, wore all red. Aided Shingen in domestic, military and foreign affairs. Shot through the whole body at Nagashino and died.
+@7408
+Takeda vassal. Kanamaru Toratsugu's fifth son. Took the Tsuchiya headship. Fought alone at Temmokuzan in Kai to guard Katsuyori and fell. His fight was called "a thousand cut down with one hand".
+@7410
+Takeda vassal. One of the Five Great Koyo Retainers. "Demon Tora", with 36 letters of commendation. Late in life Kosaka Masanobu's lieutenant. His last words, "Know your place", are famous.
+@7412
+Scholar of the Koshu school of strategy. Son of Masamori (Toramori's son). Page to Tokugawa Hidetada, then deserted, returning after Osaka. Brought the Koshu school together and taught many pupils.
+@7414
+Takeda vassal. One of the Five Great Koyo Retainers. From Mino. Legend says he slew the hell-hag Kashaki at a fort on Mt Kokuzo in Shinano. Best in the house at night raids.
+@7416
+Takeda vassal. One of the Five Great Koyo Retainers. Of the Hara, vassals of the Shimosa Chiba. Fought 38 battles. A castle-assault expert and warm-hearted hero called "Yasha Mino".
+@7418
+Takeda vassal. One of the Five Great Koyo Retainers. From Ise. Favoured striking first. Led the rearguard in the battle of Toishi Collapse against Murakami Yoshikiyo and fell.
+@7420
+Takeda vassal. Succeeded Hajikano Gengoro, who fell at Kawanakajima. After the Takeda fell served Ieyasu, shining at Komaki-Nagakute, Odawara and Osaka.
+@7422
+Takeda vassal. The Atobe, from Saku in Shinano, were a noble house that held the Kai deputy constableship. With Hara Masatane, attended Katsuyori. Fell at Suwa with the Takeda. Judged a flatterer.
+@7424
+Tokugawa vassal. Ran the shogunate's domains, mined gold and silver with new methods, set up milestones and post stations. His great service to civil rule and finance won him the name "Steward of the Realm".
+@7426
+Takeda vassal. Lost his seat, Makinoshima Castle, when the Takeda fell, but regained it with Uesugi Kagekatsu's help and served the Uesugi. Followed Kagekatsu to Aizu as keeper of Shirakawa Castle.
+@7428
+Takeda vassal. Of the Shinano vanguard. Took Toishi Castle in Shinano by stratagem when Shingen could not. Praised as Shingen's better in wit, and became one of his strategists.
+@7430
+Yukitaka's eldest son. After his father's retirement fought on as one of the Shinano vanguard and won fame. At Nagashino swung a 3 shaku 3 sun blade, but was shot dead.
+@7432
+Yukitaka's third son. Called "a double-dealing rogue" by Hideyoshi, a rare master of stratagem. With a few thousand men, pinned Hidetada's 38,000 on the way to Sekigahara in Shinano.
+@7434
+Masayuki's eldest son. Married Honda Tadakatsu's daughter, so at Sekigahara left his father and brother for the East. Stayed loyal to the Tokugawa and kept the Sanada alive.
+@7436
+Masayuki's second son. Entered Osaka Castle from his confinement at Kudoyama in Kii and fought the huge Tokugawa host with few men. Praised as "Sanada, the finest warrior in Japan".
+@7438
+Yukimura's son. Born at his father's place of confinement, Kudoyama in Kishu. Entered Osaka Castle with his father and fought hard at the Sanada Maru. At the Summer Siege, died with Hideyori at the fall.
+@7440
+Sanada vassal. Unno Munetsuna's son and Sanada Yukitaka's brother. After nephew Masayuki took Numata Castle in Kozuke, became its keeper and held it in the first Ueda war. Brave.
+@7442
+Sanada vassal. Yoritsuna's son. As brave as his father; at the Kanagawa battle against the Hojo he is said to have swung a great glaive by its butt in his right hand and cut down enemies one-handed.
+@7444
+Shinano gentry. Lord of Katsurao Castle. Twice beat off Takeda Shingen and won fame nearby. Lost his castle to Sanada Yukitaka's stratagem and sought the protection of Nagao Kagetora in Echigo.
+@7446
+Uesugi vassal. Yoshikiyo's son. Fled to Echigo with his father, beaten by Takeda Shingen. Served the Uesugi under the name Yamaura. Helped conclude the peace with Ieyasu.
+@7448
+Shinano gentry. Based at Nakano Kodate in Shinano. The Takashinashi are Seiwa Genji, founded by Inoue Morimitsu of Takai District. Beaten by Shingen's northern Shinano invasion, turned to Nagao Kagetora.
+@7450
+Shinano gentry. Masayori's son. Served the Uesugi. Guarded Kenshin's seat Kasugayama when he marched on Kanto. Led the Uesugi vanguard at the fourth battle of Kawanakajima.
+@7452
+Shinano gentry. Hidemasa's son. After Honnoji, Uesugi Kagekatsu confirmed him in 2,000 kan at Angenji and he returned to Nakano Kodate. Later left it to follow Kagekatsu to Aizu.
+@7454
+Takeda vassal. Lord of Futamata Castle in Totomi, fought the Tokugawa with his father Nobumori. After the Takeda fell served the Tokugawa in the Shinano campaign. Shot and killed at Iwao Castle in Shinano.
+@7456
+Shinano gentry. Led the Shinano Ikko uprising. Later served Uesugi Kagekatsu in charge of Hokuriku Ikko policy. As lord of Kaizu Castle in Shinano, fought Ieyasu's Shinano invasion.
+@7458
+Uesugi vassal. Keeper of Yanagawa Castle. Mitsuchika's son. At Sekigahara joined Honjo Shigenaga to beat Date Masamune at Fukushima. Won merit at Osaka too; Hidetada gave him a commendation.
+@7460
+Shinano gentry. Lord of Yashiro Castle. First under Murakami Yoshikiyo, he submitted to Takeda Shingen's invasion. After the Takeda fell followed Oda vassal Mori Nagayoshi, lord of Kaizu Castle.
+@7462
+Takeda vassal. Mitsumasa's son. Adopted by his uncle Masakuni. After the Takeda fell helped Ieyasu pacify Shinano and served the Tokugawa. Standard-magistrate in both Osaka sieges.
+@7464
+Shinano gentry. Lord of Naganuma Castle. Driven out by Takeda Shingen, turned to Uesugi Kenshin and served the Uesugi. Regained his lands when the Takeda fell. Followed the Uesugi to Aizu.
+@7466
+Shinano gentry. Lord of Shiga Castle. Served the Yamanouchi Uesugi. Fought Shingen's attack stubbornly, but his relief force was crushed and he was isolated. Attacked by the Takeda, he killed himself.
+@7468
+Constable of Shinano. Brought the Ina Ogasawara branch to heel and united the split Ogasawara. Made peace with neighbouring Suwa and worked to keep his domain stable.
+@7470
+Constable of Shinano. Nagamune's eldest son. Driven out by Shingen, wandered Echigo, Settsu, Aizu and more. Killed by retainers while preparing to answer his grandson Sadayoshi, who had regained the lands.
+@7472
+Tokugawa vassal. Nagatoki's heir. After years of wandering, regained his old lands with Ieyasu's backing and served the Tokugawa. Strengthened ties by wedding Ieyasu's granddaughter to his son Hidemasa.
+@7474
+Tokugawa vassal. Sadayoshi's heir. After Ishikawa Yasunaga's dispossession held his old Shinano Matsumoto (60,000 koku). Fell at the Osaka Summer Siege, said to have died saying "Shinano is..." to Ieyasu.
+@7476
+Ogasawara vassal. After his lord Nagatoki was driven out by Takeda Shingen, held Inukai Castle against him. Met the Takeda on the way to welcome Nagatoki's army, fought and lost.
+@7478
+Ogasawara vassal. Masanori's third son. As samurai captain won merit in battles such as the attack on Hiki Castle in Shinano. Later chief elder, paid 1,600 koku, the highest in the house.
+@7480
+Ogasawara vassal. After Honnoji, with Ieyasu's help, drove the Uesugi-backed Ogasawara Sadatane from Fukashi Castle and restored the old lands. Later wrote the "Futagi Family Record".
+@7482
+Ogasawara vassal. Worked to restore his lord Sadayoshi's old lands. As Sadayoshi's aide shared in governing, and campaigned as samurai captain. Later wrote the "Mizoguchi Family Record".
+@7484
+Sengoku daimyo of Shinano and Grand Priest of Suwa Taisha. Destroyed the Kanasashi and pacified Suwa, fought neighbouring Takeda Nobutora. A fine lord who restored the Suwa.
+@7486
+Sengoku daimyo of Shinano. After grandfather Yorimitsu's death became Grand Priest of Suwa Taisha. Fought and lost to brother-in-law Shingen; confined and forced to kill himself. His daughter bore Katsuyori.
+@7488
+Yorimitsu's fourth son. After his nephew Yorishige's death, allied with Takeda Shingen to crush the Suwa branch's Takato Yoritsugu, who ran riot in Suwa. Afterwards the Suwa served the Takeda.
+@7490
+Takeda vassal. Mitsuchika's son. Became Grand Priest of Suwa Taisha under the Takeda. After their fall pacified Suwa and went independent. Briefly under the Hojo, then the Tokugawa, who kept his lands.
+@7492
+Shinano gentry. The Takato are a Suwa branch founded by Suwa Nobukazu. Helped Shingen destroy the Suwa main line, but ran riot in Suwa, fell out with Shingen and was attacked and destroyed.
+@7494
+Takeda vassal. Lord of Takato Castle in Shinano. Of the Shinano vanguard, fought in many battles. Called "Spear Danjo", named in the "Koyo Gunkan" as one of the three Danjo of the Sengoku.
+@7496
+Kiso Valley gentry in Shinano. Gentle by nature, he worked to mend ties with the Hida Miki, rivals since his father Yoshimoto's day, and to keep his domain stable. Called the "Elegant Lord".
+@7498
+Kiso Valley gentry. Yoshiari's heir. With Murakami Yoshikiyo, Ogasawara Nagatoki and Suwa Yorishige, one of the "Four Generals of Shinano". Resisted Shingen stubbornly but lost and yielded.

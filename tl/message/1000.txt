@@ -1,0 +1,1046 @@
+@1312
+On behalf of all your retainers, we offer our congratulations.
+@1313
+Hm, well done. Nobuhiro may be the eldest, but he is a concubine's son. This child shall be the heir of the {02}{0B}5 clan.
+@1314
+I name you his guardians. Aoyama Yosaemon and Naito Katsusuke shall serve with you. Raise him to be worthy of succeeding the {02}{0B}5 clan.
+@1315
+Yes, my lord! We hear and obey. I, {02}{0D}5, shall serve the young lord with my very life.
+@1316
+By the way, my lord, we have not yet heard the young lord's name...
+@1317
+Oh! So you have not. This child's name is... Kipposhi! {02}{0E}5 Kipposhi!!
+@1318
+That this boy named Kipposhi would one day reach out for the whole land was something neither his guardians {02}{0C}3 and {02}{0D}3, nor even his father {02}{0B}3, could have imagined.
+@1319
+Kipposhi would later be known as {02}{0E}2...
+@1000
+The medicine works, I assure you... but I understand. I shall take it home.
+@1001
+Lord {02}{0B}2 may have taken offence, but it is dangerous to use an unknown remedy in the household.
+@1002
+Your castles are all splendid, my lord, but they could be made stronger still. Will you entrust their repair to us?
+@1003
+Oh! Yes, please do.
+@1003.1
+What! Yes, I would like that.
+@1004
+I cannot let men of another house into our castles.
+@1004.1
+I cannot let men of another house into the castle.
+@1005
+Then we shall repair your castle at once with our secret arts, my lord. I will oversee the work myself, so with your leave...
+@1006
+Lord {02}{0B}2's castle work was nothing short of splendid. The castle is stronger than ever.
+@1007
+You have no need of it, you say? Surely you do not doubt us? If so, that is most regrettable...
+@1008
+Lord {02}{0B}2 may have taken offence, but leaving castle work to outsiders could cost us dearly.
+@1009
+Lord {02}{0B}2 has departed. Castle building is safer left to our own men, after all.
+@1010
+Forgive me, but the {02}{0C}k's way of building castles is a little old-fashioned. If you wish, in return for your past favour, we will teach you our art of castle building.
+@1011
+Very well. Then this time we shall teach you the secrets of building %s...
+@1012
+Lord {02}{0B}2's teaching has raised our house's castle-building skill. Now we can build stronger castles.
+@1013
+The farmers of {02}y2 Province are holding a festival to celebrate the good harvest.
+@1014
+The festival seems to have raised the farmers' spirits.
+@1015
+Thanks to my lord's virtue, this year's harvest is bountiful. The town is holding a festival to celebrate, and we have come to invite you to join us.
+@1016
+It sounds like fun... I shall go and see.
+@1017
+A samurai at a festival would only spoil the mood.
+@1018
+My lord truly understands the hearts of the people! Come, let us be off...
+@1019
+Is that so. The whole village was looking forward to your visit... Then another time, perhaps.
+@1020
+Lord {02}{0B}2 may have taken offence, but agents of another province could well be lying in wait for you.
+@1021
+You are going into town? Then I shall accompany you.
+@1022
+What do you think? Look at the happy faces of the people... That such a festival can be held in these times of war is all thanks to your good rule...
+@1023
+True, you might search all Japan and not find many villages that could hold so grand a festival.
+@1024
+Hm... I would like to bring such a life to all the people of Japan, and soon.
+@1025
+{02}{83}2 of the {02}{8D}2! Here I am!
+@1026
+{02}{83}2, you say... What do you want with me? Do you mean to strike me down under cover of the festival?
+@1027
+No more talk! {02}{0B}3, prepare to die!
+@1028
+I will not be cut down so easily!
+@1028.1
+As if I would let you! I will turn your blade back on you!
+@1029
+G-gah... Strong... as expected...
+@1030
+But I will not die... The next time we meet will be your last! Farewell!
+@1031
+Phew... That was close...
+@1031.1
+Phew. Saved somehow... But that was a close thing...
+@1032
+My lord! Are you unharmed!
+@1033
+Wh-what a terrible thing... After we invited you here, I am truly sorry!
+@1034
+It was no fault of yours. I was not hurt, and my duties will not suffer.
+@1034.1
+It was no fault of yours. I was not hurt, either. There is nothing to worry about.
+@1035
+But to be attacked in a place like this... It seems I have made many enemies now...
+@1036
+I am glad you are safe. But other assassins may be lying in wait. Let us return to the castle.
+@1037
+Hm... So we shall.
+@1038
+G-gah... In a place... like this... To fall in a place like this...
+@1039
+Heh... Hahahahaha! {02}{0B}2's life is mine! Now, farewell!
+@1040
+Th-this is the end... Ugh... Gah...!
+@1041
+.........
+@1042
+My lord! Hold on! My lord!
+@1043
+My lord will surely bring peace to the land. We will help in whatever small way we can.
+@1044
+It is sad to part, but it is nearly time for the council. Please return to the castle...
+@1045
+Oh, is it that late already... Then I shall take my leave. You all enjoy yourselves.
+@1045.1
+Oh, so it is. Then I shall take my leave. Enjoy yourselves.
+@1046
+Yes, my lord. Please come again next year...
+@1047
+My lord's visit to the festival seems to have deepened our friendship with the gentry of {02}y2.
+@1048
+We are always in your debt. Thinking we might be of use to you, we have brought the primer needed to train in %s in our village.
+@1049
+Bring this primer, and you may train in %s under us of the {02}{0B}{83}... Please make use of it.
+@1050
+I accept your introduction gladly.
+@1051
+Our house trains its own officers.
+@1052
+Take your time deciding whom to send for training. We shall be waiting.
+@1053
+I have taken charge of the letter. Now we can have our officers train in %s.
+@1054
+Is that so... Then I shall return to the village. This letter of introduction I shall destroy.
+@1055
+A kind offer, but our house has no need of it just now.
+@1056
+The gentry of {02}y2 are growing in strength and have taken on many masterless warriors.
+@1057
+The gentry of {02}y2 are weakening, and the troops they can muster are fewer, it seems.
+@1058
+My lord! The gentry of {02}y2 have been destroyed, and the warriors under them have scattered.
+@1059
+There are signs of unrest at the {02}[2 of {02}y2 Province.
+@1060
+Relations between our house and the {02}[2 are now "%s".
+@1061
+The {02}[2 of {02}y2 Province is showing signs of unrest.
+@1063
+Grave news! The {02}[2 of {02}y2 has risen in a %s uprising! {02}y2 will become a battlefield...
+@1064
+The {02}[2 of {02}y2 has risen in a %s uprising! {02}y2 will become a battlefield...
+@1065
+I owe Lord {02}{0C}3 a great debt... but I cannot go against the teachings of %s. Forgive me for raising my blade against my master...
+@1066
+Terrible news! Lord {02}{0B}2%s has left to join the uprising!
+@1067
+Amida Buddha fills every corner of the universe. Know that all living things live by his grace.
+@1067.1
+There is nothing difficult about it. Chant the nenbutsu with a single heart, and rebirth in paradise is assured.
+@1068
+In the beginning was the Word, and the Word was with God, and the Word was God...
+@1068.1
+Believe in God. Only those who believe shall be saved.
+@1069
+It is in troubled times like these that faith matters most!
+@1069.1
+Namu...
+@1070
+The {02}[2 seems to be preaching with great vigour in {02}y2 Province.
+@1071
+So the devout Lord {02}{0C}2 has succeeded... Then let us withdraw our troops.
+@1073
+Now that Lord {02}{0C}2, faithful to the Lord's teachings, has become daimyo, there is no more need to fight.
+@1074
+Now that Lord {02}{0C}3 has joined our faith, there is no reason to continue the uprising.
+@1075
+It seems the %s uprising against Lord {02}{0B}2 and the daimyo houses tied to him has died down.
+@1076
+The faithful of the {02}[2 in {02}y2 have been growing in number of late.
+@1077
+It appears {02}{0B}2 of the {02})2 has died at the hands of a shinobi.
+@1078
+Lord {02}{0B}2 of {02}{0B}U was attacked by a shinobi, it seems. Happily, he was not hurt.
+@1079
+{02}{83}2, the ninja sent to {02}y2, asks for a little more time.
+@1080
+For %d gold the mission would continue for another year... What will you do?
+@1081
+Extend the ninja {02}{83}2's assignment by a year for %d gold?\n(Ability: %s  Gold left: %d)
+@1082
+Yes. Let the mission continue...
+@1082.1
+Hm. Let the mission continue...
+@1083
+There is no more need for that...
+@1083.1
+No, there is no more need for that...
+@1084
+Then as you command, we will pay %d gold and continue the mission in {02}y2 Province.
+@1085
+Then at the end of this month {02}{83}2 will return to the {02}{8D}2.
+@1086
+The ninja {02}{83}2's assignment has ended, and the ninja has returned to the {02}{8D}2.
+@1087
+The ninja {02}{83}2, sent to {02}y2, has returned to the {02}{8D}2.
+@1088
+The {02}{8D}2 of {02}y2 has been growing more active of late.
+@1089
+Word has come from the {02}{A1}2 that the trading ship sent to Ming China has been wrecked!
+@1090
+Truly! And I was counting on the income from the Ming trade. What a shame...
+@1090.1
+What! Wrecked! I was counting on the income from the Ming trade. So much for that...
+@1091
+The trading ship sent to Ming China has returned. Lord {02}{0B}2 has brought goods from Ming.
+@1092
+This is {02}G2, a rare treasure brought from Ming China. Please accept it.
+@1093
+So this is {02}G2... Oh, what a magnificent piece... Well done, Lord {02}{0C}3.
+@1093.1
+{02}G2, you say? Oh, this is a magnificent piece... Well done, Lord {02}{0C}3.
+@1094
+I have brought %d gold as profit from the trade with Ming China. Please accept it...
+@1095
+Well done, Lord {02}{0C}3. One can never have too much gold for war. I would like to see the Ming trade grow further.
+@1095.1
+Well done, Lord {02}{0C}3. One can never have too much gold for war. We must build up the Ming trade further.
+@1096
+By the way, today I have brought someone from Ming China who wishes to serve Lord {02}{0C}3...
+@1097
+All the way from Ming China!? How interesting. Introduce this person to me at once.
+@1097.1
+What! All the way from Ming China!? How interesting. Introduce this person to me at once.
+@1098
+Yes, my lord! Lord {02}{0D}2, this way...
+@1099
+My name is Nurhaci. I crossed the sea to test my skill in war. Lord {02}{0C}3, I am at your service.
+@1100
+A sturdy-looking young warrior. I expect good spear work from him.
+@1100.1
+Oh... A sturdy-looking young warrior. I expect good spear work from him.
+@1101
+I am Zhang Juzheng. I served as chancellor in Ming. I have come out of interest in the government of Japan. Leave affairs of state to me.
+@1102
+A rather haughty man... But he does seem capable. Lord {02}{0C}3, I leave him to you.
+@1102.1
+Hmm, a rather haughty man... But he does seem capable. Lord {02}{0C}3, I leave him to you.
+@1103
+I am Qi Jiguang. I have come all this way to study the art of war in Japan. Lord {02}{0C}3, I would be honoured to serve you.
+@1104
+Oh! You are Qi Jiguang, famed for putting down the wako pirates? A general like you is a great comfort. I count on you.
+@1104.1
+Oh... So you are Qi Jiguang, famed for putting down the wako pirates. A general like you is a great comfort. I count on you.
+@1105
+My name is Altan. I come from the land of the Mongols. I know how to handle cavalry. I ask to join your army.
+@1106
+A fierce-looking man. I would have him lead the cavalry in the van of my army. Lord {02}{0C}3, I count on you.
+@1106.1
+Oh... A fierce-looking man. I would have him lead the cavalry in the van of my army. Lord {02}{0C}3, I count on you.
+@1107
+My lord, the {02}{A1}2 raided {02}y2, but it seems Lord {02}{0B}2 drove them off.
+@1108
+The {02}{A1}2 has raided our %s and plundered gold, rice and more!
+@1109
+What... The {02}{A1}2... I will not let this pass...
+@1109.1
+Grr... The {02}{A1}2... Making a fool of our house...
+@1110
+Lord {02}{0B}2 of the {02}{A1}2 has come.
+@1111
+Yesterday we raided a castle of the {02})2 and carried off gold and rice. We have come to offer half of it to you...
+@1112
+How gratifying. I accept it gladly.
+@1112.1
+How gratifying. I accept it gladly.
+@1113
+I cannot accept gold of that kind.
+@1113.1
+I cannot accept gold of that kind.
+@1114
+We look forward to your continued favour... Leave everything on the sea to us.
+@1115
+You cannot accept it, you say... I suppose land folk will never understand how we feel.
+@1116
+The {02}{A1}2 has been growing more active of late.
+@1117
+Our {02}{0B}{83} has grown a great deal. Perhaps it is time to think about sending a trading ship to Ming China...
+@1118
+My lord! The {02}{A1}2 has been destroyed, and the pirates under it have scattered.
+@1119
+The {02}{A1}2, destroyed... And I was counting on the income from the Ming trade. So much for that...
+@1119.1
+The {02}{A1}2, destroyed... I was counting on the income from the Ming trade. A pity...
+@1120
+Lord {02}{0B}2 of the {02}{0B}{83} has come.
+@1121
+The truth is, I have made up my mind to serve the {02}{0C}k, and so I have come...
+@1122
+I beg you, add me to the lowest ranks of the {02}{0C}k.
+@1123
+From today you are a vassal of our house.
+@1124
+Carry on as you are.
+@1125
+I am deeply grateful. From today I, {02}{0B}2, will serve as a vassal of the {02}{0C}k.
+@1125.1
+I am deeply grateful. From today I, {02}{0B}2, serve as a vassal of the {02}{0C}k.
+@1126
+{02}{0B}2 has joined your retainers.
+@1127
+Is that so... Then I shall go on serving your cause as a member of the {02}{0B}{83}.
+@1128
+Lord {02}{0B}2 of the {02}{0B}{83} seems to have entered the service of Lord {02}{0C}2.
+@1129
+{02}{0B}2 of the {02}{0B}{83} has become its new chief.
+@1130
+{02}{0B}2 of the gentry of {02}y2 seems to have completed the watch requested by a daimyo house.
+@1131
+The court nobles of the capital seem to be urging the provinces to turn against our house...
+@1132
+The court nobles of the capital seem to be urging the provinces to turn against {02}{0B}2.
+@1133
+The {02}[2 of {02}y2 seems to be urging the provinces to turn against our house.
+@1134
+The {02}[2 of {02}y2 seems to be urging the provinces to turn against {02}{0B}2.
+@1135
+The merchants of {02}Q2 in {02}y2 seem to be urging the provinces to turn against our house.
+@1136
+The merchants of {02}Q2 in {02}y2 seem to be urging the provinces to turn against {02}{0B}2.
+@1137
+The {02}{8D}2 of {02}y2 seems to be urging the provinces to turn against our house.
+@1138
+The {02}{8D}2 of {02}y2 seems to be urging the provinces to turn against {02}{0B}2.
+@1139
+The {02}[2 of {02}y2 is urging the minor powers to side with our house.
+@1140
+The {02}[2 of {02}y2 seems to be urging the minor powers to side with {02}{0B}2.
+@1141
+The merchants of {02}Q2 in {02}y2 are urging the minor powers to side with our house.
+@1142
+The merchants of {02}Q2 in {02}y2 seem to be urging the minor powers to side with {02}{0B}2.
+@1143
+The {02}{8D}2 of {02}y2 is urging the minor powers to side with our house.
+@1144
+The {02}{8D}2 of {02}y2 seems to be urging the minor powers to side with {02}{0B}2.
+@1145
+The {02}{A1}2 is urging the minor powers to side with our house.
+@1146
+The {02}{A1}2 seems to be urging the minor powers to side with {02}{0B}2.
+@1147
+Good news. %s has delivered %d gold in war levies to our house.
+@1148
+Relations between our house and %s are now "%s".
+@1149
+Oh, if it is not Lord {02}{0B}5 %s. What business have you with Us?
+@1150
+I am {02}{0B}2. I heard that Lord {02}{0C}2 was in these parts, and have come to pay my respects.
+@1151
+Hm. Then We shall return to Kyoto and report this to His Majesty.
+@1152
+What a dangerous-looking thing... No, forgive Us. We accept it with thanks.
+@1153
+Ho, a rare piece indeed. His Majesty will be pleased. Continue to serve with loyalty hereafter.
+@1154
+Hm, admirable. Your loyalty shall be duly reported to His Majesty.
+@1155
+Lord {02}{0B}3, are you making sport of Us...?
+@1156
+I am {02}{0B}2. I have come to pay my respects to Lord {02}{0C}2.
+@1157
+Very well. We shall report this to His Majesty at once.
+@1158
+Your good intentions alone are enough.
+@1159
+What a generous spirit. I, {02}{0B}5, have fallen for you all over again.
+@1160
+{02}{0B}2 has departed. By declining the tribute, you seem to have deepened his trust all the more.
+@1161
+As you ordered, I had the sick and injured take that medicine, but it seems to have had no effect.
+@1162
+The castle construction failed. Perhaps we rushed the work too much: the stone walls have collapsed.
+@1163
+Lord {02}{0B}2, {02}{0C}2, who leads the {02}{A1}2, has arrived. He says it is an urgent matter.
+@1164
+It has been a long time, Lord {02}{0C}3. I, {02}{0B}3, have come with a matter to put before you.
+@1165
+Why, Lord {02}{0C}3, we are old friends. Do not hold back, speak freely.
+@1166
+Lord {02}{0C}2, it has been too long. I see you are in good health, which gladdens me greatly...
+@1167
+{02}{0C}3, spare me the ill-fitting speech. State your business plainly.
+@1168
+It is nothing else. To us, the {02}{A1}2, the {02}{A2}2 are sworn enemies. I want them swept out of {02}y2.
+@1169
+But Lord {02}{0C}3, a great sea battle costs gold. Forgive me, but could you spare {02}{0B}3 %s%d?
+@1170
+Yes, my lord. We, the {02}{A1}2, mean to attack and sweep the {02}{A2}2 out of {02}y2.
+@1171
+Therefore we humbly beg your aid, Lord {02}{0C}3. It is a shameless request, but grant us %s%d.
+@1172
+That will not be enough, Lord {02}{0C}3. I shall provide %s%d, so use it freely.
+@1173
+Though I am of little strength, I, {02}{0B}3, wish to aid you, Lord {02}{0C}3. Make use of %s%d.
+@1174
+I long to answer your earnest plea, Lord {02}{0C}3... but the {02}{0B}k has no such strength now... Forgive me.
+@1175
+Your defeat would stain our house's prestige. I shall prepare %s%d, {02}{0C}3, so use it to your heart's content.
+@1176
+Hm, coming to beg from me, {02}{0B}3, takes some nerve. Very well, I shall give you %s%d.
+@1177
+No, {02}{0C}3. That sea battle is pointless. Restrain yourself for a while longer.
+@1178
+Ha, now we can use great iron-plated ships! Our victory is clearer than fire. Wahahaha!
+@1179
+Ha, as expected of Lord {02}{0C}3. What a generous man. Wahahaha!
+@1180
+Lord {02}{0C}3's kindness will not go to waste. Await word of our victory.
+@1181
+I see... I was a fool to rely on Lord {02}{0C}3... It is bitter, but I call off this battle.
+@1182
+Yes, my thanks... Then we shall sail out our great iron ships and make the glory of the {02}{0C}k known to all under heaven.
+@1183
+Ah, Lord {02}{0C}3, you are truly a great man. In time all the people will gather under Lord {02}{0C}3.
+@1184
+Yes, my lord. Lord {02}{0C}3's help moves me deeply... I will surely live up to your expectations.
+@1185
+Hm... I thought Lord {02}{0C}3 would help us... What a pity... a great pity...
+@1186
+Lord {02}{0C}3, this is serious. The {02}{A1}2 of {02}y2 have expanded their territory toward {02}z2.
+@1187
+What?! The {02}{A1}2...? Lord {02}{0C}3, tell me the details.
+@1188
+Lord {02}{0C}3, this is grave. The {02}{A1}2 of {02}y2 have attacked {02}z2.
+@1189
+Oh, the {02}{A1}2 have moved? How interesting... {02}{0C}3, tell me the details.
+@1190
+Yes, most of our forts have shamefully fallen into their hands. This being so, I, {02}{0B}3, mean to settle the score at sea.
+@1191
+But to carry out a flawless plan we are short of %s by %d. Lord {02}{0C}3, I swallow my shame and ask: could you spare some %s?
+@1192
+Yes, my lord. Our forts are already falling one after another to the enemy... This being so, we shall challenge them at sea and wipe away this disgrace.
+@1193
+I, {02}{0B}3, swallow my shame and beg you. To carry out a surefire plan we are short of %s by %d. Lord {02}{0C}3, lend us your strength.
+@1194
+Lord {02}{0C}3's shame is my shame too. I shall prepare %s%d, so please accept it.
+@1195
+To see what is right and not do it is cowardice. I cannot leave Lord {02}{0C}3 to perish. Use %s%d.
+@1196
+I understand your feelings, Lord {02}{0C}3... But the {02}{0B}k has not the strength to help you now.
+@1197
+Not enough. That is not enough, {02}{0C}3. I shall give you %s%d. Use it as you see fit.
+@1198
+If you were to lose, it would shame the {02}{0B}k that backs you. Very well, take %s%d with you.
+@1199
+Do not be so dependent, {02}{0C}3. With your strength, you should be able to drive off such a foe with ease.
+@1200
+Ha, with this much we can even use iron-plated ships! I can picture the enemy's astonished faces. Wahahaha!
+@1201
+Can it be true, Lord {02}{0C}3? Our victory in this sea battle is certain... Await word of our triumph!
+@1201.1
+Can it be true, Lord {02}{0C}3...? Today of all days, I, {02}{0B}3, shall weep like a man... Uuu...
+@1202
+Ah, Lord {02}{0C}3's help is like giving an oni an iron club. I thank you.
+@1203
+What?! It cannot be helped... Then I shall not rely on Lord {02}{0C}3. I will show the pride of a man of the sea.
+@1204
+Oh! Now we can sail out the iron-plated ships we are so proud of. We will surely crush the enemy's flimsy boats!
+@1205
+Oh, Lord {02}{0C}3, you think so highly of me, {02}{0B}3...? I shall never forget this kindness.
+@1206
+Oh, you will help us...? I am grateful... It seems heaven has not yet abandoned us, the {02}{A1}2...
+@1207
+Wh-what...? Lord {02}{0C}3 will abandon us? This is a dream. It must be a dream.
+@1208
+{02}{0B}{83} of {02}y2 has advanced into {02}z2. {02}{0C}{83} appears ready to meet them.
+@1209
+All the forts of the {02}{A1}2 have fallen into our hands... They have no place left to return to in this sea. Now, {02}{0C}2, what will you do?
+@1210
+Lord {02}{0C}3, the enemy! One, two, three, four... There are more than I thought... They mean to settle it here.
+@1211
+Splendid, {02}{0C}3. You come at us ready to die. Then we shall meet you with all our strength. Sound the drums, push on, push on!
+@1212
+Strange... Every fort in this sea is completely empty. What is {02}{0C}2 plotting...
+@1213
+Lord {02}{0C}3, an attack! Look out to sea! The sails bearing the banner of {02}{0D}{83}... so many, so many of them...
+@1214
+What, {02}{0C}3 has won help from some daimyo... But gathering even that many will not break me, {02}{0B}3.
+@1215
+What a fragrant sea breeze... The wind is mild and the sky clear. On a day like this, to relieve oneself over the gunwale... ah, a pirate's true delight.
+@1216
+Chief, look at that! A fleet from behind the cove... It is a surprise attack by the {02}{A1}2!
+@1217
+What?! The {02}{A1}2? Damn, what a blunder! My brand-new hakama is soaked... Curse the {02}{A1}2, I will not forgive this!
+@1218
+What a fleet we have gathered. Even the {02}{A1}2 will surely tuck their tails at one look at such might.
+@1219
+The enemy, Lord {02}{0C}3! They ride the tide and press toward us. They mean to give battle.
+@1220
+Insolent, {02}{0C}2. You dare fight us with so few ships? Then I shall teach you the terror of the {02}{A1}2!
+@1221
+Days have passed since we hid our ships in this cove... To fight many with few, a surprise attack is the only way... The enemy's main force will surely pass here...
+@1222
+Lord {02}{0C}3, they are here, they are here! That is without doubt the banner of {02}{0D}2!
+@1223
+I have waited for you, {02}{0C}2... O god of the sea, behold my strength... All hands, to your stations! Man the oars! Row!
+@1224
+That is the great fleet of the {02}{A1}2... We have no hope of winning if we strike... But I, {02}{0B}3, cannot abandon this sea without a fight!
+@1225
+That is the spirit, Lord {02}{0C}3. We, the {02}{A1}2, are of one heart. Let us show those hateful {02}{A2}2 the pride of men of the sea.
+@1226
+Ah! I tremble with the thrill of battle! As proof that we, the {02}{A1}2, lived, I shall dye this sea crimson! Sound the drums! Blow the conches!
+@1227
+Chief, we have closed to twenty cho. The great guns can fire.
+@1228
+Yes. The time has come to show the power of our iron-clad ships.
+@1229
+Ready the hundred-monme and two-hundred-monme shot! First we aim at the vanguard's small boats. Sink them in one blow!
+@1230
+Hundred-monme and two-hundred-monme shot, ready! Aim true!
+@1231
+Fiiire!
+@1232
+Hahaha, the iron ships of the {02}{A1}2 are no more than that? You make me laugh.
+@1233
+Oh, our ships are being blown apart one after another... What is this, what is this!
+@1234
+We are the better at handling iron ships. I shall teach them that... Are the cannon ready?
+@1235
+Aye, Chief! The cannon can fire at any time!
+@1236
+Aim at the sekibune and atake! Leave small craft like the kobaya be.
+@1237
+The distance to the enemy is about fifteen cho. The wind is fair. Chief, we can hit them for certain.
+@1238
+It is time. Good, fire!
+@1239
+Hahaha, such feeble shots will never hit us.
+@1240
+Ooh! Men, do not flinch! The battle has only begun!
+@1241
+The finest pirate band in Japan is us, the Kuki clan! Ready the great guns for rapid fire! Fiiire!
+@1242
+Hahaha, no matter how many you fire, it is nothing if they do not hit.
+@1243
+Hm... They keep firing without pause. Are they demons of the sea...
+@1244
+Damn the {02}{A1}2. I will give them arrows as a greeting! Men, draw your bows!
+@1245
+Aye!
+@1246
+Right, shoot!
+@1247
+Spread the kobaya to left and right and form a crane wing formation! ...Fire arrows ready? Guns ready?
+@1248
+Fire arrows ready! Guns ready!
+@1249
+Fire!!!
+@1250
+Hahaha, {02}{0C}3, from that far you will not even graze us.
+@1251
+Damn, enemy fire arrows in the sails... Lower the sails! Do not let them burn!
+@1252
+Now it is our turn. All hands, draw your bows! Nock your arrows!
+@1254
+Spare no arrows! Shoot without pause!
+@1255
+Form the fish-scale formation! Do not let the enemy board! Archers, shoot more fire arrows! What of the gunners?!
+@1256
+Guns ready!
+@1257
+Fire, fire!!!
+@1258
+We can still do this! Men, do not slow the ships! Keep pushing forward!
+@1259
+{02}{0C}3 is better than I thought... But the battle has only begun! Bring the ships closer to the enemy!
+@1260
+It is about time for fire attacks... Keep the fire arrows coming! Prepare fire buckets, fire balls and thrown hourokus! Hurl them into the enemy ships!
+@1261
+Men, do not flinch at the flames! Bring the iron-plated ships forward!
+@1262
+What is this! Our fire pots have no effect on these iron-plated ships?!
+@1263
+{02}{0C}3's favourite fire attack. Men, keep the enemy kobaya away! Do not let our ships burn for nothing!
+@1264
+Oh, what is this! Fires everywhere... Put them out, put out the fire!
+@1265
+Men, I see our chance! One more push! Cut them down, cut them down!
+@1266
+Uooooh!
+@1267
+Wahaha, {02}{0C}3, you no longer have any chance of winning.
+@1268
+Surround them, surround them! Do not let a single ship escape!
+@1269
+To back down now would shame the {02}{A1}2... We will not retreat, we will not retreat.
+@1270
+A one-sided battle... This is not worth speaking of...
+@1271
+Curse you, {02}{0C}3. Are you a demon...
+@1272
+Do not spare the enemy in the water either! Pikes, thrust!
+@1272.1
+Damn, keep them off the ship! Meet them at the gunwale!
+@1272.2
+They are boarding! Thrust them off!
+@1273
+Keep the enemy back! Cut and cut and keep cutting!
+@1273.1
+Damn, do not flinch! Cut with all your might!
+@1273.2
+Rock the ship! Shake off the enemies clinging to it!
+@1274
+Is this the end...? Yet to die on a ship is the wish of a man of the sea...
+@1275
+Annihilated?! What a disaster! Move to the cargo boat! We withdraw from here!
+@1276
+We won, we won! Victory is ours!
+@1277
+Now this sea belongs to us, the {02}{A1}2! All hands, raise a victory cry!
+@1278
+The enemy's cargo boat is fleeing... Chief, we have won!
+@1279
+Well done, everyone! They will have learned their lesson and will not attack for a while.
+@1280
+In the battle at {02}y2, the {02}{A1}2 were victorious.
+@1281
+{02}{0B}2 of the {02}{A1}2 has fallen in battle.
+@1282
+The {02}{A1}2 have been destroyed.
+@1283
+Lord {02}{0B}2, {02}{0C}2, victor of the recent sea battle, has arrived.
+@1284
+Thanks to Lord {02}{0C}3, we won this sea battle. Please accept this {02}G2 as a small token of thanks.
+@1285
+Thanks to Lord {02}{0C}3's help, we were able to win. It is a humble gift, but please accept this {02}G2.
+@1287
+Your good intentions alone are enough.
+@1288
+Oh, this {02}G2... Lord {02}{0C}3, I shall accept it without hesitation.
+@1289
+Lord {02}{0C}3, there are many expenses after a battle. This time I will accept only your good intentions.
+@1290
+As expected of {02}{0C}3, you have a good eye. I gratefully accept this {02}G2.
+@1291
+No thanks are needed, {02}{0C}3. I only did what was natural. Never mind me, and reward your own men.
+@1292
+You like it, Lord {02}{0C}3? I look forward to your continued favour.
+@1293
+Hahaha, Lord {02}{0C}3, you need not hold back... But if you insist, I shall take this home.
+@1294
+Please remain on close terms with us hereafter...
+@1295
+Yes, my lord. I am abashed.
+@1296
+In the 8th month of 1543 (Tenbun 12)... a Nanban ship drifted ashore at Tanegashima in Osumi. The red-haired, blue-eyed man who emerged carried a black rod...
+@1297
+Ho, you are a Portuguese merchant? I have been wondering about that black rod. I have never seen such a thing...
+@1298
+Pleased to meet you. I am Antonio da Mota. This is called a "tanegashima gun", and it is used like this...
+@1299
+Oh...! How splendid. I would very much like you to part with it. What do you say?
+@1300
+Very well. In thanks for your help, I shall part with two of them.
+@1301
+A black rod that spits fire with a roar and destroys things far away: the "tanegashima gun". Its power soon became known across the land, and it became a weapon no battle could do without...
+@1302
+Guns have reached Japan. Buying and selling guns is now possible!
+@1303
+In the 7th month of 1549 (Tenbun 18)... a Nanban man landed at Kagoshima in Satsuma. The man who emerged from the ship held a book called the "Bible" under his arm...
+@1304
+Who on earth are you? You wear clothes I have never seen...
+@1305
+I am a missionary of the Society of Jesus, Francisco Xavier. I came to spread the teachings of Deus to the people of Zipangu...
+@1306
+Ho... Hearing you out, it has a flavour quite unlike our own Buddhism. Very well, I shall permit you to preach.
+@1307
+Thank you. I am deeply grateful for your kindness...
+@1308
+The foreign doctrine brought by Jesuit missionary Francisco Xavier spread rapidly, centred on the western provinces. At the same time, all manner of Western goods quickly spread across the land...
+@1309
+The Jesuits have begun spreading Christianity! Trade in Nanban goods is now possible!
+@1310
+In the 5th month of 1534 (Tenbun 3)... a baby boy was born at {02}{0B}T. His father was {02}{0B}2, and his mother was {02}{0B}3's lawful wife, Lady Tsuchida.
+@1311
+My lord, a son is born. Our heartiest congratulations.
+@1320
+"{02}{0D}2 plots treason..." Such rumours whispered through the {02}{0B}5 clan. Amid this, the head, {02}{0B}3, set up headquarters at a place called Moriyama for battle.
+@1321
+What?! Father was cut down by our lord?! Father would never commit treason! That our lord believed a rumour of treason... Then there is no choice.
+@1322
+Receiving word that his father {02}{0D}3 had been killed, Yashichiro went straight to {02}{0B}3's headquarters.
+@1323
+Oh, is that not Yashichiro? What brings you so suddenly? Has something stirred in your camp?
+@1324
+Feigning ignorance! Feel my father's bitterness!!!
+@1325
+Gwah! W-what are you doing...
+@1326
+You cut down my father! Believing groundless rumours!
+@1327
+You... are mistaken about something... Gubu!
+@1328
+What is this uproar?! ...Hm? Yashichiro, why are you here? ...M-my lord! Yashichiro, is this your doing?! What have you done...
+@1329
+!? F-Father! Then... the story that Father was cut down by our lord...
+@1330
+Fool! It was surely the work of enemy spies! You were fooled neatly, you great idiot!
+@1331
+Gwah! F-Father... My lord... Forgive me... Gubu!
+@1332
+My lord! The villain has been dealt with... I am sorry... so very sorry.
+@1333
+{02}{0B}3 was only {02}{0B}J years old. His child {02}{0C}3 at once became heir, but {02}{0C}3 was still only {02}{0C}J. Thus began the troubles of the {02}{0C}5 clan...
+@1334
+The Sengoku daimyo of {02}{0B}U, {02}{0B}2, suddenly left this world at only {02}{0B}J. His next younger brother Hikogoro died mysteriously on the same day as {02}{0B}3.
+@1335
+Thus the third son Genko Etan, born of a {02}{0E}5 concubine, and the fifth son Baigaku Shoho, born of the lawful wife Jukeini, became rival heirs. A succession dispute was only a matter of time.
+@1336
+{02}{0D}3, I need a favour. I am determined to inherit the headship of the {02}{0B}5. Will you help me?
+@1337
+Of course. I have a plan, then: how about drawing Lord Sena Ujisada to our side?
+@1338
+Ah, Ujisada is the most capable man in the clan. Very well. I leave everything to you, so do as you see fit.
+@1339
+{02}{0D}3, I ask it of you too. Please help Lord Shoho.
+@1341
+Both Etan's side and Shoho's side approached Sena Ujisada, but {02}{0D}3's desperate persuasion paid off, and Ujisada promised to join Shoho.
+@1342
+{02}{0E}3... Lord Ujisada has sided with Shoho as well. What will become of me now?
+@1343
+Not at all, leave it to me. Who do you take me for? If my army scatters Shoho's, the headship of the {02}{0B}5 will be Lord Etan's.
+@1344
+Ah, so it is. The strength of your army is unrivalled in the clan. Good, we raise troops!
+@1345
+Sensing disadvantage, Etan and {02}{0E}3 shut themselves in Hanakura Castle and raised troops to topple Shoho, plotting to seize the headship of the {02}{0B}5 by force...
+@1346
+What is this?! Have nearly all the {02}{0B}5 turned to support Shoho?!
+@1347
+Heh heh, Lord {02}{0E}3. You may be skilled at the manoeuvres of war, but you seem unused to those of politics. All of you, attack!!
+@1348
+Thanks to {02}{0D}3's tireless efforts, many {02}{0B}5 retainers had sided with Shoho. Hanakura Castle fell, and Etan killed himself while fleeing... {02}{0E}3 escaped but was killed in hiding.
+@1349
+After this incident, Shoho returned to lay life and inherited the headship of the {02}{0C}5. Thus was born {02}{0C}2, who would build the {02}{0C}5's golden age.
+@1350
+Some time after {02}{0E}2 won the "Hanakura Rebellion" and became head of the {02}{0E}5... an envoy of {02}{0B}2 suddenly visited {02}{0E}3.
+@1351
+I have the honour of meeting you. I am {02}{0C}2, in the service of {02}{0B}2.
+@1352
+An envoy from Lord {02}{0B}3, how rare. As you know, our house and the {02}{0B}5 have long been at odds... What business brings you?
+@1353
+Your handling of the Hanakura Rebellion, Lord {02}{0E}3, was truly brilliant. My lord says it would be the height of folly to fight such a man...
+@1354
+He therefore proposes to wed Princess {02}{0D}3 of our house to Lord {02}{0E}3 and form a lasting bond. What do you say?
+@1355
+Hm... not a bad proposal. Better than making enemies on every side. Very well, I gladly accept.
+@1356
+I am most grateful. Lord {02}{0B}3 will surely be delighted. Then I take my leave...
+@1357
+Thus {02}{0E}3 married {02}{0B}3's daughter. But this marriage caused a rift between {02}{0B}3 and his retainers, which would later erupt as an incident...
+@1358
+In the 9th month of 1538 (Tenbun 7)... Saito Toshitaka, Deputy Constable of {02}{0B}U serving the {02}{0B}k, lay ill in bed. One day, Toshitaka summoned {02}{0B}2.
+@1359
+Oh... Is that {02}{0B}3...?
+@1360
+Toshitaka, take heart. You must still be of use to our lord.
+@1361
+No, I am surely finished... Today I called you because I have a favour to ask.
+@1362
+What might it be...? If it is within my power, I shall do whatever you ask.
+@1363
+I want you to inherit the name of Saito. If you do, I can go to the underworld in peace.
+@1364
+What?! The Saito are the house of the Deputy Constable of {02}{0B}U... A lowly man like me cannot bear that name.
+@1365
+No, no. It is a capable man like you who should inherit the Saito name. I beg you... take the name of Saito.
+@1366
+If you are so resolved, I cannot refuse. Very well. I shall take on the Saito name.
+@1367
+Thank you. Now I can set out for the underworld in peace...
+@1368
+Thus {02}{0B}2 took over the Saito Toshitaka name and changed his name to Saito Dosan.
+@1369
+Under the harsh rule of {02}{0B}5 head {02}{0B}3, the people were driven to the limit. {02}{0C}3 and the {02}{0B}5 clan members watched this state of affairs with bitterness...
+@1370
+Father, what is it?
+@1371
+Hm, I am thinking of visiting {02}{0F}3. For the future I must keep up relations with the {02}{0F}5, and I want to see my daughter's face too.
+@1372
+I see. A fine idea. Take care on your way. Leave the household to us.
+@1373
+Yes. I count on you.
+@1374
+Thus {02}{0B}3 set out for {02}{0F}2. Some time later...
+@1375
+Lord {02}{0C}3...
+@1376
+{02}{0E}3 and {02}{0D}3. What do you want?
+@1377
+The people's discontent is about to burst. With the old lord away, now is the perfect chance. Make your decision!
+@1378
+Brother! I will follow you, so make your decision!
+@1379
+...There is no helping it. It cannot be avoided to save the {02}{0B}5. Let us ask Father to remain a guest of the {02}{0F}5.
+@1380
+Days later... {02}{0B}3, in high spirits, set out for home, but the moment he left {02}{0F}T...
+@1381
+Hm?! W-what are you doing?! Do you know I am {02}{0B}2 when you commit this outrage?!
+@1382
+Be quiet. We have a message from Lord {02}{0C}3: "Forgive me, but Father is to remain a guest of the {02}{0F}5."
+@1383
+What! You mean to drive me out?! Curse you, {02}{0C}3... I will surely return! I will return!!
+@1384
+...Thus {02}{0C}3 banished his father {02}{0B}3 to {02}{0F}U and inherited the headship of the {02}{0B}5...
+@1385
+{02}{0B}2 expanded his power through marriage diplomacy, sending his children as heirs or brides to neighbouring daimyo. But one day, a great incident occurred...
+@1386
+Lord {02}{0C}3! This is terrible. For Lord {02}{0D}3's adoption into the {02}{10}5, Lord {02}{0B}3 seems to plan to send him off with 100 elite cavalry.
+@1387
+What?! At this rate the {02}{0B}5 will be in serious trouble. We must stop Father at once... {02}{0E}3! We go to Father!
+@1388
+{02}{0C}3 and {02}{0E}3 rushed to {02}{0B}3's castle.
+@1389
+Father, many retainers have already left for other houses. If you send out 100 elite cavalry on top of that, the {02}{0B}5 will be weakened.
+@1390
+What if other houses take note of the {02}{0B}5's state? They will turn on us at once. Please reconsider.
+@1391
+Do not talk nonsense, you two. The escort from the {02}{10}5 has already come. I cannot go back on it now. Begone, begone!
+@1392
+...It seems nothing we say will help. What shall we do?
+@1393
+...It cannot be helped. We cannot let the {02}{0B}5 be ruined. We must resort to force. {02}{0E}3, lend me your ear.
+@1394
+......! R-really, such a thing...? What will the others think...
+@1395
+If he will not listen, there is no choice. Stop dithering and prepare at once.
+@1396
+...Yes, my lord.
+@1397
+The next day, someone broke into {02}{0B}3's bedchamber.
+@1398
+Hm! Who goes there?! ! Ugh...
+@1399
+Confine the old lord in some room in the castle.
+@1400
+...Father, forgive me. To save the {02}{0B}5, this is the only way...
+@1401
+{02}{0C}3 confined {02}{0B}3 and raised troops. As a result, {02}{0D}3's adoption into the {02}{10}5 was called off. A few days later...
+@1402
+Ugh... Curse you, {02}{0C}3... to defy me...
+@1403
+My lord... My lord!
+@1404
+Oh, is that {02}{0F}3 there? Quick, get me out of here. I will give that unfilial {02}{0C}3 a shock.
+@1405
+Shh! Quiet... I will let you out now... ...Now, let us flee. Climb on my back.
+@1406
+{02}{0C}3! I will never forget this grudge as long as I live. I will surely destroy you.
+@1407
+{02}{0B}3 returned to {02}{0B}T thanks to the desperate rescue by his chief retainer {02}{0F}2. Thus began a great war of seven years that drew in the neighbouring provinces.
+@1408
+Some years after {02}{0C}2 became head of the {02}{0C}5 with {02}{0B}2's backing... {02}{0B}3, who had steeped {02}{0C}3 in a life of feasting, began to act to achieve his own ambitions...
+@1409
+Oh, is that {02}{0B}3? Good timing. Be my drinking partner.
+@1410
+No... I have an important matter to discuss. Please clear the room.
+@1411
+What is this so suddenly? Interrupting me while I am enjoying myself... Later, later.
+@1412
+...My lord!!
+@1413
+Very well, very well. Everyone, I have business with {02}{0B}3, so leave.
+@1414
+...They are all gone. Now, what is this matter?
+@1415
+With all respect, I have come to ask that you retire.
+@1416
+...!? Why?! Why must I retire?!
+@1417
+Consider what you have done. Feasting day and night, scarcely tending to government. Retainers complain one after another. That retirement is demanded is only natural.
+@1418
+Do not speak nonsense! I will never retire! I do not want to see your face! Begone!
+@1419
+Is that so. I understand your mind well. Then, I take my leave.
+@1420
+That night... {02}{0B}3's army attacked {02}{0C}3's residence. {02}{0C}3, drunk on wine, was driven from his residence without a chance to resist.
+@1421
+Farewell, Lord {02}{0C}3. Leave the governing of {02}{0C}U to us... Hahaha.
+@1422
+Curse you, {02}{0B}3... I will never forget this grudge...
+@1423
+Thus {02}{0B}3 seized real power over the {02}{0C}5, and achieved his own ambition...
+@1424
+In the 12th month of 1542 (Tenbun 11)... a baby boy was born at {02}{0B}T. His father was {02}{0B}2, and his mother was {02}{0B}3's lawful wife, Odai no Kata.
+@1425
+My lord, a son is born. Our heartiest congratulations. I offer them on behalf of all your retainers.
+@1426
+Yes, well done. The long-awaited son is born. Born in the hour of the tiger in the year of the tiger, he will surely grow up strong.
+@1427
+He will surely grow into a fine man. By the way, have you decided the young master's name?
+@1428
+Ah! So I have not. This child's name is... Takechiyo! Takechiyo of the {02}{0D}5!!
+@1429
+Neither {02}{0B}3 nor {02}{0C}3 could have imagined that the boy named Takechiyo would later unify the realm and open a shogunate in Edo.
+@1430
+Takechiyo's later name was {02}{0D}2...
+@1431
+{02}{0B}2 was rising to prominence as {02}{0E}2's right-hand man. But within the {02}{0E}5, not a few resented his rise...
+@1432
+My lord, are you content to leave things so? They say {02}{0B}3 is the very man who drove the late lord Sukemoto to his death... He must be put down.
+@1433
+Hm... I have heard that rumour too. I would drive him out if I could, but {02}{0B}3's power is great. What is to be done?
+@1434
+I have a small idea about that. Entrust the command to me.
+@1435
+Good! I leave it to you. Be sure to see to it well.
+@1436
+Days later... {02}{0B}3 was summoned by {02}{0E}3's aide {02}{0F}2.
+@1437
+What is your business?
+@1438
+Hm... Lately the local gentry of {02}{0E}U are stirring restlessly again. I want you to subdue them.
+@1439
+The local gentry, you say? I have heard no such talk... ...No, understood.
+@1440
+{02}{0B}3 sallied forth feeling uneasy and suffered a great defeat. No wonder: it was a trap laid by the {02}{0E}5 and the local gentry of {02}{0E}U.
+@1441
+When {02}{0B}3's badly battered army returned to its castle, {02}{0B}T, the {02}{0E}5 army had surrounded the castle...
+@1442
+!? What is the meaning of this?! Why must the {02}{0E}5 army surround our castle?!
+@1443
+Lord {02}{0B}3...
+@1444
+Lord {02}{0F}3!! What is the meaning of this?! What have we done?!
+@1445
+We do not know the reason either. In any case Lord {02}{0E}3 is angry. You had better explain yourself to him.
+@1446
+...Understood. I shall send {02}{0C}3 and {02}{0D}3 to Lord {02}{0E}3. The rest of the clan will follow shortly...
+@1447
+Thus {02}{0C}3 and {02}{0D}3 went to {02}{0E}3. A little behind, many of the {02}{0B}5 clan left the castle. But then...
+@1448
+Hm! Who are you?! What do you mean to do with us?! ...Gwah!
+@1449
+...Damn! We were tricked! Curse you, {02}{0F}3! ...Gubu
+@1450
+{02}{0C}3 and {02}{0D}3 have been killed?! Yorizumi, Sumiie, Kamon, Iyasu too?! ...Damn, {02}{0F}3 tricked us. I will avenge this someday!
+@1451
+{02}{0B}3 lost nearly all his clan to {02}{0F}3's scheming. Will he be able to restore the {02}{0B}5...
+@1452
+One day... Shogun {02}{0B}2 summoned his child {02}{0C}3.
+@1453
+Father, why this sudden summons?
+@1454
+{02}{0C}3... I am weary. I want to cast everything aside and retire. I shall pass the shogunate to you.
+@1455
+What are you saying?! I am only {02}{0C}J years old. I have no power to rule the realm.
+@1456
+It is fine. You show more promise than I did. Do not make me suffer any more.
+@1457
+Father... I understand. I shall restore the glory of the shogun's house with my own strength!
+@1458
+Thus {02}{0C}3 became the 13th Seii Taishogun. Later he learned swordsmanship from masters such as Tsukahara Bokuden and earned the epithet "Sword-Saint Shogun".
+@1459
+One day... {02}{0B}2 summoned his heir Kipposhi.
+@1460
+Old man, what is it?
+@1461
+Hm... you are {02}{0C}J now. I think it is about time you came of age.
+@1462
+I hate ceremonies.
+@1463
+Do not talk nonsense. The coming-of-age is the most important ceremony for a boy. Know that without it you cannot become a man.
+@1464
+I see... Then it cannot be helped. I will attend the ceremony.
+@1465
+Thus Kipposhi completed the coming-of-age ceremony and changed his name to {02}{0C}2.
+@1466
+One day... {02}{0B}2 summoned his daughter {02}{0C}3, who was to be married to {02}{0E}2.
+@1467
+Father, did you call for me?
+@1468
+The wedding is finally tomorrow. I shall give you this.
+@1469
+...? Why a dagger for me?
+@1470
+If {02}{0E}3 is truly a fool, stab him with this. Then return to {02}{0B}T at once.
+@1471
+...That I cannot accept. I am to be Lord {02}{0E}3's wife.
+@1472
+Depending on time and circumstance, I may turn my blade on you, Father. Please bear that in mind.
+@1473
+Gu... Wahahaha! That is a viper's daughter indeed. A bride too good for the likes of {02}{0E}3!
+@1474
+Thus {02}{0B}2's daughter {02}{0C}3 went to wed {02}{0E}3.
+@1475
+{02}{0B}3 had inherited the {02}{0B}5, but he was sickly and lacked leadership, so his retainers' hearts gradually drifted away. One day...
+@1476
+Today I have an important matter to discuss... None other than the headship of the {02}{0B}5.
+@1477
+...That again? I have only one answer!
+@1478
+Wait! Today you will hear me out. The retainers' hearts have already left you.
+@1479
+At this rate you will destroy the {02}{0B}5. Is that what you want?!
+@1481
+Very well. Leave everything to Lord {02}{0C}3. I shall tell them to treat you well.
+@1482
+...Understood. I shall follow Lord {02}{0D}3's word...
+@1483
+Thus {02}{0C}3 was adopted by his elder brother {02}{0B}3 and inherited the headship of the {02}{0C}5.
+@1484
+No one could have imagined that he would later be feared as the "Dragon of Echigo"...
+@1485
+After the sudden death of his father Kiyoyasu, {02}{0B}3 inherited the headship at only 10. Having overcome many hardships, he was gradually regaining power, but...
+@1486
+My lord...
+@1487
+Ah, Yaya. I hear you have a secret matter for me. What is it?
+@1488
+Yes... it is not something to say aloud. May I come a little closer?
+@1489
+Do not hesitate. Come near. Now, this secret matter...
+@1490
+Yes... it concerns a danger closing in on you, my lord.
+@1491
+What?! What is it?
+@1492
+This!
+@1493
+Gwah!? ...W-what are you doing!
+@1494
+Hahaha! I am an assassin sent by Lord Sakuma of Nishihirose, who slipped into this castle! Farewell!
+@1495
+Gu... Sakuma, curse you... ...Gubu!
+@1496
+Yaya was an assassin sent by the local lord Sakuma Masataka, who resented {02}{0B}3. {02}{0B}3 was only {02}{0B}J. The hard road of the {02}{0B}5 went on...
+@1497
+{02}{0B}5 head {02}{0B}3 disliked his eccentric heir {02}{0C}3 and meant to have his third son Shioichimaru inherit instead. But this wish would bring disaster...
+@1498
+I have gathered you all for one reason. I have decided to disinherit {02}{0C}3 and make Shioichimaru my heir. I trust no one objects.
+@1499
+!? W-why would you do that?!

@@ -1,0 +1,1088 @@
+@10500
+Straightaway, {02}{0B}2 called on {02}{0C}2 at {02}{97}2.
+@10501
+Oh... So {02}{0D}3 wishes for a marriage with our house?
+@10501.1
+Oh... So {02}{0D}3 wishes for a marriage with our house?
+@10502
+Yes! They hope the princess's marriage will bind the two houses closely. I beg a favourable reply...
+@10503
+Very well. I too wished to join hands with the {02}{0D}5 clan. Tell them the proposal is accepted.
+@10503.1
+Very well. I too wished to join hands with the {02}{0D}5 clan. Tell them the proposal is accepted.
+@10504
+Yes! Thank you for your kind words.
+@10505
+And so a princess of the {02}{0B}5 clan was married into the {02}{0C}5 clan, and a marriage alliance was formed between the two houses. How will this affect the course of the realm...?
+@10506
+Here in {02}{97}2, the castle of {02}{0B}2, {02}{0B}3 was devising a plan to bring down the sworn enemy, the {02}{0C}5 clan.
+@10507
+{02}{0E}2... As long as that one lives, the {02}{0D}5 clan will be hard to defeat.
+@10508
+True... Without {02}{0E}3, the {02}{0D}5 clan would be nothing to fear.
+@10509
+Therefore I mean to scheme to remove {02}{0E}3. {01}C{0A}{00}, proceed as I have arranged.
+@10509.1
+Therefore I mean to scheme to remove {02}{0E}3. Proceed as I have arranged.
+@10510
+{01}C{DB}{00} Understood.
+@10511
+Some time later, rumours of the treachery of {02}{0D}2 spread constantly through {02}{97}2 of the {02}{0C}5 clan. It was the work of spies of the {02}{0B}5 clan.
+@10512
+{01}C{0B}{00}! I must report urgently about {01}C{15}{00}!
+@10513
+What is it? The rumours of treachery? I think they are mere rumours...
+@10513.1
+What is it? The rumours of treachery? I think they are mere rumours...
+@10514
+I thought so too... but we caught a suspicious person at the border.
+@10515
+And?
+@10516
+They carried a letter. It records that {01}C{15}{00} accepted the invitation to betray from the {02}{0E}5 clan.
+@10517
+What! Is it true?
+@10517.1
+What! Is it true?
+@10518
+{01}C{DB}{00} The handwriting seems to be that of {01}C{15}{00} too. There seems to be no mistake...
+@10519
+Damn {01}C{13}{00}! {01}C{0A}{00}, seize them at once!
+@10520
+{02}{0C}2 was soon captured, suspected of treason by their lord {02}{0B}3, and ordered to commit seppuku.
+@10521
+This must be the scheme of {02}{0D}5... To be taken in so easily by an enemy's plot... The {02}{0C}5 clan is finished.
+@10522
+And so, by the scheme of {02}{0D}2, {02}{0B}2 of the {02}{0C}5 clan took their own life. How will this affect the course of the realm...?
+@10523
+Here in {02}{97}2, the castle of {02}{0B}2, the court noble {02}{0C}2 had come to the castle as an envoy of the Imperial Court.
+@10524
+I am {02}{0B}5 %s {02}{0B}3. I am most abashed that you should come to such a humble place.
+@10525
+Ah, {02}{0C}3. Do not trouble yourself.
+@10526
+Yes! Now, what business brings you this time?
+@10527
+Ah. His Majesty commands that you be conferred the title of {02}e2. Accept it with reverence.
+@10528
+The title of {02}e2... for one such as I... I am most fortunate.
+@10529
+Continue to work for the Imperial Court and the peace of the realm.
+@10530
+{02}{0B}2 has been appointed {02}e2.
+@10531
+Here in {02}{97}2, the castle of {02}{0B}2, {02}{0C}2, an envoy of the shogunate, had come to the castle.
+@10532
+Well, well, {02}{0C}5. I am most grateful that you came all this way.
+@10533
+I see {01}C{0C}{00} is in good health. Now, I have come to convey a command from the Shogun. Listen with care.
+@10535
+It is ordered that you be appointed {02}{AB}2. You must accept.
+@10536
+What! An honour beyond one such as I... I humbly accept.
+@10537
+Continue to guard and serve the Shogun. I count on you.
+@10539
+{02}{0B}2 has been appointed {02}{AB}2.
+@10540
+Here in {02}{97}2, the castle of {02}{0C}2... {02}{0C}3 summoned {02}{0B}3, who had just completed the hair-tying ceremony.
+@10540.1
+Here in {02}{97}2, the castle of {02}{0C}2... {02}{0C}3 summoned {02}{0B}3, who had just completed the coming-of-age ceremony.
+@10541
+{01}C{09}{00}, {02}{0B}3 reporting as summoned.
+@10542
+Ah, the hair-tying ceremony is over without trouble. That is the main thing.
+@10542.1
+Ah, the coming-of-age ceremony is over without trouble. That is the main thing.
+@10544
+From now on you are one of the retainers of the {02}{0D}5 clan. Are you ready?
+@10544.1
+From now on you are one of the retainers of the {02}{0D}5 clan. Are you ready?
+@10545
+Yes, {01}C{09}{00}. I can hardly wait for my first battle.
+@10546
+{01}C{D6}{00} So eager! But you excel at everything, and I expect great things of you. Strive for the {02}{0D}5 clan's bid for the realm.
+@10546.1
+{01}C{D6}{00} So eager! But I expect great things of your spear. Strive for the {02}{0D}5 clan's bid for the realm.
+@10546.2
+{01}C{D6}{00} So eager! But I would rather see you show your strength in governance than with the spear. I expect great things.
+@10546.3
+{01}C{D6}{00} So eager! But I expect great things of you. Strive for the {02}{0D}5 clan's bid for the realm.
+@10548
+And so began the battles of {02}{0B}2 as a retainer of the {02}{0D}5 clan. What deeds will {02}{0B}3 show hereafter...?
+@10549
+Here in {02}{97}2 of {02}y2, a young person was about to set out on a life full of upheaval as an officer.
+@10550
+So this is {02}{97}2... Quite a bustling place.
+@10551
+I am still only a poor ronin... but someday I wish to make my name as an officer.
+@10551.1
+I am still only a poor ronin... but someday I wish to make my name as an officer.
+@10552
+Pardon me, good sir...
+@10553
+Yes? Do you mean me?
+@10553.1
+Hm? Do you mean me?
+@10554
+Indeed. Forgive my rudeness, but you have a most interesting face.
+@10555
+Oh? In what way?
+@10556
+Well, I can see in you a destiny to bring order to this age of strife.
+@10557
+Surely not! A ronin such as I...
+@10558
+You may laugh it off as nonsense... but the realm is still in disorder, tangled like hemp.
+@10559
+This humble monk hopes that one like you will spend your strength for the peace of the realm.
+@10560
+Ah, such gracious words. I shall engrave the words of the priest upon my heart.
+@10561
+A ronin appeared in {02}{97}2, {02}{0B}2... What effect will they have on the future of the realm...?
+@10562
+Having come of age, {02}{0B}2 chanced to enter the service of the {02}{0C}5 clan.
+@10563
+And today, here in {02}{97}2, they were to meet their lord {02}{0C}2 for the first time.
+@10564
+It is an honour to meet you, {01}C{0B}{00}. I have come in hopes of being added to the lowest ranks of the {02}{0C}5 clan.
+@10565
+{01}C{0A}{00}, there is no need to be so formal. Raise your head.
+@10567
+You are still young... but even the young, if they win merit, I mean to promote one after another.
+@10568
+Strive on, then.
+@10569
+{01}C{DB}{00} Though young and unworthy, I, {02}{0B}3, intend to do my utmost for {01}C{0B}{00}'s bid for the realm.
+@10570
+Good. I expect great things.
+@10571
+And so began the battles of {02}{0B}2 as a retainer of the {02}{0C}5 clan. What deeds will the {02}{0B}5 show hereafter...?
+@10572
+Here in {02}y2, the {02}{0B}5 clan's rule of its domain was facing difficulty. The gentry of {02}y2 were stubbornly resisting the {02}{0B}5 clan.
+@10573
+{01}C{0A}{00}, how are the gentry?
+@10574
+{01}C{DB}{00} They have not softened their hostility to us. If left alone, an uprising is certain.
+@10575
+I see... Then it cannot be helped. We shall seize the initiative and start the war ourselves. {01}C{0A}{00}, prepare to march out!
+@10575.1
+I see... Then it cannot be helped. We shall seize the initiative and start the war ourselves. {01}C{0A}{00}, prepare to march out!
+@10577
+Before long the army of the {02}{0B}5 clan attacked the {02}o2. Before the surprise assault, the {02}o2 was helpless.
+@10578
+Now the gentry's power is shattered.
+@10579
+So it is. They gave us a great deal of trouble...
+@10580
+And so the {02}o2 fell. How will this affect the course of the realm...?
+@10581
+Here in {02}y2, the {02}{0B}5 clan's rule of its domain was facing difficulty. The {02}[2 temple was stubbornly resisting the {02}{0B}5 clan.
+@10582
+The {02}[2's conduct toward our house can no longer be overlooked. {01}C{0A}{00}, we shall destroy them by force. Prepare to march out!
+@10582.1
+The {02}[2's conduct toward our house can no longer be overlooked. {01}C{0A}{00}, we shall destroy them by force. Prepare to march out!
+@10583
+But, {01}C{0B}{00}, the {02}[2 is the spiritual refuge of the people. To destroy it...
+@10583.1
+But, {01}C{0B}{00}, the {02}[2 is the spiritual refuge of the people. To destroy it...
+@10584
+I know... but if we leave the {02}[2 alone now, my path to supremacy may be swept away from under my feet. The root of ruin must be removed.
+@10584.1
+I know... but if we leave the {02}[2 alone now, my path to supremacy may be swept away from under my feet. The root of ruin must be removed.
+@10585
+If you say so... Understood. I shall organise a force to subdue the {02}[2.
+@10585.1
+If you say so... Understood. I shall organise a force to subdue the {02}[2.
+@10586
+Before long, the {02}[2 was engulfed in flames by the assault of the {02}{0B}5 clan.
+@10587
+Oh, what have you done! Such conduct, fearing not even divine punishment... Lord, forgive them.
+@10587.1
+Damn you, {02}{0C}3! Such a deed, fearing not the Buddha's wrath, will surely be repaid!
+@10588
+It pains me... but now there should be no more headaches in governing {02}y2.
+@10589
+And so the power of the {02}[2 was destroyed by the {02}{0B}5 clan. How will this affect the course of the realm...?
+@10592
+The truth is, I would like {01}C{0A}{00} to go to {02}y2. There seems to be some sort of unrest there.
+@10593
+{02}y2, is it... Understood. I shall set out at once.
+@10593.1
+{02}y2, is it... Understood. I shall set out at once.
+@10594
+Then I trust you with the governing of {02}y2.
+@10594.1
+Then I trust you with the governing of {02}y2.
+@10594.2
+Good. I trust you with the governing of {02}y2.
+@10595
+And so {02}{0B}2 was to go to {02}y2.
+@10596
+Here in {02}{97}2, the castle of {02}{0B}2...
+@10597
+What!? You say there is unrest in {02}y2?
+@10598
+Yes! A courier on horseback brought word just now.
+@10599
+Is that so... Then I shall go in person. Prepare for the journey!
+@10599.1
+Is that so... Then I shall go in person. Prepare for the journey!
+@10602
+{02}{0C}3, the wife of {02}{0B}2, had been struck down by an epidemic and lay abed. Despite the doctor's care the illness worsened, and she had little time left.
+@10603
+{02}{0C}3, the doctor says that with rest you will soon recover. Take heart.
+@10604
+*cough* *cough* My husband... I am sorry. Not only am I of no use, but I trouble you like this.
+@10605
+What are you saying! Because you are here, I can go to the battlefield with an easy mind. I would be troubled if you did not recover soon.
+@10606
+Such kind words. In this age of war, to have been your wife... I was... happy...
+@10607
+{02}{0C}3! {02}{0C}3! Hold on! Ugh... Why must you go before me...
+@10608
+{02}{0B}2 lost their wife, {02}{0C}3. Yet the age of war had not ended, and {02}{0B}2 had not even time to mourn.
+@10609
+Here in {02}{97}2 of {02}y2, an unforeseen disaster was about to strike.
+@10610
+Eek! What is it? An attack? Quick, bring me a spear!
+@10610.1
+Gwah! What is it? What is going on? An attack? Quick, bring me a spear!
+@10611
+{02}{0B}3, please calm yourself! It seems to be an earthquake. It is dangerous here, so please flee quickly.
+@10612
+I-is that so? Then we must hurry.
+@10612.1
+I-is that so? Then we must hurry.
+@10613
+{02}{0B}3, the exit is near. The shaking has stopped, but the castle may collapse. Please hurry.
+@10614
+Yes... But now that I think of it, was there not to be a council from the hour of the monkey today...
+@10614.1
+Y-yes... No, but wait. Was there not to be a council from the hour of the monkey today...
+@10615
+What are you saying at a time like this! If you do not hurry... a-aah!?
+@10616
+{02}{0B}3, are you all right?
+@10617
+I was nearly crushed under the castle. Ow, ow... I have bruised myself all over.
+@10617.1
+I was nearly crushed under the castle. Ow, ow... I have bruised myself all over.
+@10618
+The earthquake brought down {02}{97}2, and many of the officers inside were reportedly injured.
+@10619
+{02}{0B}2, an officer of the {02}{0C}5 clan, was first in the house in popularity and ability, and their renown even exceeded their lord's.
+@10620
+But because of that renown, {02}{0B}3 came to be envied by their lord {02}{0C}2.
+@10621
+{01}C{0A}{00}! There are rumours of late that you have been behaving suspiciously.
+@10621.1
+{01}C{0A}{00}! There are rumours of late that you have been behaving suspiciously.
+@10622
+What! What sort of rumours?
+@10622.1
+What! What sort of rumours?
+@10623
+I hear you have grown conceited and are often arrogant in the house. I even hear you have joined hands with the gentry and plot rebellion.
+@10624
+{01}C{0B}{00}! That is mere slander by loose-tongued fellows. I, {02}{0B}3, am not of two minds toward my lord. Pray do not doubt me.
+@10624.1
+{01}C{0B}{00}! That is mere slander by loose-tongued fellows. I, {02}{0B}3, am not of two minds toward my lord. Pray do not doubt me.
+@10625
+Hmph... Well, very well. You may withdraw for today.
+@10625.1
+Hmph... Well, very well. Please withdraw for today.
+@10625.2
+Hmph... Well, enough. Withdraw for today.
+@10628
+{02}{0B}3! This is a grave matter!
+@10629
+What is it? What has happened?
+@10630
+An army is closing in on this residence!
+@10631
+An army!? Whose men are they?
+@10631.1
+An army!? Whose men are they?
+@10632
+Yes! It seems to be an army sent by {02}{0B}3.
+@10633
+My lord's! Damn, I said so clearly that I was not of two minds. Was I not believed?
+@10634
+{02}{0B}3! There is no time left. Please flee from here at once.
+@10635
+It cannot be helped... Let us think only of escaping for now. Bring the horses!
+@10635.1
+It cannot be helped... Let us think only of escaping for now. Bring the horses!
+@10636
+And so {02}{0B}2 fled from {02}{0C}2 and became a ronin. What will become of her fate?
+@10636.1
+And so {02}{0B}2 fled from {02}{0C}2 and became a ronin. What will become of his fate?
+@10637
+Here in {02}{97}2, the castle of {02}{0B}2...
+@10638
+To accomplish the grand plan of uniting the realm, we need as many fine men as we can get.
+@10639
+Indeed. But we must not rely on one kind of talent alone. We should seek exceptional people from a wider field.
+@10639.1
+Indeed. But we must not rely on one kind of talent alone. We should seek exceptional people from a wider field.
+@10640
+You are right, {01}C{0A}{00}. So I mean to bring {02}{0D}2 from {02}Q2 into our house.
+@10641
+You are right, {01}C{0A}{00}. So I mean to bring {02}{0D}2 from the {02}[2 into our house.
+@10642
+You are right, {01}C{0A}{00}. So I mean to bring {02}{0D}2 from the {02}o2 into our house.
+@10643
+You are right, {01}C{0A}{00}. So I mean to bring {02}{0D}2 from the {02}{8D}2 into our house.
+@10644
+You are right, {01}C{0A}{00}. So I mean to bring {02}{0D}2 from the {02}{A1}2 into our house.
+@10645
+{02}{0D}3, is it? An excellent thought.
+@10645.1
+{02}{0D}3, is it? An excellent thought.
+@10646
+{02}{0B}2 went in person to bring {02}{0C}2 into the house as a retainer.
+@10647
+Why, {01}C{0B}{00}... I am most abashed that you came all this way.
+@10648
+{02}{0C}3, today I have a special request. I would very much like you to serve me.
+@10649
+Me, a retainer!? But even if I were added to the lowest ranks of the {02}{0C}5 clan, I would be of no use at all.
+@10650
+No, we need {02}{0C}3's talent as a merchant in our house. Will you not grant my request?
+@10650.1
+No, we need {02}{0C}3's talent as a merchant in our house. Will you not grant my request?
+@10651
+No, we need {02}{0C}3's power to lead the people in our house. Will you not grant my request?
+@10651.1
+No, we need {02}{0C}3's power to lead the people in our house. Will you not grant my request?
+@10652
+No, we need {02}{0C}3's command over the local warriors in our house. Will you not grant my request?
+@10652.1
+No, we need {02}{0C}3's command over the local warriors in our house. Will you not grant my request?
+@10653
+No, we need {02}{0C}3's shinobi skills in our house. Will you not grant my request?
+@10653.1
+No, we need {02}{0C}3's shinobi skills in our house. Will you not grant my request?
+@10654
+No, we need the strength of {02}{0C}3 in leading the pirate bands in our house. Will you not grant my request?
+@10654.1
+No, we need the strength of {02}{0C}3 in leading the pirate bands in our house. Will you not grant my request?
+@10655
+If you think so highly of me, I have no reason to refuse. If I will do, let me serve you.
+@10656
+Oh, is that so! {02}{0C}3, I thank you.
+@10656.1
+Oh, is that so! {02}{0C}3, I thank you.
+@10657
+And so {02}{0C}2 came to serve {02}{0B}2.
+@10659
+{01}C{0B}{00}, what is your business today?
+@10659.1
+{01}C{0B}{00}, what is your business today?
+@10660
+I am impressed by your recent loyal service, {01}C{0A}{00}. I wish to reward your efforts.
+@10660.1
+Ah, I am impressed by your recent loyal service, {01}C{0A}{00}. I wish to reward your efforts.
+@10660.2
+Ah, I am impressed by your recent loyal service. I wish to reward your efforts.
+@10661
+My efforts are trifling. Pray do not trouble yourself over it...
+@10661.1
+My efforts are trifling. Pray do not trouble yourself over it...
+@10662
+No, no, I cannot do otherwise. I have already prepared a reward. Please do accept it.
+@10662.1
+No, no, I cannot do otherwise. I have already prepared a reward. Please do accept it.
+@10662.2
+No, no, I cannot do otherwise. I have already prepared a reward. Take it.
+@10663
+Oh! This is the {02}G2! A magnificent piece.
+@10663.1
+Oh! This is the {02}G2! A magnificent piece.
+@10664
+I bought it from a merchant for {01}C{0A}{00}. What do you think?
+@10664.1
+Yes, I bought it from a merchant for {01}C{0A}{00}. What do you think?
+@10665
+It is too fine for one like me, but I gratefully accept. I, {02}{0B}3, shall serve all the more loyally.
+@10665.1
+It is too fine for one like me, but I gratefully accept. I, {02}{0B}3, shall serve all the more loyally.
+@10666
+I am counting on you.
+@10666.1
+Good, I am counting on you.
+@10667
+{02}{0B}2 has obtained the {02}G2.
+@10668
+Here in {02}{97}2, the castle of {02}{0B}2... A rare guest had come to see {02}{0B}3.
+@10669
+What! So you are a merchant from the Nanban lands?
+@10670
+Yes, I come from a country called Espanha.
+@10671
+I see. And what business has this foreigner with me?
+@10671.1
+Hmm... And what business has this foreigner with me?
+@10672
+Today I have brought a great many guns and cannon. I shall hand them over to {02}{0C}3.
+@10673
+What! You mean to give them for nothing? Are you not plotting something behind it?
+@10673.1
+What! You mean to give them for nothing? Are you not plotting something behind it?
+@10674
+Nothing of the kind. Only, should {02}{0B}3 take the realm, we ask that you permit trade with my country and the spread of the Catholic faith.
+@10675
+A guarantee of trade and missionary work... But I want those guns and cannon desperately. Needs must.
+@10675.1
+So you want a guarantee of trade and missionary work... But I want those guns and cannon desperately. Needs must.
+@10676
+Then use the weapons freely. And with these weapons, become king of this land.
+@10677
+Good. Then I shall gratefully make use of them.
+@10677.1
+Good. Then I shall gratefully make use of them.
+@10678
+The {02}{0B}5 clan obtained %d guns and %d cannon.
+@10680
+{01}C{0B}{00}... I have a favour to ask of you, one for all my life.
+@10681
+What is it, princess? Speak freely.
+@10682
+I should so like to wear Nishijin weaving.
+@10683
+Hahaha... Is that all? An easy matter, I shall buy it for you.
+@10684
+Um... I have one more request.
+@10685
+What is it? What is it?
+@10686
+My room is too plain, so I would like it redecorated.
+@10687
+Very well, very well. For my dear princess, I shall have the room covered in gold leaf.
+@10688
+{01}C{0B}{00}! Wait!
+@10688.1
+{01}C{0B}{00}! Please wait!
+@10689
+What is it, {01}C{0A}{00}? How did you get in?
+@10689.1
+What is it, {01}C{0A}{00}? How did you get in?
+@10690
+{01}C{0B}{00}! There are many people in the domain who cannot eat their fill. You must not spend money on such things.
+@10690.1
+{01}C{0B}{00}! There are many people in the domain who cannot eat their fill. You must not spend money on such things.
+@10691
+What do you mean, such things! I was thinking of my dear princess...
+@10691.1
+What do you mean, such things! I was thinking of my dear princess...
+@10692
+One can never have too much war funds. What will you do when a battle comes and there is no money?
+@10692.1
+One can never have too much war funds. What will you do when a battle comes and there is no money?
+@10693
+That is true, but...
+@10693.1
+That is true, but...
+@10694
+{01}C{0B}{00}, will you not hear my request? You do not care about me at all, do you...
+@10695
+No, that is not so... ......{01}C{0A}{00}! Enough! Withdraw!
+@10695.1
+No, that is not so... ......{01}C{0A}{00}! Enough! Withdraw!
+@10696
+{01}C{0B}{00}!
+@10697
+I do not recall being told how to spend my money by {01}C{0A}{00}. I will allow no more backtalk!
+@10697.1
+I do not recall being told how to spend my money by you. I will allow no more backtalk!
+@10698
+Ugh... Understood.
+@10698.1
+Ugh... Understood.
+@10699
+The {02}{0B}5 clan lost %d gold.
+@10700
+Enter the event title.
+@10701
+Set the event title.
+@10702
+Enter the year and month that trigger the event.
+@10703
+Enter the year it occurs.
+@10704
+Enter the month it occurs.
+@10705
+Select the daimyo who dies of illness.
+@10706
+Select the successor officer.
+@10707
+Show the edited event.
+@10708
+Show the conditions and results of the edited event.
+@10709
+Register the edited event.
+@10710
+Select the daimyo to be assassinated.
+@10711
+Select the daimyo who sends the assassin.
+@10712
+Select the daimyo who retires.
+@10713
+Select the officer who defects.
+@10714
+Select the current daimyo of the defecting officer.
+@10715
+Select the daimyo to defect to.
+@10716
+Enter the fief the defector receives at the new lord's.
+@10717
+Select the ronin who enters a daimyo's service.
+@10718
+Select the daimyo officer the ronin serves.
+@10719
+Select the officer who rebels.
+@10720
+Select the daimyo who is rebelled against.
+@10721
+Select the officer punished by the daimyo.
+@10722
+Select the daimyo who punishes.
+@10723
+Select the officer who urges punishment to the daimyo.
+@10724
+Select the daimyo who sets the scheme.
+@10725
+Select the 1st daimyo to become friends.
+@10726
+Select the 2nd daimyo to become friends.
+@10727
+Select the 3rd daimyo to become friends.
+@10728
+Enter the friendship between the daimyo after the event.
+@10730
+Select the daimyo who becomes a vassal.
+@10731
+Select the daimyo to be served.
+@10732
+Select the daimyo who becomes independent.
+@10733
+Select the daimyo they break from.
+@10734
+Select the daimyo who proposes marriage.
+@10735
+Select the daimyo who receives the proposal.
+@10736
+Select the officer who comes of age.
+@10737
+Select the officer who is adopted.
+@10738
+Select the officer who is father of the adopted princess.
+@10739
+Select the daimyo officer given a court title.
+@10740
+Select the court title to be conferred.
+@10741
+Select the daimyo who takes a shogunate post.
+@10742
+Select the shogunate post to be taken.
+@10743
+Select the gentry group to be destroyed.
+@10744
+Select the daimyo who destroys the gentry.
+@10745
+Select the temple or shrine to be destroyed.
+@10746
+Select the daimyo who destroys the temple or shrine.
+@10747
+Cancel the settings entered.
+@10748
+{1B}CYRequired items have not been entered.{1B}CD
+@10749
+{1B}CYAn officer is entered in several items.{1B}CD
+@10750
+Select the officer who moves.
+@10751
+Select the daimyo of the officer who moves.
+@10752
+Select the destination province.
+@10753
+Select the princess who dies.
+@10754
+Select the husband of the princess who dies.
+@10755
+Select the castle struck by the earthquake.
+@10756
+Select the officer who becomes a ronin.
+@10757
+Select the daimyo of the officer who becomes a ronin.
+@10758
+Select the force of the notable who enters service.
+@10759
+Select the daimyo the notable serves.
+@10760
+Select the officer who receives the treasure.
+@10761
+Select the daimyo who gives the treasure.
+@10762
+Select the treasure to be given.
+@10763
+Select the daimyo who receives aid.
+@10764
+Select the daimyo the princess pesters.
+@10765
+Set the fief.
+@10766
+Set the friendship.
+@10767
+A daimyo dies of illness and a retainer succeeds.
+@10768
+A daimyo is killed by an assassin from another clan and a retainer succeeds.
+@10769
+A daimyo retires and a retainer succeeds.
+@10770
+An officer is poached and defects to another clan.
+@10771
+An officer gives up on his lord and defects to another clan.
+@10772
+A ronin enters a daimyo clan's service.
+@10773
+A retainer banishes his lord and becomes daimyo.
+@10774
+A retainer seizes a castle from his lord and goes independent.
+@10775
+A retainer rebels but fails, and is executed by the daimyo.
+@10776
+A daimyo executes an innocent retainer.
+@10777
+Tricked by another clan's scheme, a daimyo executes an innocent retainer.
+@10778
+Two daimyo clans become friends.
+@10779
+Three daimyo clans become friends.
+@10780
+A daimyo clan submits to another.
+@10781
+Two daimyo clans form a marriage alliance.
+@10782
+A vassal daimyo becomes independent of his overlord.
+@10783
+An officer comes of age.
+@10784
+A daimyo's princess marries a retainer.
+@10785
+A daimyo is given a court title.
+@10786
+A daimyo takes a shogunate post.
+@10787
+A daimyo clan's attack destroys a gentry group.
+@10788
+A daimyo clan's attack destroys a temple or shrine.
+@10789
+Change an officer's province.
+@10790
+An officer's wife dies.
+@10791
+An earthquake wrecks a castle and officers are injured.
+@10792
+An officer about to be punished flees and becomes a ronin.
+@10793
+A notable of a force enters a daimyo clan's service.
+@10794
+A daimyo gives a treasure to a retainer.
+@10795
+A Nanban merchant aids a daimyo clan with guns and cannon.
+@10796
+A princess's extravagance costs a daimyo clan gold.
+@10797
+Registered Event Manager
+@10798
+The registered events have been changed. If you have not saved, the changes will not take effect. Is that all right?
+@10801
+Choose the registered event you wish to check.
+@10802
+This will delete the data of the selected registered event.\nAre you sure?
+@10803
+Choose the registered event to load.
+@10804
+The data being created will be discarded.\nAre you sure?
+@10805
+There is no created registered event data on the MEMORY CARD (PS2) in MEMORY CARD slot 1.
+@10806
+In an age of warring states, when mighty lords contend for this land, heroes of ancient times whose names live in history were about to rise again...
+@10807
+Ugh... Ngh... Where am I? What has happened to me...?
+@10808
+Elder brother!? Pull yourself together!
+@10809
+Ohh! Guan Yu! And Zhang Fei and Kongming are here too!
+@10810
+Elder brother! Are you all right?
+@10811
+Yes, I am well. But what in the world is this...?
+@10812
+It seems the four of us have been born anew in a foreign land...
+@10813
+What!? But I am certain I fell ill at Baidi City and died...
+@10814
+I too met a bitter death in Jingzhou, yet I woke to find myself in this strange land...
+@10815
+Hmm. It is hard to believe, but with all of you beside me, I can rest easy for now.
+@10816
+...Elder brother, there is no atoning for my failure to hold Jingzhou...
+@10817
+Think no more of it, Guan Yu. I too died in bitter defeat at Wu, trying to avenge you both.
+@10818
+Ah, yes! I entrusted my affairs to the Chancellor. Kongming, surely you destroyed Wei in splendid fashion?
+@10819
+That is...
+@10820
+Hm? What is it, Kongming?
+@10821
+Forgive me. The Northern Expeditions were never completed. It is my own lack of virtue...
+@10822
+No. If Kongming could not do it, no one could have. Do not trouble yourself.
+@10823
+Elder brother, what shall we do now?
+@10824
+Since we have been given life again, this time I will surely restore the Han house.
+@10825
+Restore the Han? You never gave that up, did you?
+@10826
+I am told over a thousand years have passed since the Han fell.
+@10827
+A thousand years or two thousand, it matters not. Restoring the Han is my lifelong wish, and I will see it done.
+@10828
+Lord Liu Bei! Please let us share your lifelong wish!
+@10829
+Ohh! Pang Tong! And Xu Shu is here as well!
+@10830
+It has been long, Lord Liu Bei. This time no one holds my mother hostage. I will serve you to the end.
+@10831
+I too deeply regret losing my life at Fallen Phoenix Slope, with your great enterprise half done.
+@10832
+This time let us serve you until your lifelong wish is fulfilled.
+@10833
+With Kongming, Pang Tong and Xu Shu all here... whatever powers lie in this land, none can be so blessed with wise men as I.
+@10834
+That's all thanks to your virtue, brother. Even reborn, the best men flock to you.
+@10835
+Lord Zhang Fei is right. Lord Liu Bei, may you ever hold the harmony of men dear.
+@10836
+Yes, I know. From this land we shall work to restore the Han. Follow me, all of you.
+@10837
+Thus Liu Bei seized Idzumi Castle and raised his banner as a daimyo in the age of warring states.
+@10838
+...So you have awakened.
+@10839
+Ohh... Xiahou Yuan... Hm... Where is this!?
+@10840
+I woke only a short while ago myself... I have no idea why we are in this land, or what has happened.
+@10841
+Cao Cao and Xiahou Yuan, awakened in a foreign land, stood stunned by it all. Then a man approached.
+@10842
+......!! Y-you are...!?
+@10843
+I see you are both awake.
+@10844
+G-Guo Jia!? Why are you alive? What is going on?
+@10845
+...I will explain as far as I can. It seems this land differs from our own country.
+@10846
+And that we who lived out our allotted years are here may mean we are meant to quell the age of war in this land.
+@10847
+You mean Heaven judged that this land needs us!
+@10848
+Just so.
+@10849
+Very well, let us follow the Mandate of Heaven and become king here! First we need a castle as a base...
+@10850
+Have no fear... good news should arrive any moment now. ......Ah, he is back.
+@10851
+My lord, it has been long. I have just taken a castle in this land.
+@10852
+Ohh! Xiahou Dun!! You are here too! I am glad...!!
+@10853
+Your kind words honour me... Now, please come this way. Everyone awaits you, my lord.
+@10854
+Led by Xiahou Dun, Cao Cao entered Ono Castle. Waiting there were many of the officers who had served him.
+@10855
+...Xun Yu. You served me well, and I treated you so... You must surely resent me.
+@10856
+What are you saying? The posthumous title Lord Jing that you later granted me tells me your heart well enough.
+@10857
+...Dian Wei. When I was attacked in my bedchamber, you protected me though you had no weapon.
+@10858
+It was nothing... The great funeral you gave a man like me filled me with deep emotion.
+@10859
+My lord, enough greetings for now... Everyone is waiting.
+@10860
+Ah... forgive me. So many memories came back.
+@10861
+Hm... Everyone! We have been granted life once more. This is the will of Heaven...
+@10862
+As Heaven wills, I shall lead this land! Lend me your strength, all of you, and let us seize supremacy here!!
+@10863
+Thus Cao Cao seized Ono Castle and raised his banner as a daimyo in the age of warring states.
+@10864
+Brother... what on earth has happened to us? Where are we?
+@10865
+Hm, this seems a different country from our own. Even the buildings look different. We have wandered into a strange place.
+@10866
+It seems this land too is torn by war...
+@10867
+A land of war... For me, who fell with my ambitions unfulfilled, that is welcome indeed.
+@10868
+Lord Sun Ce, if we join our strength we can seize supremacy here.
+@10869
+Hm... Zhou Yu!? Is that you! You were revived in this land too!
+@10870
+Not only I. Lu Su is here as well!
+@10871
+Lu Su too! With you both I feel strong. With you, I feel I could not lose any battle!!
+@10872
+But we alone lack the civil officials to govern. If only Zhang Zhao were here, we could leave internal affairs to him in peace...
+@10873
+That you need me is a gift I am grateful for.
+@10874
+......Hm. Oh, Zhang Zhao is here too!
+@10875
+Lord Gan Ning, and Lu Xun, who later upheld our state, are here as well!
+@10877
+Lord Sun Quan, my rebuke of you is a thing of the past... Please forget it. We have been given life again in this land and must work together.
+@10878
+Yes... Lu Xun is right. From now on we join forces to proclaim our hegemony in this land.
+@10879
+By the way, Lord Sun Quan, I hear that Lord Liu Bei has raised an army here just as we did.
+@10880
+Liu Bei!? Then Kongming is with him?
+@10881
+Most likely...
+@10882
+Quan, who is this Kongming?
+@10883
+Liu Bei's strategist. A man of fearsome intellect... a formidable foe.
+@10884
+Kongming... Even reborn, we are to meet again. Lord Sun Ce, leave it to me, Gongjin. I will surely defeat Kongming.
+@10885
+Good. You will not fall behind him. The rest of you, lend me your strength to seize supremacy here!
+@10887
+Thus Sun Ce seized Katsuyama Castle and raised his banner as a daimyo in the age of warring states.
+@10888
+Hmm... It seems I have been born again in Japan after many years.
+@10889
+Yet how lamentable that my Ashikaga shogunal house has fallen to a mere local regime ruling only around the capital.
+@10890
+But I alone can do nothing. What is to be done...
+@10891
+Lord Takauji!
+@10892
+Hm? Who are you?
+@10893
+Your grandson, Yoshimitsu.
+@10894
+Oh! Yoshimitsu, son of Yoshiakira?
+@10895
+Indeed, Lord Takauji.
+@10896
+I see. You were reborn as well. Hm? Who is that with you?
+@10897
+This is my retainer, Ikkyu. Ikkyu, greet him.
+@10898
+I am Ikkyu Sojun. I serve Lord Yoshimitsu.
+@10899
+He is quite clever, and none can match him at riddles and quick wit.
+@10900
+Oh, quick wit? Yet being told one is good at quick wit does not impress me.
+@10901
+Master Ikkyu!
+@10902
+Ah! Shinemon! You came too!
+@10903
+I, Shinemon, would follow Master Ikkyu to the ends of the earth!
+@10904
+Yoshimitsu, who is that samurai?
+@10905
+Yes, my lord! A retainer named Ninagawa Chiun.
+@10906
+Hmm... Your retainers seem rather unreliable.
+@10907
+I am ashamed...
+@10908
+Anyway, I must aim once more to rule the realm under the Ashikaga. Yoshimitsu, do you have any good ideas?
+@10909
+Unify the realm? It is not so easy to say... H-hey, Ikkyu! Solve it with your quick wit!
+@10910
+Yes, Lord Yoshimitsu!
+@10911
+Yoshimitsu, can we really leave the plan to unify the realm to a little monk's wit...?
+@10912
+Now, now... Please wait for Ikkyu's idea. ......Ikkyu, well?
+@10913
+......Ah! I have thought of something good!
+@10914
+Well? What is it?
+@10915
+The best plan is first to go and meet the current head of the Ashikaga.
+@10916
+What...? After such a build-up, a very ordinary plan. Well, never mind. Then, Lord Takauji, please go to Nijo Palace.
+@10917
+Yes, very well.
+@10918
+Some time later, at Nijo Palace...
+@10919
+My liege, someone urgently requests an audience. What shall we do?
+@10920
+An urgent audience? Who is it?
+@10921
+Well, they say he is a distant ancestor of yours.
+@10922
+How suspicious... Well, show him in.
+@10924
+Are you Ashikaga Yoshiaki, head of the Ashikaga?
+@10925
+I am indeed... But who are you?
+@10926
+I am Takauji, the first Shogun!
+@10927
+W-what!?
+@10928
+I am Yoshimitsu, the 3rd Shogun!
+@10930
+Ashikaga Yoshiaki! The decline of the Muromachi shogunate today is too sorry a sight to bear!
+@10931
+Ngh...
+@10932
+Therefore I shall now become head and aim to reunify the realm under the Ashikaga. Agreed!
+@10933
+Enough! I have listened in silence to this nonsense. Koremasa, throw these people out at once!
+@10934
+Yes, my lord! Men, to me!
+@10935
+Wait! Who do you think I am!? I am Ashikaga Takauji... Gwah!
+@10936
+Ikkyu! I did as you said, so what is the meaning of this?
+@10937
+Lord Yoshimitsu, calm down! Don't panic, don't panic...
+@10938
+How can I calm down!? Ugh, gwah!
+@10939
+Thrown out by Ashikaga Yoshiaki, Takauji's party limped away from Nijo Palace...
+@10940
+Yoshimitsu! Because of that little monk we have been treated horribly!
+@10941
+Forgive me. Ikkyu, how do you mean to answer for this blunder!
+@10942
+Rest assured, Lord Yoshimitsu. Together with Shinemon I have arranged to take a castle nearby.
+@10943
+Hm, I see... But I would rather have raised my army from the capital.
+@10944
+No, no, this area is an auspicious place too.
+@10945
+This is Yoshino, where a certain exalted person is said to have raised the banner of restoration...
+@10946
+Bah, what is auspicious about that!
+@10947
+Ah... that I should have to make my base in such a weedy backwater...
+@10948
+Thus Ashikaga Takauji entered Tsutsui Castle, and the War of the Northern and Southern Courts between two Ashikaga houses was about to begin.
+@10949
+To wake suddenly in such an unknown country... What is going on?
+@10950
+Chucai, can you too not tell where this is?
+@10951
+Forgive me. I have not the faintest idea either.
+@10952
+Hmm, what is to be done...
+@10953
+Great Khan!
+@10954
+Oh! It is you!
+@10955
+I am Kublai, grandson of the Great Khan.
+@10956
+Ohh, Kublai! How you have grown. So you are in this land too. ...And who is that with you?
+@10957
+This is my retainer Marco. He comes from the West and is famed as a traveller.
+@10958
+I am honoured to meet you, Great Khan. My name is Marco Polo.
+@10959
+You are a traveller? Then can you tell where this is?
+@10960
+This is a country called Zipangu, an island nation far to the east, across the sea from Mongolia.
+@10961
+Oh, Zipangu...
+@10962
+But Marco, you told me that in Zipangu the houses are all covered in gold leaf. This is nothing of the sort.
+@10963
+Hahaha... So it seems.
+@10964
+Great Khan, if that is so, there is no reason to linger. Let us procure ships and return to Mongolia.
+@10965
+No, wait. I shall remain here a while longer.
+@10966
+Why is that?
+@10967
+It seems this land holds many brave and wise commanders. The wolf's blood in my veins tells me so.
+@10968
+I want to throw myself into the strife of this land and fight to my heart's content.
+@10969
+In fact I once sent troops to conquer this country, but failed. The soldiers here are stronger than they look.
+@10970
+It would be dull otherwise! Kublai! You will follow me and fight in this land as well. Understood!
+@10971
+Yes, my lord! As you command.
+@10972
+Then first let us take a castle for our base.
+@10973
+Yes.
+@10974
+Thus Genghis Khan seized Shibata Castle and raised his banner as a daimyo in the age of warring states.
+@10975
+Ujizane had inherited the Imagawa headship after Yoshimoto's death, but caught between Takeda Shingen and Tokugawa Ieyasu, his house fell, and now he was a wanderer.
+@10976
+Ah... I, who was head of the Imagawa, am now a mere ronin. How pitiful.
+@10977
+Shingen and Ieyasu both piled on to attack me... What grudge could they possibly bear?
+@10978
+On top of that, my retainers abandoned me without a thought and took service with other houses. Heartless wretches...
+@10979
+This is not the end! I shall surely restore the Imagawa and make my name known to the realm!
+@10980
+First I must gather new retainers. Though I may not look it, I am confident in my eye for men.
+@10981
+Lord Ujizane! It is my greatest joy to behold your noble face.
+@10982
+Hm? And who are you?
+@10983
+Though young, I have trained my eye for judging men since childhood. Hearing you are raising your banner, I have come to serve you.
+@10984
+Oh? How interesting. I shall hear what you have to say, for reference. Come along.
+@10986
+Hm... a strangely dressed fellow. He looks promising. You there!
+@10987
+Hm? Are you speaking to Us?
+@10988
+(Hmm, this man... From his looks and bearing, he is no ordinary man. My eye cannot be fooled.)
+@10989
+Lord Ujizane, I would advise against this one...
+@10990
+Hm, why?
+@10991
+This is Liu Shan, second emperor of Shu, one of the Three Kingdoms. He surrendered to the invasion of Wei and was made Duke of Anle...
+@10992
+Gaaah! Do not call me Duke of Anle! I am the Emperor of Shu Han!
+@10993
+W-what? What came over this man all of a sudden? Page, what is a Duke of Anle? Some kind of court rank?
+@10994
+Well... something like that.
+@10995
+He holds a court rank, so he must be a fine man after all. Father was eager about appointments too...
+@10996
+Lord Liu Shan, was it? This is sudden, but will you not join me?
+@10997
+I awoke in a place where I knew nothing, and We were forlorn. By all means, take Us as a companion.
+@10998
+Yes, I am Imagawa Ujizane. Lord Liu Shan, I think we shall get along. I look forward to it.
+@10999
+Hmm... this... I am already uneasy about what lies ahead.

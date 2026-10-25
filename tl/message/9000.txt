@@ -1,0 +1,892 @@
+@9001
+Mizuno Katsunari
+@9003
+Miyagi Toyomori
+@9005
+Toda Yoshiakira
+@9007
+Mori Katsunobu
+@9009
+Mori Takamasa
+@9011
+Mori Motoyasu
+@9013
+Yagyu Yoshikatsu
+@9015
+Yagyu Toshiyoshi
+@9017
+Yamaguchi Masahiro
+@9019
+Yamazaki Sadakatsu
+@9021
+Yamanouchi Tadayoshi
+@9023
+Yui Shosetsu
+@9025
+Yokohama Shigekatsu
+@9027
+Wakizaka Yasumoto
+@9029
+Hojo Masako
+@9031
+Hojo Tokimasa
+@9033
+Hojo Yoshitoki
+@9035
+Hojo Yasutoki
+@9037
+Hojo Tokiyori
+@9039
+Ashikaga Yoshimitsu
+@9041
+Ikkyu Sojun
+@9043
+Ninagawa Chiun
+@9045
+Chingisu Han
+@9047
+Fubirai Han
+@9049
+Yaritsu Sozai
+@9051
+Maruko Poro
+@9053
+Kaku Kan
+@9055
+Yuriusu Kaesaru
+@9057
+Sharuru Varowa
+@9059
+Jannu Daruku
+@9061
+Jiru Dore
+@9063
+Robin Fuddo
+@9065
+Ryu Bi
+@9067
+Shokatsu Ryo
+@9069
+Kan U
+@9071
+Cho Hi
+@9073
+Cho Un
+@9075
+Ko Chu
+@9077
+Ba Cho
+@9079
+Jo Sho
+@9081
+Ho To
+@9083
+So So
+@9085
+Kaku Ka
+@9087
+Kako Ton
+@9089
+Kako En
+@9091
+Jun Iku
+@9093
+Shiba I
+@9095
+Ten I
+@9097
+Son Saku
+@9099
+Son Ken
+@9101
+Shu Yu
+@9103
+Riku Son
+@9105
+Ro Shuku
+@9107
+Ryo Fu ???-198
+@9109
+Kan Nei
+@9111
+Cho Sho
+@9113
+Ashiya Doman
+@9115
+Kashin Koji
+@9117
+Jon Ketchio
+@9119
+Ryu Zen
+@9121
+Fujiwara Hidesato
+@9123
+Abe Seimei
+@9125
+Yaritsu Kyuka
+@9127
+Chimuru Bekku
+@9129
+Wiru Woresu
+@9131
+Don Fan
+@9133
+Bado Zabbai
+@9135
+Minamoto Yoshitsune
+@9137
+Musashibo Benkei
+@9139
+Arutan Han
+@9141
+Cho Kyosei
+@9143
+Seki Keiko
+@9145
+Aishingyoro Nuruhachi
+@9147
+Ashikaga Takauji
+@9149
+Hojo Tokimune
+@9151
+Taira Masakado
+@9153
+Sasa Sukesaburo
+@9155
+Asaka Kakubei
+@9161
+The Kujo Family
+@9163
+The Nijo Family
+@9165
+The Konoe Family
+@9167
+The Takatsukasa Family
+@9169
+The Imadegawa Family
+@9171
+The Kazanin Family
+@9173
+The Sanjo Family
+@9175
+The Nakanoin Family
+@9177
+The Yamashina Family
+@9179
+The Kajuji Family
+@9183
+Yanada Tozaemon
+@9185
+Arai Shirobei
+@9187
+Kodaira Heizaburo
+@9189
+Niida Yahee
+@9191
+Nemori Genjiro
+@9193
+Ishikawa Hikoshichiro
+@9195
+Iwazawa Manjiro
+@9197
+Otobe Shinzaemon
+@9199
+Momoka Sanemon
+@9201
+Fukabori Matagoro
+@9203
+Honma Sakuemon
+@9205
+Shindo Shobei
+@9207
+Nakayama Jinemon
+@9209
+Ishikawa Rokubei
+@9211
+Nozaki Ichiemon
+@9213
+Umezu Bunzo
+@9215
+Ajiki Tozaemon
+@9217
+Uchida Jubei
+@9219
+Sugawara Kyuemon
+@9221
+Iwama Sakuemon
+@9223
+Uno Toemon
+@9225
+Fukaya Gekinosuke
+@9227
+Uematsu Shoheiji
+@9229
+Arihara Koroku
+@9231
+Ishidobara Hachibei
+@9233
+Iwasaki Shoemon
+@9235
+Kasuya Genzaburo
+@9237
+Shiki Jiemon
+@9239
+Tsunoda Tanzaemon
+@9241
+Fukuhara Zenshichi
+@9243
+Ito Sukehiro
+@9245
+Kadoya Motohide
+@9247
+Tamakoshi Sanjuro
+@9249
+Nagai Saemon
+@9251
+Hasegawa Fujinao
+@9253
+Takeguchi Magojuro
+@9255
+Kusumi Zenzaburo
+@9257
+Kawai Shichirojiro
+@9259
+Shitazu Katsusuke
+@9261
+Shirako Gozaemon
+@9263
+Kawakami Yosuke
+@9265
+Kurashina Tomonori
+@9267
+Sakata Jinpachi
+@9269
+Matsuki Gorobei
+@9271
+Anma Sanemon
+@9273
+Kudo Ichibei
+@9275
+Usami Saemon
+@9277
+Kuwabara Heibei
+@9279
+Naito Shinjuro
+@9281
+Noritake Rokuro
+@9283
+Tachibanaya Saburoza
+@9285
+Iwasaki Sozaemon
+@9287
+Kutsumi Seiemon
+@9289
+Sakurai Shinzaemon
+@9291
+Tsukiyama Seizaemon
+@9293
+Nakamura Shinbei
+@9295
+Miwa Tobee
+@9297
+Amano Hikojiro
+@9299
+Ishizuka Kojiro
+@9301
+Toyama Yahachiro
+@9303
+Kawabata Doki
+@9305
+Kanbayashi Hisashige
+@9307
+Hasegawa Sojin
+@9309
+Hachiya Shosa
+@9311
+Manjuya Soji
+@9313
+Hariya Shochin
+@9315
+Matsuya Hisamasa
+@9317
+Nomura Yahachiro
+@9319
+Tsuji Gensai
+@9321
+Jushiya Sogo
+@9323
+Aburaya Jogen
+@9325
+Imai Sokyu
+@9327
+Zeniya Sototsu
+@9329
+Sueyoshi Nagamasu
+@9331
+Takasabu Ryuki
+@9333
+Takeno Joo
+@9335
+Tanaka Yohee
+@9337
+Tsuda Sotatsu
+@9339
+Yasui Sadatsugu
+@9341
+Beniya Soyo
+@9343
+Yada Shichiroza
+@9345
+Ito Mokunosuke
+@9347
+Ogawa Toemon
+@9349
+Kumode Hikoemon
+@9351
+Shibata Toshiro
+@9353
+Nishiyama Tanzaemon
+@9355
+Hayami Kishiro
+@9357
+Hinatsu Saburobei
+@9359
+Wakamiya Tozaburo
+@9361
+Ando Heizaemon
+@9363
+Abe Yoshisada
+@9365
+Shibuya Yoemon
+@9367
+Muro Kihachiro
+@9369
+Wakuri Gengobei
+@9371
+Ohara Koshiro
+@9373
+Ohashi Bunemon
+@9375
+Ueda Manzaburo
+@9377
+Hayashi Sojuro
+@9379
+Yamakawa Denemon
+@9381
+Hiroto Yoemon
+@9383
+Takagi Kisaburo
+@9385
+Akuzawa Hikojiro
+@9387
+Katsuta Hachiemon
+@9389
+Kohinata Yasaburo
+@9391
+Sakaguchi Kijuro
+@9393
+Tanaka Jingoro
+@9395
+Nakamura Umashiro
+@9397
+Nisugi Gorosaburo
+@9399
+Miyagawa Yakuro
+@9401
+Yoshiwara Shinbei
+@9403
+Ishimoto Ryoun
+@9405
+Imaishi Shoan
+@9407
+Kamiya Jutei
+@9409
+Shimai Shigehisa
+@9411
+Suetsugu Kozen
+@9413
+Hakataya Soju
+@9415
+Harada Kiemon
+@9417
+Takewaka Tsunefusa
+@9419
+Itamiya Seibei
+@9421
+Toyonaga Betsushiro
+@9427
+Senshoji Shui
+@9429
+Edosaki Gosei
+@9431
+Myohonji Nisshin
+@9433
+Honshoji Renso
+@9435
+Shotokuji Myoren
+@9437
+Shorenji Myosei
+@9439
+Ganshoji Myoshun
+@9441
+Kuonji Nitcho
+@9443
+Daisenji Ryugen
+@9445
+Zuisenji Ryoken
+@9447
+Honrenji Zenju
+@9449
+Yoshizaki Ganchi
+@9451
+Seiganji Kensei
+@9453
+Hieizan Kakujo
+@9455
+Gansenji Shoue
+@9457
+Kofukuji Jinson
+@9459
+Saginomori Rengyo
+@9461
+Aga Shoshu
+@9463
+Honrenji Nichiden
+@9465
+Koshoji Dochi
+@9467
+Zentsuji Ryoun
+@9469
+Rosario Henrique
+@9471
+Santos Porro
+@9473
+Obi Nichiryo
+@9479
+Kono Masamichi
+@9481
+Kumagai Naoyoshi
+@9483
+Shimizu Jirobei
+@9485
+Ryuzaki Yashichiro
+@9487
+Mamiya Buhee
+@9489
+Okabe Chubee
+@9491
+Toba Kenmotsu
+@9493
+Iyagori Danjo
+@9495
+Sugiwaka Mushin
+@9497
+Nasa Yamatonosuke
+@9499
+Kutsuna Michiaki
+@9000
+Oda vassal. Served Toyotomi after Honnoji. Held Mino Fukuzuka, 20,000 koku, after Kyushu. Western Army at Sekigahara; lost his castle and fled. Later a Maeda Toshitsune retainer.
+@9002
+Tokugawa vassal. Fought at Totomi Takatenjin and many battles. Served Hideyoshi for a time, then returned; held Bitchu Fukuyama, 100,000 koku. Also joined the Shimabara campaign.
+@9004
+Toyotomi vassal. When Hideyoshi died he crossed with Tokunaga Hisamasa and ordered the generals in Korea to withdraw. Served Tokugawa after Sekigahara and fought at Osaka.
+@9006
+Toyotomi vassal. Son of Toda Katsutaka, adopted by Murakami Yoshikiyo. Held Echigo Honjo, 90,000 koku. Eastern Army, kept his lands; later cut after a house dispute.
+@9008
+Toyotomi vassal, also called Yoshinari. Held Buzen Kokura, 60,000 koku. Western Army, joined the Fushimi attack. Cut and held by Yamauchi Kazutoyo of Tosa Kochi.
+@9010
+Toyotomi vassal. Hostage of the Mori at the siege of Bitchu Takamatsu, changed his name from Mori to Mori (Mouri). Western Army at Sekigahara; given Bungo Saeki, 20,000 koku, afterwards.
+@9012
+Mori Motonari's eighth son. Based at Izumo Suetsugu and took the Suetsugu name. Later held Bingo Kannabe, 15,000 koku. Western Army; led the attack on Omi Otsu.
+@9014
+Yamato gentry. Muneyoshi's eldest son. Crippled on one side by a gunshot in battle, he spent his life in Yagyu Village. His son Hyogonosuke Toshiyoshi later received Yagyu Shinkage-ryu licence.
+@9016
+Swordsman. Toshikatsu's second son. Got grandfather Muneyoshi's licence, heir of Yagyu Shinkage-ryu. Served Kato Kiyomasa, left after killing a man; later sword instructor to Owari Tokugawa.
+@9018
+Toyotomi vassal. Said to be skilled in provincial rule. Served as aide to Kobayakawa Hideaki but fell out and fled. Western Army at Sekigahara; killed fighting Maeda Toshinaga.
+@9020
+Toyotomi vassal, horse guard. Held Ise Takehara, 10,000 koku. Western Army, joined the Ise Anotsu attack but fled after the defeat. Later served Hideyori.
+@9022
+Toyotomi vassal. Yasutoyo's son. Adopted by his childless uncle Kazutoyo and inherited Tosa, 240,000 koku. Missed the Osaka summer siege, caught in a storm.
+@9024
+Ringleader of the Keian Incident. Taught military science in Edo, with 4,000 pupils. Used Tokugawa Yorinobu's name to gather ronin and plot against the shogunate; found out, killed himself at Sunpu.
+@9026
+Toyotomi vassal. Held 17,000 koku in Harima. Handled Fushimi Castle works. Western Army, joined the Omi Otsu attack. Lost his lands after the war.
+@9028
+Tokugawa vassal. Yasuharu's son. Succeeded his father in Iyo Ozu, 53,000 koku; moved to Shinano Iida, 55,000 koku. His line held Harima Tatsuno, 53,000 koku, until the Restoration.
+@9030
+Wife of Minamoto no Yoritomo. When her son Yoriie tried to oust the Hojo after Yoritomo's death, she and her father Tokimasa confined him. Took real power in the shogunate as the Nun Shogun.
+@9032
+Father of Hojo Masako. Stayed beside Yoritomo from the Minamoto rising, aiding the defeat of the Taira. After Yoritomo died he ousted the heir and held power as regent.
+@9034
+Hojo Tokimasa's son. Won merit against the Oshu Fujiwara. After Yoritomo's death he confined Yoriie in Izu and seized power, succeeding his father as 2nd regent.
+@9036
+Hojo Yoshitoki's son. Put down the rebels of Retired Emperor Go-Toba and became 3rd regent after Yoshitoki. Skilled in rule; issued the Goseibai Shikimoku, the first warrior code.
+@9038
+5th regent of the Kamakura shogunate. Son of Hojo Tokiuji. Destroyed his rival, the Miura, and made himself autocrat. Known for mercy; legend says he toured the provinces to see the people's state.
+@9040
+3rd Ashikaga Shogun. Unified the Northern and Southern Courts, opened relations with Ming and began tally trade. Loved court culture and fostered Kitayama culture.
+@9042
+Zen monk of the Muromachi era. Travelled the land, beloved by the people. His fame inspired many tales of the child Ikkyu's wit from the Edo period on.
+@9044
+Mid-Muromachi warrior and renga poet, styled Ninagawa Shinemon. Served the shogunate's Mandokoro. Studied renga under Ikkyu Sojun and Bonto; left the Chikamoto Kushu.
+@9046
+First khan of the Mongol Empire. After uniting the Mongols he marched on Western Xia, Jin and Khwarezm, building a great empire and maintaining the East-West trade routes.
+@9048
+Grandson of Genghis Khan, 5th Khan of the Mongol Empire. Destroyed the Southern Song to unify China and named the dynasty Yuan. Made Southeast Asia and Korea vassals and sent troops against Japan.
+@9050
+Mongol Empire minister. A Jin official who joined Genghis Khan at his call. Under Ogedei he set up provincial administration and taxes, laying the empire's foundation.
+@9052
+Venetian traveller. Visited Yuan and served Kublai. Captured by Genoa after returning home, his prison tales of his travels spread as "The Travels of Marco Polo".
+@9054
+Mongol Empire general. Followed Hulagu's West Asia campaign and shone against Muslims and Crusaders. Skilled commander nicknamed "the Divine Man of the Far West".
+@9056
+Statesman of ancient Rome. Ended civil war and gained dictatorial power, but was assassinated by republicans. A peerless statesman and soldier, the greatest hero of ancient history.
+@9058
+King Charles VII of France. Won the Hundred Years' War thanks to Joan of Arc. After the war he rebuilt finances and centralised rule, restoring France.
+@9060
+Girl of late Hundred Years' War France. Rescued the Dauphin Charles and turned the war in just a year, giving France the upper hand. Captured by the English and executed.
+@9062
+French noble. Fought with Joan of Arc and became Marshal for freeing Orleans. After resigning he behaved strangely, was tried by the Church and executed.
+@9064
+Earl of England. Stripped of his title for breaking the law, he became an outlaw hero in Sherwood Forest. Robbed haughty nobles and gave to the poor.
+@9066
+First emperor of Shu Han. Said to descend from Liu Sheng, Prince Jing of Zhongshan. Raised a volunteer army against the Yellow Turbans, fought on and held one of the Three Kingdoms. Emperor Zhaolie.
+@9068
+Chancellor of Shu Han, called the Sleeping Dragon. Served Liu Bei after three visits, showing great talent in diplomacy and governance. Led six Northern Expeditions, died at Wuzhang Plains. Marquis Zhongwu.
+@9070
+Foremost of Shu Han's Five Tiger Generals. Sworn brother of Liu Bei and Zhang Fei. Valiant, "worth ten thousand troops". Held Jingzhou while Liu Bei took Shu, then was captured and killed by Wu.
+@9072
+One of Shu Han's Five Tiger Generals. Sworn brother of Liu Bei and Guan Yu. At Changban he alone held Cao Cao's million-strong pursuit on the bridge. History gives his style as Yide.
+@9074
+One of Shu Han's Five Tiger Generals. Served Yuan Shao and Gongsun Zan, then Liu Bei. At Changban he charged alone through a million men to save Liu Bei's son A Dou (Liu Shan).
+@9076
+General of Shu Han. Served Liu Biao and Han Xuan. Fought Guan Yu fiercely for Han Xuan. After joining Liu Bei he kept leading armies; made a Five Tiger General when Liu Bei became King of Hanzhong.
+@9078
+Ma Teng's eldest son, called "Brocade Ma Chao". Led Xiliang troops in a raid on Chang'an to avenge his father on Cao Cao, but lost. Later joined Liu Bei as a Five Tiger General.
+@9080
+Student of Sima Hui, a swordsman. Served Liu Bei as strategist, but Cao Cao seized his mother and he had to serve Cao Cao. Recommended the Sleeping Dragon Zhuge Liang to Liu Bei.
+@9082
+Liu Bei's strategist. Fellow student of Zhuge Liang; the two were called Sleeping Dragon and Young Phoenix. Given command of the conquest of Shu, he died to an arrow in the field.
+@9084
+King of Wei. Rose as cavalry commandant fighting the Yellow Turbans. Roamed the chaos after Dong Zhuo's death and became King of Wei. Posthumously Emperor Wu.
+@9086
+Cao Cao's retainer, trusted for his keen wits and judgement. Fell ill and died at 38 while pacifying Hebei. After Red Cliffs Cao Cao lamented, "If only Guo Jia were here."
+@9088
+General of Wei, a kinsman of Cao Cao. Lost his left eye to Cao Xing's arrow in the fight with Lu Bu, yet kept leading armies. Died ill soon after Cao Cao, as if following him.
+@9090
+General of Wei, cousin of Xiahou Dun. A pillar of Cao Cao's army from his rising. A fine raider, but at Dingjun Mountain he fell to Fa Zheng's ruse and was cut down by Huang Zhong.
+@9092
+Cao Cao's retainer, called "my Zifang" (the Han strategist Zhang Liang). Opposed Cao Cao becoming Duke of Wei, fell from favour and killed himself.
+@9094
+Wei minister. Served four Caos and laid the Jin dynasty's base. Won against Shu Han by pure defence. Beat Cao Shuang to seize power. After Jin's founding, Emperor Xuan.
+@9096
+Cao Cao's general, likened to the ancient hero E Lai. When Zhang Xiu raided Wan Castle at night he held alone so Cao Cao could flee, and fell.
+@9098
+Sun Jian's eldest son. Rose with 3,000 men lent by Yuan Shu. Pacified Jiangdong quickly, called the "Little Conqueror". Ambushed while hunting, he died young of his wound.
+@9100
+First emperor of Wu. Sun Jian's second son. Succeeded when his brother Sun Ce died suddenly. Beat Cao Cao's host at Red Cliffs. Took the throne in 229. Emperor Da of Wu.
+@9102
+General of Wu, sworn brother of Sun Ce. By Sun Ce's will he aided young Sun Quan and commanded the navy at Red Cliffs, beating Cao Cao. Handsome, called "Handsome Zhou".
+@9104
+General of Wu, Sun Ce's son-in-law. Planned with Lu Meng to defeat Guan Yu. Commander-in-chief at Yiling, he crushed Shu Han's host. Held Jingzhou, later Chancellor of Wu.
+@9106
+Wu minister. Served Sun Quan on Zhou Yu's recommendation. At Red Cliffs he urged a joint fight with Liu Bei. Made commander after Zhou Yu died. Strong on land.
+@9108
+General of Later Han, a fierce warrior: "Lu Bu among men, Red Hare among horses". Raged across the land, switching sides again and again, until his own men betrayed him.
+@9110
+General of Wu, a former pirate of the Brocade Sails. Languished under Huang Zu until Su Fei helped him join Sun Quan. Won Sun Quan's trust at Huang Zu, Red Cliffs and against Wei.
+@9112
+Sun Quan's retainer, one of the "Two Zhangs". Recommended by Zhou Yu to Sun Ce as an aide. Sun Ce said on his deathbed, "Ask Zhang Zhao about all domestic matters."
+@9114
+Heian onmyoji, often told as the rival of Abe no Seimei. Legend says he tried to curse Fujiwara no Michinaga, was foiled by Seimei and banished from the capital.
+@9116
+Mysterious sorcerer. Showed Matsunaga Hisahide his dead wife and turned bamboo into fish. Crucified by Hideyoshi, he is said to have escaped as a mouse.
+@9118
+King of England. After repeated losses to France he taxed heavily, provoking the barons. Forced to grant Magna Carta, guaranteeing barons' rights and the people's freedom.
+@9120
+2nd emperor of Shu Han. A mild, ordinary man. In old age he indulged in drink and women and favoured the eunuch Huang Hao, helping to ruin Shu Han. His child name "A Dou" means fool.
+@9122
+Heian warrior, also called Tawara Toda. Made Commander of Chinju-fu for defeating Taira no Masakado. Hero of many legends, including slaying the giant centipede.
+@9124
+Heian onmyoji. Served the powerful Fujiwara no Michinaga and foresaw omens like disasters. Called the greatest diviner of all time, he worked many wonders.
+@9126
+General of Liao, nicknamed "Lightning Marshal" for his swift campaigns. Twice smashed large Northern Song armies. A peace advocate who also cared greatly for civil rule.
+@9128
+Founder of the Timurid Empire. Claimed descent from Genghis Khan and sought to restore the Mongol empire. Swept West Asia, then planned to conquer Ming but died on the march.
+@9130
+Scottish hero. Beat an English army at Stirling. Later captured and sentenced to death, he is said to have pleaded for his homeland's freedom to the last moment.
+@9132
+Brother of Philip II of Spain. Commander-in-chief at Lepanto, beating the Ottoman navy. Also won against the Dutch, but died suddenly at 33.
+@9134
+Zenobia, queen of Palmyra in the 3rd century Middle East. Beautiful beyond Cleopatra, and so brave and wise she fought Rome as an equal.
+@9136
+Younger brother of Minamoto no Yoritomo. Shone against the Taira and helped found the Kamakura shogunate. Too successful, he was hunted by Yoritomo who feared his rise, and killed himself in Oshu.
+@9138
+Retainer of Minamoto no Yoshitsune, valiant. Always at Yoshitsune's side, saving him from many perils. Fell guarding him against Yoritomo's pursuers at Hiraizumi in Oshu.
+@9140
+Chief of the Tatars, a Mongol people. Repeatedly beat Ming armies and besieged Beijing in 1550. Expanded to Qinghai and Tibet and brought Lamaism to Mongolia.
+@9142
+Ming statesman. As chief minister of the Wanli Emperor he ruled alone at home and abroad. Renewed governance with the Single Whip tax law and rebuilt finances; called China's greatest statesman.
+@9144
+Ming general. Won merit against the wako pirates, then went north and drove back the Mongols. A fine commander in any field, versed in theory, he left military treatises.
+@9146
+First emperor of Qing. United the Jurchen, then advanced on Ming. Won battle after battle, but lost to Yuan Chonghuan at Ningyuan and died of that wound.
+@9148
+First Ashikaga Shogun. Took Rokuhara Tandai and destroyed the Kamakura Hojo. Later opposed Emperor Go-Daigo's Kenmu Restoration, founded the shogunate in Kyoto and set up the Northern Court.
+@9150
+8th regent of the Kamakura shogunate. Repelled both Yuan invasions. Strengthened shogunate rule over the west and set up the autocracy of the Hojo main line.
+@9152
+Of the Kammu Taira. Rose in Shimosa and styled himself New Emperor. Sought to conquer the eight Kanto provinces but was slain by Fujiwara no Hidesato sent by the Court. Said to be the Soma ancestor.
+@9154
+Mito retainer, formerly a Kyoto monk. Returned to lay life to serve Tokugawa Mitsukuni. As historian he compiled the Dai Nihon Shi, travelling the land for sources.
+@9156
+Mito retainer. Served Tokugawa Mitsukuni and worked on the Dai Nihon Shi. Said to have exchanged learning with Confucian scholars Arai Hakuseki and Ogyu Sorai.
+@9157
+Showed his full talent in domestic rule, military affairs and intrigue alike.
+@9157.1
+Excelled at governance, and was also first-rate at handling troops on the battlefield.
+@9157.2
+Excelled at governance, and also at intrigue, terrifying his neighbours.
+@9157.3
+Excelled at strategy, and also at intrigue, terrifying his neighbours.
+@9157.4
+Sharp in politics, showing his full talent mainly in domestic rule.
+@9157.5
+Skilled in handling troops on the battlefield, he shone in battles across the land.
+@9157.6
+Gifted in scheming, he used many plots to terrify his neighbours.
+@9157.7
+Led retainers hired in {02}{0B}G and shone in battles across the land.
+@9158
+Once a ronin living in {02}{0B}G Province, he rose in the turmoil of war and became an officer.\n{01}C{C5}#
+@9159
+Child of {02}{0C}2.\n{01}C{C5}#
+@9160
+Head of the {02}{0B}5 family, who served the Imperial Palace. Often sent as imperial envoy, he asked daimyo to restore crown lands, working to revive the fading Court.
+@9162
+Head of the Kujo, one of the Five Regent Houses that rise to regent and chancellor. Passed from Naotsune to Tanemichi to Kanetaka. Tanemichi studied the classics and wrote Genji commentaries.
+@9164
+Head of the Nijo, one of the Five Regent Houses that rise to regent and chancellor. Passed Tadafusa, Haruyoshi, Akizane, Yasumichi. Tadafusa went to Suo Yamaguchi and was killed by Sue Harukata's troops.
+@9166
+Head of the Konoe, one of the Five Regent Houses that rise to regent and chancellor. Passed Hisamichi, Tanaie, Sakihisa, Nobutada. Sakihisa wandered the land, aiding local culture.
+@9168
+Head of the Takatsukasa, one of the Five Regent Houses. Passed Kanesuke, Tadafuyu, Nobufusa. The Five Houses descend from Michinaga; the Takatsukasa split from the Konoe.
+@9170
+Head of the Imadegawa, a Seiga house rising to Grand Minister. Passed Kinhiko, Harusue. Harusue, also called Kikutei, helped Hideyoshi become Regent.
+@9172
+Head of the Kazan'in, a Seiga house rising to Grand Minister. Passed Tadasuke, Ietsugu, Iemasa. Tadanaga was later exiled to Matsumae over a court lady affair.
+@9174
+Head of the Sanjo, a Seiga house rising to Grand Minister. Passed Saneka, Kimiyori, Sanetsuna, Kimimori. Kimiyori went to Suo Yamaguchi and died in Sue Harukata's revolt.
+@9176
+Head of the Nakanoin, a Daijin house rising to Dainagon and Naidaijin. Passed Michitame, Michikatsu. Michikatsu, in exile from the Emperor's wrath, learned waka from Hosokawa Fujitaka.
+@9178
+Head of the Yamashina, a Urin house rising to Dainagon and Chunagon. Passed Tokitsugu, Tokitsune, Tokio. Tokitsugu befriended Oda Nobunaga and wrote the Tokitsugu Diary.
+@9180
+Head of the Kajuji, a Meika house rising to Dainagon and Chunagon. Passed Naoaki, Tadatoyo, Harehide, Haretoyo, Mitsutoyo. Three of them served as Buke Tenso.
+@9181.7
+Afterwards he led the soldiers who had risen with him in uprising and shone in battles across the land.
+@9182
+Once a court noble, he disliked life in the Palace, left it on his own and became an officer.\n{01}C{DD}#
+@9184
+Merchant of Shiogama. Tozaemon was really a rich Aizu merchant, purveyor to the Ashina. Shiogama thrived as a port and as the gate town of Shiogama Shrine, first shrine of Oshu.
+@9186
+Merchant of Shiogama, a port and gate town of Shiogama Shrine, first shrine of Oshu. Its harbour long thrived as the landing for the Mutsu provincial office and Taga Castle.
+@9204
+Merchant of Akita, a port town. Akita Harbour is listed among the "Three Ports and Seven Harbours" in Japan's oldest shipping code, and was ruled by the Ando for generations.
+@9224
+Merchant of Shinagawa. Tozaemon was really a Shimotsuke medicine seller, allowed by Sano Masatada to sell Uiro pills in Nikko. Shinagawa also thrived as a post town.
+@9226
+Merchant of Shinagawa. The Fukaya were really purveyors to the Hitachi Satake, working for their commerce and moving to Akita with them. Shinagawa also thrived as a port.
+@9228
+Merchant of Shinagawa, a port town. In the Edo period it became the first of the 53 Tokaido stations, with 1,600 houses and 7,000 people.
+@9244
+Merchant of Kuwana. The Ito were really rich Nagoya merchants: Sukehiro, then Sukemichi, who served Matsudaira Tadayoshi and opened the Itoya (later Matsuzakaya) drapery.
+@9246
+Merchant of Kuwana. The Kadoya were really rich Ise Omina merchants: Mototsugu began shipping, Hidemochi supplied the Hojo, Tokugawa, Oda and Kitabatake.
+@9248
+Merchant of Kuwana. Sanjuro was really an armour seller of Owari Kiyosu. At Mikatagahara he warned Hasegawa Kyosuke in Hamamatsu, in Nobunaga's disfavour, and fell in battle.
+@9250
+Merchant of Kuwana. Saemon was really a rich Ise Nyu merchant; his daughter wed Mitsui Takatoshi, a Matsusaka pawnbroker whose fourth son Takatoshi opened the Echigoya (later Mitsukoshi).
+@9252
+Merchant of Kuwana. The Hasegawa served the Kitabatake: Fujinao, then Fujihiro. Fujinao's daughter Onatsu was Ieyasu's concubine; Fujihiro, Nagasaki magistrate, traded in raw silk.
+@9254
+Merchant of Kuwana, a port town that later became the 42nd Tokaido station. Its harbour at the Kiso rivers' mouth thrived as a cargo hub.
+@9264
+Merchant of Suwa. Yosuke was really a Hida Funatsu merchant, a travelling rouge seller later given authority over merchants by Ema Tokimori, lord of Hida Suwa Castle.
+@9266
+Merchant of Suwa. The Kurashina were really Kai purveyors to the Takeda and Ogasawara. Tomonori was killed by bandits in Kiso; his heirs were wholesalers and headmen in Matsumoto.
+@9268
+Merchant of Suwa. Jinpachi was really a Kai merchant supplying the Takeda with fish and salt. After their fall he served the Tokugawa and got control of fish trade.
+@9270
+Merchant of Suwa. Gorobei was really head of the Kai gold mint, serving the Takeda. Ieyasu abolished it after their fall, but later had him cast gold coins.
+@9272
+Merchant of Suwa, a gate town of Suwa Grand Shrine. From Kamisuwa on the Koshu road to Shimosuwa on the Nakasendo, both were hot-spring post towns.
+@9284
+Merchant of Naoetsu. Saburozaemon was really an Echizen Kida merchant selling medicine and controlling silk guilds. Lived in Noto for a time, then returned to Echizen with Nobunaga's leave.
+@9286
+Merchant of Naoetsu, a port town. Naoetsu Harbour is listed among the "Three Ports and Seven Harbours" in Japan's oldest shipping code. Ruled by the Uesugi and others.
+@9304
+Merchant of Kyoto. Supplied sacred rice cakes and daily offerings, and won rights to the Kyoto rice-cake guild. Repaired the Palace walls and gained exemption from duties.
+@9306
+Merchant of Kyoto. The Kanbayashi were really Uji tea masters and stewards, growing tea for the shogunate and daimyo. Hisashige helped Ieyasu escape the capital area at Honnoji.
+@9308
+Merchant of Kyoto. Sojin was really a Kyoto townsman, warrior and painter. Served Nobunaga as Tajima steward, then Hideyoshi and Ieyasu with 10,000 koku.
+@9310
+Merchant of Kyoto. Josa was really a Nara merchant who studied tea under Takeno Joo. His name is in the Tennojiya Kai-ki. Died suddenly when summoned to Matsunaga's Tamon Castle.
+@9312
+Merchant of Kyoto. Soji was really a Nara merchant, classicist and scholar of Japanese letters. Learned scripture, waka and renga; wrote many works including Genji Monogatari Rinitsusho.
+@9314
+Merchant of Kyoto. The Hariya lived in Kamidachiuri. Sowa and Soshun learned tea from Sen no Rikyu; Soshun wrote the Soshun-o Chado Kikigaki on Rikyu's and Furuta Oribe's tea.
+@9316
+Tea master of Kyoto. The Matsuya were really Nara lacquerers who loved tea for generations. The 3rd head Hisamasa attended Hideyoshi's Kitano Tea Gathering; he and Hisashige wrote the Matsuya Hikki.
+@9318
+Merchant of Kyoto. Yahachiro was really a Nagahama shipping agent, granted land at Omi Hino by Hideyoshi. Kyoto was Japan's capital from the ancient codes to the end of the shogunate.
+@9320
+Merchant of Kyoto. Genya was a Sakai townsman, or a Palace-warrant draper. Learned waka from Sanjonishi Sanetaka and tea from Takeno Joo; said to teach Rikyu the old daisu rules.
+@9322
+Merchant of Kyoto. Sogo was really an Omi tea man, pupil of Murata Juko, said to pass tea to Takeno Joo. The Yamanoue Soji Ki criticised his lack of skill in judging utensils.
+@9324
+Merchant of Sakai. The Aburaya: Jogen, Josuke, Joetsu. Jogen built Myokoku-ji in Sakai, his son Nichiko its founder. Josuke studied tea under Takeno Joo, Joetsu under Sen no Rikyu.
+@9326
+Merchant of Sakai. The Imai: Sokyu, Sokun, Sodon. Sokyu, a leading townsman, served Nobunaga and ran the Ikuno silver mine. Sokun served Ieyasu.
+@9328
+Merchant of Sakai. The Zeniya: Sonotsu and Sotoku. Sonotsu studied tea under Sen no Rikyu and often held gatherings. Sotoku, styled Ikkama-sai, studied tea under Sen Sotan.
+@9330
+Merchant of Sakai. The Suekichi: Chozo, Toshikata, Yoshiyasu. Toshikata urged unified domestic silver and headed the silver mint. Yoshiyasu got a shogunate red-seal licence for overseas trade.
+@9332
+Merchant of Sakai. The Takasan: Takayoshi, Takatatsu, drug dealers. Takatatsu, a fine singer, gave popular songs like Kangin-shu a unique style, creating Ryutatsu-bushi.
+@9334
+Merchant of Sakai. The Takeno townsmen: Joo and Sogawara. Joo was devoted to tea and shaped "wabi tea". Sogawara lived in obscurity as a tea man.
+@9336
+Merchant of Sakai. The Tanaka: Yohei and Rikyu. Yohei ran a fish wholesaler. Rikyu learned tea from Takeno Joo and perfected "wabi tea", the Sengoku era's leading tea master.
+@9338
+Merchant of Sakai. The Tsuda: Sotatsu and Sogyu. Sotatsu was purveyor to the Miyoshi. Sogyu served Nobunaga and Hideyoshi and ran the Kitano Tea Gathering with Rikyu.
+@9340
+Merchant of Sakai. The Yasui: Sadatsugu and Dotonbori. Sadatsugu helped build Hideyoshi's Osaka Castle. Doton dug the Dotonbori canal but died at the Osaka summer siege before finishing.
+@9342
+Merchant of Sakai, a member of the Council. Studied tea under Takeno Joo and attended a tea gathering at Matsui Yukan's house with Nobunaga. Hideyoshi confiscated his property and he fled.
+@9344
+Merchant of Yonago. Shichirozaemon was really lord of Inaba Kojinyama Castle, serving the Mori. Fought Hashiba Hideyoshi, lost his castle and traded in Kurayoshi.
+@9346
+Merchant of Yonago, a port town. Yonago Harbour was ruled by the Amago and Mori. On the San'in coast, Mihonoseki and Yasugi also thrived as ports.
+@9364
+Merchant of Fukuoka. When Shimamura Morizane murdered Ukita Yoshiie, he hid Yoshiie's son Okiie. His daughter became Okiie's concubine and bore Haruie and Tadaie.
+@9366
+Merchant of Fukuoka. Yoemon was really a shipowning merchant of Bingo Onomichi, purveyor to the Mori. Also close to the Mishima Murakami navy.
+@9368
+Merchant of Fukuoka, a market town on the Yoshii River since medieval times. The Bizen constable's seat was near, and many swordsmiths lived there. Kuroda Kanbei's grandfather Shigetaka lived there once.
+@9384
+Merchant of Susaki. Kisaburo was really an Awaji shipping agent. In Hideyoshi's Korea campaign he was ordered to send a hundred ships to Tsushima Toyosaki for the navy.
+@9386
+Merchant of Susaki, a port town, first written "Susaki". Susaki Harbour was a natural harbour used for fishing and as a refuge.
+@9404
+Merchant of Hakata. The Ishimoto were really Hirado merchants: Ryoun and Ryoen. Ryoen moved from Hirado to Nagasaki, but returned when made Hirado headman.
+@9406
+Merchant of Hakata. The Tennojiya Kai-ki records him holding a tea gathering in Sakai around 1567. Hakata was long a thriving outer port of Dazaifu.
+@9408
+Merchant of Hakata. The Kamiya were rich Hakata merchants: Jutei, Sotan. Shotei opened the Iwami silver mine and refined silver by cupellation. Sotan was Hideyoshi's privileged merchant.
+@9410
+Merchant of Hakata. The Shimai were rich Hakata merchants: Shigehisa and Soshitsu. Privileged merchants of Hideyoshi, they restored Hakata with Kamiya Sotan after the war.
+@9412
+Merchant of Hakata. Moved to Nagasaki in 1571, opened the town with his own funds and settled merchants to run it. With his man Murayama Toan he made vast profits in trade.
+@9414
+Merchant of Hakata. Soju was really a Sakai merchant from Hakata. A tea lover, he invited Tsuda Sotatsu and Sen no Rikyu to tea gatherings, per the Tennojiya Kai-ki.
+@9416
+Merchant of Hakata. Kiemon was really a Nagasaki overseas trader. When Hideyoshi urged the Philippine governors to pay tribute, he went to Manila as envoy.
+@9418
+Merchant of Hakata. The Takewaka: Tsunefusa, Shigetoshi, weavers. In Hideyoshi's Korea campaign Shigetoshi was received and gave a sword cord inscribed "Peace in the Realm".
+@9420
+Merchant of Hakata. Seibei was really a purveyor living in Busan, Korea. In Hideyoshi's Korea campaign he raced with Toyonaga Betsushiro to supply the army.
+@9422
+Merchant of Hakata. Toshiro was really a Buzen merchant. In Hideyoshi's Korea campaign he raced with Itamiya Seibei to supply the army.
+@9423
+Master of the {02}{0B}5ya merchant house of {02}{0B}{83}. Traded goods with neighbouring daimyo and built great wealth, mixing with many officers through tea gatherings.
+@9425
+Once a merchant of {02}{0B}G Province, he disliked trade, left the house and became an officer.\n{01}C{D0}$
+@9426
+Old Buddhist monk of {02}{0B}{83}. Preached keenly among neighbouring people and, at daimyo's request, often led an army into battle.
+@9426.1
+Ikko monk of {02}{0B}{83}. Preached keenly among neighbouring people and, at daimyo's request, often led an army into battle.
+@9426.2
+Christian missionary of {02}{0B}{83}. Preached keenly among neighbouring people and, at daimyo's request, often led an army into battle.
+@9426.3
+Monk of {02}{0B}{83}. Preached keenly among neighbouring people and, at daimyo's request, often led an army into battle.
+@9428
+Monk of Uzen. Senshoji, opened at Takadama (Tendo, Yamagata) by Gansho-bo, disciple of Rennyo, 8th Honganji abbot, was the centre of Shin temples in Murayama.
+@9430
+Monk of Hitachi. Edosaki Fudoin, founded in 848, was the top of the Eight Tendai Danrin of the Kanto. Tenkai, the Tokugawa's "Black-Robed Minister", was its 8th abbot.
+@9432
+Monk of Shimosa. Myohonji, a Nichiren temple, has great sway over Shimosa, Kazusa and Awa with Nakayama Hokekyoji. Its 14th abbot Nichiga wrote the Iroha Jisho.
+@9434
+Monk of Mikawa. Honshoji, an Ikko temple, was a Mikawa Ikko uprising base with Jogu-ji and Shobinji, resisting Ieyasu stubbornly.
+@9436
+Monk of Owari. Shotokuji, an Ikko temple on the Owari-Mino border, was exempt from duties in both. Famed as where Saito Dosan first met Oda Nobunaga.
+@9438
+Monk of Mino and Hida. Shorenji, an Ikko temple, kept peace in Shirakawa-go with the Uchigashima of Kaerikumo Castle. After their fall it moved to Hida Takayama.
+@9440
+Monk of Ise and Shima. Ganshoji, an Ikko temple, was a great Ikko base resisting Nobunaga fiercely until it burned in 1574 under his scorched earth.
+@9442
+Monk of Kai. Kuonji at Mount Minobu is the head temple of Nichiren. Nichiren, the founder, built it in 1274 and retired there, training successors.
+@9444
+Monk of southern Echigo. Daisenji, an Ikko temple. Echigo's Ikko spread early around Kubiki but was banned in the shift from Nagao Tamekage and Harukage to Kenshin.
+@9446
+Monk of Etchu. Zuisenji, an Ikko temple said opened in the Northern-Southern Courts era. In the Sengoku it led 370 temples in the Ikko uprising, fighting the Jinbo and Uesugi.
+@9448
+Monk of Kaga and Noto. Honsenji, an Ikko temple founded by Nyojo, uncle of Rennyo, 8th Honganji abbot. Nyojo aided Rennyo's accession and started the Ikko rise.
+@9450
+Monk of Echizen and Wakasa. Yoshizaki Gobo, an Ikko temple founded by Rennyo, 8th Honganji abbot, in 1471. Gathering followers from Kaga and Etchu, it became the Hokuriku base.
+@9452
+Monk of Omi. Minoura Seiganji, an Ikko temple, one of the Ten Temples of northern Omi. They mobilised 5,000 rebels and, allied with the Asai, resisted Nobunaga stubbornly.
+@9454
+Monk of Yamashiro. Enryakuji on Mount Hiei was founded by Saicho, founder of Tendai. Long guardian of the capital, it was burned by Nobunaga in 1571.
+@9456
+Monk of Settsu and Kawachi. Gansenji, an Ikko temple, also called Kaizuka Gobo. After leaving Ishiyama, Kennyo, 11th Honganji abbot, lived 4 years at Saginomori, then 3 at Gansenji.
+@9458
+Monk of Yamato. Kofukuji grew from Yamashinadera, founded by Fujiwara no Kamatari's wife and moved to Nara by Fubuhito. With many warrior monks it ruled all Yamato.
+@9460
+Monk of Kii. Saginomori Gobo, an Ikko temple. After the Honganji-Nobunaga peace of 1580, Kennyo, 11th abbot, left Ishiyama and moved to Saginomori Gobo.
+@9462
+Monk of Harima. Aga Jinaimachi, a temple town the Ikko followers built in Harima. With Omono Jinai it kept resisting the Harima constable Akamatsu and Nobunaga.
+@9464
+Monk of Bizen and Bitchu. Honrenji, one of the many Nichiren temples built mainly in southern Bizen. Under Matsuda and Ukita protection Nichiren spread as "Bizen Hokke".
+@9466
+Monk of Aki and Bingo. Kosho-ji, opened in 1216, was western Japan's first Ikko temple. In the Sengoku, Ikko followers grew in Aki and Bingo, forming the "Aki Monto".
+@9468
+Monk of Sanuki. Zentsuji was opened where Kobo Daishi Kukai, founder of Shingon, was born. With Koya and Kyoto's To-ji, it is one of the three great Daishi sites.
+@9470
+Missionary of Bungo. Rosario Hall, one of the Christian churches. Under Otomo Sorin's patronage it had a church, a novitiate, a collegio and other schools.
+@9472
+Missionary of Hizen. Santos Hall, one of the Christian churches. Nanban trade at Hirado and Nagasaki led many daimyo, such as Omura Sumitada and Arima Harunobu, to be baptised.
+@9474
+Monk of Hyuga. Obi Ankokuji, a Rinzai temple, in a land where Rinzai flourished. Its abbot Keian Genju was later invited by the Shimazu and founded the Satsunan school.
+@9475
+Once an Old Buddhist monk of {02}{0B}G Province, he rose in uprising and became an officer.
+@9475.1
+Once an Ikko monk of {02}{0B}G Province, he rose in uprising and became an officer.
+@9475.2
+A Christian of {02}{0B}G Province. Rose in uprising and became an officer.
+@9475.3
+Once a monk of {02}{0B}G Province, he rose in uprising and became an officer.
+@9478
+Chief of the {02}{0B}{83}, a navy. Fought fiercely with neighbouring navies, and also ferried troops at daimyo's request, raided as pirates and spread propaganda, with many talents.
+@9480
+Commander of the Hakodate navy. Masamichi was really an Ezo gentry who crossed to Hokkaido in 1454 and built a hall. "Hakodate" is named for the box-shaped hall.
+@9482
+Commander of the Kesennuma navy. Naoyoshi was really a Kasai vassal, lord of Mutsu Akaiwa Castle and ruler of Kesennuma. He fell out with Hamada Hirotsuna and fought him in the Hamada War.
+@9484
+Commander of the Noshiro navy. Jirobei was really an Ando vassal. On Chikasue's order he moved to Noshiro, handled timber and town affairs, and built Sanno Gongen Shrine.
+@9486
+Commander of the Hyakushu navy. Yashichiro was really a Satomi vassal, a foot-soldier captain. In 1606 he got a fief of 100 koku in Kita district's Otsu and Maru district's Kogai.
+@9488
+Commander of the Misaki navy. Buhei was really a Hojo fleet captain, beaten by Takeda Shingen's Izu army and made his vassal. After the Takeda fell he returned to the Hojo with his brother Mikinosuke.
+@9490
+Commander of the Misaki navy. Chubei was really an Imagawa vassal. After their fall he served the Takeda as a pirate, renamed Tsuchiya Bungo no Kami Sadatsuna. Died at Nagashino.
+@9492
+Commander of the Shima navy. Kenmotsu was really lord of Shima Toba Castle and a Tomari steward, one of the Thirteen Stewards of Shima. Served the Kitabatake, then yielded to Kuki Yoshitaka.
+@9494
+Commander of the Wajima navy. Danjo was really a Noto Sotoura gentry. Served the Noto constable Yoshimi as war magistrate; his heirs served the Hatakeyama who succeeded them.
+@9496
+Commander of the Kumano navy. Mushin was really a Toyotomi vassal, lord of Kii Tomariyama Castle. Led the Kii campaign. Western Army at Sekigahara; cut afterwards.
+@9498
+Commander of the Oki navy. Nihonsuke was really a pirate of Tajima, allied with Amago Katsuhisa and Yamanaka Shikanosuke. Later served the Mori; forced to kill himself after Hideyoshi's Tottori siege.

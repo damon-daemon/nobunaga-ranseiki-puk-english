@@ -1,0 +1,253 @@
+e654c60	Captive Officers
+e654c70	Captives
+e654c78	SE Volley
+e654c80	SE Arrow Rain
+e654c88	SE Rapid Fire
+e654c90	SE Spear Wall
+e654c98	SE Charge
+e654e08	Sortied
+e654e10	Resting
+e654e18	Retreat
+e654e20	Captive
+e654e38	Envoy
+e654e80	Sort
+e654ea0	Select
+e655018	Respond
+e655028	Field
+e655030	Camp
+e655390	Officers (%d)
+e6553a0	Squad (%s)
+e655460	Aid From
+e6554e0	Nobunaga's Ambition: Ranseiki w/PUK Save Data
+e656040	Nobunaga's Birth
+e656050	Nobuyuki's Revolt
+e656088	Nobunaga's Coming of Age
+e6560a8	Shingen's Death
+e6560b8	Shikoku Campaign
+e6564b0	-
+e656620	List
+e656628	Map
+e656690	Select an officer to edit.
+e6566b8	Min.
+e6566c0	Max.
+e6566e0	In use by %s%s
+e6566f0	Currently unused
+e656720	Select a daimyo to edit.
+e656760	-
+e656770	-
+e656780	-
+e656790	-
+e6567a0	-
+e6567b0	-
+e6567c0	-
+e6567c8	-
+e6567d0	-
+e6567d8	-
+e6567e0	Fortress
+e6567e8	-
+e6567f8	Palace
+e656800	-
+e656810	Labyrinth
+e656818	-
+e656830	Select a castle to edit.
+e656870	Select a power to edit.
+e656b60	Select a treasure to edit.
+e656b80	Born %5d
+e656b90	Select a princess to edit.
+e657be0	Select a ninja to edit.
+e657c60	Exit without saving. Are you sure?
+e657c90	Save the mission clear data?
+e657cc8	%d/%d
+e657ce0	Duty Change
+e657d50	Event Name
+e657d60	Date
+e657d70	Del
+e657d98	%d/%2d
+e657e30	<Event Description>
+# event editor titles (s22): the default event name copies the title into a 16-byte field
+e6587e0	Daimyo Dies
+e6587f0	Daimyo Murdered
+e658800	Daimyo Retires
+e658810	Defection 1
+e658820	Defection 2
+e658830	Ronin Hired
+e658840	Lord Exiled
+e658850	Rebel Secedes
+e658860	Revolt Fails
+e658870	Execution 1
+e658880	Execution 2
+e658890	Two-Clan Amity
+e6588a0	Three-Clan Amity
+e6588b0	Clan Submits
+e6588c0	Marriage Pact
+e6588d0	Clan Breaks Free
+e6588e0	Coming of Age
+e6588f8	Court Title
+e658908	Shogunate Post
+e658918	Gentry Destroyed
+e658928	Temple Destroyed
+e658938	Officer Moves
+e658948	Wife Dies
+e658958	Great Earthquake
+e658968	Officer Flees
+e658978	Notable Hired
+e658988	Treasure Gift
+e658998	Nanban Aid
+e6589a8	Princess Spends
+e658a40	-
+e658a58	-
+e658a68	-
+e658a70	-
+e658a80	-
+e658a88	-
+e658a98	Vassal
+e658aa0	Spouse's Clan
+e658ab0	Scheme
+e658ab8	Slander
+e658ac0	-
+e658ac8	-
+e658ad0	-
+e658ad8	-
+e658ae0	-
+e658ae8	Occurred
+e658af0	Disabled
+e658b10	Title
+e658b50	??
+e658b58	Sano
+e658b60	Genzaemon
+e658ba8	-
+e658bb0	-
+e658bb8	-
+e658bc0	-
+e658bc8	-
+e658bd0	-
+e658bd8	-
+e658be0	-
+e658be8	-
+e6e29c8	Save
+e6e29d0	Load
+e6e2c98	Start
+e6e2ca8	Test
+e6e2cb0	Save
+e6e2cb8	End
+e6e2cc8	Control
+e6e2cd0	Total
+e6e2ce8	Now
+e6e2cf0	Next Mo.
+e6e2cf8	Income
+e6e2d00	Expense
+e6e2d10	Fallow
+e6e2d38	Powers
+e6e2d80	Father
+e6e2d98	Owner
+e6e2dd0	Service
+e6e2df0	Exp.
+e6e2e10	Treasure 1
+e6e2e18	Treasure 2
+e6e2e20	Play
+e6e2e28	Stop
+e6e2e30	Help
+e6e2e38	Back
+e6e2e40	Change Song
+e6e2e58	Select
+e6e2e60	Delete
+e6e2e68	Sort
+e6e2e80	Face CG
+e6e2e90	Duty
+e6e2e98	Duty Cap
+e6e2ea8	Speech
+e6e2eb8	Mindset
+e6e2f00	Settings
+e6e2f20	Visiting
+e6e2f28	Absent
+e6e2f38	Courtier
+e6e2f48	Development
+e6e2f70	Corps Left
+e6e2fa8	Wait
+e6e2fe0	Corps Gold
+e6e2fe8	Destination
+e6e2ff0	Origin
+e6e3008	Ties
+e6e3040	Balance
+e6e3070	Vassal
+e6e3090	Military
+e6e3098	Stratagem
+e6e30b0	Yes
+e6e30d8	Goal
+e6e30e0	+%d more
+e6e30f8	Returned
+e6e3100	Not Returned
+e6e3108	 is planning
+e6e3118	Button
+e6e3120	As Vassal
+e6e3168	Report
+e6e3170	Options
+e6e3178	Map
+e6e31a8	Townsman
+e6e31d8	Tea Caddy
+e6e31e0	Tea Jar
+e6e31e8	Tea Kettle
+e6e31f0	Tea Bowl
+e6e31f8	Flower Vase
+e6e3200	Tea Scoop
+e6e3208	Incense Burner
+e6e3210	Water Jar
+e6e3230	Great Gun
+e6e3240	Short Bow
+e6e3248	Great Bow
+e6e3250	Armour
+e6e3258	Helmet
+e6e3260	Fine Horse
+e6e3268	Swift Horse
+e6e3270	Farming Book
+e6e3278	Commerce Book
+e6e3280	Building Book
+e6e3288	War Chronicle
+e6e3290	Anecdotes
+e6e3298	Diplomacy Book
+e6e32a0	Medical Book
+e6e32a8	Swordsmanship Book
+e6e32b0	Martial Arts Book
+e6e32b8	Spear Book
+e6e32c0	Horsemanship Book
+e6e32c8	Gunnery Book
+e6e32e0	Map
+e6e32e8	Ink Painting
+e6e32f0	Colour Painting
+e6e32f8	Sweets
+e6e3300	Local Sake
+e6e3308	Spectacles
+e6e3310	Fragrant Wood
+e6e3318	War History
+e6e3320	Essays
+e6e3328	Survey Book
+e6e3330	Flood Control Book
+e6e3338	Picture Scroll
+e6e3340	Records
+e6e3348	Famed Sword
+e6e3350	Tales
+e6e3358	Heavy Armour
+e6e3360	War Tale
+e6e3368	Armour
+e6e3600	Edit
+e6e3608	Affiliation
+e6e3610	Castle Name
+e6e3618	Prov. Yield
+e6e3620	Defence
+e6e3628	Mine
+e6e3630	Reserves
+e6e3670	Value
+e6e3678	Epithet
+e6e3680	Good
+e6e3690	Poor
+e6e36a8	Confirm
+e6e36b0	Kunoichi
+e6e36b8	Male Ninja
+e6e3ae0	Daimyo 1
+e6e3ae8	Daimyo 2
+e6e3af0	Daimyo 3
+e656768	Hall
+e656778	Gobo
+e656788	Palace
+e656798	-ji
+e6567b8	Town

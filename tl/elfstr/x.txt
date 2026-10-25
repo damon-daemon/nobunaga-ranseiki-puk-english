@@ -1,0 +1,97 @@
+# Emulator-pass fixes (session 14+): labels measured on screen
+# corps orders panel (0x3733d0..): yield / commerce / defence labels hold ~38 px
+e6e30e8	Com.
+# 0x642990-0x642C20: UI islands inside the name dictionary range (castle list / castle info / trade / court)
+e642990	Gold/Silver
+e642998	Gold
+e6429a0	Silver
+e6429a8	Flatland
+e6429b0	Mountain
+e6429b8	Hilltop
+e6429c0	Plains
+e6429c8	Riverside
+e6429d0	Mountains
+e6429d8	Coastal
+e6429e0	Castle
+e6429e8	Type
+e6429f0	Province
+e6429f8	Ruling clan
+e642a08	Ruling corps
+e642a18	Yield
+e642a20	Max yield
+e642a30	Trade
+e642a38	Max commerce
+e642a48	Defence
+e642a50	Horses
+e642a58	Hot spring
+e642a60	No.
+e642a68	Officers
+e642a78	Ronin
+e642a88	Reading
+e642a90	Province
+e642a98	Terrain
+e642aa0	Layout
+e642aa8	Mine
+e642b90	Ming trade ship at sea
+e642be0	Sea area
+e642be8	Trade status
+e642bf8	Daimyo
+e642c08	Office
+e642c10	Reading
+e642c18	Court rank
+e642c20	Clan
+# session 17: plates / buttons squeezed on screen (Info screens, war council)
+e6e2e48	Change
+e649d10	Info
+e6e2d88	Spouse
+e6e2df8	Bio
+e63ed90	Leader
+# officer info panel (session 18): troop-type plates ~40 px (e640208 = the panel one); origin list separator (middle dot)
+e63ed60	Arms
+e640208	Arms
+e6403f8	/
+# 0x3931d8: province GetName + gentry suffix (runtime gentry names, e.g. the tutorial Mino-Hida) -> leading space
+e64f100	 Gentry
+# war-council move list legend: Triangle button / move / confirm officers
+e625f88	officers
+# 0x64fb58 "*%d" (code 0x409964): the Japanese sheet draws * as ×; our * is an asterisk
+e64fb58	x%d
+# 0x63e728 "%s*%s" unit type x squads (war-council / officer lists, pike*4)
+e63e728	%s x%s
+# attack/defend war-council stance buttons (narrow; tutorial says "[Defend] button")
+e64f318	Attack
+e64f328	Defend
+# all-units battle key bar (L1); the bar ran off the right edge
+e6536a0	All
+# not-sortied battle unit list "Current" column (was squeezed "NotSortied")
+e654e00	In Castle
+# fort suffix appended to the gentry name for its battle fort ("Mino-HidaFort")
+e653618	 Fort
+e64f120	 Castle
+# battle orders menu (session 21): buttons ~48 px; full names stay in the help texts
+e653f10	Skirm.
+e653f20	F. Attack
+# session 21: 0x64e2d8 sortie confirm list "%-16s %-4s*%d" ("Bow *5"), 0x64df38 "*%s"; same length
+e64e2d8	%-16s %-4s x%d
+e64df38	x%s
+# sortie confirm panel sortie target/origin (squeezed "SortieFrom"); matches the Select Target / Select Origin tabs
+e6e2ff8	Target
+e6e3000	Origin
+# save/load key bar select-place (bar is fixed at the right edge: "Cancel" ran off screen)
+e625c98	Select
+# save/load difficulty plate (~46 px): intermediate as on the settings page texture
+e640da8	Medium
+# officer editor (s22): one-kanji plates ~22 px, reading plates ~70 px, key bar ran off screen
+e6e2ee0	Last
+e6e2ef0	First
+e6e2ee8	Reading
+e6e2ef8	Reading
+e6e2ec0	Death
+e6e2ec8	Father
+e6e2f08	Select
+# name entry key bar (L1/R1 move cursor): "Delete" ran off screen
+e625cc8	Cursor
+# treasure editor (s22): arms plate as Officer Info "Arms"; reading plate ~45 px; editor key bars lost "Cancel"
+e6e3658	Arms
+e6e3668	Reading
+e6e2e70	Save

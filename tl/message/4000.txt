@@ -1,0 +1,1726 @@
+@4000
+Understood, {01}C{0C}{00}. If I will do, I will lend my strength. From today the {02}{0C}k is one of us.
+@4001
+{01}C{DE}{00}, is that so? I too have worried about your {02}{0C}k. Tell them to leave it to {02}{0B}3.
+@4002
+{01}C{94}{0F}, you wish to become our vassal... Very well. Then you have no objection to working for our house from now on?
+@4002.1
+{01}C{DE}{00}, you did well to turn to us. From now on, my strength will protect you. Then you have no objection to working for my {02}{0B}k?
+@4003
+{01}C{94}{0F}, {01}C{11}{00} wishes to become our vassal... Very well. From now on the {02}{0B}k will protect you.
+@4003.1
+{01}C{DE}{00}, you did well to turn to us. Given how things stand between our house and the {02}{0C}k, rest easy. From now on the {02}{0B}k will protect you.
+@4005
+Thank you. You accept the offer? Now the {02}{0B}k is saved... I will help you win the whole land.
+@4006
+Thank you. Now my lord is saved too... {01}C{0C}{00}, I am grateful.
+@4007
+Of course. I, {02}{0B}3, will help {01}C{0C}{00} win the whole land.
+@4007.1
+Of course. As a member of the {02}{0C}k, we will help...
+@4008
+I am delighted. I must hurry back and tell my lord... Then I take my leave.
+@4008.1
+What good fortune... My lord will surely rejoice to hear this news.
+@4010
+The {02}{0B}k has become a vassal of the {02}{0C}k
+@4011
+Our house has become a vassal of the {02}{0C}k
+@4012
+The {02}{0B}k has become our vassal
+@4013
+Even for {01}C{0C}{00}, our house cannot spare the means. It is a pity, but I cannot accept the offer...
+@4014
+I am sorry, {01}C{0C}{00}, but our house cannot spare the means. Tell {01}C{11}{00} I cannot accept the offer.
+@4015
+It is a pity, but trying to use me will get you nowhere. Protect your own house yourself.
+@4015.1
+It is a pity, but I have no intention of accepting that offer. Protect your own house yourself.
+@4015.2
+It is a pity, but I have no reason to help you. Protect your own house yourself.
+@4016
+It is a kind offer, but our house has no wish to take on vassals. I would ask you to leave.
+@4016.1
+It is a pity, but I have no reason to help you. If the {02}{0C}k is to perish, that is fate... Resign yourself to it.
+@4018
+Wh-what, you would abandon me! To be treated so by kin of my own blood...
+@4019
+{01}C{93}{0F}, you refuse... I was sure {01}C{0C}{00} would give me a good answer... What a pity...
+@4020
+Wh-what! You say I cannot be trusted! I never thought you so suspicious...
+@4020.1
+Wh-what! You say my {02}{0B}k is not worth saving! I never thought you so heartless...
+@4020.2
+{01}C{93}{0F}, you refuse my offer... I never thought you so heartless...
+@4021
+{01}C{93}{0F}, what a thing to say... Now I cannot face Lord {02}{0D}3...
+@4021.1
+It seems my lord's feelings did not reach you. Nothing I say now will help... I will give up and come again another time.
+@4023
+If I will do, I will lend my strength
+@4024
+Tell them to leave it to me
+@4025
+You have no objection?
+@4026
+The {02}{0B}k will protect you
+@4028
+Our house cannot spare the means
+@4029
+I cannot accept the offer
+@4030
+Protect your own house yourself
+@4030.1
+I have no intention of accepting
+@4030.2
+I have no reason to help you
+@4031
+Our house has no wish to take on vassals
+@4031.1
+If the {02}{0C}k is to perish, that is fate...
+@4033
+This is hard to say... but from now on, my {02}{0B}k will stand as an equal of the {02}{0C}k.
+@4034
+This is hard to say... but the {02}{0B}k will now stand as an equal of the {02}{0C}k...
+@4035
+I will be blunt. Our vassalage to the {02}{0C}k ends today.
+@4035.1
+I owe you much, but from today my {02}{0B}k will stand as an equal of the {02}{0C}k.
+@4036
+My master says that, for reasons of his own, his vassalage to the {02}{0C}k must end today...
+@4036.1
+I bring my master's words. For reasons of his own, the {02}{0B}k's vassalage to the {02}{0C}k is to be annulled.
+@4036.2
+I have come to tell you that our vassalage to your house is annulled...
+@4038
+{01}C{94}{0F}, you forget all you owe us and cut ties with our house... I never thought {01}C{0C}{00} would do such a thing!
+@4039
+{01}C{92}{0F}, you cut ties with our house!? It seems {01}C{11}{00} does not know the meaning of good faith...
+@4040
+What! You cut ties with our house!? Do you think you can do such a thing and get away with it!
+@4040.1
+I see... So you mean to destroy our house...
+@4040.2
+I see. Then from tomorrow we are enemies. The next time we meet will be on the battlefield.
+@4041
+I see... So {01}C{11}{00} means to destroy our house...
+@4041.1
+I see. Then from tomorrow we are enemies. Tell {02}{0D}3: the next time we meet will be on the battlefield.
+@4041.2
+Why? Does {02}{0D}3 wish to cross swords with me...
+@4041.3
+It seems {02}{0D}3 does not know the meaning of good faith.
+@4043
+The strong do not bow to the weak... Surely you know the law of this age of war... I have conveyed my will. The next time we meet will be on the battlefield...
+@4044
+I am sorry, but these are my lord's orders... Please understand... The next time we meet will most likely be on the battlefield...
+@4045
+I have conveyed the will of my {02}{0B}k.
+@4045.1
+The strong do not bow to the weak. That is the law of this age of war, as surely you know. I have conveyed my will.
+@4046
+I have conveyed the will of the {02}{0B}k. Farewell!
+@4046.1
+Shifting loyalties are the way of this age of war... {01}C{0C}{00}, who lives in it too, surely knows that... Then I take my leave.
+@4046.2
+Shifting loyalties are the way of this age of war, so resign yourself to it. Then I take my leave.
+@4046.3
+It pains me, but these are my lord's orders, and it cannot be helped... Then I take my leave...
+@4048
+Our house has become independent of the {02}{0C}k
+@4049
+The {02}{0B}k has become independent of our house
+@4050
+The {02}{0B}k has become independent of the {02}{0C}k
+@4051
+In return for all your help, I mean to appoint you {02}{AB}2. Will you accept?
+@4052
+To repay your help, my liege wishes to appoint {01}C{0C}{00} as {02}{AB}2. Will you accept?
+@4054
+To repay your help, my liege wishes to appoint {01}C{0C}{00} as {02}{AB}2. Please accept.
+@4055
+I mean to appoint you {02}{AB}2. Will you accept?
+@4056
+My liege has decided to appoint you {02}{AB}2. Will you accept?
+@4057
+I will appoint {01}C{0C}{00} as {02}{AB}2. Will you accept?
+@4058
+It is my liege's wish that you be appointed {02}{AB}2. Please accept.
+@4058.1
+It is my liege's wish that {01}C{0C}{00} be appointed {02}{AB}2. Please accept.
+@4060
+{01}C{DE}{00}, is that so! I gladly accept the offer. I, {02}{0B}3, will go on protecting the {02}{0C}k.
+@4061
+{01}C{DE}{00}, is that so! Tell them I gladly accept the offer.
+@4062
+{01}C{DE}{00}, you would appoint me to such a post? Then I gladly accept.
+@4063
+{01}C{94}{0F}, such a post for me... It would be rude to refuse such an offer. I accept.
+@4064
+{01}C{DE}{00}, such a post for me! I gladly accept.
+@4065
+{01}C{DE}{00}, my liege would appoint me to such a post! Tell him I humbly accept.
+@4066
+An honour far beyond one such as me... I humbly accept.
+@4067
+An honour far beyond one such as me... Please tell him I humbly accept.
+@4067.1
+What, you would appoint me to such a post... Please tell him I humbly accept.
+@4069
+Most reassuring. The Shogunate keeps its authority only through your backing. I look forward to your continued favour.
+@4070
+In return... please go on protecting my liege as before.
+@4071
+My Shogunate survives only through the backing of the {02}{0C}k. I look forward to your continued favour.
+@4072
+You accept... My liege will be pleased. In return... please go on protecting my liege as before.
+@4073
+{01}C{D6}{00}, I am glad it pleases you. Keep serving me... no, keep serving to protect the Shogunate.
+@4074
+Now I too have done my duty. {01}C{0C}{00}, keep protecting my liege from now on.
+@4075
+{01}C{D6}{00}, this is my thanks for your loyalty. Keep building up my Shogunate.
+@4076
+Please keep protecting my liege from now on. I am counting on you.
+@4076.1
+Now I too have done my duty. Please keep protecting my liege from now on. I am counting on you.
+@4078
+I humbly accept
+@4079
+I am sorry, but I have no wish to accept the offer just now. Let us leave it for another time.
+@4080
+I am sorry, but I have no wish to accept the offer. Tell my liege I must decline.
+@4081
+{01}C{94}{0F}, such a post for me... Forgive me, but I am not inclined to it. I must decline.
+@4082
+You offer me a post as petty as that? My liege has little tact... I am sorry, but tell him I decline.
+@4083
+It is not a bad offer, but accepting it would earn me the ill will of other houses... Wait a while longer.
+@4084
+Now, what to do? It is not a bad offer... but I think I must decline.
+@4085
+Forgive me, but that post does not suit me. I must decline the offer.
+@4086
+Forgive me, but I must decline that matter.
+@4086.1
+It is kind of you, but that post does not suit me. I must decline the offer.
+@4088
+I see... you will not accept... It is a pity, but it cannot be helped. I will come again another time.
+@4089
+I see... I thought it a good offer... It is a pity, but it cannot be helped. I will tell my liege so.
+@4090
+What, you will not accept this post!? ......It cannot be helped. I will come again another time.
+@4091
+Wh-what...! It cannot be helped... I will tell my liege so.
+@4092
+I see. If that is how it is, it cannot be helped. Accept it if you ever change your mind.
+@4093
+{01}C{93}{0F}, what a pity... I would have accepted without a second thought... It cannot be helped. I will come again another time.
+@4094
+{01}C{94}{0F}, you will not accept... How free of ambition...
+@4094.1
+{01}C{94}{0F}, you will not accept... Well, fine. Whether you lack ambition or have your eye on my seat, I will learn in time...
+@4095
+What...! You will not accept... {01}C{DC}{00}... what a pity.
+@4095.1
+To refuse such a chance... How free of ambition...
+@4095.2
+What do you take my liege's kindness for! Surely you do not mean to defy my liege!
+@4097
+I must decline this offer
+@4098
+{01}C{92}{0F}! The post of {02}{AB}2 has been taken from me and given to {02}{0D}2! I will not accept how the Shogun's house treats me!
+@4099
+{02}{0B}2 seems unhappy with this appointment
+@4100
+{01}C{92}{0F}! {02}{0D}2 has been appointed {02}{AB}2! {01}C{DD}{00}... our house was the better choice... I will not accept how the Shogun's house treats me!
+@4101
+{02}{0B}2 has been appointed to the post of {02}{AB}2
+@4102
+{02}{0B}2 has declined the post of {02}{AB}2
+@4103
+Lord {02}{0B}2 has been appointed {02}{AB}2
+@4104
+The post of {02}{AB}2 has been declined
+@4105
+{02}{0B}2 seems to have been appointed {02}{AB}2
+@4106
+I am not confident this time. Going to the {02}{0D}k would likely be a wasted trip. Now, what to do?
+@4106.1
+I am not confident this time. Going to the {02}{0D}k would likely be a wasted trip.
+@4107
+Carry out %s?
+@4108
+Why, Lord {02}{0C}2. What business brings you today?
+@4109
+The trading of %s is finished, but...
+@4110
+We only trade treasures with the 1st Corps.
+@4111
+There are no treasures in the storehouse, but...
+@4112
+Forgive me. Our stock is short just now, so we cannot sell %s.
+@4113
+Forgive me. We only trade %s with our best customers...
+@4114
+Forgive me. Unless you bring a little more gold, we cannot sell %s.
+@4115
+The {02}{0C}k seems to have plenty of %s already... We cannot sell you any more.
+@4116
+Guns? Goodness, we do not deal in such things.
+@4117
+Cannon? What might those be? I have never heard of them.
+@4118
+Buy %s x%d for %d gold (market price %s)
+@4119
+You wish to buy %s? How does this price sound?
+@4120
+Buy %s for %d gold
+@4121
+Thank you for your purchase. We will arrange the goods at once.
+@4122
+Lord {02}{0C}3 drives a hard bargain... How about this?
+@4123
+We are not in business for the fun of it. We will take our leave for today.
+@4124
+The merchant has left in anger. No trading with {02}Q2 this month
+@4125
+Which treasure would you like to buy?
+@4126
+It seems the corps is short of gold.
+@4127
+Forgive me. We have a surplus of %s just now, so we cannot buy any.
+@4128
+Forgive me. Our purse is a little light just now, so we cannot buy any.
+@4129
+Forgive me. Our purse cannot stretch to that item.
+@4130
+Forgive me. Unless you bring a little more %s, we cannot buy any.
+@4131
+You wish to sell %s? How does this price sound?
+@4132
+Sell %s x%d for %d gold (market price %s)
+@4133
+Which treasure would you like to sell?
+@4134
+Sell %s for %d gold
+@4135
+Very well. We will buy at that price.
+@4136
+Thank you for your fine custom today.
+@4137
+I would like to hold a tea ceremony. What do you say?
+@4138
+Hold a tea ceremony? Gold needed: %d. 1st Corps gold: %d
+@4139
+Hold a tea ceremony
+@4140
+Do not hold one
+@4141
+(Tea ceremony cost: %d, corps gold: %d)
+@4142
+Is that so? That is a pity.
+@4143
+Then let me show you to our tea room.
+@4143.1
+A fine chance. Lord {02}{0C}3, I would be grateful for your guidance in the way of tea.
+@4143.2
+...A fine performance. By the way, Lord {02}{0C}3, have you seen any unusual movements among the daimyo?
+@4144
+Oh... I had heard the rumours, but this is a splendid tea room...
+@4144.1
+If I will do... ask me anything you like.
+@4144.2
+I have a few interesting tidbits. I cannot say it aloud, but the truth is... this and that and the other...
+@4145
+To have our tea room meet with Lord {02}{0C}3's approval... What a pleasure.
+@4145.1
+Oh... How grateful I am to receive Lord {02}{0C}3's instruction.
+@4145.2
+Hmm, Lord {02}{0C}3 is well versed in the affairs of the realm... Indeed, a fruitful tea ceremony.
+@4146
+Lord {02}{0C}3, I have passed a most pleasant time today. I am grateful.
+@4147
+If there is another such gathering, please be sure to invite me.
+@4148
+{01}C{0C}{00}, I am full of admiration for your skill. As thanks for the tea gathering, please accept this {02}G2.
+@4148.1
+{01}C{0C}{00}, I am full of admiration for your skill. As thanks for the tea gathering, please present this {02}G2 to {02}{0D}2.
+@4149
+Oh, how kind of you! I gratefully accept.
+@4150
+{02}{0B}2 received a {02}G2 as thanks for the tea gathering.
+@4151
+We enjoyed ourselves greatly. As thanks for the tea gathering, we would like to offer you a {02}G2 at a bargain price. What do you say?
+@4152
+(Price: %d  Corps gold: %d)
+@4153
+Buy the {02}G2
+@4154
+Do not buy the {02}G2
+@4155
+Hm, a bargain indeed. My lord will be pleased too. By all means, let us take it.
+@4155.1
+Hm, a bargain indeed. By all means, let us take it.
+@4156
+I am glad you are pleased.
+@4157
+{02}{0B}2 bought a {02}G2 from a merchant.
+@4158
+Even though it was offered, it is not something I need.
+@4159
+I see. Then perhaps another time.
+@4160
+We enjoyed ourselves greatly. As thanks for the tea gathering, let me tell you what I have seen of {02}y2.
+@4161
+Obtained information on {02}y2.
+@4162
+Oh! What a rare tea utensil... A Chinese piece, I take it. To be shown such a precious item, I, {02}{0B}3, am deeply moved.
+@4163
+Ah! This is the {02}G2! As expected of Lord {02}{0C}3, to use such a famous piece. I, {02}{0B}3, am deeply moved.
+@4164
+Oh, the {02}G2... A fine utensil you use. Lord {02}{0C}3 has a deep understanding of the tea ceremony...
+@4165
+Oh, the {02}G2... Quite a piece. Pray take good care of it.
+@4166
+Oh, the {02}G2... A decent piece. But there are better ones. Call on me if the chance arises.
+@4167
+Showing off the famed {02}G2 at the tea gathering seems to have raised our clan's prestige.
+@4168
+I am busy preparing for the festival just now... What is your business?
+@4169
+The head of the clan coming here in person... Have you no care for your life?
+@4169.1
+An envoy of the {02}{0C}k, what business could you have with us? Depending on your answer, you shall not leave here alive.
+@4170
+The head of the {02}{0C}k coming here in person... What business brings you?
+@4170.1
+Lord {02}{0C}5... What business have you with us, the %s?
+@4171
+Lord {02}{0C}3 coming here in person is an honour beyond words... What business brings you today?
+@4171.1
+Lord {02}{0C}5... What brings you to us, the %s?
+@4172
+I know you have no love for our clan, but we bear you no ill will. As proof, we wish to give you some aid.
+@4172.1
+My lord wishes to build friendship with you. As proof, we wish to supply the goods you desire.
+@4173
+I have come today to supply you with the goods you desire. Tell me what you need for your work, without reserve.
+@4173.1
+For the ever greater friendship between our clan and the %s, we wish to supply the goods you need.
+@4174
+Thank you for your kindness. We gratefully accept.
+@4175
+If you show such charity, we shall think twice about rising against the {02}{0C}k.
+@4176
+With this charity, we shall put aside our hostility toward the {02}{0C}k.
+@4177
+Heh... We shall accept your goodwill. But our hostility toward the {02}{0C}k will not vanish over this much.
+@4177.1
+We take what is given, but our hostility toward the {02}{0C}k has not vanished.
+@4178
+Friendship with %s has risen to %d.
+@4180
+If you show such charity, we shall hold off the uprising against the {02}{0C}k.
+@4181
+To receive such aid... Resisting the {02}{0C}k is now pointless. From here on we shall devote ourselves to our faith.
+@4181.1
+With this charity, we shall put aside our hostility toward the {02}{0C}k.
+@4182
+Hm... We shall accept your goodwill. But our hostility toward the {02}{0C}k will not vanish over this much.
+@4183
+Hahahaha... As expected of Lord {02}{0C}5! How generous! Oh, that was perhaps a little overbold of me.
+@4184
+To receive such aid... From now on we shall set aside our hostility toward the {02}{0C}k and lend our help at sea.
+@4186
+Heh... As expected, Lord {02}{0C}5 is well off. From now on, make full use of the strength of us, the {02}{0B}{83}.
+@4187
+To receive such aid... Let bygones be bygones. From now on we shall help you too, my lord.
+@4189
+Hahahaha... Thank you. My lord's purse is deep indeed... We hope for your continued favour.
+@4190.1
+With this charity, we shall put aside our hostility toward the {02}{0C}k.
+@4191
+Well, we shall take what is given. But the hostility of the {02}{0B}{83} will not be eased this easily.
+@4191.1
+We take what is given, but our hostility toward the {02}{0C}k has not vanished.
+@4192
+(Demand: %s%d  Remaining %s: %d)
+@4193
+(Demand: treasure {02}G2)
+@4194
+(Demand: daimyo's conversion to %s)
+@4195
+(Demand: break with other %s)
+@4196
+Friendship with {02}Q2 has risen to %d.
+@4197
+Inspect every corner of the land of {02}y2. But take care not to provoke the local gentry.
+@4197.1
+Inspect every corner of the land of {02}y2. See to it that the tribute is paid correctly.
+@4198
+Men of the {02}{0C}k barging into our land... Hmm... Does the {02}{0C}k mean to crush us...
+@4199
+We have taken %d koku in yield from the local gentry. Our rice stores will grow richer still.
+@4199.1
+We have taken %d koku in yield from the local gentry. Our rice stores will grow richer still.
+@4200
+Barging into our land... Get out at once!
+@4200.1
+This is our land. We never handed it over to the {02}{0C}k! Get out at once!
+@4201
+The local gentry resist more fiercely than expected. A land survey is impossible like this... I shall try again later.
+@4201.1
+Hmm, the local gentry resist more fiercely than expected. A land survey is impossible like this...
+@4202
+{02}{0B}2 failed the land survey.
+@4203
+Barging into our land... We'll roll you up in a straw mat!
+@4203.1
+Barging into our land... We show no mercy even to men of the {02}{0C}k. We'll make you suffer!
+@4204
+Wait! We can talk this over!
+@4204.1
+W-wait! We can talk this over!
+@4205
+{02}{0B}2 failed the land survey.\n{02}{0B}2 was wounded.
+@4206
+Wait! We can talk this over! Aaah! How could this... Am I to die in a place like this...
+@4206.1
+W-wait! We can talk this over... Gwah! How could this be... Am I to die in a place like this...
+@4207
+Terrible news! {02}{0B}2, who was surveying the land in {02}y2, met resistance from the local gentry and lost their life.
+@4208
+What! {01}C{0A}{00} is dead!? Ah! It was careless of me to order the survey... {01}C{0A}{00}, forgive me...
+@4208.1
+What! {01}C{0A}{00} was killed!? Hmm, it was careless of me to order the survey... {01}C{0A}{00}, forgive me...
+@4209
+It seems {02}{0B}2 of the {02}{0B}k was attacked by the {02}o2, who resisted the land survey, and lost their life.
+@4210
+I am not very confident this time. It may only anger the local gentry... Now, what to do?
+@4210.1
+I am not very confident this time. It may only anger the local gentry...
+@4211
+Carry out the land survey?
+@4212
+Lord {02}{0C}3... What business do you have with us?
+@4213
+I have come to borrow the strength of the {02}{8D}2. I would like you to send a shinobi to our clan.
+@4213.1
+I have come to borrow the strength of the {02}{8D}2. Send a shinobi to our clan.
+@4214
+My apologies. All my men are out, and there is not a single one I can lend you.
+@4215
+I see... If there are no ninja, it cannot be helped...
+@4215.1
+I see... If there are no ninja, it cannot be helped.
+@4216
+My apologies, but I must refuse. We do not lend out shinobi for nothing. Show us proper thanks, and we shall cooperate then.
+@4216.1
+My apologies. Shinobi have their circumstances too. We cannot lend any this time.
+@4217
+We have lent the {02}{0C}k plenty of shinobi already. We cannot lend any more.
+@4218
+I see... A pity, but it cannot be helped.
+@4218.1
+I see... A pity, but it cannot be helped.
+@4219
+Then I shall lend you one named {02}{83}2 for about %d months.
+@4220
+That is welcome news. Lord {02}{0C}3, my thanks.
+@4220.1
+Oh! That is welcome news. Lord {02}{0C}3, my thanks.
+@4221
+Then I shall lend you a shinobi. Now, whom to send...
+@4222
+I shall take on that duty.
+@4223
+{02}{83}2! There is no need for you to go.
+@4224
+We have no shallow bond with the {02}{0B}k. We must show proper thanks.
+@4225
+Hmm... If you say so... Very well.
+@4226
+Lord {02}{0C}3, this one is among the finest of our shinobi. For that reason we cannot lend them for long, but they will serve as you hope.
+@4227
+{01}C{DE}{00}! To lend such a fine shinobi! Lord {02}{0C}3, my thanks.
+@4228
+Understood. Now, what kind of shinobi shall I lend you?
+@4229
+An ordinary shinobi will do.
+@4230
+A kunoichi, whatever it takes!
+@4231
+Lord {02}{0C}3, you are a man of taste... Then I shall lend you one named {02}{83}2 for about %d months.
+@4232
+Lord {02}{0C}3, today I have come to borrow the strength of your navy. I would like your ships to carry the cargo our clan has prepared to Ming China.
+@4233
+You wish to trade with Ming China. I cannot refuse a request from the {02}{0C}k. We shall send the ships out as soon as they are ready.
+@4233.1
+You wish to trade with Ming China. Understood. We shall ready the ships at once. I look forward to the day they return to port.
+@4234
+This year's harvest is better than any in years... The festival must be grand too... How delightful, how delightful.
+@4235
+I cannot decide your request on my own. I shall ask everyone. Please wait a little...
+@4235.1
+Whether we do as you ask will be decided by the council... Do not hold a grudge if the result is not to your liking...
+@4236
+We are truly grateful for your consideration of our people...
+@4237
+???... What did you come here to do???...
+@4238
+Give nothing
+@4239
+Give %d gold
+@4240
+Give %d rice
+@4241
+Give %d guns
+@4242
+Give %d cannon
+@4243
+Give %s
+@4244
+Convert to %s
+@4245
+Break with other navies
+@4246
+Ask for nothing
+@4247
+Stop the uprising
+@4248
+Have them guard the realm
+@4249
+Demand funds
+@4250
+Invite them to serve
+@4251
+Ask for covert work against others
+@4252
+Ask for publicity for our clan
+@4253
+Have them send merchants
+@4254
+Scheme against other forces
+@4255
+Encourage piracy
+@4256
+Back
+@4257
+Demand a court title
+@4258
+Levy troops
+@4259
+Advance into adjacent waters
+@4260
+Trade
+@4262
+Decide the aid again
+@4263
+{02}[2 is an enemy of our house. Everyone, tear down their fort!
+@4264
+Oh, what have you done! The Lord will one day punish you.
+@4264.1
+Curse you, {02}{0C}k! This will not go unanswered!
+@4265
+Report! {02}[2 has fallen, and the monks who took part seem to have gone out into the wilds.
+@4266
+The scale of {02}[2 has dropped.\n(Scale %d -> scale %d)
+@4267
+No one may persecute us. Leave at once!
+@4267.1
+Curse you, {02}{0C}k! Daimyo or not, you may not defile our sacred ground. Begone at once!
+@4268
+Hmm, such fierce resistance! It cannot be helped. Let us withdraw for now!
+@4269
+{02}{0B}2 failed to burn down {02}[2.
+@4270
+No one may persecute us. Everyone, take up arms and stand against them!
+@4270.1
+Curse you, {02}{0C}k! Daimyo or not, you may not defile our sacred ground. Everyone, take up arms!
+@4271
+What! Such fierce resistance! No good! Gwah!
+@4272
+{02}{0B}2 failed to burn down {02}[2.\n{02}{0B}2 was wounded.
+@4413
+With {02}{0B}3 here, you will not have your way! Behold the banner of Furinkazan! Come at me if you dare!
+@4413.1
+With {02}{0B}3 here, you will not have your way! Burn the sight of my fighting into your eyes!
+@4413.2
+Late, but here as reinforcements from {02}y2! {01}C{D5}{00}, follow me!
+@4413.3
+Reinforcements from {02}y2! Behold the strength of the {02}{0B}k!
+@4413.4
+Reinforcements have arrived! Now that we are here, you will not do as you please!
+@4413.5
+Reinforcements from {02}y2! We shall make you feel the strength of the {02}{0B}k!
+@4413.6
+From {02}y2 we come! Let us fight openly, worthy of the name {02}{0B}k, and lead you to victory!
+@4414
+{01}C{DE}{00}, the reinforcements of the {02}{0C}k have arrived! Good, {01}C{D5}{00}, let us seize this chance!
+@4414.1
+{01}C{D5}{00}, the reinforcements are here! Now we press the attack all at once!
+@4414.2
+{01}C{D6}{00}, the battle is decided! {01}C{D5}{00}, follow me!
+@4414.3
+{01}C{D6}{00}, I have waited for this moment! Now we press the attack all at once!
+@4414.4
+{01}C{D6}{00}, the elite of the {02}{0C}k have come! Victory is as good as ours! Crush them all at once!
+@4415
+{01}C{DD}{00}, what a pity, but this is the end. Even my command cannot fight with morale this low. We retreat!
+@4415.1
+{01}C{DD}{00}, this is the limit of my ability... With morale this low there is no help for it. Retreat before we are wiped out!
+@4415.2
+Damn it, the men's morale has collapsed and we cannot fight. There is no help for it, retreat!
+@4415.3
+To think my unit would be driven this far... With morale like this we cannot fight on. Everyone, fall back!
+@4415.4
+How bitter... With morale like this we cannot go on fighting. Everyone, fall back!
+@4415.5
+With morale this low we cannot fight. Retreat!
+@4416
+{02}{0C}2, who was held by the {02}{0D}2 unit, has been rescued safely!
+@4416.1
+We have captured {02}{0C}2, a prisoner of the {02}{0D}2 unit!
+@4416.2
+Lord {02}{0C}3, who was held by the {02}{0D}2 unit, has been rescued safely!
+@4416.3
+{02}{0C}2, who was held by the {02}{0D}2 unit, has been rescued safely.
+@4416.4
+We have captured {02}{0C}2, a prisoner of the {02}{0D}2 unit.
+@4417
+It seems the captive {02}{0B}2 has escaped from the {02}{0C}2 unit.
+@4418
+It seems the prisoner {02}{0B}2 has escaped from the {02}{0C}2 unit.
+@4419
+{02}{0B}2 has fallen in battle.
+@4420
+{02}{0B}2 has slain {02}{0C}2 of the {02}{0C}k.
+@4421
+{02}{0B}2 has retreated from the battlefield.
+@4422
+{02}{0B}2 has been freed and has retreated.
+@4423
+{02}{0B}2 has been captured by the {02}{0C}2 unit.
+@4424
+{02}{0C}2 has captured {02}{0B}2 of the {02}{0B}k.
+@4425
+The repairs to %s are complete.
+@4426
+The {01}C{07}{00} army withdraws from the battlefield.
+@4427
+The {01}C{07}{00} army holds here.
+@4428
+Damn, damn! To lose myself on the battlefield... I must stay calm...
+@4428.1
+Oh! This will not do! To lose myself on the battlefield... {01}C{D5}{00}, please stay calm.
+@4428.2
+Oh! What have I been doing all this time...
+@4428.3
+To think I lost myself in the midst of battle... But I am all right now!
+@4428.4
+Losing myself like that was a blunder... But do not worry, I am all right now!
+@4428.5
+For one such as me to lose myself is shameful. Now we counterattack! {01}C{D5}{00}, follow me!
+@4429
+{02}{0B}3, it seems the {02})2, our vassal, is under attack. Please decide where you stand at once!
+@4430
+{02}{0B}3, it seems the {02}[2 of our order is under attack. Please decide where you stand at once!
+@4431
+We side with {02}{0C}{83}.
+@4433
+We, {02}{0B}{83}, now side with {02}{0C}{83}.
+@4434
+{01}C{DE}{00}, how welcome! With {01}C{0C}{00} on our side, we are worth a thousand men!
+@4434.1
+{01}C{DE}{00}, welcome! With {01}C{0C}{00} joining us, the battle is as good as decided!
+@4434.2
+{01}C{DE}{00}, just what we hoped for! With {01}C{0C}{00} lending aid, victory is ours!
+@4435
+{01}C{D5}{00}, {02}{0C}{83} has joined us! We cannot let this chance slip! Advance! Advance!!
+@4435.1
+{02}{0C}{83} has joined us as allies! Now we strike all at once!
+@4435.2
+{02}{0C}{83} has joined our side! Strike now and settle this!
+@4436
+{02}{0B}{83} follows the {02})2 and now sides with {02}{0C}{83}.
+@4436.1
+Following the {02})2, {02}{0B}{83} sides with {02}{0C}{83}.
+@4436.2
+{02}{0B}{83} follows the {02})2 and lends aid to {02}{0C}{83}.
+@4437
+Late, but {02}{0B}2 also joins the assault on {02}{97}2.
+@4437.1
+We join the assault on {02}{97}2.
+@4437.2
+{02}{0B}2 lends a hand in the assault on {02}{97}2.
+@4438
+Castle sieges are our speciality. We shall take {02}{97}2 at once!
+@4438.1
+The assault on {02}{97}2 begins. This will be the army's finest hour.
+@4438.2
+Leave the siege to us. We shall take {02}{97}2!
+@4438.3
+A castle siege is where I shine. Watch my skill well!
+@4439
+The attack on {02}{97}2 begins.
+@4439.1
+Following the order to take {02}{97}2, the attack begins.
+@4439.2
+Now we attack {02}{97}2. {01}C{D5}{00}, are you ready?
+@4440
+A castle without a commander will fall in no time!
+@4440.1
+The enemy commander is gone from this field and the garrison wavers! Attack {02}{97}2 all at once!
+@4440.2
+Is a castle without a commander this fragile...? We can take {02}{97}2 with ease.
+@4441
+Late, but we join the assault on the fort at %s.
+@4441.1
+We join the assault on the fort at %s.
+@4441.2
+We lend aid in the assault on the fort at %s.
+@4441.3
+We join the battle for the fort at %s.
+@4442
+The attack on the fort at %s begins.
+@4442.1
+Following the order to take the fort at %s, the attack begins.
+@4442.2
+Now we attack the fort at %s. {01}C{D5}{00}, are you ready?
+@4443
+Late, but we join the assault on %s.
+@4443.1
+We join the assault on %s.
+@4443.2
+We lend aid in the assault on %s.
+@4443.3
+We join the battle for %s.
+@4444
+The attack on %s begins.
+@4444.1
+Following the order to take %s, the attack begins.
+@4444.2
+Now we attack %s. {01}C{D5}{00}, are you ready?
+@4445
+Late, but we join the attack on the ironclad.
+@4445.1
+We join the attack on the ironclad.
+@4445.2
+We lend aid in the attack on the ironclad.
+@4445.3
+We join the battle against the ironclad.
+@4446
+The attack on the ironclad begins.
+@4446.1
+Following the order to take the ironclad, the attack begins.
+@4446.2
+Now we attack the ironclad. {01}C{D5}{00}, are you ready?
+@4447
+Our {02}{0B}2 unit has taken the fort at %s!
+@4447.1
+The assault on the fort at %s has succeeded!
+@4447.2
+Our {02}{0B}2 unit has brought down the fort at %s!
+@4447.3
+At last the fort at %s has fallen to our {02}{0B}2 unit!
+@4448
+Our {02}{0B}2 unit has taken the temple at %s!
+@4448.1
+The assault on the temple at %s has succeeded!
+@4448.2
+Our {02}{0B}2 unit has brought down the temple at %s!
+@4448.3
+At last the temple at %s has fallen to our {02}{0B}2 unit!
+@4449
+Our {02}{0B}2 unit has sunk an ironclad of the {02}{A1}2!
+@4449.1
+The attack on an ironclad of the {02}{A1}2 has succeeded!
+@4449.2
+Our {02}{0B}2 unit has sent an ironclad of the {02}{A1}2 to the bottom!
+@4449.3
+At last an ironclad of the {02}{A1}2 has fallen to our {02}{0B}2 unit!
+@4450
+{02}{0C}2 has captured {02}{0B}2 of the {02}{0B}k.
+@4452
+The main bailey of {02}{97}2 has fallen!
+@4452.1
+The main bailey of {02}{97}2 was taken by our {02}{0B}2 unit!
+@4452.2
+At last the main bailey of {02}{97}2 has fallen to our {02}{0B}2 unit!
+@4453
+The assault on {02}{97}2 has succeeded!
+@4453.1
+Our {02}{0B}2 unit has taken {02}{97}2!
+@4453.2
+At last our {02}{0B}2 unit has brought down {02}{97}2!
+@4454
+{01}C{0C}{00}, forgive the haste, but I give this {02}{97}2 to the {02}{0C}k.
+@4454.1
+{01}C{0C}{00}, I give this {02}{97}2 to the {02}{0C}k.
+@4455
+I wish to stay on good terms with the {02})2. I give this {02}{97}2 to the {02})2.
+@4455.1
+I wish to remain on good terms with the {02})2. I give this {02}{97}2 to the {02})2.
+@4456
+{02}{0C}2 has captured {02}{0B}2 of the {02}{0B}k, who was in league with the enemy.
+@4457
+The captive {02}{0B}2 has been freed.
+@4458
+Request reinforcements from the {02})2?
+@4459
+Very well, request reinforcements from the {02})2!
+@4460
+We shall not rely on reinforcements.
+@4461
+Lord {02}{0C}3, please launch an attack on %s of {02}{0D}{83}.
+@4461.1
+Lord {02}{0C}3, could you attack %s and pin down {02}{0D}{83}?
+@4461.2
+Lord {02}{0C}3, may we leave the attack on %s of {02}{0D}{83} to you?
+@4461.3
+Lord {02}{0C}3, to weaken {02}{0D}{83}, please attack %s.
+@4462
+Lord {02}{0C}3, please launch an attack on %s.
+@4462.1
+Lord {02}{0C}3, may we leave the attack on %s to you?
+@4462.2
+Lord {02}{0C}3, we would have you attack %s.
+@4462.3
+Lord {02}{0C}3, leave the attack on %s to {01}C{0C}{00}.
+@4463
+Understood. An attack on %s is no trouble at all.
+@4463.1
+Understood. Leave the attack on %s to us!
+@4463.2
+We cannot refuse a request from {02}{0C}{83}. Leave %s to us!
+@4463.3
+Leave it to us! For {02}{0C}{83}, an attack on %s is no trouble at all!
+@4463.4
+An attack on %s, understood. For {02}{0C}{83} we shall surely bring back results.
+@4464
+Such an unreasonable demand... Troublesome, but the {02}{0B}k will undertake the attack on %s.
+@4464.1
+It cannot be helped. We shall attack %s... though we have no strength to spare.
+@4464.2
+Such an unreasonable demand... Yet if {02}{0C}{83} asks, we cannot refuse.
+@4464.3
+An attack on %s... For {02}{0C}{83}, it cannot be helped. We accept.
+@4464.4
+An attack on %s is a troublesome role... But we cannot refuse.
+@4465
+Did you think such an unreasonable demand would pass...? We have no strength to attack %s. Deal with it yourselves!
+@4465.1
+Forgive us. We have no strength to spare for an attack on %s right now.
+@4465.2
+Forgive us. Even a request from {02}{0C}{83} cannot be met as things stand.
+@4465.3
+Forgive us. Even for {02}{0C}{83}, our hands are full.
+@4465.4
+Forgive us. An attack on %s is beyond us.
+@4466
+What nonsense! You are a vassal, yet make such a demand? Do you mean to ruin us...
+@4466.1
+You know full well we have no strength to spare right now, do you not?
+@4466.2
+Do you think we would meekly obey such an unreasonable demand?
+@4466.3
+We cannot accept such an unreasonable demand. You know our strength well enough, do you not?
+@4466.4
+What nonsense! We have no room to cooperate with you!
+@4467
+The morale of the {01}C{07}{00} unit has fully recovered!
+@4467.1
+The morale of the {01}C{07}{00} unit has fully recovered.
+@4467.2
+Give the {01}C{07}{00} unit its orders! Morale has already recovered.
+@4468
+The units' morale seems low. We must recover it quickly...
+@4468.1
+The units' morale has fallen low. This is dangerous.
+@4468.2
+The units' morale has fallen low. Please order a rest...
+@4469
+Good! Every castle is taken! Only the enemy commander remains! {01}C{D5}{00}, make one last stand!
+@4273
+Gwah! How could this be... Am I to die in a place like this...
+@4274
+Terrible news! {02}{0B}2 met resistance from {02}[2 and lost their life.
+@4275
+What! {01}C{0A}{00} is dead!? Ah! It was careless of me to order the burning... {01}C{0A}{00}, forgive me...
+@4275.1
+What! {01}C{0A}{00} was killed!? Hmm, it was careless of me to order the burning... {01}C{0A}{00}, forgive me...
+@4276
+I am not very confident this time. It may only anger the temples and shrines... Now, what to do?
+@4276.1
+I am not very confident this time. It may only anger the temples and shrines...
+@4277
+Carry out the burning?
+@4279
+We are on close terms with the {02}{0C}{83}. Helping them in their hour of need is a matter of duty...
+@4279.1
+We owe the {02}{0C}{83} no duty, but let us send them a little salt. {01}C{D5}{00}! Prepare to march out!
+@4279.2
+The {02}{0B}{83} will stand with the {02}{0C}{83}.
+@4279.3
+Rest assured. We, the {02}{0B}{83}, will cooperate with the {02}{0C}{83}.
+@4279.4
+The {02}{0D}{83} is our common enemy. Let us show them the strength of the {02}{0B}{83}.
+@4279.5
+The {02}{0C}{83} fights the {02}{0D}{83}, so this time we side with the {02}{0C}{83}.
+@4279.6
+Let us put the {02}{0C}{83} in our debt. {01}C{D5}{00}! Prepare to march out!
+@4279.7
+Now is the time to strike down the {02}{0D}{83}. We must not let the chance slip!
+@4279.8
+We cannot fall behind in this age of strife. Prepare to march out! Advance on the {02}{0D}{83}!
+@4279.9
+I see... Very well, our army shall sortie as well.
+@4279.10
+I have waited for this moment... March out! Let us show the strength of our army.
+@4279.11
+Just cause lies with the {02}{0C}{83}! We shall follow just cause!
+@4279.12
+Let us do the {02}{0C}{83} a favour here, as a stepping stone for the future.
+@4279.13
+The {02}{0C}{83} or the {02}{0D}{83}, which side to take... A hard choice, but let us lend our strength to the {02}{0C}{83}.
+@4279.14
+The army of the {02}{0D}{83} is strong, but if we join forces we may yet win.
+@4280
+Now is not yet the time. Be still as the mountain.
+@4280.1
+We have no will to fight. This time we shall remain neutral.
+@4280.2
+We stay neutral this time.
+@4280.3
+We cannot side with either. Do not enter our lands.
+@4280.4
+I cannot judge at present... We shall watch for a while.
+@4280.5
+War is the way of deception... Move rashly and we may invite ruin.
+@4280.6
+It is not yet time to move troops. Let us watch developments for a while.
+@4280.7
+Do not be hasty! Now is the time to nurture our troops! The moment will come soon enough. Until then, stay quiet.
+@4280.8
+The course of war is a matter of fortune. Let us see which way luck favours.
+@4280.9
+We must not move recklessly here. We stay neutral this time.
+@4280.10
+In so chaotic a situation I cannot judge. This time let us feign ignorance.
+@4280.11
+If we side rashly with one, acting later will be hard. Let us let this pass.
+@4280.12
+To move carelessly now would only narrow our own options. Let us watch from on high for a while.
+@4281
+The followers of {02}[2 have finally risen... We shall join in and show the might of the Ikko.
+@4282
+The situation is nothing like what I expected... Better to return to {02}y2.
+@4282.1
+In this situation there is no part for us to play... Better to return to {02}y2.
+@4282.2
+Retreat to {02}y2. Fighting here brings us no gain.
+@4282.3
+To think the situation would change so completely... Retreat cannot be helped.
+@4282.4
+...It seems I was too eager for glory and misread the times. Let us return to the castle and cool our heads.
+@4282.5
+To press on like this would be folly... Let us return to the castle and prepare for another day.
+@4282.6
+Well, if things went to plan from the start there would be no hardship... It cannot be helped. Retreat.
+@4282.7
+To think things would come to this... After all, no one can see the future. It cannot be helped. Pull the army back.
+@4283
+If the {02})2 fights, we cannot help but join in. {01}C{D5}{00}! March out!
+@4283.1
+Now is the time to show the {02})2 the strength of the {02}{0B}k.
+@4283.2
+The {02})2 is going to fight, so the {02}{0B}k will join as the reserve.
+@4283.3
+It would be a breach of duty not to join the {02})2's battle. March out! Make ready!
+@4283.4
+What! The {02})2 is starting a war!? {01}C{D5}{00}! We must not be late! Prepare to march at once!
+@4283.5
+It has come to this, we must march out... Ready the horses!!
+@4283.6
+If we do not march now, who knows what they will do to us later... It cannot be helped. March out!
+@4283.7
+The {02})2 is moving... Then we cannot simply stand by and watch.
+@4283.8
+Weak as we are, we may yet be of use to the {02})2. {01}C{D5}{00}! March out!
+@4283.9
+We march out too. As a vassal, it is the only road open to us...
+@4283.10
+With the {02})2 and ourselves joined, we are unstoppable. {01}C{D5}{00}! March out!
+@4283.11
+To have to join another's war... At this rate our domain will stay a weakling forever.
+@4284
+If the {02})2 stays neutral, we simply follow... We cannot move.
+@4284.1
+We stay neutral too. As a vassal of the {02})2, we have no choice.
+@4284.2
+We follow the {02})2, and the {02}{0B}k stays neutral too.
+@4284.3
+If the {02})2 will stand by, so shall we. We stay neutral this time.
+@4284.4
+The {02})2 stands by... Then we cannot be the only ones to move.
+@4284.5
+The {02})2 does not move... Then let us watch the situation a little longer.
+@4284.6
+The {02})2 does not move... A wise judgement. This is no time to move rashly.
+@4284.7
+Why does the {02})2 not move!! Well, it cannot be helped. We take a neutral stance too.
+@4285.1
+The {02})2 does not move... A wise judgement. This is no time to move rashly.
+@4286
+If the {02})2 turns neutral, we must withdraw too...
+@4287
+If the {02})2 withdraws, we must withdraw too...
+@4288
+{02}{0B}3, a request for reinforcements has arrived from the {02})2. Shall you send them?
+@4288.1
+{02}{0B}3, a letter requesting reinforcements has arrived from the {02})2. Shall you send them?
+@4289
+Select the castle of the daimyo house requesting reinforcements.
+@4290
+Select the castle to send reinforcements from.
+@4291
+{02}{0B}3, whom will you appoint commander?
+@4292
+In this battle, side with the {02}{0C}k and attack the {02}{0D}k
+@4293
+Command this battle myself
+@4294
+Delegate this battle
+@4295
+If the {02}{0C}k fights, we cannot help but join in. {01}C{D5}{00}! March out!
+@4295.1
+The {02}{0C}k is going to fight, so the {02}{0B}k will join as the reserve.
+@4295.2
+To oppose the {02}{0C}k is to draw the bow against the {02}{0B}k. The enemy is the {02}{0D}k! {01}C{D5}{00}! Advance!!
+@4296
+On the orders of the {02}{0E}k, the {02}{0B}k stands with the {02}{0C}k.
+@4296.1
+On the orders of the {02}{0E}k, the {02}{0B}k takes the {02}{0D}k as its enemy.
+@4296.2
+If the {02}{0E}k so orders, we cannot but obey... The {02}{0B}k stands with the {02}{0C}k.
+@4297
+{02}{0B}3, since we are now hostile to the {02})2, Lady {02}{0C}3 has met a pitiable end.
+@4298
+{02}{0B}3, since we are now hostile to the {02})2, Lady {02}{0C}3 has been sent back to us.
+@4299
+{02}{0B}3, the {02})2, with whom we have a marriage alliance, has declared hostility toward our clan.
+@4300
+{02}{0B}3, the {02})2 has declared hostility toward our clan and sent Lady {02}{0C}3 back.
+@4301
+{02}{0B}3, as we are now to be hostile to the {02})2, we shall send Lady {02}{0C}3 back.
+@4302
+What shall be done with Lady {02}{0B}3?
+@4303
+Punish Lady {02}{0C}3
+@4304
+Send Lady {02}{0C}3 back
+@4305
+It cannot be helped... The marriage alliance with the {02})2 is dissolved.
+@4306
+Defending a vassal house is the duty of its lord... We shall send reinforcements to {02}y2.
+@4306.1
+You say you cannot repel them by yourselves... Very well. We shall send reinforcements.
+@4307
+If {01}C{0C}{00} asks, we cannot refuse. We shall send reinforcements.
+@4307.1
+Yes, my lord! We shall send reinforcements at once.
+@4308
+If {01}C{0C}{00} asks, we must listen. We shall send reinforcements to {02}y2.
+@4308.1
+We cannot abandon one who came to us for help. We shall send reinforcements.
+@4310
+Sadly, we have no strength to spare for reinforcements... Give up.
+@4310.1
+Sadly, we have no troops to spare for reinforcements. Repel them on your own.
+@4311
+I would dearly love to send reinforcements, but we have no strength to spare... Forgive me.
+@4311.1
+The {02}{0B}k has no strength to spare for reinforcements... Forgive me.
+@4312
+Why must we help {01}C{0C}{00}? Repel them on your own.
+@4312.1
+We have no reason to help {01}C{0C}{00}. Give up.
+@4314
+For the sake of our old ties, please send reinforcements.
+@4314.1
+I know we are not on such terms that I should ask this... but please send reinforcements.
+@4314.2
+The {02}{0B}k is in grave peril. Will you not save us?
+@4315
+Should I ask for reinforcements here...
+@4315.1
+From where should I call for reinforcements...
+@4316
+{02}{0B}3, preparations for battle are complete. We shall attack the {02})2 in {02}y2!
+@4317
+{02}{0B}3, it seems {02}=3 has attacked the {02})2 in {02}y2!
+@4318
+{02}{0B}3, the {02}{0C}{83} has attacked our lands!
+@4319
+{02}{0B}3, it seems the {02}{0C}{83} has attacked {02}y2, which {02}=3 governs!
+@4320
+{02}{0B}3, in {02}y2 the {02}{0C}{83} is fighting the {02}{0D}{83}! What will you do?
+@4321
+Because the {02})2's advance has changed the situation, the promise of a joint army is void.
+@4322
+We have a joint army promise with the {02})2. Let us join the attackers here!
+@4323
+We did not honour the joint army promise, so friendship with the {02})2 has fallen.
+@4324
+There are no troops in {02}y2 able to march out.
+@4325
+{02}{0B}3, a battle has broken out in {02}y2. What will you do?
+@4326
+Select the castle to send reinforcements from on the map.
+@4327
+Head for the relief of {02}y2 at once! Men, follow me!
+@4329
+{02}{0B}3, the {02}{0C}{83} has invaded! Shall we request reinforcements?
+@4330
+Request reinforcements from the {02})2 %s?
+@4331
+Cancel the reinforcement request?
+@4332
+Cancel the dispatch of reinforcements?
+@4333
+Cancelled the dispatch of reinforcements.
+@4334
+Select the castle to request reinforcements from.
+@4335
+Select the officer to send as reinforcements.
+@4336
+Choose the side to support.
+@4337
+Select the officer to be commander-in-chief.
+@4338
+You can change officer assignments at your castles.
+@4339
+Select the officer to move to {02}{97}2.
+@4340
+Move officers to {02}{97}2.
+@4341
+Watch this battle?
+@4342
+Make {02}{0B}2 commander-in-chief?\nIs that all right?
+@4344
+Here I come!
+@4344.1
+Here we go!
+@4345.1
+We
+@4346
+They have come.
+@4348
+Enough of this!
+@4348.1
+Don't be absurd!!
+@4348.2
+Enough of this!
+@4349
+{01}C{D5}{00}! We must win this battle at all costs. Lend me, {02}{0B}3, all the strength you have!
+@4349.1
+{01}C{D5}{00}! Do not forget a warrior's pride! Now is the time to show your devotion to the land you hold!
+@4349.2
+Advance and it is hell, retreat and it is hell! If we are to die as warriors, let us die facing forward!
+@4349.3
+This battle stakes the fate of our clan. Those who win merit may have whatever reward they wish.
+@4349.4
+{01}C{D5}{00}! Once more, lend your strength to me, {02}{0B}2!
+@4350
+{01}C{DE}{00}! The troops' morale seems to have risen a little.
+@4350.1
+{01}C{DE}{00}! With morale restored this much, we can still fight!
+@4350.2
+{01}C{DE}{00}! The troops' morale seems to have risen.
+@4350.3
+{01}C{DE}{00}! Morale has risen. We can still fight!
+@4351
+Send an envoy to the Imperial Court!
+@4469.1
+Good! Every castle is taken! Only the enemy commander remains!
+@4470
+The enemy commander is down! Victory is ours!
+@4470.1
+The enemy commander's unit is wiped out! Victory is ours! {01}C{D5}{00}! Raise the victory cry!
+@4470.2
+{01}C{D6}{00}, the enemy commander is down! Raise the victory cry!
+@4471
+The enemy commander has retreated! Victory is ours!
+@4471.1
+The enemy commander's unit has retreated! Victory is ours! {01}C{D5}{00}! Raise the victory cry!
+@4471.2
+{01}C{D6}{00}, the enemy commander fled in fear of us! Raise the victory cry!
+@4472
+The enemy castle has fallen! Victory is ours!
+@4472.1
+The last castle has fallen! Victory is ours! {01}C{D5}{00}! Raise the victory cry!
+@4472.2
+{01}C{D6}{00}, with no castle left they have no choice but to fall back... Victory is ours!
+@4473
+Thirty days have passed... Fighting on would only waste men. We withdraw!
+@4474
+Raise morale in all units
+@4475
+End the battle
+@4476
+Join several units together
+@4477
+Split a joined unit
+@4478
+Hold at a base
+@4479
+Set the baggage train to camp
+@4480
+Take an aggressive stance
+@4481
+Take a defensive stance
+@4482
+Send a unit out to battle
+@4483
+Return the baggage train to normal
+@4484
+Declare your stance in the battle
+@4485
+Direct allies to a target
+@4486
+Throw a unit into confusion
+@4487
+Make a unit defect
+@4488
+Make a unit in the castle defect
+@4489
+Too many units are resting at %s. Their morale is slow to recover.
+@4489.1
+Too many units are resting at %s. Their morale is slow to recover.
+@4490
+Too many units are resting at the camp of {01}C{13}{00}. Morale is slow to recover.
+@4490.1
+Too many units are resting at the camp of {01}C{15}{00}. Morale is slow to recover.
+@4490.2
+Too many units are resting at the camp of {01}C{14}{00}. Morale is slow to recover.
+@4490.3
+Too many units are resting at the camp of {01}C{15}{00}. Morale is slow to recover.
+@4491
+Too many units are resting at %s. Morale is barely recovering.
+@4491.1
+Too many units are resting at %s. Morale is barely recovering.
+@4492
+Too many units are resting at the camp of {01}C{13}{00}. Morale is barely recovering.
+@4492.1
+Too many units are resting at the camp of {01}C{15}{00}. Morale is barely recovering.
+@4492.2
+Too many units are resting at the camp of {01}C{14}{00}. Morale is barely recovering.
+@4492.3
+Too many units are resting at the camp of {01}C{15}{00}. Morale is barely recovering.
+@4493
+{02}{0D}{83} keeps pressing us... {01}C{E5}{00}, I meant to watch this battle from the sidelines, but it cannot be helped... We side with {02}{0C}{83}!
+@4494
+Damn {02}{0D}{83}, baring fangs at us... I meant to stay out of this battle, but this debt must be repaid. {02}{0B}{83} sides with {02}{0C}{83}!
+@4495
+{01}C{D5}{00}, we withdraw on the imperial command!
+@4496
+{01}C{D5}{00}, we withdraw on the shogunate's order!
+@4497
+{02}{0B}2 has been wounded.
+@4498
+Now! Annihilate the enemy all at once!
+@4498.1
+{01}C{D5}{00}, give it everything you have! Press the attack now, all at once!
+@4499
+{1B}BB{02}{97}2 falls{1B}BD
+@4352
+Ask the shogunate to mediate a peace!
+@4353
+Let me think on it a little more...
+@4354
+The {02})2 seems to have sent an envoy to %s to request peace mediation.
+@4355
+The mediating envoy still has not appeared... We shall have to give up on the peace mediation.
+@4355.1
+No mediating envoy... It seems the peace mediation has failed.
+@4356
+Which daimyo house is it that wants peace?
+@4356.1
+As promised, I have come as the envoy to mediate peace.
+@4357
+The mediating envoy seems to have arrived in the realm. Let us welcome them at once and have them mediate the peace.
+@4357.1
+The mediating envoy seems to have arrived. Let us welcome them at once and ask for peace mediation.
+@4358
+Please mediate the peace.
+@4359
+Peace mediation is no longer needed.
+@4360
+Battle in {02}y2 is hereby forbidden. Each of you, return to your own lands.
+@4360.1
+Battle in {02}y2 is hereby forbidden. Put away your arms and return to your lands.
+@4361
+I see... Then I shall return to the capital.
+@4361.1
+You say mediation is unnecessary? Then I have come for nothing. I take my leave.
+@4362
+It seems the mediating envoy has returned to the capital.
+@4363
+{01}C{D5}{00}! Form ranks! Brace for the enemy's attack!
+@4363.1
+Good! Use this chance to set the formation and strike the enemy units!!
+@4363.2
+Form ranks! Line up and face the enemy units!
+@4363.3
+Form ranks! Brace for the enemy assault!
+@4364
+{01}C{D5}{00}! Form ranks! We attack the enemy units!
+@4364.1
+Good! Use this chance to set the formation and surround the enemy units!!
+@4364.2
+Form ranks! Hem in the enemy units!!
+@4364.3
+Form ranks! Wrap around the enemy!
+@4365
+{01}C{D5}{00}! Form ranks! Hold firm and endure the enemy's attack!
+@4365.1
+Good! Use this chance to set the formation and endure the enemy's attacks!!
+@4365.2
+{01}C{D5}{00}! Form ranks here and hold firm!
+@4365.3
+Form an iron-clad formation! Throw back the enemy's attacks!
+@4366
+{01}C{D5}{00}! Form ranks!!
+@4366.1
+Good! Use this chance to set the formation!
+@4366.2
+Line up! Form ranks!
+@4366.3
+Set the formation! Prepare for battle!
+@4367
+{01}C{D5}{00}! Form ranks!! Stop the enemy from breaking through!
+@4367.1
+Good! Use this chance to set the formation and draw up a line of defence!
+@4367.2
+Line up abreast! Form ranks and hold firm!!
+@4367.3
+Form ranks! Do not let the enemy break through!
+@4368
+{01}C{D5}{00}! Assemble!! We attack the enemy units!
+@4368.1
+Good! Do not miss this chance! Form ranks and strike the enemy in one blow!
+@4368.2
+Line up! Form ranks and strike the enemy units!
+@4368.3
+{01}C{D5}{00}! Assemble to me! All-out attack on the enemy lines!!
+@4369
+My unit will wait at the fort of the {02}o2 and rest a while.
+@4369.1
+Unit of {02}{0B}2, we shall rest a while at the fort of the {02}o2.
+@4369.2
+{01}C{D5}{00}, my unit waits at the fort of the {02}o2. It may be our last rest, so make yourselves comfortable.
+@4369.3
+The unit of {02}{0B}2 waits at the fort of the {02}o2... Oh, tea has come out. How kind...
+@4369.4
+The unit of {02}{0B}2 waits at the fort of the {02}o2... Good local gentry, we trouble you for a while...
+@4369.5
+The unit of {02}{0B}2 waits at the fort of the {02}o2... A little cramped, but I cannot ask for luxury...
+@4370
+My unit will wait at {02}[2 and rest a while.
+@4370.1
+Unit of {02}{0B}2, we shall rest a while at {02}[2.
+@4370.2
+{01}C{D5}{00}, my unit rests at {02}[2... We are before the gods and Buddha. Mind your conduct...
+@4370.3
+The unit of {02}{0B}2 rests at {02}[2... Oh, the grounds are swept so clean...
+@4370.4
+The unit of {02}{0B}2 rests at {02}[2... Now, first a prayer for victory. Men, follow me...
+@4370.5
+The unit of {02}{0B}2 rests at {02}[2... Oh, so {02}[2 was this magnificent...
+@4371
+My unit will wait aboard the ironclad of the {02}{A1}2 and rest a while.
+@4371.1
+Unit of {02}{0B}2, we shall wait aboard the ironclad of the {02}{A1}2 and rest a while.
+@4371.2
+{01}C{D5}{00}, my unit waits on the ironclad of the {02}{A1}2... I cannot promise it is comfortable, but regain your vigour as best you can...
+@4371.3
+The unit of {02}{0B}2 waits aboard the ironclad of the {02}{A1}2... Hmm, so an iron-plated atakebune is this huge...
+@4371.4
+The unit of {02}{0B}2 waits aboard the ironclad of the {02}{A1}2... {01}C{D6}{00}, so this is what it is to feel secure on a great ship...
+@4371.5
+The unit of {02}{0B}2 waits aboard the ironclad of the {02}{A1}2... But with so many troops aboard, will it not sink? I am worried...
+@4372
+My unit will enter {02}{97}2 and rest a while.
+@4372.1
+Unit of {02}{0B}2, we shall enter {02}{97}2 and rest a while.
+@4372.2
+{01}C{D5}{00}, my unit waits inside {02}{97}2... Yes, yes, I know. First, fill your bellies...
+@4372.3
+The unit of {02}{0B}2 rests inside {02}{97}2... Those who wish to sleep had better sleep now...
+@4372.4
+Unit of {02}{0B}2, we shall enter {02}{97}2 and wait and rest inside until the next sortie order.
+@4372.5
+The unit of {02}{0B}2 shall enter {02}{97}2 and devote itself to restoring the troops' morale.
+@4373
+My unit will wait in the camp of {01}C{13}{00} and rest a while.
+@4373.1
+My unit will wait in the camp of {01}C{15}{00} and rest a while.
+@4373.2
+My unit will wait in the camp of {01}C{14}{00} and rest a while.
+@4373.3
+Our unit shall wait in the camp of {01}C{15}{00} and rest a while.
+@4373.4
+{01}C{D5}{00}, my unit rests in the camp of {01}C{15}{00}. But do not let your guard down. Beware of enemy raids.
+@4373.5
+Unit of {02}{0B}2, we wait in the camp of {01}C{15}{00} and devote ourselves to restoring morale until the next sortie order.
+@4374
+We set up camp. Make this your base, and let each unit do its duty!
+@4374.1
+{01}C{D5}{00}, unload the baggage and make camp here! Prepare to receive the exhausted units!
+@4374.2
+Unit of {02}{0B}2, we make camp on this spot and devote ourselves to supplying our allies and restoring morale.
+@4374.3
+Good, unload the baggage! Spare no rice! Restore the vigour of our allied units!
+@4375
+We march out now... Sound the conch! Raise my banner!
+@4375.1
+{02}{0B}2 marches out now.
+@4375.2
+At last, the sortie. Let us show the enemy the strength of the unit of {02}{0B}2.
+@4375.3
+{02}{0B}2 marches out. Look forward to my exploits.
+@4375.4
+{02}{0B}2 marches out. Watch well how I fight.
+@4375.5
+Hm, the order to march! No time to be eating... Bring my spear! Bring my armour!
+@4376
+We break camp.
+@4376.1
+Break camp, and load the rice and supplies onto the baggage train! Await the next order!
+@4376.2
+Unit of {02}{0B}2, we break camp and wait until the next order comes.
+@4376.3
+Good, break camp! Be ready to move at any time.
+@4377
+Wh-what is this! Why do you not obey! And you call yourselves soldiers of the unit of {02}{0B}3!!
+@4377.1
+Wh-what has happened? Confusion is spreading among the troops. Can this be the work of enemy spies... Calm down! Calm down, I say!
+@4377.2
+Confusion at a time like this! ...Damn it, {01}C{D5}{00}, do not panic! Do not panic!
+@4377.3
+Hm, the troops do not move as ordered! ...To throw the unit of {02}{0B}3 into such confusion... The enemy has a clever strategist!
+@4377.4
+Wh-what! What has happened to my unit! The troops will not listen at all... Th-this is no way to fight...
+@4378
+The confusion only grows worse... Ah, what are you doing! Turning your swords on me...
+@4378.1
+Damn it, the troops' confusion is not calming, it is only getting worse! Can they no longer tell friend from foe...
+@4379
+Signal the spies hidden among the enemy troops! Throw the unit of {02}{0C}3 into confusion!
+@4379.1
+Order the spies to spread rumours... {02}{0C}2 died long ago, and the {02}{0C}3 we see now is a double...
+@4379.2
+Order the spies! Spread lies!... Tens of thousands of troops are marching to join {02}{0B}2...
+@4379.3
+Have the spies disguised as common folk spread rumours... A terrible plague is spreading. Leave this place or everyone dies...
+@4380
+Naive... As long as you toy with such schemes, you cannot defeat me, {02}{0C}3...
+@4380.1
+Hmph! {02}{0B}3 seems to be up to some petty tricks, but I shall not be fooled by such a ploy.
+@4380.2
+Fool, {02}{0B}2! Do you think a makeshift scheme like that will throw my unit into confusion!
+@4380.3
+{01}C{D6}{00} I, {02}{0C}3, have seen through the spies of {02}{0B}3 for some time now!
+@4380.4
+{02}{0B}3... seems to be up to some scheme, but not one man in my unit would lose himself to lies.
+@4380.5
+{01}C{D6}{00} The spies of {02}{0B}3 are third rate. If you want to toss my unit about, use better shinobi...
+@4380.6
+The spies of {02}{0B}2 are below third rate... Most likely there is not even money to pay the shinobi...
+@4381
+As promised, we side with the {02}{0C}k. Please prepare a fief of %d.
+@4382
+Betray as promised, if you please.
+@4383
+Please forget the whole matter.
+@4384
+(Fief needed: %d  Daimyo yield: %d)
+@4385
+Have {02}{0B}2 of the {02}{0B}k carry out the betrayal?\n(Fief needed: %d  Daimyo yield: %d)
+@4386
+It seems {02}{0C}2 of the {02}{0C}k can be made to come over to us as promised.
+@4386.1
+It seems {02}{0C}2 of the {02}{0C}k can be made to come over to us.
+@4387
+If a fief of %d can be granted, {02}{0C}2 of the {02}{0C}k can be made to come over as promised. What will you do?
+@4387.1
+If you promise a fief of %d, I will make {02}{0C}2 of the {02}{0C}k come over to us. What will you do?
+@4387.2
+{02}{0C}2 of the {02}{0C}k is dissatisfied with their present lot. With a fief of %d, they would come over. What will you do?
+@4388
+Persuade {02}{0B}2 of the {02}{0B}k to defect?\n(Fief needed: %d  Daimyo yield: %d)
+@4389
+I shall persuade {02}{0C}2.
+@4389.1
+Persuade {02}{0C}2!
+@4390
+Not needed now.
+@4390.1
+Not needed now.
+@4392
+{01}C{D6}{00} The perfect chance has come. From this moment I, {02}{0B}2, side with the {02}{0C}k.
+@4392.1
+All these days of humiliation I endured while waiting for a chance to soar... I, {02}{0B}2, side with the {02}{0C}k.
+@4392.2
+For the one who needs me, I shall spare no effort. I side with the {02}{0C}k.
+@4392.3
+To thank you for valuing me, I, {02}{0B}2, wish to serve you with loyalty. I side with the {02}{0C}k.
+@4393
+It seems {02}{0C}2, who is inside {02}{97}2, can be made to come over to us as promised.
+@4393.1
+It seems {02}{0C}2, who is inside {02}{97}2, can be made to come over to us.
+@4394
+If a fief of %d can be granted, {02}{0C}2 inside {02}{97}2 can be made to come over as promised. What will you do?
+@4394.1
+If you promise a fief of %d, I will make {02}{0C}2 inside {02}{97}2 come over to us. What will you do?
+@4394.2
+{02}{0C}2 inside {02}{97}2 is dissatisfied with their present lot. With a fief of %d, they would come over. What will you do?
+@4395
+{01}C{D6}{00} From now on this {02}{97}2 belongs to the {02}{0C}k.
+@4395.1
+I have waited for this moment. From now on we, with {02}{97}2, follow the {02}{0C}k!
+@4395.2
+We have no regrets. We, together with {02}{97}2, join the {02}{0C}k!
+@4395.3
+We cannot let this chance pass! As proof of loyalty to the {02}{0C}k, we open {02}{97}2.
+@4396
+{02}{0C}2, we have taken the second bailey. Attack without reserve.
+@4396.1
+From now on my unit sides with the {02}{0C}k. The enemy is in the main bailey! {01}C{D5}{00}, attack!!
+@4396.2
+The enemy is in the main bailey! From now on we are part of the {02}{0C}k!
+@4396.3
+From now on we side with the {02}{0C}k! We aim for the main bailey.
+@4397
+The troops are in confusion? I shall restore order. Everyone, steady yourselves! The battle is only beginning!
+@4397.1
+{01}C{D6}{00} Do not make a fuss over so little confusion. With me here it will be calmed with ease...
+@4397.2
+Confusion over this much is shameful. Come, I, {02}{0B}2, shall calm them.
+@4397.3
+With me, {02}{0B}2, here, the troops' confusion will settle at once... What a pointless scheme.
+@4399
+My lord! You must not lose yourself on the battlefield! Pull yourself together!
+@4399.1
+Without my lord's strength we have no chance of victory! Pull yourself together!
+@4399.2
+The outcome of this battle hangs on my lord's deeds! Wake up!
+@4400
+Everyone, calm down! You make yourselves targets! Re-form the ranks!
+@4400.1
+At this rate we are done for... Trust in me! Do not give up to the last!
+@4400.2
+Everyone, hear my voice! Summon every last bit of spirit!
+@4400.3
+Damn it, do not fall back! Muster your last strength and follow me!
+@4401
+My lord! Morale is falling! Rally at once!
+@4401.1
+My lord! The battle has only begun! Muster your spirit!
+@4401.2
+We must win this battle. My lord, retreat is far too early!
+@4402
+{01}C{D6}{00} Fool! The one you just felled was my double!
+@4402.1
+I let a double die... Your death shall not be in vain.
+@4402.2
+{01}C{D5}{00}, do not panic! That was only my double. {02}{0B}2 is still alive.
+@4402.3
+{01}C{D6}{00} Fool! That one was my double!
+@4402.4
+Fooled by a double! What a fool!
+@4402.5
+Though only a double, he stood in for me. This pain I shall repay many times over!
+@4403
+I shall show you the marvels of the gunnery of the {02}{0B}2 school... Three-rank volley, begin!
+@4403.1
+It seems now is the time to show the three-rank volley I, {02}{0B}3, have refined... Commence firing!
+@4403.2
+Choose the size of the shot by the burnt powder residue left in the barrel after each shot, and fire... That is the {02}{0B}3 school of rapid fire.
+@4403.3
+Continuous gunfire is my forte... The power of unbroken fire is formidable, if I say so myself.
+@4404
+How is it, the power of the guns I have improved myself... We can fire from a range you cannot reach.
+@4404.1
+These are gunners I, {02}{0B}3, have trained with care... Ordinary infantry could not fire from this distance.
+@4404.2
+Guns are interesting things... Depending on the talent and training of the user, the range can even double...
+@4404.3
+Do not take the range of my gunners lightly. Come carelessly close and know that you will lose your life.
+@4405
+With some ingenuity, even rain is no obstacle! Fire, fire!!
+@4405.1
+{01}C{D6}{00} How do you like the guns I, {02}{0B}3, have improved? The matchlocks do not get wet even in the rain.
+@4405.2
+The guns of my, {02}{0B}3, unit have improved rain covers... Rain like this is nothing.
+@4405.3
+Guns can be used even in the rain. Well, that too is thanks to the gift of me, {02}{0B}3.
+@4406
+Volley after volley! Feel the power of the archers led by {02}{0B}2!
+@4406.1
+{01}C{D5}{00}, we have plenty of arrows... Show them our unit's pride, the rapid shot.
+@4406.2
+Though our house has many warriors, in rapid arrow volleys I, {02}{0B}2, am surely among the top two.
+@4406.3
+Take instruction from me, {02}{0B}3, and even infantry with no martial skill become fine archers in no time! Come, shoot faster!
+@4407
+My arrows, {02}{0B}2's, reach any distance!
+@4407.1
+{01}C{D5}{00}, now is the time to show the archery of the {02}{0B}2 school to the realm... Loose longer shots!
+@4407.2
+I, {02}{0B}2, am confident in long-range shooting. Now I shall show the fruit of my daily training.
+@4407.3
+{01}C{D6}{00} The enemy troops never imagined they would be shot from so far. Look at them scramble!
+@4408
+{01}C{D6}{00} Lowly soldiers, have you lost your nerve! With a spear in hand, I, {02}{0B}2, have no equal under heaven!
+@4408.1
+Did you see the firmness of the spear wall of the unit of {02}{0B}3... Those who wish to be skewered, come on!
+@4408.2
+{01}C{D5}{00}, now is the time to show the spearwork of the unit of {02}{0B}3.
+@4408.3
+I, {02}{0B}3, am confident with the polearm. Break the spear wall of my unit if you can.
+@4409
+Sieges are the speciality of me, {02}{0B}3... Taking {02}{97}2 should be no trouble.
+@4409.1
+Once I, {02}{0B}3, press the attack, the fall of the castle is only a matter of time.
+@4409.2
+Sieges are our speciality... {01}C{D5}{00}, do not fall behind! Take {02}{97}2 in one rush!
+@4409.3
+A luckless castle to be attacked by me, {02}{0B}3, the master of sieges. I must take care not to reduce it to ashes.
+@4410
+Taking bases is the speciality of me, {02}{0B}3... Taking %s should be no trouble.
+@4410.1
+Once I, {02}{0B}3, press the attack, the fall of %s is only a matter of time.
+@4410.2
+Taking bases is our speciality... {01}C{D5}{00}, do not fall behind! Take %s in one rush!
+@4411
+Charge! Look well upon my banner of Fu-Rin-Ka-Zan!
+@4411.1
+Charge! Feel the righteous wrath of Bishamonten!
+@4411.2
+{01}C{D5}{00}, charge! Scatter every enemy who stands in your way!
+@4411.3
+{01}C{D6}{00} I shall turn them into dust of the field! {01}C{D5}{00}, charge! Follow me, {02}{0B}3!
+@4411.4
+{01}C{D5}{00}, charge! We show no mercy to anyone who stands before us!
+@4411.5
+The taste of my charge is a cut above the rest...
+@4412
+Forced march, and advance on the enemy in one go! {01}C{D5}{00}, forward!
+@4412.1
+Behold a march swift as the gale! {01}C{D5}{00}, do not fall behind! Follow me!
+@4412.2
+{01}C{D5}{00}, give the enemy no rest! Forced march to the enemy lines! Advance, begin!
+@4412.3
+Forced march! Do not fall behind! Follow me!

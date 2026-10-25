@@ -1,0 +1,1574 @@
+@3640
+{01}C {0E}, {02}{0C}2 has come in person! Up to something, no doubt... I will see them. Show them in.
+@3640.1
+{01}C {0E}, an envoy from {02}{0D}2! Very well... I will see them. Show them in.
+@3640.2
+An envoy from {02}{0D}2! Very well, show them in! To think that {02}{0D}2 of all people would send an envoy...
+@3641
+{01}C"{0E}, Lord {02}{0C}2 has come in person... Show them in here at once.
+@3641.1
+I see, an envoy from Lord {02}{0D}2 has come. Then bring them here.
+@3641.2
+{01}C{DE}{00}, an envoy from Lord {02}{0D}2 has come. Bring them here at once.
+@3642
+Lord {02}{0C}2 has come. Bring them here, and see that no discourtesy is shown.
+@3642.1
+An envoy from Lord {02}{0D}2 has come. Bring them here, and see that no discourtesy is shown.
+@3643
+{01}C"{0E}, Lord {02}{0C}2 has come. Bring them here.
+@3643.1
+{01}C"{0E}, an envoy from Lord {02}{0D}2... Then show them in.
+@3643.2
+{01}C {0E}, an envoy from Lord {02}{0D}2 has come to see me? Then show them in.
+@3645
+It has been too long, {01}C{0C}{00}. I come today as an envoy of the {02}{0B}j clan.
+@3645.1
+{01}C{0C}{00}, it has been too long. I have come today because I have something to discuss with you.
+@3645.2
+You look well, {01}C{0C}{00}. I come as an envoy of the {02}{0B}j clan, so I cannot stay long. Catching up must wait for another time.
+@3645.3
+{01}C{0C}{00}, you look well. I have come today to see you on behalf of the {02}{0B}j clan.
+@3646
+It has been a long time, {01}C{0C}{00}. I have come today as an envoy of the {02}{0B}j clan.
+@3646.1
+{01}C{0C}{00}, it has been a long time. I have come today because I have a matter to discuss with you.
+@3646.2
+I am glad to see you well, {01}C{0C}{00}. I come today as an envoy of the {02}{0B}j clan, so please, no ceremony.
+@3646.3
+{01}C{0C}{00}, I am glad to see you well. I have come today on behalf of the {02}{0B}j clan.
+@3647
+Are you well, {01}C{0C}{00}? Forgive the sudden visit. I have come today because I have business with you.
+@3647.1
+{01}C{0C}{00}, it has been a while. I have come in person because there is something I must have you agree to.
+@3647.2
+You look well, {01}C{0C}{00}. I have come in person because I have a proposal to put to you.
+@3647.3
+It has been a while, {01}C{0C}{00}. I have come because there is something I must tell you.
+@3648
+{01}C{0C}{00}, it has been a long time. Forgive the suddenness: there is a matter I must bring to your ears without delay.
+@3648.1
+{01}C{0C}{00}, it has been a long time. I have come in person today, for I have an important matter to discuss.
+@3648.2
+{01}C{0C}{00}, I am glad to see you well. I have come in person, as there is a matter I wish to discuss with you.
+@3648.3
+It has been a long time, {01}C{0C}{00}. I have come in person because there is something I must tell you.
+@3649
+{01}C{0C}{00}, forgive this sudden visit...
+@3649.1
+I am {02}{0B}3, head of the {02}{0B}j clan. {01}C{0C}{00}, I have come in person today, for the matter is a grave one...
+@3649.2
+I am {02}{0B}2. I have come in person because there is something I must tell you, {01}C{0C}{00}.
+@3649.3
+I am {02}{0B}2. {01}C{0C}{00}, I have come today to put a matter to you.
+@3650
+{01}C{0C}{00}, it has been a long time. I come today bearing an important message from my lord.
+@3650.1
+{01}C{0C}{00}, I am glad to see you well. I come today as the representative of the {02}{0B}j clan, bearing an important message.
+@3650.2
+It has been a long time. I come today with a message for you from my lord, {02}{0D}2.
+@3650.3
+I am glad to see you well, {01}C{0C}{00}. I come today in the stead of my lord, {02}{0D}2.
+@3651
+I am {02}{0B}2, a vassal of {02}{0D}2. I come today to deliver a message from my lord.
+@3651.1
+I am {02}{0B}2, a vassal of {02}{0D}2. I come today bearing an important message from my lord.
+@3651.2
+Thank you for granting me an audience. I am {02}{0B}2, a vassal of {02}{0D}2.
+@3651.3
+I am {02}{0B}2. I come today in the stead of my lord, {02}{0D}2.
+@3652
+Thank you for granting me an audience. I am {02}{0B}2 of the {02}{0B}k.
+@3652.1
+I am {02}{0B}2. I bring a message for you from my lord, {02}{0D}2.
+@3652.2
+I am honoured beyond words to be received. I am {02}{0B}2 of the {02}{0B}k.
+@3652.3
+I am {02}{0B}2. I come today as the representative of my lord, {02}{0D}2.
+@3652.4
+I am {02}{0B}2. I come on this occasion in the stead of my lord, {02}{0D}2.
+@3654
+It has been a long time. If {01}C{0C}{00} comes in person, it must be good news. Please, tell me.
+@3654.1
+I am glad to see you well too, {01}C{0C}{00}. Please, make yourself at home.
+@3654.2
+If {01}C{0C}{00} comes in person, it must be important. Let me hear what you have to say.
+@3655
+It has been a long time. For {01}C{0C}{00} to come in person, it must be something grave for our house... First, let me hear your business.
+@3655.1
+I am glad to see you well too, {01}C{0C}{00}... I trust what you bring today is good news for the {02}{0B}j clan.
+@3655.2
+It has been a long time. For {01}C{0C}{00} to come in person... it must be important business, I take it...
+@3656
+For {01}C{0C}{00} to come in person, I, {02}{0B}3, am honoured. Let me hear what you have to say.
+@3656.1
+I am glad to see you well too, {01}C{0C}{00}. If you bring this to me yourself, I will help in every way I can.
+@3656.2
+{01}C{0C}{00}, welcome. I am glad to see you well. Now, please tell me your business.
+@3657
+It has been a long time. For {01}C{0C}{00} to come in person, this must be no small matter... Let me hear what you have to say.
+@3657.1
+I am glad to see you well too, {01}C{0C}{00}. If you have come yourself, it must be important business.
+@3657.2
+For {01}C{0C}{00} to come in person, I, {02}{0B}3, am honoured. Please, tell me your business.
+@3658
+{01}C{0C}{00}, it has been a long time. But I, {02}{0B}3, have much to attend to. Please keep it brief.
+@3658.1
+I am glad to see you well too, {01}C{0C}{00}... I trust what you bring today is good news for the {02}{0B}j clan...
+@3658.2
+Let me hear what {01}C{11}{00} wants. But I, {02}{0B}3, have no intention of accepting unreasonable demands.
+@3659
+It has been a long time. Is {01}C{11}{00} well? Before I hear your business, please, make yourself comfortable.
+@3659.1
+I am glad to see you well too, {01}C{0C}{00}. I, {02}{0B}3, will help {01}C{11}{00} in any way I can. Now, what is your business?
+@3659.2
+You must be weary from the road. Please, rest a while. I will help in every way I can, so be at ease.
+@3660
+{01}C{0C}{00}, it has been a while. You must be tired from the journey, but let me hear your business at once.
+@3660.1
+I am glad to see you well too, {01}C{0C}{00}. Now, what does {01}C{11}{00} have to say?
+@3660.2
+It has been a while, {01}C{0C}{00}. Now, let me hear what {01}C{11}{00} wants.
+@3661
+{01}C{D6}{00}, {01}C{0C}{00}. Let us skip the formalities. I do not know what brings you, but I will do what I can for you.
+@3661.1
+{01}C{D6}{00}, {01}C{0C}{00}, no need to stand on ceremony. It can be no bad news for the {02}{0B}k. I shall give you a good answer.
+@3661.2
+{01}C{DE}{00}, {01}C{0C}{00}, it has been a while. Good to see you well too. No need to hold back; say what you will.
+@3662
+You, is it? Nothing good, I suppose. Well, it cannot be helped. I will at least hear you out.
+@3662.1
+You have some nerve, coming to see me in person... Well, state your business.
+@3662.2
+I have no time to waste. If this is of no use to the {02}{0B}k, you will leave at once.
+@3663
+{01}C{0C}{00}, it has been a while. If you come yourself, it must be something of importance. State your business.
+@3663.1
+Good to see you well too. If it is good for both our houses, I will cooperate. State your business.
+@3663.2
+A long road; you have my thanks. For you to come instead of an envoy... this must be a hard matter. Well, let me hear it...
+@3664
+It has been a while, {01}C{0C}{00}. What brings you here today? Tell me.
+@3664.1
+Good to see you well too. I do not know what you want, but I trust it is good for both our houses. Tell me your business.
+@3664.2
+For you to come yourself, this must be important. Well, let me hear it.
+@3665
+{01}C{11}{00}, is it? Nothing good, I suppose. Well, it cannot be helped. State your business.
+@3665.1
+An envoy from {01}C{11}{00}... I trust you know your place. If you do, state your business.
+@3665.2
+I have no time to waste. If this is some trifle, you will leave at once.
+@3666
+{02}{0C}3, well done coming all this way. Is {01}C{11}{00} well? Now then, let me hear your business.
+@3666.1
+Well done coming, {02}{0C}3. If {01}C{11}{00} sends word, I cannot refuse to listen. State your business.
+@3666.2
+I see, you have something to say to me. Then let me hear it.
+@3667
+{02}{0C}3, is it? You have done well to come. Now, state your business.
+@3667.1
+You have done well to come. I am busy today, so keep it brief.
+@3667.2
+I see, you have something to say to me. Very well, state your business.
+@3668
+{01}C{0C}{00}, let us dispense with the formalities. First, tell me what brings you.
+@3668.1
+{01}C{0C}{00}, it has been a while. No need to stand on ceremony. What is your business?
+@3668.2
+{01}C{DE}{00}, {01}C{0C}{00}, it has been a while. I am glad to see you well. What brings you here today?
+@3669
+I never thought you would come to call... I doubt it is anything important, but I will hear you out.
+@3669.1
+The head of the house, coming in person. You have nerve. For that nerve alone, I will hear you out.
+@3669.2
+A rare thing, for you to come here... I do not know what you are scheming, but I will at least listen.
+@3670
+{01}C{0C}{00}, how good of you to come. I am glad to see you well. Forgive my haste, but please tell me what you have come to say.
+@3670.1
+{01}C{0C}{00}, let us dispense with the formalities. Forgive my haste, but please tell me what you have come to say.
+@3670.2
+{01}C{DE}{00}, {01}C{0C}{00}. For you to come like this, it must be something very important. Please, tell me at once.
+@3671
+Greetings aside, let me hear your business.
+@3671.1
+For {01}C{0C}{00} to come in person, this is no small matter... Please, tell me at once.
+@3671.2
+{01}C{DE}{00}, {01}C{0C}{00}. This seems a grave matter. Forgive my haste, but please tell me.
+@3672
+I never thought an envoy from {01}C{15}{00} would call... I can guess most of it, but I will hear you out.
+@3672.1
+I do not know why an envoy was sent to me, {02}{0B}3, but I will at least listen. Deliver {02}{0D}3's message.
+@3672.2
+An envoy from {01}C{15}{00}, a rare thing... I do not know what is being schemed, but I will at least listen.
+@3673
+{02}{0C}3, well done coming all this way. {01}C{15}{00} seems to be well. Now then, let me hear your business.
+@3673.1
+Well done coming, {02}{0C}3. If {01}C{15}{00} sends word, I cannot refuse to listen. State your business.
+@3673.2
+Given how things stand between {01}C{15}{00} and me, I would like to give a good answer... Well, state your business.
+@3674
+An envoy from {01}C{15}{00}... Tell me what brings you.
+@3674.1
+So {01}C{15}{00} sends me an envoy... Well, fine. State your business.
+@3674.2
+A messenger from {01}C{15}{00}... I can guess most of it, but state your business.
+@3676
+Today, for the friendship of our two houses, I have brought a small sum of %d gold. Will you accept it?
+@3677
+Today, for the friendship of our two houses, I bring %d gold entrusted to me. Will you accept it?
+@3678
+Today, to deepen the friendship of our two houses, I have brought %d gold. Please accept it.
+@3679
+Today, for the friendship of our two houses, I have brought %d gold. Please, accept it.
+@3680
+Hoping to deepen the friendship of our houses, I have brought %d gold. Please accept it.
+@3681
+To deepen the friendship of our houses, I bring %d gold entrusted to me. Will you accept it?
+@3682
+Today I have brought %d gold for you. Take it.
+@3683
+It is only a little, but I have brought %d gold. Please, accept it.
+@3684
+Hoping to deepen our friendship, I have brought %d gold. Will you accept it?
+@3685
+To deepen the friendship of our houses, I bring %d gold entrusted to me. Please, accept it.
+@3686
+To deepen the friendship of our houses, I have brought %d gold. Please accept it.
+@3687
+It is only a small sum, but I have brought %d gold. Please, accept it.
+@3687.1
+To deepen the friendship of our houses, I bring %d gold entrusted to me by my lord. Please, accept it.
+@3687.2
+My lord wishes {01}C{0C}{00} to have this %d gold... Please accept it.
+@3689
+The truth is, I have brought this {02}G2 for you. Will you accept it?
+@3690
+For the friendship of our houses, my lord has entrusted me with this {02}G2. Will you accept it?
+@3691
+The truth is, I have brought this {02}G2 for {01}C{0C}{00}. Please, accept it.
+@3692
+For the friendship of our houses, my lord has entrusted me with this {02}G2. Please, accept it.
+@3693
+I have brought this {02}G2 for you. Please accept it.
+@3694
+My lord has charged me to give you this {02}G2. Please accept it.
+@3695
+I have brought this {02}G2 for you. Take it.
+@3696
+For the friendship of our houses, I bring this {02}G2 entrusted to me. {01}C{0C}{00}, please accept it.
+@3697
+Hoping to deepen the friendship of our houses, I have brought this {02}G2. Will you accept it?
+@3698
+For the friendship of our houses, I bring this {02}G2 entrusted to me. Please accept it.
+@3699
+I have brought this {02}G2 for {01}C{0C}{00}. Take it.
+@3700
+For the friendship of our houses, my lord has entrusted me with this {02}G2. Please, accept it.
+@3700.1
+My lord wishes {01}C{0C}{00} to have this {02}G2... Please accept it.
+@3700.2
+This {02}G2 is a small token from my lord. Please accept it.
+@3702
+I thank you for your kindness, {01}C{0C}{00}. I accept it gratefully.
+@3703
+Very well. I accept it with thanks. Tell {01}C{11}{00} I am grateful.
+@3704
+{01}C{0C}{00}, I thank you for your kindness. I will go on working for the {02}{0D}k.
+@3705
+I accept it with thanks. Tell {01}C{11}{00} I am grateful.
+@3706
+I accept it gratefully. {01}C{0C}{00}, I thank you for your kindness.
+@3707
+I accept it with thanks. {01}C{0C}{00}, please tell {01}C{11}{00} I am grateful.
+@3708
+Your kindness is received. Go on serving this {02}{0B}3 well.
+@3709
+Tell {01}C{11}{00} I accept this kindness, and to go on serving this {02}{0B}3 well.
+@3710
+Just like you, {01}C{0C}{00}. I accept your kindness with thanks.
+@3711
+I accept {01}C{15}{00}'s kindness with thanks. Convey my gratitude.
+@3712
+I accept your kind thought gratefully, {01}C{0C}{00}. I look forward to your continued goodwill.
+@3712.1
+{01}C{DE}{00}, to come all this way, and with such a kind gift... {01}C{0C}{00}, I thank you.
+@3713
+I accept {01}C{15}{00}'s kindness with thanks. Please convey my regards and my hopes for our continued goodwill.
+@3713.1
+Well, well... Please tell {01}C{15}{00} I am grateful for the kindness.
+@3713.2
+{01}C{15}{00} is a shrewd one, sending me the very thing I wanted. Please convey my thanks.
+@3715
+{01}C{D6}{00}, no need for thanks, {01}C{0C}{00}. Keep lending me your strength.
+@3716
+By the way, just between us... Lord {02}{0D}3 is not to be trusted. You would do well to be careful.
+@3716.1
+That is a weight off my shoulders... Lord {02}{0D}3 makes little use of me, so my troubles never end...
+@3716.2
+{01}C{D6}{00}, that is a weight off my shoulders. {01}C{0C}{00}, keep lending Lord {02}{0D}3 your strength.
+@3717
+{01}C{DE}{00}, well said. Coming in person was worth it. I expect great things of you.
+@3718
+{01}C{D6}{00}, that is a weight off my shoulders. Now I can hold my head up. I will faithfully convey {01}C{0C}{00}'s reply.
+@3719
+I am most grateful. Coming in person was worth it. I look forward to our continued friendship.
+@3720
+I thought you would accept. What follows is merely me talking to myself: Lord {02}{0D}3 cannot be trusted.
+@3720.1
+Now I have done my duty. Lord {02}{0D}3 makes little use of me, so my troubles never end...
+@3720.2
+Now my duty is done. I will faithfully convey {01}C{0C}{00}'s words to Lord {02}{0D}3.
+@3721
+Leave it to me. I, {02}{0B}3, will surely prove useful to {01}C{0C}{00}.
+@3722
+Yes! I will faithfully convey {01}C{0C}{00}'s words to Lord {02}{0D}3.
+@3723
+Come, no need for thanks. Between you and me there is no call for ceremony.
+@3724
+By the way, just between us... Do not put too much faith in Lord {02}{0D}3.
+@3724.1
+It seems I have done my duty. Lord {02}{0D}3 makes little use of me, so my troubles never end...
+@3724.2
+It seems my duty is done. I will faithfully convey {01}C{0C}{00}'s words to Lord {02}{0D}3.
+@3725
+{01}C#{0E}, the pleasure is mine. I am grateful for your kind reply.
+@3726
+I am deeply honoured. My duty as envoy is done. I will faithfully convey {01}C{0C}{00}'s words.
+@3728
+It is a kind offer, but I cannot accept it. Please trouble yourself no further on our house's account.
+@3729
+It is a kind offer, but I cannot accept it. {01}C{0C}{00}, please give {01}C{11}{00} my regards.
+@3730
+It is a generous offer, but I cannot accept it. I would not trouble {01}C{0C}{00} any further.
+@3731
+It is a generous offer, but I cannot accept it. Give {01}C{11}{00} my regards.
+@3732
+This time I will take only {01}C{0C}{00}'s good will. Use it for the {02}{0C}k instead.
+@3733
+I am sorry, {01}C{0C}{00}, but I cannot accept it. Tell {01}C{11}{00} to use it for the {02}{0C}k.
+@3734
+{01}C{D6}{00}, you think a trinket like this will move me? Laughable. Come back another time.
+@3735
+It is a kind offer, but I cannot accept it. Use it for the {02}{0C}k instead.
+@3736
+I am sorry, but I cannot accept it. Please take your leave for today.
+@3737
+Trying to move my heart with a trinket like this... A waste of time. I would ask you to go home.
+@3738
+It is a kind offer, but I cannot accept it. Tell {01}C{11}{00} to use it for the {02}{0C}k.
+@3739
+{01}C{11}{00}'s offer pleases me, but I cannot accept it. Please take your leave for today.
+@3740
+{01}C{0C}{00}, I am grateful for your kindness, but this time I will take only the good will. Please use it for the {02}{0C}k.
+@3741
+{01}C{0C}{00}, I am sorry, but I cannot accept it. Please tell {01}C{15}{00} I take only the good will.
+@3742
+Unfortunately, I am not one to be dazzled by a trinket like this. Come back another time.
+@3742.1
+I am not one to be led along by a scheme like this. Come back another time.
+@3743
+I am grateful for your offer, {01}C{0C}{00}, but I cannot accept it. Let us leave it for another time...
+@3744
+I am sorry, but I cannot accept it. This time I will take only your good will.
+@3744.1
+I cannot tell what you are really after. I cannot accept it. Let us leave it for another time...
+@3745
+Unfortunately, I am not fool enough to be dazzled by a trinket like this. Tell {02}{0D}3 so.
+@3745.1
+Tell {02}{0D}3 I am not one to be led along by a scheme like this.
+@3746
+It is a kind offer, but I cannot accept what our house has no need of. I am sorry. Tell {01}C{15}{00} so.
+@3747
+Unfortunately, I cannot accept it. Tell {01}C{15}{00} I take only the good will.
+@3747.1
+It seems I am not held in high regard. To think I might be moved by something like this...
+@3749
+If that is how it is, it cannot be helped... I did it for your sake, but it seems the trip was wasted.
+@3750
+So that is how you see it... I too believe Lord {02}{0D}3 should not be followed. Then I will take my leave.
+@3750.1
+I understand how you feel. I will put it to Lord {02}{0D}3 as gently as I can.
+@3750.2
+I see... you will not accept it... I thought it was a good offer, but it cannot be helped... I will report it so.
+@3751
+{01}C{DE}{00}, is that so? Then our house will use it. You seem to have much on your mind.
+@3751.1
+{01}C"{0E}... you refuse, do you... It seems you do not know your place. Think about what will happen if you keep up this attitude.
+@3752
+{01}C {0E}, you refuse! To scorn Lord {02}{0D}3's kindness, how ungrateful. You will regret this later.
+@3753
+Is that so... If {01}C{0C}{00} says so, there is nothing to be done... I will come again another time...
+@3754
+I think {01}C{0C}{00} has judged rightly... I would have refused this myself. Lord {02}{0D}3 is not to be trusted... Please be on your guard.
+@3754.1
+I understand... It is a pity, but I will report it to Lord {02}{0D}3 so.
+@3754.2
+I had hoped to bring back a good answer, but it seems it was not to be...
+@3755
+It is a pity you cannot see my good intentions. I, {02}{0B}3, will take my leave for today...
+@3756
+Is that so... Then I gratefully accept {01}C{0C}{00}'s kindness.
+@3757
+Forgive me... It seems the consideration of {02}{0B}3 fell short. Please pardon me...
+@3758
+{01}C{DD}{00}, what have I done... To have angered {01}C{0C}{00}... How will I explain this to my lord?
+@3759
+Understood. I shall report it to my master faithfully... Then I take my leave...
+@3760
+Is that so... Our consideration fell short... It cannot be helped. We will come again another time.
+@3761
+I see... If you say so, it cannot be helped... I will give up for this time.
+@3762
+I thought {01}C{0C}{00} would refuse. Lord {02}{0D}3 does not trust us. {01}C{0C}{00} should not let down your guard either...
+@3762.1
+If {01}C{0C}{00} says so, there is nothing I can do. I will tell Lord {02}{0D}3 so.
+@3762.2
+So it is no good after all... It is a pity, but I will report it to Lord {02}{0D}3 so.
+@3763
+{01}C"{0E}, you have nerve! To refuse an offer like this, you are a great fool. You will regret it later.
+@3764
+I see... I came for the sake of both our houses, but it cannot be helped... I will give up for this time.
+@3765
+I see... It is a pity, but I will respect your wishes and give up for this time.
+@3766
+{01}C!{0E}... what a thing to say... My lord has chosen the wrong house to befriend. I must hurry back and report this...
+@3767
+What a thing to say... To hear such words from {01}C{0C}{00}'s own mouth... What am I to report?
+@3768
+If {01}C{0C}{00} says so, I can only give up. I will tell my lord so...
+@3770
+I accept with thanks
+@3771
+I accept with thanks
+@3773
+I accept with thanks
+@3774
+I accept with thanks
+@3776
+I will take it
+@3777
+I accept with thanks
+@3778
+I accept with thanks
+@3780
+I accept with thanks
+@3781
+I accept with thanks
+@3783
+I cannot accept it
+@3784
+I take only the good will
+@3785
+I cannot accept it
+@3787
+I take only the good will
+@3788
+I cannot accept it
+@3789
+I take only the good will
+@3790
+I cannot accept it
+@3791
+I cannot accept this
+@3793
+Come back another time
+@3794
+I cannot accept this
+@3796
+The {02}{0B}k seems to be deepening its friendship with the {02}{0C}k
+@3797
+Friendship with the {02}{0C}k is now %d
+@3798
+What
+@3798.1
+Oh
+@3799
+Hmm
+@3800
+Oh
+@3801
+No, no
+@3801.1
+No, no
+@3802
+my daughter {02}{0E}3
+@3802.1
+my sister {02}{0E}3
+@3802.2
+my kinswoman {02}{0E}3
+@3803
+
+@3803.1
+
+@3805
+
+@3805.1
+
+@3806
+
+@3806.1
+
+@3808
+Today I have come to offer {01}C{DA}{0E} to {01}C{0C}{00} in marriage, as a pledge of friendship. What do you say?
+@3808.1
+Today, for the lasting friendship of our two houses, I have come to offer {01}C{DA}{0E} in marriage to Lord {02}{0D}3. What do you say?
+@3809
+I have come under orders to offer our house's Princess {02}{0E}3 to {01}C{0C}{00} in marriage. What do you say?
+@3809.1
+I have come under orders to offer our house's Princess {02}{0E}3 in marriage to Lord {02}{0D}3. What do you say?
+@3810
+Today I have come to offer {01}C{DA}{0E} to {01}C{0C}{00} in marriage, as a pledge of friendship. What do you say?
+@3811
+I have come today for the lasting friendship of our two houses. As a pledge, my lord wishes to give Princess {02}{0E}3 to {01}C{0C}{00} in marriage. What do you say?
+@3811.1
+My lord wishes for a lasting friendship. As a pledge, he offers Princess {02}{0E}3 as the wife of Lord {02}{0D}3. What do you say?
+@3812
+{01}C{0C}{00}, I have a favour to ask. For the sake of both our houses, I would like you to take {01}C{DA}{0E} as your wife. What do you say?
+@3812.1
+I have a favour to ask. For the sake of both our houses, I would like to give {01}C{DA}{0E} in marriage to Lord {02}{0D}3. What do you say?
+@3813
+I have come today for the friendship of our two houses. As a pledge, my lord wishes to give Princess {02}{0E}3 to {01}C{0C}{00} in marriage. Will you give a good answer?
+@3813.1
+I have come today for the friendship of our two houses. As a pledge, my lord offers Princess {02}{0E}3 as the wife of Lord {02}{0D}3. Will you give a good answer?
+@3814
+I have a favour to ask. For the sake of both our houses, I want you to take {01}C{DA}{0E} as your wife. What do you say?
+@3814.1
+I have a favour to ask. For the sake of both our houses, I want to give {01}C{DA}{0E} in marriage to {02}{0D}3. What do you say?
+@3815
+I have come today for the lasting friendship of our two houses. As a pledge, we wish to give Princess {02}{0E}3 to {01}C{0C}{00} in marriage. What do you say?
+@3815.1
+I have come today for the lasting friendship of our two houses. As a pledge, we wish to give Princess {02}{0E}3 in marriage to Lord {02}{0D}3. What do you say?
+@3816
+I have long been seeking a husband for {02}{0E}3, and you are the most fitting. I would very much like her to marry you. What do you say?
+@3816.1
+I have long been seeking a husband for {02}{0E}3, and Lord {02}{0D}3 is the most fitting. I would very much like her to marry him. What do you say?
+@3817
+My lord has ordered me to arrange a marriage between Princess {02}{0E}3 and yourself, so I have come. What do you say?
+@3817.1
+My lord wishes Princess {02}{0E}3 to marry Lord {02}{0D}3, so I have come. What do you say?
+@3818
+My business today is simple. For the lasting friendship of our two houses, I have come to ask {01}C{0C}{00} to take {01}C{DA}{0E} as his lawful wife.
+@3818.1
+My business today is simple. For the lasting friendship of our two houses, I have come to ask that Lord {02}{0D}3 take {01}C{DA}{0E} as his lawful wife.
+@3819
+I have come today for the lasting friendship of our two houses. As a pledge, my lord wishes to give Princess {02}{0E}3 to {01}C{0C}{00} in marriage. What do you say?
+@3819.2
+My lord wishes Princess {02}{0E}3 to marry Lord {02}{0D}3, so I have come today. What do you say...
+@3821
+I too have heard of Princess {02}{0E}3. I gladly accept the proposal.
+@3822
+You bring good news. I am grateful. Tell {01}C{11}{00} I gladly accept the proposal.
+@3823
+What a generous offer... To welcome Princess {02}{0E}3 into our house is like a dream. I gladly accept.
+@3824
+To welcome Princess {02}{0E}3 into our house is like a dream. Please tell {01}C{11}{00} I am grateful for the kindness.
+@3825
+{01}C{DE}{00}, I could not ask for more! I gladly accept. I look forward to the day Princess {02}{0E}3 comes to us.
+@3826
+{01}C{DE}{00}, I could not ask for more! I hear Princess {02}{0E}3 is a beauty. Please tell {01}C{11}{00} I gladly accept.
+@3827
+{01}C{DE}{00}, you would give Princess {02}{0E}3 to the {02}{0B}k! I am glad of your kindness.
+@3828
+{01}C{D6}{0E}, you offer Princess {02}{0E}3 to our house? I have heard of Princess {02}{0E}3, and I gladly welcome her. Tell {01}C{11}{00} I agree.
+@3829
+I could not ask for more. I hear Princess {02}{0E}3 is a beauty. {01}C{0C}{00}, I am grateful.
+@3830
+{01}C{DE}{00}, Princess {02}{0E}3 I gladly welcome. {01}C{0C}{00}, please tell {01}C{11}{00} I am grateful.
+@3831
+I have heard of Princess {02}{0E}3's beauty. She is a fitting bride for the {02}{0B}k. I look forward to the day she comes.
+@3832
+{01}C{DE}{00}, Princess {02}{0E}3! An offer I could not hope for. Tell {01}C{11}{00} I agree.
+@3832.1
+They say Princess {02}{0E}3 is a beauty. A fitting bride for the {02}{0B}k. Of course I agree. Tell {01}C{11}{00} so.
+@3834
+{01}C{DE}{00}, is that so? Coming in person was worth it. {02}{0E}3 will be glad too.
+@3835
+{01}C{DE}{00}, is that so? I knew you would give a good answer. That is a weight off my shoulders. I will tell my lord at once.
+@3836
+{01}C{DE}{00}, you accept! How glad I am. {02}{0E}3 will be glad too.
+@3837
+I have heard your words. The bond between our two houses will be stronger than ever.
+@3838
+{01}C{DE}{00}, I knew you would give a good answer. The bond between our two houses grows stronger still.
+@3839
+{01}C{D6}{00}, that is a weight off my shoulders. Now I will be busy preparing for Princess {02}{0E}3's wedding.
+@3840
+{01}C{DE}{00}, I see, you accept! Coming in person was worth it. Now the {02}{0B}k stands firm.
+@3841
+I have heard your words. My lord will be glad too.
+@3842
+I am relieved to hear it. Now both our houses are secure. I will begin preparing for {02}{0E}3's wedding at once.
+@3843
+I will convey your words faithfully. {01}C{D6}{00}, now I will be busy preparing for Princess {02}{0E}3's wedding.
+@3844
+I thank you for your ready consent. Now both our houses are secure. {02}{0E}3 will be glad too.
+@3845
+You accept? Then the bond between our two houses will be stronger than ever.
+@3845.1
+I thank you for your kind words. Now both our houses are secure.
+@3847
+Princess {02}{0B}3 has married into the {02}{0C}k
+@3848
+Princess {02}{0B}3 has married into our house
+@3849
+I have heard of Princess {02}{0E}3. For my {02}{0B}k she is far too good a match... It is a kind offer, but let us forget it.
+@3850
+My {02}{0B}k is no match for Princess {02}{0E}3. It is a pity, but tell them we cannot receive her.
+@3851
+Princess {02}{0E}3 for our family is far too great an honour... We could not possibly accept...
+@3852
+It is a pity, but for my {02}{0B}k it would be beyond our station. Please tell {01}C{11}{00} we cannot receive her.
+@3853
+Our house has its own circumstances... It is a kind offer, {01}C{0C}{00}, but I must decline.
+@3854
+I am sorry, {01}C{0C}{00}, but let us forget this. It is a pity, but we cannot receive Princess {02}{0E}3 just now.
+@3855
+Princess {02}{0E}3 deserves a more fitting match. It is a kind offer, but I will take only the good will.
+@3856
+It is not a bad offer, but I am not inclined to it... I am sorry, but tell them I decline.
+@3857
+{01}C{D9}{0E}, Princess {02}{0E}3 could do far better. Find Princess {02}{0E}3 a good husband.
+@3858
+{01}C{D8}{0E}, Princess {02}{0E}3 for our house... It is not a bad offer... but I must decline. Tell {01}C{11}{00} so.
+@3859
+With Princess {02}{0E}3's looks, she could do far better. Find Princess {02}{0E}3 a good husband.
+@3860
+I am not inclined to it. It is not a bad offer... but I am sorry, let us forget it.
+@3860.1
+Princess {02}{0E}3 deserves a more fitting match... I must decline this offer.
+@3860.2
+I am not inclined to this offer, so I must decline.
+@3862
+{01}C{D8}{0E}, you refuse such an offer? It cannot be helped. It would have been too good a match for you.
+@3862.1
+{01}C{D8}{0E}, you refuse such an offer? It seems you do not know your place.
+@3863
+A pity. I thought it was a good offer... It cannot be helped. I will tell my master so.
+@3864
+{01}C{D8}{0E}, you say {02}{0E}3 does not please you? It seems you do not know your place. You mean to defy me!
+@3865
+{01}C{D6}{0E}, you refuse the offer! To scorn my lord's kindness, how shameful... I must hurry back and report this...
+@3866
+{01}C{D7}{0E}, I had hoped {01}C{0C}{00} would accept... What a pity...
+@3867
+I see, so other daimyo houses have made offers too... Ah, it is a pity, but it cannot be helped.
+@3868
+Is that so... Indeed, {01}C{DA}{0E} is no match for the {02}{0C}k... It is a pity, but I must give up...
+@3869
+I thought you would accept this offer. It is a pity... but it cannot be helped. I will report it so.
+@3870
+If you put it that way, there is nothing to be done. It is a pity, but I will give up on this.
+@3871
+An offer like this does not come often... {01}C{D7}{0E}, what a pity...
+@3872
+I see... If you say so, it cannot be helped. I will give up on this.
+@3872.1
+I see... It seems you have something on your mind...
+@3872.2
+{01}C{D8}{0E}, {02}{0E}3 does not please you... It seems I misjudged you.
+@3872.3
+I thought you were the most fitting match... It cannot be helped. I will give up on this.
+@3873
+You refuse an offer from my lord... {01}C{D7}{0E}, what am I to tell him...
+@3873.1
+It is a pity, but it cannot be helped... I will tell my lord so.
+@3873.2
+Wh-what, you refuse an offer as good as this! So the rumours were true... I must hurry back and tell my lord...
+@3875
+I gladly accept the proposal
+@3876
+I gladly accept the proposal
+@3877
+I gladly accept the proposal
+@3878
+To welcome a princess of the {02}{0C}k...
+@3879
+I look forward to the wedding day
+@3880
+I gladly accept this proposal
+@3881
+I am glad of your kindness
+@3882
+Tell them I agree
+@3883
+I could not ask for more
+@3884
+{01}C{DE}{00}, I gladly welcome her
+@3885
+I look forward to the wedding day
+@3886
+{01}C{DE}{00}, an offer I could not hope for
+@3888
+Let us forget it
+@3889
+A pity, but we cannot receive her
+@3890
+We could not possibly accept...
+@3891
+We cannot receive her
+@3892
+I must decline
+@3893
+Let us forget this
+@3894
+I take only the good will
+@3895
+I am not inclined to it
+@3896
+Find her a good husband
+@3897
+I must decline after all
+@3898
+Find her a good husband
+@3899
+I am not inclined to it
+@3899.1
+I must decline this offer
+@3899.2
+I am not keen on this offer
+@3901
+The {02}{0B}k and the {02}{0C}k have formed a marriage alliance
+@3902
+{01}C{0C}{00}, before your line is cut off, will you not join forces with us, your kin? Aiming at the whole land together with me would not be a bad thing...
+@3903
+{01}C{0C}{00}, before the {02}{0C}k meets its end, will you not submit to my master, Lord {02}{0D}3? I will put in a word to see you treated well.
+@3904
+{01}C{0C}{00}, the {02}{0C}k's fortunes have run out. Why not live out your days under my protection?
+@3904.1
+Well, {01}C{0C}{00}? Your lands will be guaranteed, so will you not come under my {02}{0B}k? I promise you will be well treated.
+@3904.2
+{01}C{0C}{00}, perish as you are, or survive under my protection. Choose one.
+@3905
+Your lands will be guaranteed, so will you not come under my {02}{0B}k? I promise you will be well treated.
+@3905.1
+{01}C{0C}{00}, before the {02}{0C}k's line is cut off, come under the {02}{0B}k with good grace.
+@3905.2
+{01}C{0C}{00}, please join the {02}{0D}k. I promise you will be well treated.
+@3907
+I had thought so myself. As things stand, the {02}{0B}k will perish... Before that happens, I will lend my strength to you, my own kin.
+@3908
+Indeed, it is as you say. Stubbornness will get me nowhere now. I will do as you say.
+@3909
+{01}C{D6}{00}, I never thought I could beat you. If my lands are guaranteed, I will gladly come under you.
+@3909.1
+I cannot hope to win against the {02}{0D}k. If my lands are guaranteed, I will come under the {02}{0D}k.
+@3909.2
+It seems the tide has turned for good. Stubbornness will get me nowhere now. I humbly accept the offer.
+@3910
+As long as my lands are guaranteed, I do not care about names. I will add my name to the {02}{0D}k.
+@3910.1
+Nothing I do now will change anything... I will come under {01}C{11}{00}.
+@3910.2
+I never thought I could beat the {02}{0C}k... Then I will serve under the {02}{0D}k.
+@3912
+{01}C{DE}{00}, {01}C{0C}{00}, well decided! Let us aim at the whole land together.
+@3913
+Well decided... I did this for {01}C{0C}{00}'s own good. Forgive me.
+@3914
+{01}C{DE}{00}, {01}C{0C}{00}, well decided... Now we are brothers in arms. I look forward to working with you.
+@3914.1
+A brave decision. It will surely be praised for generations. I am counting on your strength.
+@3914.2
+I knew you would understand. I look forward to great things from {01}C{0C}{00}.
+@3915
+I am delighted. I must tell my master at once... Then I take my leave.
+@3915.1
+From now on, let us build up the {02}{0D}k together.
+@3915.2
+{01}C{DE}{00}, I must bring this good news to Lord {02}{0D}3 at once...
+@3917
+The {02}{0C}k has become a vassal of the {02}{0B}k
+@3918
+The {02}{0C}k has become our vassal
+@3919
+Our house has become a vassal of the {02}{0B}k
+@3920
+Such nonsense, and from {01}C{0C}{00} of all people... {01}C{0C}{00} is the one who should submit to me.
+@3921
+To think {01}C{0C}{00} would bring me such an offer... Do you think I am lesser than {01}C{11}{00}?
+@3921.1
+To think {01}C{0C}{00} would bring me such an offer... It seems you have become {02}{0D}3's vassal heart and soul.
+@3922
+{01}C{D6}{00}, what nonsense! You think you can beat me? Interesting. Try it if you can.
+@3922.1
+Did you think I would submit so easily? You will have my answer on the battlefield.
+@3922.2
+How foolish! Who would bow to the likes of {01}C{0C}{00}? You are an eyesore. Get out!
+@3922.3
+{02}{0D}3, I will let it pass this once. Now get out!
+@3923
+Tell {02}{0D}3 this: who would ever follow the likes of you!
+@3923.1
+It seems {01}C{11}{00} fears me a great deal. All the more reason not to submit.
+@3923.2
+Nonsense... Someone throw this fool out!
+@3923.3
+What foolishness is this... Someone throw this man out of the castle!
+@3925
+I came here for your own good, but it seems it was wasted. Poor fool, walking the road to ruin...
+@3925.1
+Why hurry to your death? Come to me before it is too late.
+@3926
+{01}C{D6}{00}, I thought you would refuse. I only serve {01}C{11}{00} because I must, so rest easy.
+@3926.1
+I see, so you will not submit. It cannot be helped... I will try to smooth it over with Lord {02}{0D}3.
+@3926.2
+I came here for your own good, and this is what I get... I never thought you were this foolish...
+@3927
+In this age of war, strength alone will not keep you alive. You do not even understand that... What a fool.
+@3927.1
+Brave words... When we meet on the battlefield, you will see your own folly.
+@3927.2
+Mocking me takes nerve... Wash your neck and wait!
+@3927.3
+{01}C{D6}{00}, you are all bluster. You will regret this soon enough!
+@3928
+Is that so... Then the next time we meet will most likely be on the battlefield...
+@3928.1
+It seems Lord {02}{0D}3's kindness has backfired... It is a pity, but I will come again another time.
+@3928.2
+I came here for the good of the {02}{0C}k! And this is how you treat me... Remember this!
+@3928.3
+To be treated like this... My master picked a true fool to make his offer to...
+@3930
+{01}C{0C}{00}, as long as I live, the {02}{0B}k will never fall. Why not become my vassal and chase the dream of uniting the land?
+@3931
+Now none can match the might of the {02}{0D}k. Surely {01}C{0C}{00} no longer hopes for independence. Why not serve Lord {02}{0D}3 as a vassal and put your strength to use?
+@3932
+{01}C{0C}{00}, rather than scrape by just to keep your family name, why not join my vassals and win real merit?
+@3932.1
+I will grant you a generous fief, so will you not submit to me? It would be better for you too.
+@3932.2
+The strong grow stronger. Such is this age of war. Why not serve my {02}{0B}k and aim at the whole land with me?
+@3933
+The {02}{0C}k is already under our protection. Will {01}C{0C}{00} not join our vassals at this point? Serving as a vassal is no bad thing.
+@3933.1
+Will you not serve the {02}{0B}k alongside me? I guarantee you will be well treated.
+@3933.2
+The weak perish in the end. That is the way of this age of war. Will {01}C{0C}{00} not serve the {02}{0B}k and work for Lord {02}{0D}3?
+@3935
+I knew this day would come... Then I will become your retainer and dream of the whole land...
+@3936
+Perhaps it is as you say... Even as a vassal, my name will live on. I will take substance over form...
+@3937
+I see, you want me that badly? Then I will become your retainer.
+@3937.1
+Our house survives only under {01}C{0C}{00}'s protection... Then it would not be bad to become a vassal of the {02}{0D}k and dream of the whole land...
+@3938
+Having submitted to the {02}{0D}k, our house no longer has the strength to aim at the whole land... From now on I will serve {01}C{11}{00} as a vassal and dream of it.
+@3938.1
+It is a pity, but our house can no longer be called a daimyo house... That being so, I will serve {01}C{11}{00}.
+@3938.2
+Our house survives only under {01}C{11}{00}'s protection... If {01}C{11}{00} wishes it, I will serve as a vassal...
+@3940
+{01}C{DE}{00}, you accept the offer? With {01}C{0C}{00} and your men in my daimyo house, nothing can stand against us!
+@3941
+Well said, {01}C{0C}{00}. From now on, let us build up the {02}{0D}k together.
+@3942
+{01}C{DE}{00}, well decided, {01}C{0C}{00}. From now on you are all members of our house. I look forward to great things from you.
+@3942.1
+I knew you would join my retainers. My {02}{0B}k is one step closer to the whole land.
+@3943
+Thank you for your decision. As a fellow vassal of the {02}{0D}k, I am grateful.
+@3943.1
+I am delighted. I must hurry back and tell my lord... Then I take my leave.
+@3943.2
+Thank you for your decision. With {01}C{0C}{00}'s ability, even chief elder is not beyond reach.
+@3945
+The {02}{0C}k has come under our rule. The {02}{0C}k has been destroyed
+@3946
+The {02}{0C}k has submitted to the {02}{0B}k. The {02}{0C}k has been destroyed
+@3947
+I see, so you tell me to become your retainer. It is a pity, but I cannot do that. Our dealings end today.
+@3948
+It is a pity, but do not lump me in with yourself. I, {02}{0B}3, have no intention of sinking to be {02}{0D}3's retainer!
+@3949
+{01}C{D6}{00}, good timing! I was just thinking it was about time to cut ties.
+@3949.1
+{01}C{D6}{00}, I submitted to you only to build up my strength. I have no more need of that!
+@3949.2
+{01}C{D6}{0E}, me, become your vassal! {01}C{D6}{00}, what drivel is this? I may have submitted to the {02}{0C}k, but I am a daimyo!
+@3949.3
+{01}C{D8}{0E}, so it was my lands you were after... What a pity. Who would ever become your retainer!
+@3950
+{01}C{DE}{00}, is that so! I was just thinking it was about time to cut ties. Good timing!
+@3950.1
+{01}C{D6}{00}, I submitted to {01}C{11}{00} only to build up my strength. I have no more need of that!
+@3950.2
+What an insolent offer... Our house has submitted to the {02}{0C}k, but that ends today...
+@3950.3
+Did you think I would fall for such smooth talk? How foolish...
+@3952
+Bah, you are an eyesore! Get out of here!
+@3953
+Go back and tell {02}{0D}3 this: even if it means our ruin, I will never become the retainer of the likes of you!
+@3954.1
+If you do not want to die here, get out!
+@3955
+Go back and tell {02}{0D}3: if he wants to destroy the {02}{0B}k, let him come by force. I will face him any time!
+@3955.1
+Go back and tell {02}{0D}3: I, {02}{0B}3, will neither run nor hide. I will face him any time!
+@3955.2
+Go back and tell {02}{0D}3: even if it means our ruin, I will never become his retainer!
+@3955.3
+Bah, you are an eyesore! Someone throw this fool out!
+@3957
+To repay my kindness with ingratitude... Are you really such a fool?
+@3958
+{01}C{D7}{0E}, it seems my good intentions did not reach you. Poor fool, choosing the road to ruin...
+@3959
+{01}C{D8}{0E}, so those are your true feelings... Repaying my generosity with ingratitude cannot be forgiven! Wash your neck and wait!
+@3959.1
+So you were plotting something after all... Repaying my generosity with ingratitude cannot be forgiven! Wash your neck and wait!
+@3959.2
+{01}C{D8}{0E}, it seems you do not know your place... Then I will grant your wish. Wash your neck and wait!
+@3959.3
+You could have chosen to live as my retainer... If you want ruin so badly, I will grant your wish.
+@3960
+Curse you, so you were plotting something after all... Remember this!
+@3960.1
+Th-this is a grave matter! I must report to Lord {02}{0D}3 at once!
+@3960.2
+{01}C{D7}{0E}, I have angered {01}C{0C}{00}... Now I cannot face my lord...
+@3960.3
+Wh-what do you say! You spurn Lord {02}{0D}3's kindness! You will regret this later!
+@3962
+The {02}{0C}k has become independent of the {02}{0B}k
+@3963
+The {02}{0C}k has become independent of our house
+@3964
+Our house has become independent of the {02}{0B}k
+@3965
+I will lend you my strength
+@3966
+I will do as you say
+@3967
+I humbly accept the offer
+@3968
+I will come under the {02}{0C}k
+@3968.1
+I can only join the {02}{0C}k
+@3970
+What nonsense...
+@3971
+You are an eyesore. Get out!
+@3972
+{01}C{D6}{00}, what nonsense!
+@3972.1
+You will have my answer on the battlefield
+@3972.3
+Get out!
+@3973
+Who would ever follow the likes of you!
+@3973.1
+I cannot submit
+@3973.2
+Someone throw this fool out!
+@3973.3
+Someone throw this man out of the castle!
+@3975
+I will become a retainer of the {02}{0C}k...
+@3976
+Get out!
+@3977
+I will never become your retainer
+@3978
+Bah, you are an eyesore!
+@3979
+Tell him I will face him any time!
+@3979.1
+Even if it means ruin, I will never be a retainer
+@3981
+Coming under their rule means defeat for the player and the game is over. Is that all right?
+@3982
+As the {02})2 has become a vassal of the {02}*2, the sortie against the {02}+2 is cancelled
+@3983
+As the {02})2 has become a vassal of the {02}*2, the joint-army agreement between the {02})2 and the {02}+2 is cancelled
+@3984
+As the {02})2 has become a vassal of the {02}*2, the joint-army agreement between the {02}*2 and the {02}+2 is cancelled
+@3985
+As the {02}+2 has been destroyed, the joint-army agreement between the {02})2 and the {02}*2 is cancelled
+@3986
+What
+@3986.1
+Oh
+@3987
+Hmm
+@3988
+Oh
+@3989
+
+@3989.1
+
+@3991
+
+@3991.1
+
+@3993
+
+@3994
+
+@3994.1
+
+@3995
+The {02}{0B}k is a candle in the wind... But I must preserve the {02}{0B}k's name at any cost. {01}C{0C}{00}, lend me your strength...
+@3996
+My business today is simple. Our strength alone can no longer protect the {02}{0B}k. So I would borrow {01}C{0C}{00}'s strength.
+@3997
+My {02}{0B}k no longer has the strength to aim at the whole land. So we wish to come under the {02}{0C}k and preserve our family name.
+@3997.1
+My {02}{0B}k is beset by the daimyo around us, and as things stand our ruin is certain... So I have come to borrow the strength of {01}C{0C}{00}, whose friendship we have long enjoyed...
+@3998
+The {02}{0B}k can no longer aim at the whole land. As things stand, our house will surely perish... So we wish to devote our strength to the {02}{0C}k, whose friendship we have long enjoyed...
+@3998.1
+My lord asks that {01}C{0C}{00} protect the {02}{0B}k with your strength.
+@3501
+This reward and punishment brings neither gain nor loss, so there is nothing to say.
+@3502
+Put in the storehouse
+@3503
+Exchange for another treasure
+@3504
+{01}C{0A}{00} is better suited to be head than I. I shall retire, so build up our clan.
+@3504.1
+For my own reasons I retire... From today, {01}C{0A}{00} is head.
+@3504.2
+I retire... From now on, well, I shall take a few attendants and travel the provinces.
+@3505
+I am not yet equal to {01}C{0B}{00}, but I, {02}{0B}3, shall give all my heart for the clan.
+@3505.1
+Retiring so suddenly... But {01}C{0B}{00} must have reasons...
+@3505.2
+Though I lack talent, I, {02}{0B}3, shall surely fulfil the duty of head!
+@3506
+{02}{0B}2, daimyo of the {02}{0B}k, seems to have retired and passed the headship to {02}{0C}2.
+@3507
+For your sake, I shall become one of the finest officers of the {02}{0B}k.
+@3507.1
+What!? {02}{0C}3 as my wife... I-I am most grateful...
+@3507.2
+{02}{0C}3... The master seems to have known about us already. That is why he arranged this...
+@3508
+I shall serve with all my heart so as not to shame {02}{0C}3's wife.
+@3508.1
+{02}{0C}3... {02}{0B}3 has awaited this day...
+@3508.2
+{02}{0C}3... {02}{0B}3 comes to you... I am unworthy, but please look after me.
+@3509
+To master the %s troop type, {02}{0B}2 will be sent to {02}o2 for training for several months. Is that all right?
+@3510
+Yes, let them train.
+@3511
+No, on second thought, never mind.
+@3512
+Yes, then I go to train. I shall work hard to show results as soon as possible.
+@3513
+Master, my training is finally over and I can lead %s. Look forward to my work on the battlefield!
+@3514
+As {02}{0C}2 is no longer an officer of the {02}{0B}k, the training is cancelled.
+@3515
+As {02}{0B}2 has become a daimyo, the training is cancelled.
+@3516
+As {02}{0B}2 has become a Corps Commander, the training is cancelled.
+@3517
+As all castles in {02}y2 were lost, the training of {02}{0C}2 is cancelled.
+@3518
+As the local gentry where {02}{0B}2 trains have fallen, the training of {02}{0B}2 is cancelled.
+@3519
+{02}o2, where {02}{0B}2 trains, has turned hostile to our clan, so the training of {02}{0B}2 is cancelled.
+@3520
+The basics of archery begin with posture. Straighten your back and arms well, and aim at the target.
+@3520.1
+Do not seek merely to hit the mark... Put your sincerity into each arrow, and let the hit come of itself.
+@3520.2
+Archery is the way of virtue. The archer seeks what is right in himself. Only when he is upright does he loose...
+@3521
+The handling of the reins, the placing of the stirrups. I will show you, so watch well.
+@3521.1
+The heart of riding is "man and horse as one". It begins with building trust with the horse...
+@3521.2
+No horsemanship without a living horse... Our school leaves no written texts. Its secrets pass only by word of mouth and practice...
+@3522
+Load the ball and powder, set the match, take aim, and open the pan. Keep calm as you do it.
+@3522.1
+For one shooter, seat three loaders back to back in a circle... If they share the reloading as a flow, you can fire at a frightening speed.
+@3522.2
+To raise the power, increase the powder. But to raise the accuracy, you must rather reduce the powder.
+@3523
+Cannon are hard to handle, but their power is immense. Study them with care.
+@3523.1
+This is a cannon from the Nanban lands. Some call it a castle-breaker... Being so large, it cannot be carried by hand. So we use a cart...
+@3523.2
+In essence it is the same as a gun... Push powder and shot in from the muzzle, take aim, then light it at the touchhole.
+@3524
+Supply is modest work, but it plays a vital part in battle. After all, no one can fight on an empty stomach.
+@3524.1
+Cut off the supply, and even the strongest troops cannot win. I will teach you how to secure it.
+@3524.2
+First, learn arithmetic... You must know how much rice the troops eat in a day, and how many arrows and shot one battle uses.
+@3525
+{01}C{DE}{00}! A hit! Your archery has improved a great deal, {01}C{03}{00}.
+@3525.1
+Oh, another hit! I think I am beginning to grasp the secrets of the {02}{0C}5 school of archery.
+@3525.2
+Not only has my archery improved, I can keep my heart calm now... This is thanks to my teacher.
+@3526
+I see... I am beginning to grasp the secrets of horsemanship. This is thanks to {01}C{0C}{00}'s teaching.
+@3526.1
+Fast, so fast... It is like becoming the wind. I cannot believe it... That a horse could move as I wish.
+@3526.2
+Hyah, hyah... Strange, but I feel I could ride even the wildest horse now.
+@3527
+Load... set... take aim... {01}C{DE}{00}! A hit! I have improved quite a lot.
+@3527.1
+Hm... The gun feels like part of my body. Lately even the smell of gunsmoke feels strangely pleasant...
+@3527.2
+I hit the target as if for fun... Once I master the {02}{0C}5 school of gunnery, my gunners' power will be beyond measure...
+@3528
+{01}C{DE}{00}! What power! With this, I could break through even the stoutest gate!
+@3528.1
+Good, a hit! Hahaha, practice is so much fun I cannot stop!
+@3528.2
+I am getting the knack... I could hit the target even a fathom farther away.
+@3529
+I see... Success in supply decides victory or defeat. Even baggage trains cannot be neglected.
+@3529.1
+Judge the scale of the battle and decide the quantity of provisions... I can almost work it out in my head now.
+@3529.2
+Now I understand supply! On paper, I can supply any great army... I want to try it in a real battle soon.
+@3530
+Ah... My hands are shaking... The arrows will not fly straight.
+@3530.1
+Ugh... My hands are shaking... The arrows will not fly straight.
+@3530.2
+The harder I train, the less my arrows hit... Hmm, what to do...
+@3530.3
+Achoo!! ...It seems I have caught a cold. I-I cannot shoot like this... Achoo!!
+@3531
+Whoa... Come on! You wild horse, obey me! A-ah!
+@3531.1
+Whoa... Come on! You wretched nag, obey me! W-whoa!
+@3531.2
+Ugh! ...Thrown again. That is five times today... O-ouch... My body cannot take this...
+@3531.3
+Ow, ow... I hurt my back when I fell off... No more training for today.
+@3532
+Oh, the shot will not come out. Is this gun broken...? Oh! I forgot to load the powder.
+@3532.1
+Hm, no shot comes out. Is this gun broken? ...Eh? Did I not load the powder...
+@3532.2
+I carelessly touched the barrel, hot from rapid fire, and got a bad burn... No practice for a while... Alas...
+@3532.3
+Shooting is easy, but hitting is hard... Not one shot has hit so far... Ah, I have run out of shot!
+@3533
+It takes so much trouble before it fires... The battle would be over before I fired a shot...
+@3533.1
+Hmm... What trouble it takes before it fires! The battle would be over before I fired a shot.
+@3533.2
+Damn! While my guard was down, the cannon slid down the slope... ...Ah... Why is there a swamp there...
+@3533.3
+Blast, missed again! The shot flew in a wild direction... Eh, what is this? {02}{0C}3's residence is in pieces!
+@3534
+This ration goes here... That supply goes... not here, but... Ah, this sort of work really does not suit me.
+@3534.1
+This ration goes here... That supply goes... not here, but... Hmm, this sort of work really does not suit me.
+@3534.2
+The provision count will not come out right... No matter how often I redo it... The battle will be over like this...
+@3534.3
+While carrying the rations I took a nibble, and ate too much, hence this state... Shameful... Ugh, where is it! Where is the privy!!
+@3535
+The training of {02}{0B}2 in %s seems to be going well.
+@3536
+The training of {02}{0B}2 in %s seems to be struggling.
+@3537
+{01}C{0C}{00}, you have endured the hard training well. As of today, your %s training is over.
+@3538
+Oh! Is that so! Now I can lead a %s unit.
+@3538.1
+Oh! Is that so! Now I can lead a %s unit.
+@3539
+Good. Then, as proof of full mastery, I give you this {02}G2. Take it with you.
+@3540
+What! Even this! {01}C{0C}{00}, you have given me everything. I will never forget this kindness.
+@3540.1
+What! Even this! {01}C{0C}{00}, you have given me everything. I will never forget this kindness.
+@3541
+I gratefully accept. I, {02}{0B}3, shall serve all the more faithfully.
+@3542
+To attack {02}y2 we must cross {02}z2. Let us ask the {02}{A1}2, who rule these waters, to transport our army.
+@3543
+This is the {02}{0C}k... You wish to cross {02}y2?
+@3543.1
+So you are the ones who want to cross {02}y2?
+@3544
+I am sorry, but another party came first... All the ships in these parts are out. I cannot carry your troops.
+@3544.1
+Unfortunately, someone came before you. All the ships hereabouts are out. I cannot carry your troops.
+@3545
+We owe the {02}{0C}k no favour that would make me grant this. I refuse.
+@3546
+The {02}{0D}k has told us not to carry other houses' troops... I cannot transport you.
+@3546.1
+The {02}{0D}k has told us not to carry other houses' troops... I cannot transport you.
+@3547
+Let me see... I will carry an army of up to %d officers. How about %d gold per squad?
+@3547.1
+Let me see... I'll carry an army of up to %d officers for you. %d gold per squad, how about that?
+@3548
+This time, I, {02}{0B}3, will command in person. I expect great things of you all!
+@3548.1
+This time, I, {02}{0B}3, will command in person. I expect great things of you all!
+@3548.2
+{01}C{D5}{00}, we march out! We go to battle in {02}y2 Province!
+@3549
+{01}C{0B}{00}, to attack the {02}{0D}k I wish to advance our troops into {02}y2. I beg your leave to march out.
+@3550
+The {02}{0D}k is tied to us by marriage. We cannot attack the {02}{0D}k.
+@3551
+I see. If {01}C{0B}{00} says so, it cannot be helped. I shall call off the sortie...
+@3552
+{01}C{0B}{00}, we tried to march into {02}y2 Province but were forbidden by the {02}{0D}k. It seems hard to attack the {02}{0E}k.
+@3553
+The {02}{0D}k is on close terms with us. We cannot attack the {02}{0D}k.
+@3555
+The {02}{0C}k holds ample territory. Starting wars at random and disturbing the realm is not admirable.
+@3556
+I see... Then I shall call off the sortie.
+@3557
+The {02}{0C}k's yield already exceeds ours. To expand their lands further is out of the question.
+@3558
+Yes, my lord! I shall call off the sortie.
+@3559
+{01}C{0A}{00}, one must not raise troops at random. Refrain from marching out this time.
+@3560
+The {02}{0D}k is an eyesore to our clan as well... Understood. Fight to the full and defeat the {02}{0D}k.
+@3560.1
+The {02}{0D}k is an eyesore to our clan as well... Very well. Fight to the full and defeat the {02}{0D}k.
+@3561
+Yes, my lord! Thank you.
+@3562
+Oh, indeed! As a parting gift I will send %s %d. Make use of it in battle.
+@3563
+What! Such thoughtfulness is an honour beyond words. I shall win great results in this war, so look forward to it.
+@3564
+{02}{0B}2, {02}{0C}2, head of the {02}{0C}k, has arrived.
+@3565
+{01}C{0B}{00}, our army means to march into {02}y2 to attack the {02}{0D}k. I have come today to ask your leave.
+@3566
+I permit the sortie.
+@3567
+Refrain from marching out.
+@3568
+Permit the {02}{0B}k to march against the {02}{0C}k? (Battle province: {02}y2)
+@3569
+Yes, my lord! I am grateful for your leave. We now march out to {02}y2.
+@3570
+I see... If {01}C{0B}{00} says so, I shall call off the sortie...
+@3571
+We are short of warhorses. Some troops cannot march out.
+@3571.1
+We are short of warhorses, so some troops cannot march out.
+@3572
+We are short of guns. Some troops cannot march out.
+@3572.1
+We are short of guns, so some troops cannot march out.
+@3573
+We have no cannon... We cannot march out like this.
+@3573.1
+We have no cannon. We cannot march out like this.
+@3574
+If my pikemen form a spear wall, we can repel any enemy.
+@3574.1
+If my pikemen form a spear wall, we can repel any enemy.
+@3575
+With archers, my troops' continuous fire will cause the enemy grievous losses.
+@3575.1
+With archers, my troops' continuous fire can cause the enemy grievous losses.
+@3576
+In the next battle, my unit's cavalry charge will surely win.
+@3576.1
+In the next battle, I would very much like to win results with my unit's cavalry charge.
+@3577
+With my gunners' three-rank volley, I shall break the enemy line.
+@3577.1
+My gunners can fire even in the rain. The enemy will be taken aback.
+@3577.2
+With my gunners' three-rank volley, I shall break the enemy line.
+@3577.3
+If {01}C{03}{00} leads the gunners, we can fire even in the rain.
+@3578
+If I lead the cannon unit, we can fire even in the rain. We shall win great results on a rainy field.
+@3578.1
+If I lead the cannon unit, we can fire even in the rain. We shall win great results on a rainy field.
+@3578.2
+If {01}C{03}{00} leads the cannon unit, we can fire even in the rain. We shall win great results on a rainy field.
+@3579
+Request joint forces from another daimyo?
+@3580
+We shall now fight the {02})2 in {02}y2. I want the {02}{0C}k to attack the {02})2 as well at this chance.
+@3580.1
+We intend to fight the {02})2 in {02}y2. We would be glad if the {02}{0C}k would also seize this chance to attack the {02})2.
+@3581
+Accept the request from the {02}{0B}k to join forces?
+@3582
+If it is {01}C{0B}{00}'s request, I cannot refuse. I shall prepare to send out the army at once.
+@3582.1
+So we attack the {02})2 together. Understood! I shall prepare to send out the army at once.
+@3583
+I am grateful. Then we meet on the battlefield.
+@3583.1
+I am grateful. Then I leave it to you.
+@3584
+Then I count on you.
+@3584.1
+Then I count on you.
+@3585
+The {02}{0C}k has promised to march into {02}y2 to attack the {02})2.
+@3586
+You have promised the {02}{0B}k to march into {02}y2 to attack the {02})2.
+@3587
+Asked to send troops so suddenly... our clan has its own circumstances. Please excuse us this time.
+@3587.1
+Asked to send troops so suddenly... our clan has its own circumstances. Please leave this time.
+@3588
+I see... Then we shall attack on our own.
+@3588.1
+I see... Then we shall attack on our own.
+@3589
+What! To refuse the request of our lord house... It cannot be helped. We shall attack on our own.
+@3589.1
+What! To refuse the request of our lord house... Hmph, it cannot be helped. We shall attack on our own.
+@3590
+The {02}{0C}k refused our request to join forces.
+@3591
+You refused the request of the {02}{0B}k to join forces.
+@3592
+This month we were to march into {02}y2 with the {02})2 to attack the {02}*2, were we not?
+@3592.1
+This month we were to march into {02}y2 with the {02})2 to attack the {02}*2.
+@3593
+You have promised the {02})2 to join forces. Is it all right not to march out?
+@3594
+{02}{0B}2! The {02})2 seems to have marched into {02}y2, keeping their promise to join forces with us.
+@3595
+{02}{0B}2! The {02})2 seems to have ignored their promise to join forces with us.
+@3596
+Breaking a promise... The {02}{0C}k cannot be trusted.
+@3596.1
+Breaking a pledge... The {02}{0C}k cannot be trusted.
+@3597
+As the promise to join forces was broken, friendship with the {02})2 fell.
+@3598
+The {02})2 can no longer march into {02}y2 to attack the {02}*2. The promise to join forces is cancelled.
+@3599
+Our 1st Corps cannot march into {02}y2 to attack the {02}*2. The promise to join forces with the {02})2 is cancelled.
+@3600
+{02}{0B}2! The army of the {02})2 is advancing on {02}y2! They seem to mean to invade our territory.
+@3601.2
+Uncle
+@3601.3
+Aunt
+@3601.4
+Uncle
+@3601.5
+Aunt
+@3603
+Leave it to me, {01}C{0B}{00}. I shall fulfil the duty of Corps Commander splendidly.
+@3603.1
+{01}C{0C}{00}, leave the Corps Commander post to me. I shall serve splendidly.
+@3603.2
+A man of so little talent as {01}C{03}{00} is too slight for the post of Corps Commander. But if {01}C{0B}{00} says so, I shall give it my all.
+@3603.3
+I humbly accept the appointment as Corps Commander. I shall serve faithfully to meet {01}C{0B}{00}'s expectations.
+@3603.4
+{01}C{DB}{00} I humbly accept the appointment as Corps Commander. I shall take up the post with all my strength for the {02}{0C}k.
+@3603.5
+{01}C{DE}{00}, you would entrust an army to me, {02}{0B}3... I shall splendidly meet {01}C{0B}{00}'s expectations.
+@3604
+{01}C{0B}{00}, {01}C{11}{0E} cannot serve as the general of an army. Please reconsider.
+@3604.1
+{01}C{0B}{00}, {01}C{11}{0E} cannot serve as the head of an army. Will you not reconsider?
+@3604.2
+{01}C{0B}{00}, {01}C{15}{00} cannot serve as the general of an army. Please reconsider...
+@3604.3
+W-what! {01}C{03}{00} is inferior to {01}C{15}{00}! That cannot be. {01}C{0B}{00}, please reconsider!
+@3604.4
+{01}C{0B}{00}, {01}C{15}{00} is not of the calibre of a Corps Commander. Please reconsider...
+@3605
+Then I shall leave it to {01}C{09}{00} after all.
+@3605.1
+Then I shall leave it to {01}C{0A}{00} after all.
+@3605.2
+Then I shall leave it to you after all.
+@3605.3
+Understood. The change is called off.
+@3606
+I cannot accept that opinion.
+@3606.1
+{01}C{0A}{00}! Do not overstep yourself!
+@3606.2
+No! Do not overstep yourself!
+@3607
+Cancel the Corps Commander's reappointment?
+@3608
+{01}C{0B}{00}, do not startle me so. I am the right man after all.
+@3608.1
+You accept my word! After all, no one but {01}C{03}{00} can be Corps Commander.
+@3608.2
+I thank you for accepting my word. I shall serve all the more faithfully.
+@3608.3
+Thank you, {01}C{0B}{00}. I shall take up the post of Corps Commander with greater zeal.
+@3608.4
+You accept my word! As I thought, I, {02}{0B}3, am the right man for Corps Commander. I thank {01}C{0B}{00} for the decision.
+@3609
+{01}C{DD}{00}... If {01}C{0B}{00} has decided, it cannot be helped... But I think {01}C{03}{00} is more suitable...
+@3609.1
+{01}C{DD}{00}... It is {01}C{0C}{00} who decides the post of Corps Commander... I shall withdraw for now. But I cannot accept it.
+@3609.2
+If {01}C{0B}{00} has decided it, it cannot be helped, but...
+@3609.3
+If it is {01}C{0B}{00}'s will, it cannot be helped... But I, {01}C{03}{00}, cannot accept this treatment...
+@3609.4
+{01}C{DD}{00}... What a pity... But if these are {01}C{0B}{00}'s words, it cannot be helped...
+@3610
+Leave it to me, {01}C{0B}{00}. From now on, I, {02}{0B}3, shall command the corps.
+@3610.1
+{01}C{D6}{00}, leave the command of the corps to me, {02}{0B}3.
+@3610.2
+A man of so little talent as {01}C{03}{00} is too slight for so great a charge. But if {01}C{0B}{00} says so, I shall give it my all.
+@3610.3
+{01}C{DB}{00} From now on, {01}C{02}{00} will command the corps.
+@3610.4
+Leave the command of the corps to me. I shall take up the post of Corps Commander so as not to betray {01}C{0B}{00}'s expectations.
+@3610.5
+Watch my deeds. I shall surely meet {01}C{0B}{00}'s expectations.
+@3611
+Understood, {01}C{0B}{00}. I shall move %s as instructed.
+@3611.1
+Understood, leave it to me. I shall move %s as {01}C{0B}{00} instructs.
+@3611.2
+{01}C{DB}{00} All the disposition of %s will follow {01}C{0B}{00}'s orders.
+@3611.3
+{01}C{0B}{00}, understood. I shall move %s as instructed.
+@3611.4
+{01}C{DB}{00} Leave it to me. %s shall do as ordered.
+@3612
+Leave it to me, {01}C{0B}{00}. I shall conquer {02}y2 splendidly.
+@3612.1
+Understood. The conquest of {02}y2 is for %s, so leave it to us.
+@3612.2
+It is too heavy a charge for {01}C{03}{00}, but if {01}C{0B}{00} says so, I shall do my utmost.
+@3612.3
+{01}C{DB}{00} %s will devote itself to the conquest of {02}y2.
+@3612.4
+{01}C{DB}{00} As instructed, %s will conquer {02}y2.
+@3612.5
+Understood. The conquest of {02}y2, then.
+@3613
+Understood, {01}C{0B}{00}. The defence of our domain.
+@3613.1
+The defence of %s's domain, leave it to me. I shall not allow other houses to invade.
+@3613.2
+The defence of the domain... I am not very confident, but I shall do my best.
+@3613.3
+{01}C{DB}{00} %s will strengthen the defence of the domain and prepare so the enemy cannot invade.
+@3613.4
+Yes, my lord! I shall fortify the domain so that other houses cannot invade.
+@3613.5
+From now on, %s will fortify the domain.
+@3614
+{01}C{0B}{00}, leave it to me. Then I shall begin developing the %s domain at once.
+@3614.1
+The development of %s's domain, leave it to me. Now, I must think up a development policy at once...
+@3614.2
+{01}C{DD}{00}... Development... It is not my strength, but if {01}C{0B}{00} says so, I shall obey.
+@3614.3
+Yes, my lord! %s will work on developing the domain.
+@3614.4
+Developing the domain. Understood. Let us begin at once.
+@3614.5
+As {01}C{0B}{00} says, I shall push forward the development of the %s domain.
+@3615
+Cancel the transport? Is that all right?
+@3620
+
+@3620.1
+
+@3622
+
+@3622.1
+
+@3623
+
+@3623.1
+
+@3625
+
+@3625.1
+
+@3628
+
+@3628.1
+
+@3629
+
+@3629.1
+
+@3630
+{02}{0B}2, an envoy seems to have come from the {02}{0C}k.
+@3631
+{01}C{0C}{00} has come in person? Show them in here at once. Now, what business could it be...
+@3631.1
+An envoy has come from {01}C{11}{00}? In any case, show them in here. Now, what business could it be...
+@3631.2
+An envoy from {01}C{11}{00}? Understood, I shall see them. Show them in here at once.
+@3631.3
+{01}C{DE}{00}, an envoy from {01}C{11}{00} has come. Show them in here at once.
+@3632
+{02}{0D}2 has come in person! I cannot very well refuse... It cannot be helped, send them in here.
+@3632.1
+An envoy from {02}{0D}2! I cannot very well refuse... It cannot be helped, send them in here.
+@3632.2
+An envoy from {02}{0D}2... I cannot very well refuse to see them... It cannot be helped, send them in here.
+@3633
+{01}C{DE}{00}, {02}{0C}2 has come in person! I shall meet them at once. Bring them here.
+@3633.1
+{01}C{DE}{00}, an envoy of {01}C{11}{00}! I shall meet them at once. Bring them here.
+@3633.2
+An envoy of {01}C{11}{00} has arrived! Bring them here at once. Be sure to show proper courtesy.
+@3634
+{02}{0C}2 has come in person... Then show them in here.
+@3634.1
+An envoy from {01}C{11}{00}? Well, I shall meet them. Show them in here.
+@3634.2
+An envoy of {01}C{11}{00} has arrived! Show them in here at once.
+@3635
+{01}C{0C}{00} has come in person? Very well, send them in here.
+@3635.1
+An envoy from {01}C{11}{00}? Very well, send them in here.
+@3635.2
+{01}C{DE}{00}, an envoy from {01}C{11}{00} has come. Send them in here at once.
+@3636
+{02}{0D}2 has come in person! Send them in here at once!
+@3636.1
+An envoy from {02}{0D}2! Send them in here at once!
+@3636.2
+An envoy of {02}{0D}2! ...Surely that {01}C{16}{00} would not send an envoy...
+@3637
+{01}C{DE}{00}, {02}{0C}2 has come in person! Then show them in here at once.
+@3637.1
+An envoy of {01}C{11}{00}, is it? Send them in here at once.
+@3637.2
+An envoy of {01}C{11}{00}... Send them in here at once.
+@3638
+{02}{0C}2 has come to meet me in person... Then show them in here.
+@3638.1
+I see, an envoy from {01}C{11}{00}. Then send them in here.
+@3638.2
+An envoy has come from {01}C{11}{00}. Very well, I shall see them.
+@3639
+{01}C{DE}{00}, {01}C{0C}{00} has come! Show them in here at once.
+@3639.1
+An envoy from {01}C{11}{00}? Send them in here. I do not know what business it is, but I shall meet them.
+@3639.2
+An envoy from {01}C{11}{00}? Understood, I shall meet them.

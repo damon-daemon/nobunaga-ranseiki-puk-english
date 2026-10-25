@@ -1,0 +1,1054 @@
+@10300
+◆{02}{8D}2 notable serves {02}{0B}2.
+@10301
+◆{02}{A1}2 notable serves {02}{0B}2.
+@10302
+◆{02}{0B}2 gains {02}G2.
+@10303
+◆The 1st Corps of the {02}{0B}5 clan gains %d guns and %d cannon.
+@10304
+◆{02}{0B}5 1st Corps loses up to %d gold.
+@10305
+◆The wife of {02}{0B}2 dies.
+@10306
+{02}{0B}2, daimyo of {02}y2, had fallen ill. Sensing that death was near, {02}{0B}3 summoned the retainers.
+@10307
+{01}C{D5}{00}, the reason I have called you here today is none other than the headship of the {02}{0B}5 clan after my passing.
+@10308
+{01}C{0B}{00}, you must not speak so. The {02}{0C}5 clan still has great need of your strength.
+@10308.1
+{01}C{0B}{00}, pray do not say such a thing. The {02}{0C}5 clan still has great need of your strength.
+@10309
+No, I have not long left. No one knows my own body better than I.
+@10310
+{01}C{0B}{00}...
+@10311
+{01}C{0A}{00}, I pass the headship to you. Look after the {02}{0B}5 clan, I beg you.
+@10311.1
+{01}C{0A}{00}, I pass the headship to you. Look after the {02}{0B}5 clan.
+@10312
+{01}C{DB}{00} I, {02}{0B}3, accept with humble thanks.
+@10312.1
+{01}C{DB}{00} I am young and unworthy, but I accept with humble thanks.
+@10313
+Ah, now the burden is lifted from my shoulders. I am weary. Let me sleep a while.
+@10313.1
+Now the burden is lifted from my shoulders. I am weary. Let me sleep a while.
+@10313.2
+Hm, the burden is lifted at last. I am weary, so I shall sleep a while.
+@10314
+Having passed on the headship, {02}{0B}3 breathed their last soon after. It had been a life full of upheaval.
+@10315
+Here in {02}{97}2, the castle of {02}{0B}2... An assassin hired by the {02}{0C}5 clan slipped past the tight guard and was creeping toward the bedchamber of {02}{0B}3.
+@10316
+(It seems I got in without trouble... That must be {02}{0B}2.)
+@10317
+(Forgive me, but your life is mine. Prepare yourself!)
+@10318
+Guh! An intruder! Somebody... help...
+@10319
+(Did I fail to finish the job? Still, with that wound they will not last long. Best to be gone quickly.)
+@10320
+{01}C{0B}{00}, {01}C{0B}{00}! What has happened?
+@10320.1
+{01}C{0B}{00}, {01}C{0B}{00}! What has happened?
+@10321
+An intruder... ugh...
+@10322
+{01}C{0B}{00}! Hold on! Somebody, a doctor, fetch a doctor!
+@10322.1
+{01}C{0B}{00}! Hold on! Somebody, a doctor, fetch a doctor!
+@10323
+{02}{0B}3 was treated at once, but the wound was deep and it was already too late.
+@10324
+{01}C{0B}{00}, hold on! Damn it, who would do such a thing?
+@10325
+It must have been the work of the {02}{0D}5 clan. Those fiends hired an assassin... they were after my life...
+@10326
+{01}C{0A}{00}... Take up my place and avenge this wrong... I trust you... with this...
+@10326.1
+{01}C{0A}{00}... Take up my place and avenge this wrong... I trust you... with this...
+@10326.2
+{01}C{0A}{00}... Take up my place and avenge this wrong for me... I trust... you...
+@10327
+{01}C{0B}{00}!? Damn those {02}{0D}5 men! I, {02}{0B}3, will surely avenge {01}C{0B}{00}!
+@10328
+And so {02}{0B}2 lost their life to an assassin's hand. It had been a life full of upheaval.
+@10329
+Here in {02}{97}2, the castle of {02}{0B}2... {02}{0B}3 summoned the retainer {02}{0C}2 and broached a matter.
+@10330
+{01}C{0A}{00}... I have something important to tell you.
+@10330.1
+{01}C{0A}{00}... I have something important to tell you.
+@10331
+...? What might it be?
+@10332
+I am truly grateful for your loyal service, {01}C{0A}{00}. I believe you can support our house well.
+@10332.1
+I am truly grateful for your loyal service, {01}C{0A}{00}. I believe you can support our house well.
+@10333
+{01}C{DB}{00} Such kind words! I have done all I could, though my strength is small. But what is this about...
+@10334
+I am glad of your words... What I wish to say is this: I shall pass the headship to {01}C{0A}{00} and retire.
+@10334.1
+I am glad of your words... What I wish to say is simply this: I shall pass the headship to {01}C{0A}{00} and retire.
+@10334.2
+Hm, I am glad of your words... What I wish to say is simply this: I shall pass the headship to {01}C{0A}{00} and retire.
+@10335
+What!? What did you just say? B-but why...?
+@10336
+No, I am simply tired... It is about time.
+@10337
+What are you saying... Are you not still in good health?
+@10337.1
+What are you saying... Are you not still in good health?
+@10338
+I know when to step aside.
+@10339
+But...
+@10340
+There is no time to waste on talk like this. My mind is made up.
+@10341
+Hmm... Very well. I, {02}{0B}3, shall take {01}C{0B}{00}'s place and bring the realm together!
+@10341.1
+Hmm... Very well. I, {02}{0B}3, shall take {01}C{0B}{00}'s place and bring the realm together!
+@10342
+Excellent! That is just what I expect of {01}C{0A}{00}.
+@10343
+{02}{0B}2 retired, and {02}{0C}2 took over the headship. The challenge of {02}{0C}3 for mastery of the realm begins now...
+@10344
+{02}{0B}2, head of the {02}{0B}5 clan, summoned the retainer {02}{0C}2.
+@10345
+{01}C{0A}{00}, do you know of an officer named {02}{0D}2?
+@10346
+{01}C{DB}{00} I have heard rumours. They say a man of some standing...
+@10347
+That person is a hero of his age... I would very much like to add them to our retainers.
+@10348
+I see... I accept the task. I will surely bring {02}{0D}5 into our house.
+@10349
+{02}{0B}3 promptly approached {02}{0C}2 and tried to persuade them. At first they were given no hearing at all, but {02}{0B}3 persevered with patience.
+@10350
+Before long, good news reached {02}{0B}3.
+@10351
+{01}C{0B}{00}, I have brought {02}{0D}5. Come, {02}{0D}5, this way.
+@10352
+It is an honour to meet you. I am {02}{0B}2.
+@10353
+Ah! Well met indeed! I heartily welcome {02}{0C}5 into our service.
+@10354
+{02}{0C}3 is the one who will lead the realm to peace... {02}{0D}3 told me so, and so, though it pained me, I left my lord and came.
+@10355
+If {02}{0C}3 proves to lack the capacity, I shall beg my old lord's pardon at once and return. If that is acceptable, I will serve {02}{0C}3.
+@10356
+I shall take those words to heart. I will strive not to betray your expectations. {02}{0C}3, I look to you.
+@10358
+Thus {02}{0B}2 deserted the {02}{0D}5 clan and came to serve {02}{0C}2.
+@10359
+The {02}{0C}5 clan lost its former vigour, and the hearts of its retainers drifted from their lord. {02}{0B}2 was one of them.
+@10360
+If I go on serving the {02}{0C}5 clan, there is no future... Perhaps now is the turning point.
+@10360.1
+If I go on serving the {02}{0C}5 clan, there is no future... Perhaps now is the turning point.
+@10361
+Resolved to desert, {02}{0B}2 led the whole family and followers to call on {02}{0C}2 at {02}{97}2.
+@10362
+It is my first audience with you, {02}{0C}3.
+@10363
+Well met! But why did you desert the {02}{0D}5 clan?
+@10364
+The fall of the {02}{0D}5 clan cannot be reversed. I thought of sharing its fate to the end, but...
+@10365
+I, too, have a family and followers to feed. That is how it came to this.
+@10366
+When a house declines, it is only natural that it cannot hold its retainers. You need not feel ashamed.
+@10366.1
+Hm, when a house declines, it is only natural that it cannot hold its retainers. You need not feel ashamed.
+@10367
+Your words are most kind.
+@10368
+{02}{0C}3's talent seems to have been wasted in the {02}{0D}5 clan... In our house, show your full strength.
+@10369
+Yes! I shall repay this kindness with my service without fail.
+@10371
+Here in {02}{97}2, the castle of {02}{0B}2, the retainer {02}{0C}2 had come to see their lord.
+@10372
+{01}C{0B}{00}, there is a ronin named {02}{0D}2 who has come to the castle town. Do you know of them?
+@10373
+No, I do not. What sort of person is this?
+@10374
+They say a wise talent too good to be left a wanderer.
+@10374.1
+They are a wanderer now, but they say a person of great martial fame.
+@10374.2
+Very sharp, they say. Rumour has it they were once a strategist somewhere.
+@10374.3
+A cultured person with deep knowledge of governance, they say.
+@10374.4
+A person of some promise, they say... It is the talk of the castle town.
+@10375
+Oh, how interesting. {01}C{0A}{00}, bring that person here at once.
+@10375.1
+Oh, how interesting. {01}C{0A}{00}, bring that person here at once.
+@10377
+{02}{0B}3 went straight to the castle town, found where {02}{0D}2 was, and brought them before {02}{0C}3.
+@10378
+Ah, {01}C{0B}{00}. What business could you have with a wanderer like me?
+@10379
+It would be a pity to let one of your talent lie buried in the world, {01}C{0A}{00}. Will you not work under me?
+@10379.1
+Hm, it would be a pity to let one of your talent lie buried in the world, {01}C{0A}{00}. Will you not work under me?
+@10380
+I am tired of wandering. I will gladly serve.
+@10380.1
+This is a boat at the crossing, as they say. I will gladly serve.
+@10381
+And so {02}{0D}2 came to serve {02}{0C}2.
+@10382
+{02}{0B}2, an officer of the {02}{0C}5 clan, had invited their lord {02}{0C}2 to the tea room at home.
+@10383
+That was a fine tea indeed. Well, {01}C{0A}{00}, I shall be returning to the castle now.
+@10383.1
+Hm, that was a fine tea. Well, {01}C{0A}{00}, I shall be returning to the castle now.
+@10383.2
+Hm, that was a fine tea. Well, {01}C{0A}{00}, I shall be returning to the castle now.
+@10384
+Returning to the castle? {01}C{0B}{00}, with respect, there is no castle left for you to return to.
+@10385
+What are you saying? I said I am going back to {02}{97}2. See me off at least.
+@10385.1
+What are you saying? I said I am going back to {02}{97}2. At the very least, you should see me off.
+@10385.2
+What are you saying? I said I am going back to {02}{97}2. See me off at least.
+@10386
+Heh... Then let me escort you to the castle.
+@10387
+But when {02}{0B}3 tried to return to the castle, the gatekeepers blocked the way.
+@10388
+What is the meaning of this!? Do you know who I am to dare such an outrage?
+@10389
+Do not make a fuss... From today our lord is {02}{0B}2.
+@10390
+By the mercy of {02}{0B}3, {02}{0C}3 has been sentenced to banishment.
+@10391
+What!? {01}C{0A}{00}! What is the meaning of this?
+@10392
+As you have heard. From today I shall rule this house in place of {01}C{0B}{00}.
+@10393
+Impossible! {01}C{0A}{00}, you would rebel against me? Damn you! You are a retainer! Have you forgotten all my favours?
+@10394
+These are the days of war. It is only natural that one who cannot hold the house together is cast out. Now, be gone at once!
+@10395
+Grr! Damn you, {01}C{0A}{00}! I shall not forget this grudge.
+@10396
+And so {02}{0B}2 banished their lord {02}{0C}2, became daimyo, and declared a bid for the realm.
+@10397
+In the Sengoku era, a retainer's rebellion was nothing rare. Here in the {02}{0B}5 clan too...
+@10398
+{01}C{0B}{00}, there are signs of unrest among the gentry of {02}y2. We should take measures before it is too late.
+@10399
+The gentry? Hmm... Then I shall lend you troops. Put them down for me.
+@10399.1
+The gentry? Hmm... Then I shall lend you troops. Put them down in fine style.
+@10400
+Yes, leave it to me!
+@10401
+And so {02}{0C}2 was given troops to subdue the gentry. But then unexpected bad news reached {02}{0B}2.
+@10402
+What! Is it true!?
+@10403
+Yes! There is no mistake. {02}{0B}2, they have seized {02}{97}2!
+@10404
+Damn you, {01}C{0A}{00}! You have tricked me! This will not stand!
+@10405
+{01}C{D6}{00} It went perfectly. From today I shall use {02}{97}2 as my foothold in the bid for the realm.
+@10406
+And so {02}{0B}2 became master of {02}{97}2. The challenge of {02}{0B}3 for mastery of the realm begins now.
+@10407
+{02}{0B}2, a retainer of the {02}{0C}5 clan, bore a grudge against their lord {02}{0C}2.
+@10408
+Kill {02}{0C}3! {02}{0B}3 bided their time, waiting for the chance. Then one day...
+@10409
+How are things at {02}{97}2?
+@10409.1
+How are things at {02}{97}2?
+@10410
+Yes, as you said, only a handful remain in the castle.
+@10411
+So it is. The retainers must all have returned to their own lands. The castle's defence must be thin.
+@10412
+Now even my own men should be enough to take down {02}{0C}3. Right, march out!
+@10413
+The army of {02}{0B}3 met little resistance and surrounded {02}{97}2.
+@10414
+How easy. {02}{0C}3, at last you are cornered.
+@10414.1
+How easy. {02}{0C}3, at last you are cornered.
+@10415
+{02}{0C}3! You can no longer run or hide. Prepare yourself!
+@10415.1
+{02}{0C}3! You can no longer run or hide. Prepare yourself!
+@10416
+{01}C{0A}{00}! What is the meaning of this outrage? Do you truly think you can strike down {02}{0B}3?
+@10417
+Hmph. After all the years you have slighted me, I will have my long-held revenge!
+@10417.1
+Hmph. After all the years you have slighted me, I will have my long-held revenge!
+@10418
+{01}C{0C}{00}, that is enough!
+@10418.1
+{01}C{0C}{00}, that is enough!
+@10000
+<Dream Chapter - Guide>\nYou cannot select the Dream Chapter until you clear every mission in the Realm Chapter.
+@10001
+Select the officer to edit
+@10002
+Confirm and save the edits
+@10003
+Cancel editing
+@10004
+Quit this editor
+@10005
+Show help for this editor
+@10006
+Shows the officer's birth year
+@10007
+Death year [now to birth year+89]: sets death year
+@10008
+Select the daimyo to edit
+@10009
+Select a daimyo to change friendship
+@10010
+Name of the daimyo being edited
+@10011
+Sets the daimyo's renown [0-5000]
+@10012
+Set the daimyo's renown
+@10013
+Sets the daimyo's crest graphic
+@10014
+Set the daimyo's crest graphic
+@10016
+Select a daimyo to change friendship
+@10017
+Sets the friendship [0-100]
+@10018
+Set the friendship
+@10019
+Select a corps to change supplies
+@10020
+Select a corps to change supplies
+@10021
+{1B}CYOnly the 1st Corps exists{1B}CD
+@10022
+Change the supplies of the 1st Corps
+@10023
+Change the supplies of the 2nd Corps
+@10024
+Change the supplies of the 3rd Corps
+@10025
+Change the supplies of the 4th Corps
+@10026
+Change the supplies of the 5th Corps
+@10027
+Change the supplies of the 6th Corps
+@10028
+Change the supplies of the 7th Corps
+@10029
+Change the supplies of the 8th Corps
+@10030
+Sets the corps' gold
+@10031
+Set the corps' gold
+@10032
+Sets the corps' rice
+@10033
+Set the corps' rice
+@10034
+Sets the corps' horses
+@10035
+Set the corps' horses
+@10036
+Sets the corps' guns
+@10037
+{1B}CYCannot be set before the arrival of guns{1B}CD
+@10038
+Set the corps' guns
+@10039
+Sets the corps' cannon
+@10041
+Set the corps' cannon
+@10042
+Select the castle to edit
+@10043
+Sets the castle's name
+@10044
+Sets the reading of the castle's name
+@10045
+Sets how the castle is called
+@10046
+Castle: the name becomes "... Castle"
+@10047
+Hall: the name becomes "... Hall"
+@10048
+Gobo: the name becomes "... Gobo"
+@10049
+Palace: the name becomes "... Palace"
+@10050
+Temple: the name becomes "...-ji"
+@10051
+Fort: the name becomes "... Fort"
+@10052
+Town: the name takes no suffix
+@10053
+Shows the castle's yield and maximum yield
+@10054
+Sets the castle's yield
+@10055
+Set the castle's yield
+@10056
+Sets the yield of the castle's province
+@10057
+Set the yield of the castle's province
+@10058
+Sets the castle's aptitude for cultivation
+@10059
+Good yield aptitude: yield rises faster with <Cultivate>
+@10060
+Average yield aptitude: yield rises at the normal rate with <Cultivate>
+@10061
+Poor yield aptitude: yield rises more slowly with <Cultivate>
+@10062
+Sets castle commerce [1-max]
+@10063
+Set the castle's commerce
+@10064
+Sets max castle commerce [1-1000]
+@10065
+Set the castle's maximum commerce
+@10066
+Sets the castle's aptitude for commerce
+@10067
+Good commerce aptitude: commerce rises faster with <Commerce>
+@10068
+Average commerce aptitude: normal rise with <Commerce>
+@10069
+Poor commerce aptitude: slow rise with <Commerce>
+@10070
+Sets castle defence [1-max]
+@10071
+Set the castle's defence
+@10072
+Sets the castle's maximum defence
+@10073
+Set the castle's maximum defence
+@10074
+Sets the castle's aptitude for repair
+@10075
+Good defence aptitude: defence rises more with <Repair>
+@10076
+Average defence aptitude: defence rises at the normal rate with <Repair>
+@10077
+Poor defence aptitude: defence rises less with <Repair>
+@10078
+Plains: sets the town view to "plains"\nAzuchi and Osaka Castles cannot be changed
+@10079
+Riverside: sets the town view to "riverside"\nAzuchi and Osaka Castles cannot be changed
+@10080
+Mountains: sets the town view to "mountains"\nAzuchi and Osaka Castles cannot be changed
+@10081
+Coast: sets the town view to "coast"\nAzuchi and Osaka Castles cannot be changed
+@10082
+Flatland: sets the castle graphic to "flatland"\nAzuchi and Osaka Castles cannot be changed
+@10419
+{01}C{0C}{00}!? Why are you here?
+@10420
+{01}C{0C}{00}! Your men have already surrendered to us. Give up.
+@10421
+What!? Can it be...
+@10422
+Hohoho! I saw through your scheme from the start. You took the bait beautifully.
+@10422.1
+Hahaha! I saw through your scheme from the start. You took the bait beautifully.
+@10423
+Ah! So it was I who was trapped?
+@10423.1
+Guh! So it was I who was trapped...
+@10424
+Now you have no excuse. Disloyal wretch! I shall end your life myself!
+@10424.1
+Now you have no excuse. Disloyal wretch! I shall end your life myself!
+@10425
+Guh! Damn... Somebody... avenge this grudge for me...
+@10426
+And so the rebellion of {02}{0B}2 ended in failure. What effect will this incident have on the future of the {02}{0C}5 clan...?
+@10427
+Here in {02}{97}2, the castle of {02}{0B}2, the retainer {02}{0C}2 came to call on their lord.
+@10428
+{01}C{0A}{00}, what brings you here today?
+@10429
+The truth is, there is a rumour in the house that {02}{0D}2 shows signs of rebellion... I thought it best to let {01}C{0B}{00} hear of it.
+@10429.1
+The truth is, there is a rumour in the house that {02}{0D}2 shows signs of rebellion... I thought it best to let {01}C{0B}{00} hear of it.
+@10430
+{01}C{13}{00} rebel? Surely not.
+@10430.1
+{01}C{13}{00} rebel? Surely not.
+@10431
+I hope so... but once, when {01}C{15}{00} invited me to a drinking party, something worrying was said.
+@10432
+What was it? What worrying thing?
+@10433
+That one day they would take the Lord's place... So they said. Though it was drunken talk, I suppose...
+@10434
+......Understood. I shall keep it in mind.
+@10434.1
+......Understood. I shall keep it in mind.
+@10435
+{02}{0B}3 began to harbour doubts about {02}{0C}3. Then one day...
+@10436
+{01}C{0B}{00}! I have urgent news to report!
+@10437
+What is it?
+@10438
+{01}C{DB}{00} We caught a suspicious man on the edge of town. It seems he was laying a curse upon {01}C{0B}{00}...
+@10439
+What!
+@10440
+He says he was asked to do it by {01}C{15}{00}.
+@10441
+{02}{0D}3, that wretch! So they meant to be rid of me after all... {01}C{0A}{00}, seize them at once!
+@10442
+Soon {02}{0C}2 was captured, and {02}{0B}3 sent down the order to commit seppuku.
+@10443
+To be taken in by the words of one like {02}{0D}3... It seems I chose the wrong lord to serve. Regret is useless now, but...
+@10444
+And so {02}{0C}2 took their own life. What effect will this incident have on the future of the {02}{0B}5 clan...?
+@10445
+Here in {02}{97}2, the castle of {02}{0B}2, {02}{0B}3 summoned the retainer {02}{0C}2.
+@10446
+{01}C{0B}{00}, {02}{0B}3 reporting as summoned.
+@10447
+Ah, well done. Today I wish to consult {01}C{0A}{00} on a matter. It concerns the princess.
+@10448
+The princess?
+@10449
+Yes. Lately she has been low in spirits. I need your help.
+@10450
+{01}C{DB}{00} If there is anything I can do, anything at all.
+@10451
+Well said! The truth is, the princess seems lovesick, and it troubles her.
+@10452
+I see... What!? Could the one she loves be...?
+@10453
+You are quick. Yes, the one is {01}C{0A}{00}.
+@10454
+I too am a parent. I cannot bear to see the princess brood. What say you, will you become her husband?
+@10455
+B-but, such a sudden proposal...
+@10456
+{01}C{0A}{00}, did you not just say you would help? Surely a warrior does not go back on his word?
+@10457
+Y-yes. I gladly accept this match.
+@10458
+And so {02}{0B}2 exchanged wedding vows with the princess of their lord {02}{0C}3.
+@10459
+In the Sengoku era, countless alliances and counter-alliances were made among the daimyo.
+@10460
+And now, between the {02}{0B}5 clan and the {02}{0C}5 clan too...
+@10461
+I see... Indeed, it is not wise to make enemies on all four sides.
+@10462
+Just so. The wise course is for the two houses to join hands.
+@10462.1
+Just so. The wise course is for the two houses to join hands.
+@10463
+Agreed. From now on, let our two houses keep friendly ties for years to come.
+@10464
+It is settled. Now let us drink a toast to the prosperity of both houses.
+@10465
+And so the {02}{0B}5 clan and the {02}{0C}5 clan became friends. How will their friendship affect the course of the realm...?
+@10466
+The friendship between the {02}{0B}5 clan and the {02}{0C}5 clan is now %d.
+@10468
+And now, among the {02}{0B}5 clan, the {02}{0C}5 clan and the {02}{0D}5 clan too...
+@10469
+It would not be wise for us to fight one another.
+@10470
+Just so. Let bygones be bygones and join hands. {01}C{0C}{00}, you have no objection?
+@10471
+Very well. Now we need have no worry about our rear.
+@10471.1
+Very well. Now we need have no worry about our rear.
+@10472
+Good. Then let us drink a toast to our lasting friendship.
+@10473
+And so the {02}{0B}5 clan, the {02}{0C}5 clan and the {02}{0D}5 clan became friends. How will the friendship of the three great houses affect the course of the realm...?
+@10474
+Friendship among the three daimyo is now %d.
+@10475
+The {02}{0B}5 clan was suffering under pressure from the {02}{0C}5 clan. The clan head, {02}{0B}2, was forced into an agonising decision.
+@10476
+So, {01}C{0B}{00}, have you finally decided?
+@10477
+Now is the time to endure. Without submission our house would perish... The name of the {02}{0B}5 clan must be protected at all costs.
+@10477.1
+Yes, now is the time to endure. Without submission our house would perish... The name of the {02}{0B}5 clan must be protected at all costs.
+@10478
+I understand...
+@10478.1
+I understand...
+@10479
+Some of the retainers will not accept it... {01}C{0A}{00}, please make them understand.
+@10479.1
+Some of the retainers will not accept it... Make them understand, will you?
+@10481
+Soon {02}{0B}3 called on {02}{0C}2 at {02}{97}2 and declared the intent to submit.
+@10482
+I, {02}{0B}3, swear unchanging loyalty to {02}{0C}3. I beg you to look kindly upon our house...
+@10483
+Good. I have clearly received the will of {02}{0C}3. I shall not treat the {02}{0C}5 clan ill.
+@10485
+And so the {02}{0B}5 clan became a vassal of the {02}{0C}5 clan. How will this affect the course of the realm...?
+@10486
+The {02}{0B}5 clan served the {02}{0C}5 clan and endured the position of a vassal. But {02}{0B}2 bided their time, waiting for a chance to become independent.
+@10487
+{01}C{0B}{00}, what is your business today?
+@10488
+{01}C{0A}{00}, this is important, so listen well. I have resolved to part ways with the {02}{0D}5 clan.
+@10488.1
+{01}C{0A}{00}, this is important, so listen well. I have resolved to part ways with the {02}{0D}5 clan.
+@10489
+Oh! So you have finally decided.
+@10490
+The time of biding is over. From now on I take no orders from anyone and aim for the realm. Make sure everyone in the house is told!
+@10490.1
+The time of biding is over. From now on I take no orders from anyone and aim for the realm. Make sure everyone in the house is told!
+@10491
+Yes! Understood.
+@10492
+Before long, a letter from the {02}{0B}5 clan reached {02}{97}2, castle of {02}{0C}2. {02}{0C}3 flew into a rage on reading its declaration of severed ties.
+@10493
+What will become of the {02}{0B}5 clan, now independent of the {02}{0C}5 clan...?
+@10494
+{02}{0B}2, daimyo of {02}y2, was thinking of approaching {02}{0C}2.
+@10496
+The truth is, I would like {01}C{0A}{00} to make the trip to {02}{97}2.
+@10496.1
+Yes, the truth is, I would like {01}C{0A}{00} to make the trip to {02}{97}2.
+@10497
+{02}{97}2... The domain of {02}{0D}2... And what is the matter?
+@10497.1
+{02}{97}2... The domain of {02}{0D}2... And what is the matter?
+@10498
+I am thinking of joining hands with {02}{0D}3. I mean to send the princess in marriage, and I would like you to see this arranged.
+@10498.1
+I am thinking of joining hands with {02}{0D}3. I mean to send the princess in marriage. Will you see this arranged for me?
+@10499
+Understood. Leave everything to me, {02}{0B}3.
+@10083
+Mountain: sets the castle graphic to "mountain"\nAzuchi and Osaka Castles cannot be changed
+@10084
+Hilltop: sets the castle graphic to "hilltop"\nAzuchi and Osaka Castles cannot be changed
+@10085
+Sets whether the castle town has a mine
+@10086
+None: the town has no mine
+@10087
+Gold: the town has a gold mine
+@10088
+Silver: the town has a silver mine
+@10089
+Sets the mine's reserves [0-99999]
+@10090
+Set the mine's reserves
+@10091
+{1B}CYThere is no mine, so this cannot be set{1B}CD
+@10092
+As the yield of {02}{97}4 fell,\nthe yield of {02}{97}2 fell too
+@10093
+Select the minor power to edit
+@10094
+Select a daimyo to change relations
+@10095
+Sets the minor power's name
+@10096
+Sets the power's name reading
+@10097
+Sets the minor power's size [1-10]
+@10098
+Set the minor power's size
+@10100
+Select a daimyo to change relations
+@10101
+Sets relations with the power [0-100]
+@10102
+Set relations with the minor power
+@10103
+Shows relations with the power
+@10104
+Close with the {02})2.\nChange 100 to 99?\nIs that all right?
+@10105
+As {02}{0B}2's origin is %s,\nthe value can be set to 99 at most
+@10106
+The {02})2 is close to %s temples and shrines, so the value for other sects can be set to 99 at most
+@10107
+Hostile to the {02})2.\nChange 0 to 1?\nIs that all right?
+@10108
+Select the treasure to edit
+@10109
+Select the owning daimyo
+@10110
+Select the owning town
+@10111
+Select the owning officer
+@10112
+Select the owning daimyo
+@10113
+Select the owning town
+@10114
+Select the owning officer
+@10115
+Sets the treasure's name
+@10116
+Set the treasure's name
+@10117
+Sets the reading of the treasure's name
+@10118
+Set the reading of the treasure's name
+@10119
+Sets the treasure's grade [1-10]
+@10120
+Set the treasure's grade
+@10121
+Japan: sets the treasure's origin to "Japan"
+@10122
+Ming: sets the treasure's origin to "Ming"
+@10123
+Nanban: sets the treasure's origin to "Nanban"
+@10124
+Shows the ability raised by owning the treasure
+@10125
+Shows how much the ability rises
+@10126
+Shows the troop type gained by owning the treasure
+@10127
+Shows the skill gained by owning the treasure
+@10128
+Shows the next treasure graphic
+@10129
+Shows the previous treasure graphic
+@10130
+Sets the treasure CG
+@10131
+Set the treasure CG
+@10132
+{1B}CYThe treasure CG cannot be changed{1B}CD
+@10133
+Sets the treasure's type
+@10134
+Set the treasure's type
+@10135
+{1B}CYOwner is on a sortie: no change{1B}CD
+@10136
+Gain the Tea skill
+@10142
+Gain the Poach skill
+@10144
+Gain the Siege skill
+@10145
+Leadership rises
+@10146
+Gain the Volley skill
+@10147
+Unlocks the Cannon unit type
+@10148
+Gain the Arrow Rain skill
+@10149
+Gain the Rapid Fire skill
+@10150
+Unlocks the Archer unit type
+@10151
+Gain the Defence skill
+@10152
+Gain the Rally skill
+@10153
+Gain the Charge skill
+@10154
+Gain the Flee skill
+@10155
+Gain the Cultivation skill
+@10156
+Gain the Commerce skill
+@10157
+Gain the Repair skill
+@10158
+Gain the Training skill
+@10159
+Gain the Recruit skill
+@10160
+Gain the Diplomacy skill
+@10161
+Gain Recovery; heal illness more easily
+@10162
+Gain the Swordsman skill
+@10163
+Gain the Capture skill
+@10164
+Gain the Spear Wall skill
+@10165
+Unlocks the Cavalry unit type
+@10166
+Unlocks the Gunner unit type
+@10167
+Politics rises
+@10168
+Intellect rises
+@10169
+Unlocks the Baggage unit type
+@10170
+Gain the Trade skill
+@10172
+Gain the Restore Order skill
+@10173
+Gain the Confuse skill
+@10174
+Gain the Survey skill
+@10175
+Gain the Persuade skill
+@10176
+Ambition rises
+@10178
+Intellect rises
+@10180
+Gain the Flood Control skill
+@10182
+Gain the Service skill
+@10185
+Gain the Shadow skill
+@10186
+Gain the Iron Wall skill
+@10187
+Gain the War God skill
+@10188
+Select the princess to edit
+@10189
+Shows the princess's family name
+@10190
+Shows reading of the family name
+@10191
+Sets the princess's name
+@10192
+Sets the reading of the princess's name
+@10193
+Shows the princess's birth year
+@10194
+Sets the death year [now to birth year+89]
+@10195
+Set the princess's death year
+@10196
+Selects the princess's cause of death
+@10197
+Select the princess's cause of death
+@10198
+Sets the princess's face CG
+@10199
+Set the princess's face CG
+@10200
+Sets the ninja's alias
+@10201
+Set the ninja's alias
+@10202
+Sets the ninja's name
+@10203
+Set the ninja's name
+@10204
+Sets the ninja's face CG
+@10205
+Set the ninja's face CG
+@10206
+Sets the ninja's abilities
+@10207
+Set the ninja's abilities
+@10208
+Sets the ninja's sex
+@10209
+Edit officer data
+@10210
+Edit daimyo data
+@10211
+Edit castle data
+@10212
+Edit treasure data
+@10213
+Edit minor power data
+@10214
+Edit princess data
+@10215
+Edit ninja data
+@10216
+The unit type currently being organised cannot be made unavailable
+@10217
+{1B}CYAn officer on a sortie cannot be changed{1B}CD
+@10218
+Registered Treasure Management
+@10219
+The registered treasures have changed. If you do not save, the changes will not be applied. Is that all right?
+@10220
+Select the registered treasure to edit
+@10221
+Select the registered treasure to delete
+@10222
+Delete the data of the selected registered treasure. Is that all right?
+@10223
+Select the registered treasure to load
+@10224
+Discard the data being created and return to the registered treasure screen. Is that all right?
+@10225
+The MEMORY CARD (PS2) in MEMORY CARD slot 1 has no registered treasure data
+@10226
+Cancel the data changes.\nIs that all right?
+@10227
+◆After month %d, %d.
+@10228
+◆{02}{0B}2 is a daimyo.
+@10229
+◆{02}{0B}2 is a retainer of {02}{0C}2.
+@10230
+◆{02}{0B}2 serves someone other than {02}{0C}2.
+@10231
+◆{02}{0B}2 is a ronin.
+@10232
+◆{02}{0B}2 is a daimyo house retainer.
+@10233
+◆The {02}{0B}5 clan holds 2 or more castles.
+@10234
+◆{02}{0C}2 has retainers besides {02}{0B}2.
+@10235
+◆{02}{0B}2 can marry a princess of {02}{0C}2.
+@10236
+◆{02}{0B}2 has an unwed princess.
+@10237
+◆The {02}{0B}5 is not a vassal daimyo.
+@10238
+◆The {02}{0B}5 is not a ruling daimyo.
+@10239
+◆The {02}{0B}5 serves the {02}{0C}5.
+@10240
+◆No marriage tie: {02}{0B}5 and {02}{0C}5.
+@10241
+◆{02}{0B}2 has a princess to wed.
+@10242
+◆The {02}{0B}5 has a marriageable officer.
+@10243
+◆{02}o2 is not destroyed.
+@10244
+◆{02}[2 is not destroyed.
+@10245
+◆A daimyo other than {02}{0B}2 has founded a shogunate.
+@10246
+◆{02}{0B}2 is not yet of age.
+@10247
+◆{02}{0B}2 has turned 16.
+@10248
+◆{02}{0B}2 is a daimyo or an active officer.
+@10249
+◆{02}{0B}2 has not been granted court rank {02}e2 or higher.
+@10250
+◆{02}{0B}2 does not hold {02}{AB}2.
+@10251
+◆The {02}{0B}5 clan holds at least one castle in {02}o9.
+@10252
+◆The {02}{0B}5 clan holds at least one castle in {02}[9.
+@10253
+◆{02}{0B}2 and {02}{0C}2 belong to different provinces. If the same, the {02}{0C}5 clan has 2 or more castles there.
+@10255
+◆The {02}{0B}5 clan holds at least one castle in {02}y2.
+@10256
+◆{02}{0B}2 is outside {02}y2.
+@10257
+◆If {02}{0B}2 is a corps commander, the corps holds {02}y2.
+@10258
+◆{02}{0B}2 has a wife.
+@10259
+◆{02}Q2 has 2 or more notables.
+@10260
+◆{02}[2 has 2 or more notables.
+@10261
+◆{02}o2 has 2 or more notables.
+@10262
+◆{02}{8D}2 has 2 or more notables.
+@10263
+◆{02}{A1}2 has 2 or more notables.
+@10264
+◆After the arrival of guns (8th month, 1543).
+@10265
+◆{02}{0B}2 does not own two treasures.
+@10266
+◆{02}G2 has no owner, or belongs to a free city or merchants.
+@10267
+◆{02}{0B}2 has a princess.
+@10268
+◆{02}{0B}5's 1st Corps has gold (1+).
+@10269
+◆The target minor power has been destroyed, so the event cannot occur.
+@10270
+◆The event has already occurred.
+@10271
+◆{02}{0B}2 dies.
+@10272
+◆{02}{0C}2 succeeds {02}{0B}2 and becomes daimyo.
+@10273
+◆{02}{0B}5 and {02}{0C}5 friendship becomes %d.
+@10274
+◆{02}{0B}2 retires.
+@10275
+◆{02}{0B}2 serves {02}{0C}2.
+@10276
+◆{02}{0B}2 joins a daimyo house.
+@10277
+◆{02}{0B}2 expels {02}{0C}2 and becomes daimyo.
+@10278
+◆{02}{0B}2 expels their lord and rules.
+@10279
+◆{02}{0B}2 breaks from the {02}{0C}5 clan and becomes daimyo.
+@10280
+◆{02}{0B}2 secedes from their lord.
+@10281
+◆{02}{0B}2 forms an adoption tie with a princess of {02}{0C}2.
+@10282
+◆Two clans' friendship: %d.
+@10283
+◆Three clans' friendship: %d.
+@10284
+◆The {02}{0B}5 submits to the {02}{0C}5.
+@10285
+◆The {02}{0B}5 secedes from the {02}{0C}5.
+@10286
+◆Marriage tie: {02}{0B}5 and {02}{0C}5.
+@10287
+◆{02}o2 is destroyed.
+@10288
+◆{02}[2 is destroyed.
+@10289
+◆{02}{0B}2 is granted {02}e2.
+@10290
+◆{02}{0B}2 is appointed {02}{AB}2.
+@10291
+◆{02}{0B}2 appears as a ronin.
+@10292
+◆{02}{0B}2 comes of age.
+@10293
+◆{02}{0B}2 moves to {02}y2.
+@10294
+◆{02}{97}2 defence falls to minimum.
+@10295
+◆Officers of {02}{97}2 are injured with a set probability.
+@10296
+◆{02}{0B}2 becomes a ronin.
+@10297
+◆A {02}Q2 notable joins {02}{0B}2.
+@10298
+◆A {02}[2 notable joins {02}{0B}2.
+@10299
+◆A {02}o2 notable joins {02}{0B}2.

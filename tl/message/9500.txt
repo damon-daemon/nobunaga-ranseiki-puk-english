@@ -1,0 +1,844 @@
+@9501
+Murakami Takashige
+@9503
+Shirai Katatane
+@9505
+Wakabayashi Shigeoki
+@9507
+Fukabori Sumimasa
+@9509
+Jokaio Ochoku
+@9514
+Dazai Kinsuke
+@9516
+Yanagihara Tobei
+@9518
+Ninokuruwa Isuke
+@9520
+Sasayama Suketada
+@9522
+Kato Danzo
+@9524
+Kitamura Yahee
+@9526
+Tarao Mitsutoshi
+@9528
+Fujibayashi Masayasu
+@9530
+Hachiya Yanosaburo
+@9532
+Seki Masato
+@9534
+Sata Hikoshiro
+@9536
+Yose Kurando
+@9540
+Nagato Hiromasu
+@9542
+Shichinohe Iekuni
+@9544
+Tagusari Mitsumori
+@9546
+Tomizawa Naotsuna
+@9548
+Ishikawa Akimitsu
+@9550
+Kawarada Moritsugu
+@9552
+Yajima Mitsuyasu
+@9554
+Tendo Yorizumi
+@9556
+Shimazaki Yasushige
+@9558
+Awaihara Toshitane
+@9560
+Sakai Tsuneharu
+@9562
+Iono Sukenobu
+@9564
+Saito Norihiro
+@9566
+Oishi Sadahisa
+@9568
+Naito Yasuyuki
+@9570
+Horigoe Ujinobu
+@9572
+Kira Yoshiaki
+@9574
+Iio Sadamune
+@9576
+Takagi Sadahisa
+@9578
+Tamaru Naomasa
+@9580
+Amemiya Ietsugu
+@9582
+Rakuganji Masakata
+@9584
+Oi Masanari
+@9586
+Honma Takamune
+@9588
+Kanamari Chikatsuna
+@9590
+Dohi Masashige
+@9592
+Togashi Yasutoshi
+@9594
+Sasafu Korinbo
+@9596
+Taga Sadayoshi
+@9598
+Niki Yoshichika
+@9600
+Kawashima Kazunobu
+@9602
+Sakai Toyokazu
+@9604
+Miyake Kunimura
+@9606
+Ochi Iemasu
+@9608
+Tamaki Koheita
+@9610
+Takeda Takanobu
+@9612
+Fukuya Takakane
+@9614
+Mashima Ujikatsu
+@9616
+Yamana Ujikane
+@9618
+Matsuda Mototeru
+@9620
+Takeda Nobuzane
+@9622
+Numa Okikuni
+@9624
+Kaifu Tomomitsu
+@9626
+Yasutomi Morikata
+@9628
+Watanabe Noritada
+@9630
+Kakumi Saemon
+@9632
+Nonaka Shigekane
+@9634
+Kutami Akiyasu
+@9636
+Tachibana Akitoshi
+@9638
+Hoshino Shigetane
+@9640
+Hata Chikashi
+@9642
+Nawa Takeaki
+@9644
+Tsuchimochi Chikanari
+@9646
+Irikiin Shigetomo
+@9651
+Nagai Kicho
+@9653
+Oda Ichi
+@9655
+Oda Gotoku
+@9657
+Azai Chacha
+@9659
+Azai Hatsu
+@9661
+Azai Go
+@9663
+Sekiguchi Sena
+@9665
+Matsudaira Toku
+@9667
+Tamura Mego
+@9669
+Honda Komatsu
+@9671
+Takeda Kiku
+@9673
+Mogami Yoshi
+@9675
+Oura Inu
+@9677
+Maeda Go
+@9679
+Akechi Tamako
+@9681
+Nagao Momo
+@9685
+Hatakeyama Tsubaki
+@9687
+Ota Katsu
+@9689
+Hojo Haru
+@9500
+Commander of the Shiwaku navy. Michiaki was really a pirate chief of the Kono, lord of Iyo Yoshida Castle. Styled Shikibu no Shosuke, held Kutsuna Island. Died at Iyo Hanase in 1579.
+@9502
+Commander of the Mishima navy. Takashige was really lord of Iyo Kasaoka Castle, uncle of Murakami Takeyoshi, whom he served. With him he joined the Mori at Itsukushima, aiding their victory.
+@9504
+Commander of the Yashiro Island navy. Katatsugu was really a pirate chief serving the Aki Takeda, then the Ouchi. After Sue Harukata's revolt he served the Sue and led their navy at Itsukushima.
+@9506
+Commander of the Saganoseki navy. Shigeoki was really a pirate chief serving the Otomo. Won merit against the Mori navy, aiding Tosa Ichijo and quelling Tawara Chikanuki's revolt.
+@9508
+Commander of the Hirado navy. Sumikata was a Hizen gentry, lord of Tawaraishi Castle. Sided with the Ryuzoji against the Arima. Burned churches in many battles, so missionaries thought ill of him.
+@9510
+Commander of the Bonotsu navy. Wang Zhi was really a Ming trader who turned to piracy resisting Ming's sea ban and became chief of the wako. Later killed by a ruse.
+@9512
+Once a pirate off {02}{0B}G Province, he tired of that life and became an officer.\n{01}C'%
+@9513
+Chief of the {02}{0B}{83}, a ninja band. Sent genin to many lands at daimyo's request to gather intelligence and the like, working mostly in the shadows.
+@9515
+Nakagawa-style ninja. Kinsuke was really one of Date's "Kuro-hagi-kin-gumi" ninja. Sent into the Ashina succession dispute and Hideyoshi's Odawara campaign, he reported to Masamune.
+@9517
+Haguro-style ninja. Tobei was really one of Date's Kurohagikin-gumi. Served Abe Shigesada as chief, leading 50 Kurohagikin with Yose Kurando.
+@9519
+Fuma-style ninja. Inosuke was really one of the Hojo's Fuma ninja. At Kawagoe he scouted and told Ujiyasu of the allies' carelessness, leading the Hojo to victory.
+@9521
+Akiba-style ninja. Sukedada was really a Koga man. When Ieyasu attacked Mikawa Kaminogo he took Udono Nagateru and helped capture Nagateru's two sons.
+@9523
+Togakure-style ninja, known as "Tobi Kato". Nearly killed when received by Uesugi Kenshin, but escaped. Later received by Takeda Shingen and was killed.
+@9525
+Yoshitsune-style ninja. Yahei was really an Iga man. Driven from Iga after Honnoji, he hid in Omi, wandered, then was called to Edo by Ieyasu and became a merchant.
+@9527
+Koga-style ninja. The Tarao were one of the 53 Koga houses. At Honnoji they received Ieyasu's party, bound from Sakai to Mikawa, at Omi Ogawa Castle, and Mitsumasa guarded him.
+@9529
+Iga-style ninja. Masayasu, styled Nagato no Kami, was from one of the three great Iga jonin houses. His true name varies in tradition. Descendant Yasutake wrote the Bansenshukai.
+@9531
+Hachiya-style ninja. Yanosaburo was really the chief of the Hachiya, ninja of the Amago. With his lord Tsunehisa, dismissed as Izumo constable deputy, he retook Gassan Toda Castle.
+@9533
+Yoki-style ninja. Masato was really the chief of the Yoki, ninja of the Mori. Shone in the Amago Shingu purge and Itsukushima, backing Motonari's schemes in secret.
+@9535
+Oyamazumi-style ninja. Hikoshiro served Mori vassal Sugihara Morishige with his brothers Jingoro and Konezumi. His skill was feared as "fox and badger tricks".
+@9537
+Hikosan-style ninja. Kurando was really one of Date's Kurohagikin-gumi. Served Abe Shigesada as chief, leading 50 Kurohagikin with Yanagihara Tobei.
+@9539
+Once a ninja of {02}{0B}G Province, he disliked life in the dark, fled and became an officer.\n{01}CB%
+@9541
+Gentry of Ezo. Hiromasu was really a Kakizaki vassal. When Hiromoto, his lord Suehiro's cousin, rebelled, he slew him and brought the head to Suehiro.
+@9543
+Gentry of Mutsu. Ienori was really a Nanbu vassal. Joined the Kunohe Masazane revolt and took nearby castles, but lost to the Oshu punitive army, yielded and was executed.
+@9545
+Gentry of Rikuchu. Mitsumori was really a Mutsu gentry, lord of Tasari Castle. Fought neighbours until he and his son joined the Nanbu. His castle was razed during the Korea campaign.
+@9547
+Gentry of Rikuzen. Naotsuna was really a Kasai vassal. His seat lay on the Osaki-Kasai border, so he kept shifting between them, and was later attacked by the Kasai.
+@9549
+Gentry of Iwaki. Akimitsu was really a Mutsu gentry, lord of Ishikawa Castle. Date Harumune's son, adopted by Ishikawa Harumitsu. Lost his lands for skipping Hideyoshi's Odawara campaign.
+@9551
+Gentry of Iwashiro. Moritsugu was really a Mutsu gentry, lord of Komayose Castle. With Yamauchi and Naganuma he resisted Date Masamune stubbornly, but lost and fell. The Kawarada were cut.
+@9553
+Gentry of Ugo. Mitsuyasu was really one of the Twelve Yuri Chiefs. In Hideyoshi's Korea campaign his march was blocked by other Yuri forces. He turned to the Onodera, then killed himself.
+@9555
+Gentry of Uzen. Yorizumi was really a Dewa gentry, lord of Maizuru Castle. His sister was Mogami Yoshiaki's concubine, but he fought Yoshiaki, lost, and served Date via the Kokubun.
+@9557
+Gentry of Hitachi. Yasushige was really head of the Hitachi gentry band, the 33 Namekata Halls. Hideyoshi confirmed his lands after Odawara, but Satake Yoshinobu later had him murdered.
+@9559
+Gentry of Shimosa. Toshitane was really a Shimosa gentry, lord of Omigawa Castle. Sided with the Hojo at Odawara and lost his castle. The Aiwara were a noble line since Kamakura.
+@9561
+Gentry of Kazusa and Awa. Genji was really a Kazusa gentry, lord of Toke Castle. In 1553 he fought Uesugi Kenshin with Chiba Chikatane and lost. His son Yasuji later joined the Hojo.
+@9563
+Gentry of Shimotsuke. Sukenobu was really a Nasu vassal, one of the Seven Nasu. Joined Hideyoshi's Odawara campaign and kept his lands, and again with the Eastern Army at Sekigahara.
+@9565
+Gentry of Kozuke. Norihiro was really a Kozuke gentry, lord of Iwabitsu Castle. Allied with Uesugi Kenshin against Takeda vassal Sanada Yukitaka, lost, and fled with his son Norimune to Kenshin in Echigo.
+@9567
+Gentry of Musashi. Sadahisa was really a Yamanouchi Uesugi vassal and Musashi deputy constable. After their fall he served the Hojo, married his daughter to Ujiyasu's second son Ujiteru as heir and retired.
+@9569
+Gentry of Sagami and Izu. Yasuyuki was really a Hojo vassal, lord of Tsukui Castle. Chief of the Tsukui band with nearly 1,000 kan, he served the Hojo in domestic affairs, issuing seal letters.
+@9571
+Gentry of Suruga and Totomi. Ujinobu was really an Imagawa vassal, lord of Totomi Mitsuke. In the Hanakura Rebellion after Ujiteru's death he backed Genko Ean and fell to Baigaku Shoho.
+@9573
+Gentry of Mikawa. Yoshiaki was really a Mikawa gentry, lord of Nishio Castle, later Tojo Castle. Often defied Ieyasu; after the Mikawa Ikko uprising he fled and died at Settsu Akutagawa.
+@9575
+Gentry of Owari. Sadamune was really an Oda vassal, lord of Okuda Castle. Oda Nobuhide's uncle, adopted by the Iio. At Okehazama he defended Washizu Fort against the Imagawa and fell.
+@9577
+Gentry of Mino and Hida. Sadahisa was really a Saito vassal, lord of Komano Castle. Joined the Oda after the Saito fell. Served Oda Nobutaka after Honnoji, then retired to Komano.
+@9579
+Gentry of Ise and Shima. Naomasa was really a Kitabatake vassal, lord of Tamaru Castle. Served Hideyoshi after their fall as aide to his brother-in-law Gamo Ujisato. Western Army at Sekigahara; cut.
+@9581
+Gentry of Kai. Ietsugu was really a Takeda vassal. Served Takeda Yoshinobu and was exiled after his revolt, serving the Hojo. Later returned to the Takeda and is said to have died at Nagashino.
+@9583
+Gentry of northern Shinano. Masakata was really a Murakami vassal, lord of Rakuganji Castle. Once a monk of Rakuganji, he left holy orders. Resisted the Takeda Shinano invasion, lost and submitted.
+@9585
+Gentry of southern Shinano. Masanari was really a Takeda vassal, lord of Miyatori Castle. After their fall he yielded to Ieyasu's Shinano army and served Yoda Nobushige and his son Matsudaira Yasukuni.
+@9587
+Gentry of northern Echigo. Takamune was really a Sado gentry, lord of Kawarada Castle. In 1589 Uesugi Kagekatsu's Sado army beat him, ending his house and its Hamo Honma kin.
+@9589
+Gentry of southern Echigo. Chikatsuna was really an Uesugi vassal who dealt with nobles and shogunate figures. In the Otate War he backed Uesugi Kagetora and, fighting on after his death, was murdered.
+@9591
+Gentry of Etchu. Masashige was really an Etchu gentry, lord of Yuminosho Castle. Served Kenshin, then Nobunaga after his death. Rejoined the Uesugi after Honnoji, was attacked and lost.
+@9593
+Gentry of Kaga and Noto. Yasutoshi was really Kaga constable, lord of Nonoichi Castle. Attacked by the Ikko, he turned to Mizoe Nagamasa of Echizen Kanatsu, but that castle fell too and he killed himself.
+@9595
+Gentry of Echizen and Wakasa. Korinbo was really an Asakura vassal, a name used for generations. Shone in many battles. After their fall he joined Nobunaga, but the Ikko drove him from Echizen.
+@9597
+Gentry of Omi. Sadayoshi was really an Omi gentry who held Takashima district. Fought for Akechi Mitsuhide at Yamazaki, so lost his lands. Gave the headship to his son-in-law Hidetane.
+@9599
+Gentry of Iga. Yoshichika was really the Iga constable, who followed Nobunaga. The Niki followed Ashikaga Takauji in the Kanno Disturbance, said to hold nine provinces as constables.
+@9601
+Gentry of Yamashiro. Kazunobu was really a Yamashiro gentry. Fled to Tamba after a Miyoshi Triumvirate attack, but followed Nobunaga's march on the capital, retook his castle and kept his lands.
+@9603
+Gentry of Tamba and Tango. Toyokazu was really a Hatano vassal, styled Izumi no Kami. The Sakai fell to the Hatano in the Eisho era and became vassals. Issued covering letters for Motohide's orders.
+@9605
+Gentry of Settsu and Kawachi. Kunimura was really a Hosokawa vassal, lord of Settsu Miyake Castle. Shifted between Hosokawa Harumoto and Miyoshi Nagayoshi, then lost to Harumoto and vanished.
+@9607
+Gentry of Yamato. Ienaga, a Yamato lord, was Ieei's third son and brother of Ienori. First took the Narahara name. Had Ichio Fukasuke murder his nephew Ietaka and became head of the Ochi.
+@9609
+Gentry of Kii. Kohita was really a Kii gentry, son of Naokazu. Yielded to Hideyoshi's Kii army and became Hidenaga's vassal. Fell after joining the Western Army at Sekigahara.
+@9611
+Gentry of Inaba and Tajima. Takanobu was really a Yamana vassal in Inaba. Castle deputy of Tottori, he later drove out lord Yamana Toyokazu and took it, but was killed by Yamana Toyokuni.
+@9613
+Gentry of Izumo and Iwami. Takakane was really an Iwami gentry, lord of Honmyo Castle. Joined the Mori against the Ogasawara of Nuruyu Castle, but later turned on them and was destroyed.
+@9615
+Gentry of Harima. Ujikatsu was really a Harima gentry, lord of Fukunaka Castle. Yielded to Hideyoshi's Harima army and shone in many battles, but fell after joining the Western Army at Sekigahara.
+@9617
+Gentry of Mimasaka. Ujikane was really a Mimasaka local, lord of Kaguraoyama Castle. When the Amago invaded he lost to Harada Tadanaga and fled, but later slew Tadanaga and returned.
+@9619
+Gentry of Bizen and Bitchu. Mototeru was really a Bizen gentry, lord of Kanagawa Castle. Powerful in west Bizen and often at war with Urakami of east Bizen, he fell to Ukita Naoie.
+@9621
+Gentry of Aki and Bingo. Nobuzane was really an Aki gentry, lord of Sato Ginzan Castle. Allied with the Amago to recover, but after their Aki campaign failed, Mori Motonari destroyed him.
+@9623
+Gentry of Suo and Nagato. Okikuni was really an Ouchi vassal who served Yoshioki and Yoshitaka as magistrate. Styled Hayato no Suke, Noto no Shojo and Noto no Kami.
+@9625
+Gentry of Awa. Tomomitsu was really an Awa gentry, lord of Kaifu Castle. He killed Chosokabe Motochika's brother on his way to a hot spring, so Motochika attacked fiercely and he fled his castle.
+@9627
+Gentry of Sanuki. Morikata was really a Sanuki gentry, lord of Amataki Castle. The Yasutomi served the Hosokawa, pillars of the Sanuki forces in the Onin War, holding 7 of Sanuki's 13 districts.
+@9629
+Gentry of Iyo. Norimichi was really an Iyo gentry, lord of Kawagomori Castle. A Tosa Ichijo man, adopted by Saionji vassal Watanabe Masatada. Later his retainers rebelled and drove him out.
+@9631
+Gentry of Tosa. Saemon was really an Ichijo vassal related to the house by marriage. After lord Kanesada's exile he struck the elders who had banished him, but ended up destroying the house.
+@9633
+Gentry of Buzen. Shigekane was really a Buzen gentry, a branch of the Kii Utsunomiya. Served the Ouchi and Otomo. After Kyushu he fought Kuroda Nagamasa, new to Buzen, and was destroyed.
+@9635
+Gentry of Bungo. Akiyasu was really an Otomo vassal, a Kahan member. Shone in many battles, including defeating Kikuchi Yoshitake. Later yielded to the Shimazu's Bungo army and guided it.
+@9637
+Gentry of Chikuzen. Akitoshi was really an Otomo vassal; the Tachibana were called the West Otomo. Rebelled against Sorin, was forgiven once, but rebelled again and was killed.
+@9639
+Gentry of Chikugo. Shigetane was really a Chikugo gentry who built and held Takatori Castle. Served the Otomo, but after their Mimikawa defeat is said to have joined the Shimazu.
+@9641
+Gentry of Hizen. Chikashi was really a Hizen gentry, lord of Karasawa Castle. Yielded to Hideyoshi's Kyushu army and kept his lands, but was cut in Korea for timid conduct.
+@9643
+Gentry of Higo. Takeaki was really a Higo gentry, lord of Uto Castle. Fought the Sagara, then made peace marrying his daughter to Sagara Harihiro, but later fought them again.
+@9645
+Gentry of Hyuga. Chikashige was really a Hyuga gentry, lord of Matsuo Castle. Called rarely gifted in both letters and arms among his line. Lost to Otomo Sorin's attack and killed himself.
+@9647
+Gentry of Satsuma and Osumi. Shigetomo was really a Satsuma gentry whose sister married Shimazu Takahisa. Backed Tadayoshi against Shimazu Sanehisa, shining at Ichiki Castle and elsewhere.
+@9648
+Chief of the {02}{0B}{83}, a gentry band. Led an army at nearby daimyo's request or guarded the land, working to keep order in his domain.
+@9650
+Once a gentry of {02}{0B}G Province, he rose in uprising and became an officer.\n{01}C{B1}%
+@9652
+Saito Dosan's daughter, Nohime. Wed Oda Nobunaga when her father and the Oda made peace. After Honnoji she relied on Nobuo, Nobunaga's second son, and was given Owari estates, called Lady Azuchi.
+@9654
+Oda Nobunaga's sister. Wed Asai Nagamasa; after his suicide she returned home. After Honnoji she wed Shibata Katsuie and died with him at Echizen Kitanosho. Said to be peerlessly beautiful.
+@9656
+Oda Nobunaga's daughter. Wed Matsudaira Nobuyasu. She told her father of her husband's misconduct and her mother-in-law Tsukiyama's ties to the Takeda; both were killed by his order. Returned home after.
+@9658
+Asai Nagamasa's eldest daughter, Yodo-dono. Taken in by Hideyoshi as concubine, bore Hideyori. After Hideyoshi's death she held great power in Osaka Castle. Died with Hideyori at its fall.
+@9660
+Asai Nagamasa's second daughter. Wed Kyogoku Takatsugu. At Osaka she worked to mediate between her sister Yodo-dono's Toyotomi and her sister Go's Tokugawa, but in vain.
+@9662
+Asai Nagamasa's third daughter. Married, divorced and remarried at Hideyoshi's order, then wed Tokugawa Hidetada as the Shogun's consort. Strong-willed like her sister Yodo-dono.
+@9664
+Imagawa Yoshimoto's adopted daughter, Tsukiyama-dono. Wed Ieyasu. After Okehazama he allied with Nobunaga and they fell out. Suspected of Takeda ties, her husband had her killed.
+@9666
+Tokugawa Ieyasu's second daughter. Wed Hojo Ujinao; after the Hojo fell, wed Ikeda Terumasa. A tale says she tried to kill Terumasa's first wife's son Toshitaka with poisoned buns.
+@9668
+Tamura Kiyoaki's daughter. Wed Date Masamune. Gentle yet strong, she served her husband well. As Hideyoshi's hostage at Fushimi she sent letters of encouragement to her husband.
+@9670
+Honda Tadakatsu's daughter. Wed Sanada Nobuyuki. At Sekigahara she held Kozuke Numata for her absent husband, refusing entry to her enemy father-in-law Masayuki and brother-in-law Yukimura.
+@9672
+Takeda Shingen's fifth daughter. Wed Uesugi Kagekatsu in the Takeda-Uesugi alliance. Beautiful and wise, she was cherished in the Uesugi as Lady Kai.
+@9674
+Mogami Yoshiaki's sister. Wed Date Terumune. So fiery she was called the "Demon Princess of Ou". Bore Masamune and Kojiro, but loathed one-eyed Masamune and tried to poison him.
+@9676
+Oura Tamenori's second daughter. Wed Tsugaru Tamenobu. Raised the orphans of vassals Sakurada Uhei and Orikasa Yoshichi. Matashichi, Uhei's son, later became regent as Sakurada Uhei.
+@9678
+Maeda Toshiie's fourth daughter. Adopted by Hideyoshi and wed Ukita Hideie. After her Western Army husband was exiled to Hachijo she returned home. Converted to Christianity.
+@9680
+Akechi Mitsuhide's third daughter. Baptised Gracia. Wed Hosokawa Tadaoki, who doted on her. Before Sekigahara she refused to be Ishida Mitsunari's hostage and died, run through by a retainer's spear.
+@9682
+Nagao Tamekage's daughter. Wed Nagao Masakage, bore Uesugi Kagekatsu and three more. After he drowned at Nojiri Pond she relied on her brother Kenshin as Sentoin. Kagekatsu became Kenshin's heir.
+@9684
+Tachibana Dosetsu's daughter. First succeeded her father as lord of Tachibana Castle. Later wed Tachibana Muneshige. Strong-willed. After her husband's fall at Sekigahara she retired to Higo.
+@9686
+Hatakeyama Yoshifusa's daughter. After her sister, Rokkaku Yoshikata's wife, died, she became his second wife and bore Yoshiharu. Died at 25 before her husband.
+@9688
+Edo Tajima no Kami's daughter. At 13 became Tokugawa Ieyasu's concubine. Foster mother of Tokugawa Yorifusa. Favoured by Ieyasu, she followed him at Sekigahara. Wise and fierce.
+@9690
+Hojo Ujiyasu's daughter. Wed Imagawa Ujizane when the Hojo-Takeda-Imagawa alliance formed, and bore Norimasa. After the Imagawa fell she returned home. After her father died, followed her husband to Ieyasu.
+@9691
+Adopted daughter of {02}{0C}2.
+@9691.1
+Daughter of {02}{0C}2.
+@9692
+Was said to be treasured within the {02}{0D}5 clan.
+@9692.1
+Was said to share a very happy marriage with {02}{0D}3.
+@9692.2
+Ran the {02}{0D}5 household and supported {02}{0D}3 from behind the scenes.
+@9693
+Adopted daughter of {02}{0C}2.\nRaised in her adoptive father's full affection.
+@9693.1
+Daughter of {02}{0C}2.\nRaised in her father's full affection.
+@9694
+Said to be a modest princess, known throughout the neighbourhood.
+@9694.1
+Said to be a clever princess, known throughout the neighbourhood.
+@9694.2
+Said to be a beautiful princess, known throughout the neighbourhood.
+@9695
+{01}C{DB}%\nWed {02}{0D}2.\n{01}C{DC}%
+@9696
+Adopted daughter of {02}{0C}2.\nAt her adoptive father's request she became a general of an army.
+@9696.1
+Daughter of {02}{0C}2.\nAt her father's request she became a general of an army.
+@9697.7
+As {02}{0C}3's right hand, she shone in battles across the land.
+@9698
+At her father's request she became a general leading an army.\n{01}C{E1}%
+@9699
+Mission Details
+@9700
+Victory Condition
+@9701
+Defeat Condition
+@9702
+Deadline
+@9703
+Blood Against Blood
+@9704
+Three Stars and a Line
+@9705
+Tosa's Princeling
+@9706
+Gather 10 Officers
+@9707
+Crush the Sworn Foe
+@9708
+March on Shimotsuke
+@9709
+Master of Shikoku
+@9710
+Three Thousand Guns
+@9711
+Rule 5 Provinces
+@9712
+Kanrei and Kubo of Kanto
+@9713
+Takeda Cavalry West
+@9714
+Master of Tohoku
+@9715
+Aim for 10,000 Koku
+@9717
+Yoshimoto to Kyoto
+@9718
+Battle of Kawanakajima
+@9719
+Hagakure
+@9720
+Undefeated Kyushu
+@9721
+Gather 30 Officers
+@9722
+Rule 10 Provinces
+@9723
+The Ishiyama War
+@9724
+Mori, Hero of the West
+@9725
+Regent Declaration
+@9726
+Tea Ware Collection
+@9727
+Is Kyoto Burning?
+@9728
+Yoshiaki's Folly
+@9729
+Farewell to Arms
+@9730
+Tohoku Master: Advanced
+@9731
+Kaga Ikko Uprising
+@9732
+Aim for 100,000 Koku
+@9733
+Seeing the Three Views
+@9734
+The One-Eyed Dragon
+@9735
+Road to Tenka Fubu
+@9736
+Warlords Rampant
+@9737
+Unify the Realm
+@9738
+You begin as Oda Nobunaga before the unification of Owari. Destroy his younger brother Nobuyuki's Oda clan. You may not use the [Powers] command (except Trade) or the [Ninja] command. Defeat the enemy daimyo without relying on gentry, temples and shrines, or other minor powers.
+@9739
+You begin as Mori Motonari before the unification of Aki-Bingo. Take every castle in Aki-Bingo (Yoshida-Koriyama, Hinoyama, Shintakayama). At the start the Mori and Kobayakawa are vassals of the Ouchi, and you cannot attack the Kobayakawa until you break free of the Ouchi. During battles, the neighbouring Ouchi and Amago may also join as reinforcements.
+@9740
+Choose a daimyo from Chosokabe Motochika, Motoyama Shigemune and Ichijo Kanesada of Tosa, and begin. Take every castle in Tosa (Oko, Aki, Nakamura Gosho).
+@9741
+You begin as Asakura Takakage, daimyo of Echizen-Wakasa. Raise the Asakura clan to 10 or more retainers. You start the game with 4 retainers.
+@9742
+You begin as Tsugaru Tamenobu, daimyo of Mutsu. Destroy the Nanbu clan, your sworn rival in the same province. You may not use the [Powers] command (except Trade) or the [Ninja] command. Defeat the enemy daimyo without relying on gentry, temples and shrines, or other minor powers.
+@9743
+You begin as Satake Yoshishige, daimyo of Hitachi. Take every castle in neighbouring Shimotsuke (Utsunomiya, Karasuyama, Karasawayama).
+@9744
+You begin as Chosokabe Motochika, daimyo of Tosa. Take every castle in Tosa, Awa, Sanuki and Iyo and unify Shikoku. At the start the Chosokabe have united Tosa and are the greatest daimyo of Shikoku, but mighty houses such as the Oda, Mori and Shimazu may cross the sea and invade Shikoku.
+@9745
+You begin as Oda Nobunaga, daimyo of Owari. Gather 3000 or more guns.
+@9746
+Choose a daimyo from those given and begin. Control 5 or more provinces in which the player daimyo holds every castle. It does not matter which provinces.
+@9747
+Begin as one of Uesugi Norimasa, Kanto Kanrei, his collateral kin Uesugi Tomoki, or Ashikaga Takamoto, Koga Kubo, and unify the 7 warring provinces of Kanto (Kozuke, Shimotsuke, Hitachi, Shimosa, Kazusa-Awa, Musashi, Sagami-Izu).
+@9748
+You begin as Takeda Katsuyori, who became head of the clan after Shingen's death. Destroy the Oda forces. You may not use the [Diplomacy] command.
+@9749
+Choose a daimyo from the Tohoku powers Date Terumune, Mogami Yoshiaki, Nanbu Harumasa and Ashina Moriuji, and begin. Unify the 7 provinces of Tohoku (Mutsu, Rikuchu, Rikuzen, Uzen, Ugo, Iwaki, Iwashiro).
+@9750
+Choose a daimyo from those given and begin. Bring your total yield to 10,000 koku or more. The shortcut to victory is to conquer provinces with higher yields while raising yield through cultivation.
+@9751
+You begin as Otomo Yoshishige, daimyo of Bungo. Gather 15 or more cannon (Kunikuzushi). The Otomo start with 3 cannon.
+@9752
+You begin as Imagawa Yoshimoto, finest bowman of the Tokaido. Achieve Yoshimoto's cherished wish and march on Kyoto.
+@9753
+You begin as Takeda Shingen, daimyo of Kai. Destroy your sworn rival Uesugi Kenshin. You may not use the [Diplomacy] command.
+@9754
+Choose a daimyo from Oda Nobunaga, Uesugi Kenshin and Hojo Ujiyasu, and begin. Have 3 retainers with the Swordsman skill.
+@9755
+You begin as Shimazu Yoshihisa, daimyo of Satsuma-Osumi. Unify the 8 provinces of Kyushu (Buzen, Bungo, Chikuzen, Chikugo, Hizen, Higo, Hyuga, Satsuma-Osumi) without losing a single battle. A defeat means that, when a battle ends, the player daimyo has no castle left in the province of battle.
+@9756
+Choose a daimyo from Imagawa Ujiteru of Suruga-Totomi or Nagao Tamekage of Echigo, and begin. Raise your retainers to 30 or more. At the start the Imagawa have 10 retainers and the Nagao 11.
+@9757
+Choose a daimyo from those given and begin. Control 10 or more provinces in which the player daimyo holds every castle. It does not matter which provinces.
+@9758
+You begin as Oda Nobunaga, risen from a petty daimyo of Owari to a powerful lord. Destroy the Hongan-ji, your sworn rival. You may not use the [Powers] command. Defeat the enemy daimyo without relying on gentry, temples and shrines, or other minor powers.
+@9759
+You begin as Mori Motonari, now the greatest house of Chugoku. As in "Undefeated Kyushu", unify the 7 provinces of Chugoku (Aki-Bingo, Suo-Nagato, Izumo-Iwami, Bizen-Bitchu, Mimasaka, Harima, Inabatajima) without losing a single battle. You may not use the [Magistrates] or [Corps] commands.
+@9760
+You begin as Ouchi Yoshitaka, of a noble house that rivals even the shogun's. Become Senior First Rank and Regent. The Ouchi start at Junior Fourth Rank, Lower Grade, Minister of War. Becoming Regent requires a total yield of 100,000 koku or more.
+@9761
+Choose a daimyo from Tokugawa Ieyasu, Date Terumune and Shimazu Yoshihisa, and begin. Collect a full set of tea utensils: a tea caddy, tea jar, tea kettle, tea bowl, flower vase, tea scoop and water jar, 7 in all.
+@9762
+You begin as Miyoshi Chokei, powerful daimyo of Kinai. Found the Miyoshi shogunate. To do so you need "close" relations with the Imperial Court, a court rank of Junior Third Rank or higher, and a total yield of 60,000 koku or more.
+@9763
+You begin as Ashikaga Yoshiaki, shogun of the setting Muromachi shogunate. Unify the 8 provinces of Kinai (Yamashiro, Settsu-Kawachi, Tanba-Tango, Harima, Iga, Yamato, Kii, Omi) and destroy the Oda clan that threatens the shogunate.
+@9764
+Choose a daimyo from Uesugi Kenshin, Asakura Yoshikage and Suzuki Sadayu, and begin. Collect a full set of arms among the treasures: a sword, spear, matchlock, longbow, short bow, armour and helmet, 7 in all.
+@9765
+Choose a daimyo from the Tohoku powers Date Terumune, Mogami Yoshiaki, Nanbu Harumasa and Ashina Moriuji, and begin. Unify the 7 provinces of Tohoku (Mutsu, Rikuchu, Rikuzen, Uzen, Ugo, Iwaki, Iwashiro). You may not use the [Powers] command (except Trade), the [Ninja] command or the [Diplomacy] command.
+@9766
+You begin as Hatakeyama Yoshinori, daimyo of Kaga-Noto. Defeat the Hongan-ji, your enemy within the same province, and unify Kaga-Noto.
+@9767
+Choose a daimyo from those given and begin. Bring the player daimyo clan's total yield to 100,000 koku or more. The shortcut to victory is to conquer provinces with higher yields while raising yield through cultivation.
+@9768
+You begin as Takeda Shingen, daimyo of Kai-Shinano. Take every one of the Three Views of Japan: Rikuzen, with Matsushima, Tanba-Tango, with Amanohashidate, and Aki-Bingo, with Miyajima.
+@9769
+You begin as Date Masamune, the One-Eyed Dragon. Take Yamashiro and march on Kyoto.
+@9770
+Choose a daimyo from Oda Nobunaga, Takeda Shingen, Nagao Kagetora, Hojo Ujiyasu and Imagawa Ujizane, and begin. Unify 17 provinces (Owari, Mino-Hida, Mikawa, Omi, Echizen-Wakasa, Ise-Shima, Kaga-Noto, South Shinano, North Shinano, Suruga-Totomi, Kai, Sagami-Izu, Musashi, Kozuke, Etchu, South Echigo, North Echigo). You may not use the [Powers] command (except Trade) or the [Ninja] command.
+@9771
+Choose a daimyo from those given and begin. Unify Kinai and the 11 provinces around it. Kinai and its 11 surrounding provinces are Yamashiro, Iga, Yamato, Settsu-Kawachi, Kii, Omi, Mino-Hida, Ise-Shima, Owari, Echizen-Wakasa and Kaga-Noto. You may not use the [Powers] command (except Trade) or the [Ninja] command.
+@9772
+Choose a daimyo from those given and begin. Unify the whole country by force within 7 years. Unification by making other houses your vassals, or by becoming a vassal yourself, does not count as a clear.
+@9773
+Destroy the Oda clan (Nobuyuki).
+@9774
+Hold all of Aki-Bingo: Yoshida-Koriyama, Hinoyama, Shintakayama.
+@9775
+Take every castle in Tosa (Oko, Aki, Nakamura Gosho).
+@9776
+Have 10 or more retainers.\n(The daimyo himself is not counted.)
+@9777
+Destroy the Nanbu clan.
+@9778
+Take every castle in Shimotsuke (Utsunomiya, Karasuyama, Karasawayama).
+@9779
+Take every castle in the 4 provinces of Tosa, Awa, Sanuki and Iyo.
+@9780
+Own 3000 or more guns.
+@9781
+Control 5 or more provinces in which you hold every castle.
+@9782
+Take every castle in the 7 provinces of Kozuke, Shimotsuke, Hitachi, Shimosa, Kazusa-Awa, Musashi and Sagami-Izu.
+@9783
+Destroy the Oda clan.
+@9784
+Take every castle in the 7 provinces of Mutsu, Rikuchu, Rikuzen, Uzen, Ugo, Iwaki and Iwashiro.
+@9785
+Bring total yield to 10,000 koku or more.
+@9786
+Own 15 or more cannon.
+@9787
+Take all castles in Yamashiro, Suruga-Totomi, Mikawa, Owari.
+@9788
+Destroy the Uesugi clan.
+@9789
+Have 3 or more retainers with the Swordsman skill.
+@9790
+Take every castle in the 8 provinces of Buzen, Bungo, Chikuzen, Chikugo, Hizen, Higo, Hyuga and Satsuma-Osumi, without losing a battle.
+@9791
+Have 30 or more retainers.\n(The daimyo himself is not counted.)
+@9792
+Control 10 or more provinces in which you hold every castle.
+@9793
+Destroy the Hongan-ji clan.
+@9794
+Take every castle in the 7 provinces of Aki-Bingo, Suo-Nagato, Izumo-Iwami, Bizen-Bitchu, Mimasaka, Harima and Inabatajima.
+@9795
+Become Senior First Rank and Regent.
+@9796
+Own at least one each of the treasures: tea caddy, tea jar, tea kettle, tea bowl, flower vase, tea scoop and water jar.
+@9797
+Found a shogunate.
+@9798
+Take every castle in the 8 provinces of Yamashiro, Settsu-Kawachi, Tanba-Tango, Harima, Iga, Yamato, Kii and Omi, and destroy the Oda clan.
+@9799
+Own at least one each of the treasures: sword, spear, matchlock, longbow, short bow, armour and helmet.
+@9801
+Take every castle in Kaga-Noto (Nanao, Oyama Gobo, Daishoji).
+@9802
+Bring total yield to 100,000 koku or more.
+@9803
+Take every castle in the 3 provinces of Rikuzen, Tanba-Tango and Aki-Bingo.
+@9804
+Take every castle in the 4 provinces of Yamashiro, Rikuzen, Uzen and Iwashiro.
+@9805
+Take all castles in Koshin, Tokai, Hokuriku, Sagami-Izu, Kozuke, Musashi, Omi (17 provinces).
+@9806
+Take all castles in Kinai, Mino-Hida, Ise-Shima, Owari, Echizen-Wakasa, Kaga-Noto (11 provinces).
+@9807
+Unify the realm by force.\n(Making others vassals, or becoming one, does not count.)
+@9808
+The player daimyo clan is destroyed.\nThe deadline is reached.
+@9822
+The player daimyo clan is destroyed.\nThe deadline is reached.\nThe player daimyo dies.
+@9825
+The player daimyo clan is destroyed.\nThe deadline is reached.\nThe player daimyo dies.\nYou lose a battle.
+@9829
+The player daimyo clan is destroyed.\nThe deadline is reached.\nYou lose a battle.
+@9843
+Month 8, 1557
+@9844
+Month 5, 1535
+@9845
+Month 5, 1561
+@9846
+Month 5, 1537
+@9847
+Month 4, 1574
+@9848
+Month 2, 1584
+@9849
+Month 2, 1585
+@9850
+Month 5, 1564
+@9851
+Month 5, 1538
+@9852
+Month 5, 1539
+@9853
+Month 4, 1577
+@9854
+Month 4, 1575
+@9855
+Month 1, 1550
+@9856
+Month 2, 1560
+@9857
+Month 8, 1559
+@9858
+Month 10, 1572
+@9863
+Month 4, 1572
+@9864
+Month 2, 1559
+@9865
+Month 5, 1542
+@9866
+Month 4, 1573
+@9867
+Month 5, 1565
+@9868
+Month 10, 1573
+@9872
+Month 4, 1580
+@9874
+Month 6, 1589
+@9876
+Month 1, 1552
+@9877
+Month 8, 1563
+@9878
+New treasures (Akenokoromo Katatsuki, Osaka Katatsuki, Tenkaichi Marutsubo)
+@9879
+New treasures (Jinno Shotoki, Essays in Idleness, Eighteen Histories)
+@9880
+Portrait Scroll 1
+@9881
+Portrait Scroll 2
+@9882
+Portrait Scroll 3
+@9883
+Portrait Scroll 4
+@9884
+New officers (Hojo Soun, Ota Dokan, Ohori Tsuru)
+@9885
+New treasures (Fukushima Ido, Bishamondo, Konchiin Ido)
+@9886
+Portrait Scroll 5
+@9887
+Portrait Scroll 6
+@9888
+Portrait Scroll 7
+@9889
+Portrait Scroll 8
+@9890
+New officers (Oishi Kuranosuke, Kira Kozukenosuke, Tokugawa Tsunayoshi)
+@9683
+Hetsugi Ginchiyo
+@9891
+Portrait Scroll 9
+@9892
+Portrait Scroll 10
+@9893
+Portrait Scroll 11
+@9894
+Portrait Scroll 12
+@9895
+New treasures (Taiko Survey, Suruga-ryu, Geishu-ryu)
+@9896
+New officers (Sasa Sukesaburo, Asaka Kakubei, Yanagisawa Yoshiyasu)
+@9897
+New scenario "Decisive Battle"
+@9898
+New treasures (Koshu Rivers, Etchu-ryu, Dewa-ryu)
+@9899
+New treasures (Mongol Inv., Fall&Winter, Tartary Map)
+@9900
+Portrait Scroll 13
+@9901
+Portrait Scroll 14
+@9902
+Portrait Scroll 15
+@9903
+Portrait Scroll 16
+@9904
+New treasures (Honganji Diary, Uwai Kakuken Diary, Nobunaga Koki)
+@9905
+New officers (Tomita Nobutaka's wife, Yamada Nagamasa, Sho Nei)
+@9906
+New treasures (Asaarashi, Heianjo Nagayoshi, Shinano no Kami Kunihiro)
+@9907
+New treasures (Nihon Shoki, Konjaku Monogatari, Gikeiki)
+@9908
+Portrait Scroll 17
+@9909
+Portrait Scroll 18
+@9910
+New treasures (Kagemusha, Gallic War Chronicle, Bishamonten Statue)
+@9911
+New officers (Ashikaga Takauji, Hojo Tokimune, Taira Masakado)
+@9912
+New scenario "Siege of Osaka"
+@9913
+New treasures (Akenokoromo, Osaka, Tenkaichi)
+@9914
+New treasures (Jinno Shotoki, Idle Essays, 18 Histories)
+@9919
+New officers (Hojo Soun, Ota Dokan, Ohori Tsuru)
+@9920
+New treasures (Fukushima Ido, Bishamondo, Konchiin Ido)
+@9925
+New officers (Oishi, Kira, Tokugawa Tsunayoshi)
+@9930
+New treasures (Taiko Survey, Suruga-ryu, Geishu-ryu)
+@9931
+New officers (Sasa, Asaka, Yanagisawa)
+@9933
+New treasures (Koshu Rivers, Etchu-ryu, Dewa-ryu)
+@9934
+New treasures (Mongol Inv., Fall&Winter, Tartary Map)
+@9939
+New treasures (Honganji, Uwai Diary, Nobunaga Koki)
+@9940
+New officers (Tomita's wife, Yamada, Sho Nei)
+@9941
+New treasures (Asaarashi, Heianjo, Kunihiro)
+@9942
+New treasures (Nihon Shoki, Konjaku, Gikeiki)
+@9945
+New treasures (Kagemusha, Gallic War, Bishamonten)
+@9946
+New officers (Ashikaga Takauji, Hojo Tokimune, Taira)
+@9950
+Chosokabe Motochika, Motoyama Shigemune, Ichijo Kanesada
+@9952
+Tsugaru Tamenobu
+@9956
+Nanbu Yasunobu, Date Tanemune, Asakura Takakage, Amago Tsunehisa, Shimazu Tadayoshi, etc.
+@9957
+Uesugi Norimasa, Uesugi Tomoki, Ashikaga Takamoto
+@9959
+Date Terumune, Mogami Yoshiaki, Nanbu Harumasa, Ashina Moriuji
+@9960
+Oda Nobuhide, Mori Motonari, Nanbu Harumasa, Azai Hisamasa, Amago Haruhisa, Chiba Masatane and others
+@9964
+Oda Nobunaga, Uesugi Kenshin, Hojo Ujiyasu
+@9966
+Imagawa Ujiteru, Nagao Tamekage
+@9967
+Satomi Yoshitaka, Ashina Moriuji, Date Terumune, Nanbu Harumasa, Satake Yoshishige and others
+@9971
+Tokugawa Ieyasu, Date Terumune, Shimazu Yoshihisa
+@9974
+Uesugi Kenshin, Asakura Yoshikage, Suzuki Sadayu
+@9977
+Mori Terumoto, Takeda Katsuyori, Uesugi Kenshin, Otomo Sorin, Hojo Ujimasa, Tokugawa Ieyasu and others
+@9980
+Oda Nobunaga, Takeda Shingen, Nagao Kagetora, Hojo Ujiyasu, Imagawa Ujizane
+@9981
+Oda Nobuhide, Saito Dosan, Asakura Takakage, Ashikaga Yoshiharu, Rokkaku Sadayori, Azai Hisamasa and others
+@9982
+Miyoshi Chokei, Otomo Yoshishige, Nagao Kagetora, Hojo Ujiyasu, Imagawa Yoshimoto, Takeda Harunobu and others
+@9983
+Prize officers and treasures will appear.
+@9984
+Prize officers and treasures will not appear.
+@9985
+Select the chapter to play
+@9986
+{1B}CYThis chapter cannot be selected yet{1B}CD
+@9987
+Select the mission to play
+@9988
+Start the mission. Is that all right?
+@9989
+Top prize updated
+@9990
+Clear date record updated
+@9991
+Fastest clear: month %d, %d
+@9992
+<Warlords Chapter - Guide>\nThe Warlords Chapter is the easiest chapter and has 7 missions. Start with the missions in this chapter. None of them should be very hard. Clear every mission to advance to the Heroes Chapter.
+@9993
+<Heroes Chapter - Guide>\nThe Heroes Chapter is the second easiest and has 7 missions. Some have strict clear conditions, but a player who has got used to the game should manage them. Clear every mission to advance to the Overlords Chapter.
+@9994
+<Overlords Chapter - Guide>\nThe Overlords Chapter is of middling difficulty and has 7 missions. From about here, missions with demanding conditions and a real challenge become more common. Clear every mission to advance to the Realm Chapter.
+@9995
+<Realm Chapter - Guide>\nThe Realm Chapter is the second hardest and has 7 missions. Its conditions, such as collecting treasures, are never straightforward. Confident players should give it a try. Clear every mission to advance to the Dream Chapter.
+@9996
+<Dream Chapter - Guide>\nThe Dream Chapter is the hardest and has 7 missions. Its conditions all come with strict deadlines and command restrictions. Without mastery of the game, clearing it will be difficult. Clear this chapter and aim to complete every mission.
+@9997
+<Heroes Chapter - Guide>\nYou cannot select the Heroes Chapter until you clear every mission in the Warlords Chapter.
+@9998
+<Overlords Chapter - Guide>\nYou cannot select the Overlords Chapter until you clear every mission in the Heroes Chapter.
+@9999
+<Realm Chapter - Guide>\nYou cannot select the Realm Chapter until you clear every mission in the Overlords Chapter.

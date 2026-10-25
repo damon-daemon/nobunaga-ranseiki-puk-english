@@ -1,0 +1,6 @@
+# chunk a: e610000 .. e63ffff (ELF UI labels: editors, settings, system menu)
+# key<TAB>English; \n = newline; "-" = keep the Japanese (debug text); ASCII only.
+# Smoke-test set (phase 6b port): settings-page / daimyo-select labels.
+e625d88	Demo Play
+e625d98	Scenario
+e625da8	Daimyo

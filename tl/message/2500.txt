@@ -1,0 +1,1116 @@
+@2784
+Assign officers to development, military or intrigue
+@2640
+{01}C{DE}{00}, that is most welcome. With this, I promise you the work will go much faster.
+@2640.1
+{01}C{DE}{00}! Lord {02}{0C}3, I am much obliged. With this the work will go much faster.
+@2642
+It seems bringing new techniques into the stonework has paid off. The walls have come out sturdier than I expected.
+@2642.1
+Thanks to the new castle-building methods, the repairs have come along wonderfully.
+@2643
+{01}C{DE}{00}, splendid progress this month. At this rate it will be a fine castle. Well done, everyone.
+@2643.1
+{01}C{D6}{00}, the work went very well today. At this rate it will be a fine castle.
+@2644
+I designed it with war in mind, and that seems to have paid off. A castle is the heart of the defence; the sturdier it is, the better.
+@2644.1
+It is only when a castle's defences are firm that one can sally out. And what fine work this is. Everyone has done a splendid job.
+@2645
+I am no good at war... So I must show my worth in work like these repairs. Right, one more job before I rest.
+@2645.1
+I have no confidence at all in the art of war, but castle building I know a little. Let me put in one more good effort.
+@2646
+{01}C{DE}{00}, to think it would go so well... I had my worries about trying new techniques, but it seems I fretted for nothing.
+@2646.1
+When it comes to castle works, this is where {02}{0B}3 shines. If I show my lord what I can do here, my fief may grow.
+@2647
+The repairs have come a long way this month. At this rate we may finish ahead of schedule.
+@2647.1
+{01}C{DE}{00}, what truly splendid stone walls these are. My lord is sure to be satisfied with this.
+@2648
+Think of how one attacks a castle and its weak points show themselves. Reinforce those and the effect is enormous.
+@2648.1
+Directing repairs is not so different from directing a battle. Leave it to me and it is no trouble at all.
+@2649
+Yes, castle walls must be kept in good order. {01}C{D6}{00}, let me compose a verse. "This castle here, / I think of as my own, / when I know its walls / are without a single gap."
+@2649.1
+Castle repairs turn out to be more fun than I expected. Perhaps I should rebuild my own hall next.
+@2650
+{01}C{0B}{00}! The castle repairs have come a long way this month. The defences are firmer than ever.
+@2650.1
+Good, good, all went well this month. It will be a better castle than we planned. {01}C{0B}{00} must be pleased too.
+@2650.2
+I have not done any repair work lately, but it is good to work up a sweat like this now and then.
+@2650.3
+The weather is fine today and the work is going well. At this rate it will be a splendid castle.
+@2652
+It seems my wounds have not healed. The repair work takes its toll. I cannot push myself yet.
+@2652.1
+It seems my wounds have not yet healed. I cannot work as I would like...
+@2653
+It seems my illness has not passed. The repair work takes its toll. I cannot push myself yet.
+@2653.1
+It seems my illness has not yet passed. I cannot work as I would like...
+@2654
+{01}C{DD}{00}... It seems we repaired the wrong places... It is as if we had done nothing at all.
+@2654.1
+Something is wrong... It should all be going to plan, but... {01}C{DD}{00}, was the design mistaken? The repairs will have to be done over...
+@2655
+{01}C{DD}{00}... How could I have gone so wrong? The castle repairs did not go well... They will have to be done again.
+@2655.1
+The castle repairs did not go well... It seems the design was flawed... And I failed to notice such a thing...
+@2656
+{01}C{DD}{00}... I was thinking only of siege warfare and placed the towers wrongly. To think I would make such a blunder...
+@2656.1
+What, to end up like this... It seems castle repairs have their own difficulties, quite unlike war...
+@2657
+{01}C{DD}{00}, castle building is my only talent, and yet I have failed like this... How shall I report this to my lord...
+@2657.1
+Even at {01}C{0B}{00}'s command, my body cannot keep up with this... I am clearly not suited to castle repairs...
+@2658
+{01}C{DD}{00}... However sound the plan, it is not sure to succeed. Repairs are as hard as war.
+@2658.1
+{01}C{DD}{00}... Rushing the work to make up lost time was our undoing. There are cracks all over the walls...
+@2659
+{01}C{DD}{00}, I thought new techniques would make the walls stronger, but it has backfired...
+@2659.1
+{01}C{DD}{00}, the castle repairs did not go well. And I failed to notice such a thing...
+@2660
+With me here we will not lose, castle or no castle. Reinforcing it is nothing but a nuisance...
+@2660.1
+Outside of war I understand little. What was my lord thinking, leaving the repairs to me...
+@2661
+Ow, ow, ow... I have put my back out. I can do no work like this.
+@2661.1
+Now, that does not go there. That is for repairing the stone walls. And you, over here. Oh, We cannot bear it!!
+@2661.2
+Hey, do not bump into Us. You will dirty Our robes! Away, away with you!!
+@2662
+{01}C{DD}{00}... I tried a new technique to strengthen the walls, but it seems it did not work. Castle repairs are hard work...
+@2662.1
+It seems castle repairs simply do not suit me...
+@2662.2
+{01}C{DD}{00}... It seems I misjudged the budget for the repairs. We have not finished even half of what was planned...
+@2662.3
+A crooked merchant swindled us and made off with most of the repair funds... How shall I report this...
+@2662.4
+Cutting corners on the costs has backfired... Cheap work is no good after all...
+@2664
+With me training them myself, the men are all in earnest. The day they distinguish themselves in battle is near.
+@2664.1
+The men seem to have grasped what war is all about. The enemy will not easily unsettle them now.
+@2665
+The exercises we ran this time seem to have paid off. The men move far better than before.
+@2665.1
+Having been drilled by me, the men's faces have grown sharper. They will fight well as an elite force.
+@2666
+We trained as if in real battle, and it seems to have paid off. At this rate they will soon be an elite force.
+@2666.1
+Somehow the men's faces have changed. And how well they move. All the fruit of training.
+@2667
+I am no good at domestic affairs... So I must show my worth in work like drilling troops. Right, one more effort.
+@2667.1
+Commanding troops is the one thing I am confident in, and training them too. My lord will be pleased to see how these men move.
+@2668
+I tried a new training method and it seems to have worked. How I wish my lord could see them march in perfect order.
+@2668.1
+When it comes to drilling troops, this is where {02}{0B}3 shines. If I show my lord what I can do here, my fief may grow.
+@2668.2
+Everyone has a field they excel in. My lord has a fine eye for men, entrusting the training to me.
+@2669
+I drilled them to form up as the battle demands, and it seems to have worked. They will distinguish themselves in the field.
+@2669.1
+Everyone moves much better now. At this rate we may finish ahead of schedule.
+@2670
+I am no good at war, but this training seems to have gone well. I can report to my lord with my head held high.
+@2670.1
+Directing the townsfolk seems to have come in useful. The training went just as I wished.
+@2671
+{01}C{D6}{00}, a march in perfect order. A fine sight. All the fruit of my instruction.
+@2671.1
+Drilling troops turns out to be more fun than I expected. It feels good to see everyone move as I command.
+@2672
+The weather is fine today and the training is going well. At this rate we may finish ahead of schedule.
+@2672.1
+{01}C{D6}{00}, the men's faces have grown sharper still. This training has been well worth it.
+@2672.2
+The hard training seems to be bearing fruit. Everyone has grown beyond recognition.
+@2672.3
+The men all learn quickly, and the training is going even better.
+@2674
+With me training them myself, the men all seem to have frozen up. This is no training at all...
+@2674.1
+They do not seem to understand that war is a matter of life and death... Such half-hearted training will do no good...
+@2675
+The men seem to be tired. It cannot be helped. This time I shall let them rest.
+@2675.1
+{01}C{DD}{00}... It is not going well... It seems we must start again from the basics...
+@2676
+{01}C{DD}{00}, it is not going to plan. Where did I go wrong... I must rethink the training plan...
+@2676.1
+The men seem unsettled. Teaching them the horrors of war seems to have done the opposite of what I intended...
+@2677
+I was too eager to show off my skill. With so many injured, there is no training to be had...
+@2677.1
+I was confident in training troops, but... It seems I drove them too hard. None of them can move.
+@2678
+I brought in a new training method, but the results are poor... What a failure for a man like me.
+@2678.1
+{01}C{DD}{00}... It seems I got the plan wrong. Training troops is harder than it looks...
+@2678.2
+However sound the plan, it is not sure to succeed. Thank goodness this was not a real battle...
+@2679
+I am confident in my own skill, but when it comes to teaching others, it does not go well at all...
+@2679.1
+I tried to drill them in formations, but the men know nothing of formations at all. It was never going to work...
+@2680
+{01}C{DD}{00}, it is not like domestic affairs. I am simply not suited to drilling troops...
+@2680.1
+I am not used to handling weapons myself. How could I ever teach them properly...
+@2681
+Now, you are common foot soldiers, are you not? Why will you not move as We say! This is why We cannot abide the lower orders...
+@2681.1
+Why should We be the one to run training... We can only put Our heart into elegant pursuits.
+@2682
+The men lack spirit... However hard I try, the training will not move forward like this...
+@2682.1
+{01}C{DD}{00}, the men are not improving... Training is harder than it looks.
+@2682.2
+I tried a hard training regime, but it seems to have backfired... Everyone is exhausted.
+@2682.3
+The men will not listen... Whether my teaching is at fault I cannot say, but this will do no good...
+@2684
+{01}C{0B}{00}, %s has finished developing its lands. It will hold its defences until new orders come.
+@2684.1
+{01}C{0B}{00}, the development of our lands is finished. From now on %s will defend our territory.
+@2685
+{01}C{0B}{00}, %s has lost its target in {02}y2. From now on it will hold the defences at home.
+@2686
+It seems %s cannot restore its troops for lack of rice. Rice should be delivered this month, so we must not waste it...
+@2686.1
+%s cannot restore its troops for lack of rice. Rice should be delivered this month, so we must not waste it...
+@2687
+It seems %s cannot restore its troops for lack of rice. Something must be done...
+@2687.1
+%s cannot restore its troops for lack of rice. Something must be done...
+@2687.2
+{01}C{0B}{00}! %s cannot restore its troops for lack of rice.
+@2689
+It seems the epidemic in {02}y2 means the troops cannot be restored. I hope it passes soon...
+@2689.1
+The epidemic in {02}y2 means the troops cannot be restored. I hope it passes soon...
+@2689.2
+{01}C{0B}{00}! The epidemic in {02}y2 means the troops cannot be restored.
+@2690
+It seems the epidemic in {02}y2 is thinning the troops. I hope it passes soon...
+@2690.1
+The epidemic in {02}y2 seems to be thinning the troops. I hope it passes soon...
+@2690.2
+{01}C{0B}{00}! The epidemic in {02}y2 is thinning the troops.
+@2726
+{1B}CYThere is no fief to grant{1B}CD
+@2727
+{1B}CYThere is no officer whose fief can be raised{1B}CD
+@2728
+{1B}CYThere is no officer whose fief can be cut{1B}CD
+@2729
+{1B}CYThere are no treasures{1B}CD
+@2730
+{1B}CYThere is no officer to pass the headship to{1B}CD
+@2731
+{1B}CYThere is no princess who can be adopted{1B}CD
+@2732
+{1B}CYThere is no officer who can be adopted{1B}CD
+@2733
+{1B}CYYou rule only one province, so no one can move{1B}CD
+@2734
+{1B}CYThe corps rules only one province, so no one can move{1B}CD
+@2735
+{1B}CYThere is no primer{1B}CD
+@2736
+{1B}CYYou hold no castle in a province where one can train{1B}CD
+@2737
+{1B}CYThere is no officer who can be banished{1B}CD
+@2738
+{1B}CYThere is no officer who can carry this out{1B}CD
+@2739
+{1B}CYThere is no province you can invade{1B}CD
+@2740
+{1B}CYThis corps has already marched out{1B}CD
+@2741
+{1B}CYNot enough gold and rice to march out{1B}CD
+@2742
+{1B}CYA baggage train alone cannot march out{1B}CD
+@2743
+{1B}CYNot enough prestige to form a new corps{1B}CD
+@2744
+{1B}CYThere is no province in which to form a new corps{1B}CD
+@2745
+{1B}CYNot enough gold to form a new corps{1B}CD
+@2746
+{1B}CYOfficers are in the field, so no new corps can be formed{1B}CD
+@2747
+{1B}CYNo more corps can be formed{1B}CD
+@2748
+{1B}CYThere is only one corps, so this cannot be done{1B}CD
+@2749
+{1B}CYOfficers are in the field, so provinces cannot be shared out{1B}CD
+@2750
+{1B}CYThere is no province to share out{1B}CD
+@2752
+{1B}CYThere is no corps to reappoint{1B}CD
+@2754
+{1B}CYThere is no daimyo house to send tribute to{1B}CD
+@2755
+{1B}CYThere is no gold or treasure to send as tribute{1B}CD
+@2756
+{1B}CYThere is no princess who can be married{1B}CD
+@2757
+{1B}CYThere is no daimyo house to marry into{1B}CD
+@2758
+{1B}CYThere is no daimyo house to threaten{1B}CD
+@2759
+{1B}CYOur house is a vassal house, so it cannot threaten{1B}CD
+@2760
+{1B}CYThere is no daimyo house to submit to{1B}CD
+@2761
+{1B}CYOur house rules over others, so it cannot submit{1B}CD
+@2762
+{1B}CYOur house is already a vassal house, so it cannot submit{1B}CD
+@2763
+{1B}CYThe shogunate cannot submit{1B}CD
+@2764
+{1B}CYOnly a vassal house can secede{1B}CD
+@2765
+{1B}CYThere is no post to appoint{1B}CD
+@2766
+{1B}CYOnly the shogunate can appoint{1B}CD
+@2767
+{1B}CYThere is no daimyo house to appoint{1B}CD
+@2768
+{1B}CYOnly the shogunate can punish{1B}CD
+@2769
+{1B}CYThere are no merchants{1B}CD
+@2770
+There are no ninja
+@2771
+{1B}CYNo more ninja can be requested{1B}CD
+@2772
+{1B}CYThere is no ninja school to request from{1B}CD
+@2773
+{1B}CYThere are no ninja{1B}CD
+@2774
+{1B}CYThere are no ninja on standby{1B}CD
+@2775
+{1B}CYThere are no ninja in hiding{1B}CD
+@2776
+{1B}CYThere is no province to move to{1B}CD
+@2777
+{1B}CYThere are no minor powers to negotiate with{1B}CD
+@2778
+{1B}CYThe 1st Corps does not have enough gold{1B}CD
+@2779
+{1B}CYThere is no province to survey{1B}CD
+@2780
+{1B}CYThere are no princesses{1B}CD
+@2783
+{1B}CYOnly the 1st Corps can do this{1B}CD
+@2785
+Develop your lands to raise gold and rice
+@2786
+Train troops and patrol your lands
+@2787
+Recruit ronin and plot against other houses
+@2788
+Manage your officers
+@2790
+Grant a fief to an officer
+@2791
+Take away an officer's fief
+@2792
+Give treasures to officers or confiscate them
+@2793
+Pass the headship to one of your kin
+@2794
+Marry an officer to a princess, making him kin
+@2795
+Move an officer to another province
+@2796
+Send an officer to train and learn a new unit type
+@2797
+Banish an officer
+@2798
+Organise unit types and march out
+@2799
+Change an officer's unit type
+@2800
+Invade another power
+@2801
+Form new corps and transport supplies
+@2802
+Form a new corps
+@2803
+Change the provinces each corps rules
+@2804
+Merge two corps into one
+@2805
+Change a corps commander
+@2806
+Transport supplies between two corps
+@2807
+Give each corps commander a policy
+@2808
+Conduct diplomacy with other daimyo houses
+@2809
+Send tribute to another house to raise friendship
+@2810
+Marry a princess into another house to form a tie
+@2811
+Threaten another house into becoming your vassal
+@2812
+Submit to another daimyo house
+@2813
+Secede from your overlord house
+@2814
+Appoint another house to a shogunate post
+@2815
+Issue a punitive order
+@2816
+Trade supplies and treasures with merchants
+@2817
+Send ninja to gather information
+@2818
+Borrow ninja or send them to infiltrate
+@2820
+Recall ninja from infiltration
+@2821
+Move infiltrating ninja to another province
+@2822
+Negotiate and trade with minor powers
+@2823
+Aid minor powers or make requests of them
+@2824
+Reduce gentry lands and raise your own yield
+@2825
+Borrow ninja from a ninja school
+@2826
+Trade with Ming China
+@2827
+Show information on officers, daimyo and more
+@2828
+Show information on officers
+@2829
+Show information on daimyo
+@2830
+Show information on corps
+@2831
+Show information on minor powers
+@2832
+Show information on provinces
+@2833
+Show information on castles
+@2834
+Show information on notables
+@2835
+Show information on princesses
+@2836
+Show information on treasures
+@2837
+Show information on court titles
+@2838
+View information on castles and provinces
+@2839
+Save, load and change settings
+@2840
+Show help and check the council objective
+@2850
+Return to the title screen?
+@2851
+Stop an uprising
+@2852
+Patrol the province and find other houses' ninja
+@2853
+Receive gold
+@2854
+Take a notable into your service
+@2855
+Relations improve if you have given aid
+@2856
+Improve your relations with nearby powers
+@2857
+Turn minor powers against the target house
+@2858
+Allows trading
+@2859
+Infiltrate other houses and steal gold
+@2860
+Raid other houses' coasts for gold and rice
+@2861
+Levy troops from minor powers to refill your squads
+@2862
+Have a nearby sea area's navy start a sea battle
+@2863
+Receive gold or treasures (needs 1000 gold)
+@2864
+Request the grant of a court title
+@2865
+Choose the daimyo house to work against
+@2866
+Choose the daimyo house to plot against
+@2867
+Choose the sea area to advance into
+@2868
+Focus on building up troops
+@2869
+Focus on building up the province
+@2870
+Attack the chosen daimyo house
+@2871
+Give orders directly instead of delegating
+@2872
+Choose a merchant to trade with
+@2873
+Choose the officer who will trade
+@2874
+Choose what to trade
+@2875
+Choose the treasure to buy from the merchant
+@2876
+Choose the treasure to sell to the merchant
+@2877
+Choose the province whose corps will change
+@2878
+Cancel the sharing out. Is that all right?
+@2879
+Choose the officer whose fief will be raised
+@2880
+Choose the fief to grant
+@2881
+Choose the officer whose fief will be cut
+@2882
+Choose the fief to cut
+@2883
+Choose an envoy
+@2884
+Send the envoy. Is that all right?
+@2885
+Choose the officer to adopt
+@2886
+Choose the princess to adopt
+@2887
+Carry out the adoption. Is that all right?
+@2888
+Choose the corps to merge
+@2889
+Choose the corps to merge it into
+@2890
+Merge the corps. Is that all right?
+@2891
+Choose the province for military affairs
+@2892
+Choose an officer
+@2893
+Choose a task
+@2894
+Choose the ninja school to request from
+@2895
+Request ninja. Is that all right?
+@2896
+Choose the officer whose unit type will change
+@2897
+Choose a unit type
+@2898
+Choose the corps to give a policy to
+@2899
+Set the policy
+@2900
+Choose the target castle
+@2901
+Choose the province to move from
+@2902
+Choose the province to move to
+@2903
+Choose the officers to move
+@2904
+Carry out the move. Is that all right?
+@2905
+Choose the officer to succeed as head
+@2906
+Retire. Is that all right?
+@2907
+Choose the daimyo house to send an envoy to
+@2910
+Choose the officer whose treasures will change
+@2911
+Set the treasures the officer holds
+@2912
+Choose a treasure
+@2913
+Choose the province to develop
+@2916
+Choose the province for the stratagem
+@2919
+Choose the daimyo house to poach from
+@2920
+Choose the officer to poach
+@2921
+Choose the daimyo house to target with the uprising
+@2922
+Choose the gentry to survey
+@2923
+Choose the officer to carry out the survey
+@2924
+Carry out the survey. Is that all right?
+@2925
+Choose the daimyo house to marry into
+@2927
+Choose a princess
+@2929
+Choose the power to negotiate with
+@2937
+Choose the tribute
+@2941
+Choose the ninja to move
+@2943
+Move the ninja. Is that all right?
+@2944
+Choose the province of the ninja to recall
+@2945
+Choose the ninja to recall
+@2946
+Recall the ninja. Is that all right?
+@2947
+Choose the province for the ninja to infiltrate
+@2948
+Choose the ninja to infiltrate
+@2949
+Send the ninja to infiltrate. Is that all right?
+@2952
+Choose the post to appoint to
+@2954
+Choose the corps whose commander will change
+@2955
+Choose the new corps commander
+@2956
+Change the corps commander. Is that all right?
+@2957
+Choose the provinces the new corps will rule
+@2958
+Choose a corps commander
+@2959
+Form the new corps. Is that all right?
+@2960
+Choose the minor power to train with
+@2961
+Choose the officer to train
+@2962
+Send the officer to train. Is that all right?
+@2963
+Choose the castle to attack
+@2964
+Choose the castle to march out from
+@2965
+Choose the officers to march out (up to %d)
+@2966
+March out. Is that all right?
+@2967
+Choose the daimyo house to ask to join forces
+@2968
+Ask them to join forces. Is that all right?
+@2969
+Choose the officer to banish
+@2970
+Banish the officer. Is that all right?
+@2971
+Choose the first corps for the transport
+@2972
+Choose the second corps for the transport
+@2973
+Share out the corps' supplies
+@2974
+Choose the daimyo house to punish
+@2976
+Carry out the punishment. Is that all right?
+@2977
+Choose the daimyo to punish from the map
+@2978
+Raise fiefs automatically
+@2979
+Aid the Imperial Court or make requests of it
+@2980
+There is no province where you hold every castle
+@2981
+Only the 1st Corps can do this
+@2982
+There is no officer who can carry this out
+@2983
+There are no court nobles
+@2984
+You have already negotiated this month
+@2985
+You already hold the office of Regent
+@2986
+{1B}CYThere is no daimyo who can be punished{1B}CD
+@2987
+{1B}CYA punitive order has already been issued{1B}CD
+@2988
+{1B}CYNot enough funds{1B}CD
+@2989
+{1B}CYOnly the 1st Corps can do this{1B}CD
+@2990
+{1B}CYThe daimyo has already acted{1B}CD
+@2991
+Reduce a temple's size and wipe it out
+@2992
+{1B}CYThere is no temple that can be burned{1B}CD
+@2994
+Choose the temple to burn
+@2995
+Choose the officer to carry out the burning
+@2996
+Burn the temple. Is that all right?
+@2997
+Give gold and rice to a vassal
+@2998
+{1B}CYThere is no vassal who can be rewarded
+@2999
+{1B}CYThere is no gold or rice to give as a reward
+@2511
+Enough! I will not forgive them for sheltering {02}{0F}3, who insulted me! The {02}{0E}5 house shall be destroyed!
+@2549
+The uprising of the {02}o2 has thrown the castle town of {02}y2 into chaos... Taxes cannot be collected like this. We must act quickly...
+@2574.1
+This month's work seems to be going well. I have some confidence in directing the clearing. Time to show my skill.
+@2500
+"Toyotomi"...? "Toyotomi," is it? But does not Lord {02}{0B}3 now bear the Fujiwara name...
+@2501
+I put into this name a wish for "heaven and earth long enduring, all the people happy." As Regent, I have become ruler of the realm in name and fact.
+@2502
+My wish is to make an age without war. If I bore an old name like Minamoto, Taira, Fujiwara or Tachibana, my intent would not reach people...
+@2503
+So through the name "Toyotomi" I want to convey my wish to all. Do you understand?
+@2504
+Understood! I shall work to obtain the imperial permit granting the "Toyotomi" name.
+@2505
+Some time later, the imperial permit granting the name "Toyotomi" came down to {02}{0B}3, and {02}{0B}2 changed his name to Toyotomi {02}{0B}3.
+@2506
+When the local lord {02}{0F}2, who had served {02}{0E}2, broke his vassalage, {02}{0C}2 was furious and at once invaded {02}{0F}5 territory.
+@2507
+Here {02}{0C}3 carried out a "massacre". {02}{0F}3 fled to {02}{0E}3. This incident would grow into a great affair that shook the {02}{0C}5 clan...
+@2508
+My lord, {02}{0E}2 has sued for peace. What will you do?
+@2509
+No peace whatsoever! I shall trample the castles of the {02}{0E}5 clan to dust!
+@2510
+But... If we take a hard line against those who seek peace, it may breed resentment later.
+@2512
+{02}{0C}3... Could you not accept the peace offered by {02}{0E}3?
+@2513
+But Father... As things stand, the other commanders will despise me.
+@2514
+Once, in a battle, I borrowed troops from {02}{0E}3. I am in his debt... Please, forgive him for my sake.
+@2515
+...I understand. If Father says so much, it cannot be helped.
+@2516
+A few days later... {02}{0E}3 visited the retirement lodge of {02}{0B}3 to thank him for arranging the peace.
+@2517
+Thank you for your trouble in this matter. I, {02}{0E}3, cannot thank you enough.
+@2518
+Well come. Come in, come in.
+@2519
+The talks went forward in a friendly mood. But...
+@2520
+My lord, my lord...
+@2521
+What is it, you look pale. Has something happened?
+@2522
+The {02}{0C}5 clan means to kill us. Drunken soldiers were sharpening their swords behind the mansion.
+@2523
+What! So that was their aim. If {02}{0C}3 takes that attitude, I have a plan of my own...
+@2524
+The talks ended, and it was time for {02}{0E}3 to leave. {02}{0B}3 and {02}{0E}3 walked shoulder to shoulder to the entrance, when!
+@2525
+Lord {02}{0B}3! I hear you were plotting to strike me down by treachery...!
+@2526
+What? What are you saying...? Wh-whoa! What are you doing!!
+@2527
+Hahaha! That {02}{0C}3, this is the reward for your tricks! Everyone! Hurry back to {02}{0E}5 territory!!
+@2528
+{02}{0E}3 took {02}{0B}3 hostage and fled toward {02}{0E}5 territory. {02}{0C}3 got the report while hawking and set off at once in pursuit with his troops.
+@2529
+Good, a little more and we are in our own {02}{0E}5 land... Hm? What is that...
+@2530
+Father!!
+@2531
+{02}{0C}3! Oh, you have brought the gunners! Have them fire! Pay no heed to me!
+@2532
+Father...
+@2533
+My lord, there is no time to hesitate. Decide at once!
+@2534
+{02}{0C}3, what are you doing! Do not hesitate! If you hesitate you will leave trouble for later!
+@2535
+Silence, be silent!
+@2536
+Father... Father, forgive me... Gunners, forward!!
+@2537
+Fire!!!
+@2538
+...Ugh, so this is the end... Then I shall drag {02}{0B}3 to hell with me. Die!!
+@2539
+Guh!...
+@2540
+Fatheeer!!
+@2541
+{02}{0E}3 stabbed {02}{0B}3 to death and then took his own life. {02}{0B}3 gave his life to teach his son {02}{0C}3 the harshness of this age of war.
+@2543
+
+@2546
+
+@2546.1
+
+@2547
+{02}y2 has no income because of the uprising of the {02}o2.
+@2548
+{02}y2 has no income because of the uprising of the {02}[2.
+@2549.1
+{01}C{DD}{00}, an uprising of the {02}o2 has broken out in {02}y2 and our income has dried up... Something must be done.
+@2549.2
+{01}C{DD}{00}, the {02}o2 uprising... Something must be done. At this rate we cannot collect taxes in {02}y2...
+@2549.3
+The {02}o2 dare rise against us... We cannot bear to lose the tax income of {02}y2 like this... We cannot leave it alone.
+@2549.4
+The uprising in {02}y2, we must act quickly. We cannot bear losing our income like this. It seems there is nothing for it but to strike the {02}o2.
+@2550.1
+{01}C{DD}{00}, an uprising of the {02}o2 has broken out in {02}y2 and our income has dried up... What am I to say to my lord?
+@2550.3
+The {02}o2 dare rise against us... We cannot bear to lose the tax income of {02}y2 like this... We cannot leave it alone.
+@2550.4
+The uprising in {02}y2, we must act quickly. We cannot bear losing our income like this. I shall report to {01}C{0B}{00} and prepare to strike the {02}o2.
+@2552
+The uprising of the {02}[2 has thrown the castle town of {02}y2 into chaos... Taxes cannot be collected like this. We must act quickly...
+@2552.1
+{01}C{DD}{00}, an uprising of the {02}[2 has broken out in {02}y2 and our income has dried up... Something must be done.
+@2552.2
+{01}C{DD}{00}, the {02}[2 uprising... Something must be done. At this rate we cannot collect taxes in {02}y2...
+@2552.3
+The {02}[2 dare rise against us... We cannot bear to lose the tax income of {02}y2 like this... We cannot leave it alone.
+@2552.4
+The uprising in {02}y2, we must act quickly. We cannot bear losing our income like this. It seems there is nothing for it but to strike the {02}[2.
+@2553.1
+{01}C{DD}{00}, an uprising of the {02}[2 has broken out in {02}y2 and our income has dried up... What am I to say to my lord?
+@2553.4
+The uprising in {02}y2, we must act quickly. We cannot bear losing our income like this. I shall report to {01}C{0B}{00} and prepare to strike the {02}[2.
+@2555
+Lord {02}{0B}2! Famine is reducing the stored rice at %s.
+@2556
+The %s at {02}{97}2 seems to have been mined out.
+@2557
+The %s at {02}{97}2 has become an abandoned mine.
+@2558
+{01}C{DD}{00}, our gold has run dry... We cannot pay the retainers their stipends like this. Something must be done...
+@2558.1
+{01}C{DD}{00}, we seem short of gold... Unless something is done, we cannot even give the retainers their stipends.
+@2558.2
+Now what is to be done... At this rate we cannot even give stipends. We must raise gold somehow...
+@2558.3
+{01}C{DD}{00}, this is trouble... Our gold has run dry. Something must be done, or we cannot give out stipends.
+@2559
+{01}C{DD}{00}, our gold has run dry... We cannot pay the retainers their stipends like this. If only {01}C{0B}{00} would send us some gold...
+@2559.1
+{01}C{DD}{00}, we seem short of gold... Unless something is done, we cannot even give the retainers their stipends. We have no choice but to have gold sent...
+@2559.3
+{01}C{DD}{00}, this is trouble... Our gold has run dry. Something must be done, or we cannot give out stipends...
+@2561
+I cannot endure such treatment. One day I shall make them pay...
+@2561.1
+To make so light of me... Remember this. One day I shall make you suffer for it...
+@2561.2
+It seems {01}C{0B}{00} means to keep me as a pet and let me rot... Then I might as well give up on the {02}{0B}k...
+@2561.3
+What reasoning is it, to grant me no fief? Cut the fiefs of the others instead! I shall not forget this humiliation...
+@2561.4
+{01}C{0B}{00} grants me no fief at all. Is there any point in serving the {02}{0B}k when treated like this...
+@2561.5
+After all, even {01}C{0B}{00} cannot think of the feelings of those below. I may have picked the wrong master to serve...
+@2561.6
+Not a scrap of fief... It seems my lord does not favour me. Then perhaps I should leave this place so he need not see my face...
+@2561.7
+What am I working for, in the end...? Is {01}C{0B}{00} making a fool of me...
+@2561.8
+Not a scrap of fief... My future is dark. Is there no daimyo who would take me on at a high stipend...?
+@2562
+Well, time to start clearing land in {02}y2. I am good at clearing land, yet somehow it does not go smoothly...
+@2562.1
+I must clear land in {02}y2, but I somehow cannot get into it... I am poor at clearing land, after all.
+@2563
+Well, time to start clearing land in {02}y2. If only I could focus on directing, I could put my knowledge to use...
+@2563.1
+Let us start opening new paddies in {02}y2. Yet with a few more hands it would be more effective still...
+@2564
+Well, time to start clearing land in {02}y2. The question is how to put my farming knowledge to use.
+@2564.1
+Well then, time to start clearing land in {02}y2.
+@2566
+{01}C{D6}{00}, Lord {02}{0C}3, you seem to be in trouble. If you show me the way, we will help too.
+@2566.1
+{02}{0C}3, you seem troubled that the clearing is not going well. If you like, we will help too.
+@2567
+Lord {02}{0C}3, in that case we shall help. I am also greatly interested in your technique.
+@2567.1
+{02}{0C}3, in that case let us help! For the sake of {02}y2's growth, we spare no effort.
+@2568
+Lord {02}{0C}3, it has been a while. Are you about to open new paddies? If you like, we will help too.
+@2568.1
+{02}{0C}3, clearing work, is it? Then let us help! For the sake of {02}y2's growth, we spare no effort.
+@2570
+{01}C{DE}{00}, thank you! In truth, the work was not going well and I was troubled. Lord {02}{0C}3 must know this area well. I rely on you.
+@2570.1
+{01}C{DE}{00}, much obliged! The work was not going well and I was troubled. {02}{0C}3, I rely on you.
+@2571
+Lord {02}{0C}3, is that true? Then let us begin the work at once. Pray watch my technique closely.
+@2571.1
+{01}C{DE}{00}, {02}{0C}3! That is unkind, you were listening, were you not? But I am grateful for the offer. I would gladly have your help.
+@2572.1
+{01}C{DE}{00}! {02}{0C}3, this is most kind of you. Now the work will go faster.
+@2574
+Clearing land blindly is useless. If you level the ground and work efficiently, the clearing goes quickly like this.
+@2575
+{01}C{DE}{00}, this month's progress is splendid. I look forward to the autumn harvest. Well done, everyone.
+@2575.1
+{01}C{D6}{00}, the work goes so well today. At this rate a bumper harvest is certain.
+@2576
+Tilling leads to food, food to the body, and the body to battle. The basics matter in everything.
+@2576.1
+{01}C{D6}{00}, I seem to have been a little too eager. Rice and troops are the same in a way: the one who holds the most survives in the end.
+@2577
+I am poor at war... so I must show my worth in work like clearing land. Right, one more job.
+@2577.1
+I have no confidence in the art of war, but I do know something of fieldwork. Let me put in one more effort.
+@2578
+When it comes to clearing land, it is my turn, {02}{0B}3. If I show my lord good work here, my fief may even grow.
+@2578.1
+Every man has his strengths. My lord, who left the clearing to me, has an eye for men. That is all there is to it.
+@2579
+{01}C{DE}{00}, what splendid new paddies have been made. My lord will surely be satisfied with this.
+@2579.1
+Toiling in silence, one feels the spirit tempered all the more.
+@2580
+Forgetting war to till the fields is good once in a while.
+@2580.1
+To answer the expectations of {01}C{0B}{00}, who appointed me magistrate of land clearing, I must produce fine results...
+@2581
+Fieldwork turns out to be quite fun. I too got carried away, quite so.
+@2581.1
+The work of common folk is interesting when one tries it. Planting rice is more fulfilling than kemari, indeed.
+@2582
+Good, good, this month goes smoothly. The harvest will grow. {01}C{0B}{00} must be delighted.
+@2582.1
+{01}C{0B}{00}! The clearing went well this month, and fine new paddies are done.
+@2582.2
+I have hardly done any fieldwork lately, but working up a sweat now and then is good.
+@2582.3
+{01}C{0B}{00}, please look at the fields I have made.
+@2582.4
+The weather is fine today and the work goes well. At this rate we shall have fine new paddies.
+@2584
+My wound has not healed, it seems. Even fieldwork tells on me. I cannot overdo it yet.
+@2585
+My illness has not healed, it seems. Even fieldwork tells on me. I cannot overdo it yet.
+@2586
+{01}C{DD}{00}... This spot was a poor choice. Now we must build a waterway as well...
+@2586.1
+Something is wrong with this field... It followed the plan. {01}C{DD}{00}... did I miscalculate? We must start over...
+@2587
+Damn, that I should make such a blunder... The land I cleared is ruined. How can I face everyone...
+@2587.1
+{01}C{DD}{00}... Where did I go wrong, of all people... The land I cleared is ruined. It must be redone.
+@2588
+{01}C{DD}{00}... I was thinking of tactics while working, and the field divisions came out all wrong. To make such a blunder...
+@2588.1
+Ah, damn... I was thinking of formations and gave the wrong orders. The land I cleared is ruined.
+@2589
+The land I cleared is ruined. What a blunder... This is the only way I can be of use to my lord...
+@2589.1
+{01}C{DD}{00}, clearing fields is my only talent, and to make such a blunder... What shall I tell my lord...
+@2590
+{01}C{DD}{00}... I seem to have botched the plan. Clearing land is not easy either...
+@2590.1
+{01}C{DD}{00}... So even a perfect plan does not always work. Clearing land is hard, like war.
+@2591
+{01}C{DD}{00}, I thought using the slope would make the water easy to channel, but there was no water source above... These new paddies are useless.
+@2591.1
+{01}C{DD}{00}, where did I go wrong... I made the new paddies, but there is no waterway...
+@2592
+These arms of mine were trained for tilling fields, were they not...
+@2592.1
+I know little but war... What on earth was my lord thinking, leaving the land clearing to me...?
+@2593
+Ow, ow, ow... I have hurt my back. I cannot do fieldwork like this.
+@2593.1
+Fieldwork is too earthy for my liking. Why must I be the one to do it?
+@2593.2
+Ah, my hands get dirty, my clothes get dirty. I hate fieldwork.
+@2594
+{01}C{DD}{00}... The fields I cleared have been buried under a landslide. We must start again from scratch.
+@2594.1
+Working the soil clearly does not suit me...
+@2594.2
+I tilled the slope, but a landslide buried it without a trace...
+@2594.3
+{01}C{DD}{00}... I seem to have misallotted the budget. We still have not made even half the planned fields...
+@2596
+The plans for developing the castle town of {02}y2 were finished long ago, but with the preparations so poor, there is nothing to be done...
+@2596.1
+I must develop the castle town in {02}y2, but I cannot add more hands. What to do...
+@2597
+Well, time to start developing the castle town of {02}y2. If only I could leave the directing to someone, I could concentrate on the plans.
+@2597.1
+Let us start developing the castle town of {02}y2. Yet with a few more hands it would be more effective still...
+@2598
+Well, time to start developing the castle town of {02}y2. The question is how to put my town-planning knowledge to use.
+@2598.1
+Well then, time to start developing the castle town of {02}y2. But the present hands are too few for comfort. Is there nothing to be done...
+@2600.1
+{02}{0C}3, you seem troubled that the town-building is not going well. If you like, we will help too.
+@2601
+Lord {02}{0C}3, in that case I may direct it myself. But only if you teach me your knowledge.
+@2601.1
+{02}{0C}3, in that case let us help! If trade flourishes in {02}y2, we shall not shirk the toil.
+@2602
+Lord {02}{0C}3, it has been a while. Are you about to develop the castle town? If you like, we will help too.
+@2602.1
+{02}{0C}3, castle town development, is it? Then let us help! We shall not shirk the toil.
+@2604
+{01}C{DE}{00}, how kind! In truth, the work was not progressing and I was troubled. Lord {02}{0C}3, I rely on you.
+@2604.1
+{01}C{DE}{00}, much obliged! As you see, I was in trouble. {02}{0C}3, I rely on you.
+@2605
+Lord {02}{0C}3, is that true? Then let us begin at once. I shall show you my knowledge in full.
+@2605.1
+{01}C{DE}{00}, {02}{0C}3! That is unkind, you were listening, were you not? But I am grateful for the offer. I would gladly have your help.
+@2606
+{01}C{DE}{00}, how kind. The work will surely go faster now. Lord {02}{0C}3, I rely on you.
+@2606.1
+{01}C{DE}{00}, {02}{0C}3! You will help with my work? Now the work will surely go faster.
+@2608
+The division of the castle town and the building of the market are ahead of plan. I look forward to this month's taxes.
+@2608.1
+{01}C{D6}{00}, the work has gone very far this month. My knowledge of town-building seems to have helped.
+@2609
+{01}C{DE}{00}, this month's progress is splendid. Next month's taxes will grow. Well done, everyone.
+@2609.1
+{01}C{D6}{00}, the work goes very well this month. This market will surely thrive.
+@2610
+Town-building has something in common with war. Study the placement of houses, read the flow of people, and good results follow of themselves.
+@2610.1
+The work went very far this month. Next month's taxes will grow. War costs money, so we must always keep some to spare.
+@2611
+I am poor at war... so I must show my worth in work like town-building. Right, one more job.
+@2611.1
+I have no confidence in the art of war, but I do know something of town-building. At this rate, one more push.
+@2612
+Liven up the market and people gather, and the castle town prospers. In my hands, developing a castle town is easy.
+@2612.1
+When it comes to town-building, it is my turn, {02}{0B}3. If I show my lord good work here, my fief may even grow.
+@2613
+{01}C{DE}{00}, what a splendid market has been made. My lord will surely be satisfied with this.
+@2613.1
+{01}C{D6}{00}, this month goes well. For the sake of my lord, who left the town-building to me, one more push!
+@2614
+Forgetting war to devote oneself to town-building is good once in a while.
+@2614.1
+To answer the expectations of {01}C{0B}{00}, who appointed me commerce magistrate, I must produce fine results...
+@2615
+The town has been laid out quite prettily. It must be a fine view from the castle. Good, good, truly elegant.
+@2615.1
+Town-building turns out to be quite fun. I too got carried away, quite so.
+@2616
+Good, good, this month goes smoothly. Next month's taxes will grow. {01}C{0B}{00} must be delighted.
+@2616.1
+When the market livens up, people gather, and the castle town prospers. {01}C{0B}{00} will be pleased at this.
+@2616.2
+I have hardly done any trade work lately, but touching the abacus now and then is good.
+@2616.3
+{01}C{0B}{00}, please look at the town I have built.
+@2616.4
+The weather is fine today and the work goes well. At this rate we shall have a fine market.
+@2618
+My wound has not healed, it seems. Even town-building tells on me. I cannot overdo it yet.
+@2619
+My illness has not healed, it seems. Even town-building tells on me. I cannot overdo it yet.
+@2619.1
+My illness has not healed, it seems. I cannot work as I wish...
+@2620
+{01}C{DD}{00}... I seem to have chosen the wrong site... It is too far from the main road for people to gather...
+@2620.1
+Something is wrong with this market... It followed the plan. {01}C{DD}{00}... did I miscalculate? We must start over...
+@2621
+Damn, that I should make such a blunder... It is so cramped it cannot serve as a market. How can I face everyone...
+@2621.1
+{01}C{DD}{00}... Where did I go wrong, of all people... The town must be rebuilt.
+@2622
+{01}C{DD}{00}... I was thinking of tactics while working, and put the buildings in the wrong places. To make such a blunder...
+@2622.1
+Ah, damn... I was thinking of formations and gave the wrong orders. The market is ruined.
+@2623
+What a blunder... Town-building is the only way I can be of use to my lord... Ah, what to do...
+@2623.1
+{01}C{DD}{00}, town-building is my only talent, and to make such a blunder... What shall I tell my lord...
+@2624
+{01}C{DD}{00}... I seem to have botched the plan. Town-building is not easy either...
+@2624.1
+{01}C{DD}{00}... So even a perfect plan does not always work. Town-building is hard, like war.
+@2625
+{01}C{DD}{00}, I thought a new decree would liven up the castle town, but it backfired...
+@2625.1
+{01}C{DD}{00}, where did I go wrong... I meant to build a great market, and it has come out this small...
+@2626
+Fussy work like counting money does not suit me... My nerves are worn thin...
+@2626.1
+I know little but war. What on earth was my lord thinking, leaving the town-building to me...
+@2627.1
+Hey, those materials do not go there! You, over here! Ah, enough, I am fed up!!
+@2627.2
+Ah, my hands get dirty, my clothes get dirty. I hate town-building.
+@2628
+{01}C{DD}{00}... I issued a new decree to develop the castle town, but the townsfolk turned their backs... Town-building is hard indeed...
+@2628.1
+Town-building clearly does not suit me...
+@2628.2
+{01}C{DD}{00}... I seem to have misallotted the budget. We still have not built even half of the planned town...
+@2628.3
+A crooked merchant has cheated me and taken nearly all the funds... What shall I tell {01}C{0B}{00}...
+@2628.4
+The funds ran out just persuading the merchants who opposed the decree... I cannot build the town like this. What a blunder...
+@2630
+Well, time to start repairing the castle of {02}y2. I know castle-building, but somehow I cannot give orders well...
+@2630.1
+I was given the repair work in {02}y2, but I do not understand it well... Is there no one who knows more?
+@2631
+Well, time to start repairing the castle of {02}y2. I brought in a new technique, but somehow the work does not go well...
+@2631.1
+Let us start repairing the castle of {02}y2. Yet with a few more hands it would be more effective still...
+@2632
+Well, time to start repairing the castle of {02}y2. The question is how to put my castle-building knowledge to use.
+@2632.1
+Well then, time to start repairing the castle of {02}y2.
+@2634
+{01}C{D6}{00}, Lord {02}{0C}3, you seem to be in trouble. If you show me the way, I will lend a hand too.
+@2634.1
+{02}{0C}3, you seem to be in great trouble. If you like, we will help. I do know a little myself.
+@2635
+Lord {02}{0C}3, in that case we shall help. After all, we can see your castle-building technique up close.
+@2635.1
+{02}{0C}3, in that case let us help! I want to be on good terms with the {02}{0C}k.
+@2636
+Lord {02}{0C}3, it has been a while. Are you about to repair a castle? If you like, we will help too.
+@2636.1
+{02}{0C}3, castle repair work, is it? Then let us help! I want to be on good terms with the {02}{0C}k.
+@2638
+{01}C{DE}{00}, how kind! As you see, I cannot give orders well. I rely on you.
+@2638.1
+{01}C{DE}{00}, is that true! A Buddha in hell, indeed. {02}{0C}3, I rely on you.
+@2639
+Lord {02}{0C}3, is that true? Then let us begin at once. Pray watch my technique closely.

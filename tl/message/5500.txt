@@ -1,0 +1,1006 @@
+@5508
+{1B}FLOptions{1B}FE
+@5509
+{1B}FLInfo{1B}FE
+@5510
+{1B}FLCouncil{1B}FE
+@5511
+You wish to know about the strategy commands?
+@5500
+{1B}FLMove{1B}CD
+@5501
+{1B}FLCorps{1B}FE
+@5502
+{1B}FLCreate{1B}FE
+@5503
+{1B}FLDistribute{1B}FE
+@5504
+{1B}FLMerge{1B}FE
+@5505
+{1B}FLReappoint{1B}FE
+@5506
+{1B}FLTransport{1B}FE
+@5507
+{1B}FLPolicy{1B}FE
+@5512
+Choose the command you wish to know about
+@5513
+[{1B}CRMagistrates{1B}CD] come in three kinds: "Development", "Military" and "Stratagem". Once appointed, a magistrate carries out his command every month.
+@5514
+Choose the kind of command you wish to know about
+@5515
+The "Development" magistrates are three: <{1B}CRCultivate{1B}CD>, <{1B}CRCommerce{1B}CD> and <{1B}CRRepair{1B}CD>.
+@5517
+The "Military" magistrates are two: <{1B}CRTrain{1B}CD> and <{1B}CRPatrol{1B}CD>.
+@5519
+The "Stratagem" magistrates are three: <{1B}CRRecruit{1B}CD>, <{1B}CRPoach{1B}CD> and <{1B}CRUprising{1B}CD>.
+@5521
+Expands farmland and raises {1B}CBYield{1B}CD.\nApplies to all your castles in the province.\nThe higher the {1B}CBYield{1B}CD, the more provisions come in in the 8th month.\nYield is also given to vassals as {1B}CBFief{1B}CD.\nThe more fief you grant, the more squads an officer leads.\n\n* Limits on the command\nThere is a limit to the number of magistrates for "Development".\nThe higher the corps commander's {1B}CBPolitics{1B}CD, the more magistrates he can appoint.
+@5522
+* Relevant abilities\nMagistrates with high {1B}CBPolitics{1B}CD or the "{1B}CBCultivate{1B}CD" or "{1B}CBService{1B}CD" skill raise {1B}CBYield{1B}CD faster.
+@5523
+Develops the towns and raises {1B}CBCommerce{1B}CD.\nApplies to all your castles in the province.\nThe higher the {1B}CBCommerce{1B}CD, the more gold comes in each month.\n\n* Limits on the command\nThere is a limit to the number of magistrates for "Development".\nThe higher the corps commander's {1B}CBPolitics{1B}CD, the more magistrates he can appoint.\n\n* Relevant abilities\nMagistrates with high {1B}CBPolitics{1B}CD or the "{1B}CBCommerce{1B}CD" or "{1B}CBService{1B}CD" skill raise {1B}CBCommerce{1B}CD faster.
+@5524
+Repairs the castles and raises {1B}CBDefence{1B}CD.\nApplies to all your castles in the province.\nThe higher the {1B}CBDefence{1B}CD, the harder a castle is to take.\n\n* Limits on the command\nThere is a limit to the number of magistrates for "Development".\nThe higher the corps commander's {1B}CBPolitics{1B}CD, the more magistrates he can appoint.\n\n* Relevant abilities\nMagistrates with high {1B}CBPolitics{1B}CD or the "{1B}CBRepair{1B}CD" or "{1B}CBService{1B}CD" skill raise {1B}CBDefence{1B}CD faster.
+@5525
+Drills the troops and raises {1B}CBTraining{1B}CD.\nApplies to all your officers in the province.\nThe higher the {1B}CBTraining{1B}CD, the less likely squads are to fall into confusion in battle.\n\n* Limits on the command\nThere is a limit to the number of magistrates for "Military".\nThe higher the corps commander's {1B}CBLeadership{1B}CD, the more magistrates he can appoint.
+@5526
+* Tips\nMagistrates with high {1B}CBLeadership{1B}CD or the "{1B}CBTrain{1B}CD" skill raise {1B}CBTraining{1B}CD faster.\nWhen squads lost in battle are replaced, {1B}CBTraining{1B}CD falls.\nDo not neglect training after a battle.
+@5527
+Patrols the province to prevent poaching and ninja infiltration.\n\n* Limits on the command\nThere is a limit to the number of magistrates for "Military".\nThe higher the corps commander's {1B}CBLeadership{1B}CD, the more magistrates he can appoint.\n\n* Relevant abilities\nMeeting a ninja hired by an enemy clan may lead to a fight.\nOfficers with high {1B}CBLeadership{1B}CD or the "{1B}CBSwordsman{1B}CD" skill have the advantage in a fight.
+@5528
+Searches the province for ronin and recruits them.\nIt may fail.\n\n* Limits on the command\nTo recruit a ronin you must grant him a fief.\nWithout a fief to grant, you cannot <{1B}CRRecruit{1B}CD>.\nThere is a limit to the number of magistrates for "Stratagem".\nThe higher the corps commander's {1B}CBIntellect{1B}CD, the more magistrates he can appoint.
+@5529
+* Relevant abilities\nMagistrates with high {1B}CBIntellect{1B}CD or the "{1B}CRRecruit{1B}CD" skill succeed more often.
+@5530
+Approaches another clan's officers and tempts them to defect and the like.\nIt may fail.\n\nThere are five kinds of poaching:\n1. Rumours: lower loyalty\n2. Desertion: tempt him to become a ronin\n3. Rebellion: tempt him to rise against his lord\n4. Betrayal: make him change sides in battle\n5. Persuasion: persuade him to serve your clan\nEach takes a certain time to prepare, longer from 1 to 5.\nFor persuasion and the like it also takes time for all the officers' proposals to come in.
+@5531
+* Limits on the command\nClans in a lord-vassal or marriage relationship cannot target each other with <{1B}CRPoach{1B}CD>.\nThere is a limit to the number of magistrates for "Stratagem".\nThe higher the corps commander's {1B}CBIntellect{1B}CD, the more magistrates he can appoint.\n\n* Relevant abilities\nMagistrates with high {1B}CBIntellect{1B}CD or the "{1B}CBPoach{1B}CD" skill succeed more often.
+@5532
+Incites the gentry or temples to rise against another clan. It may fail.\nIt takes a certain time to prepare.\n\n* Limits on the command\nClans in a lord-vassal or marriage relationship cannot target each other with <{1B}CRUprising{1B}CD>.\nTemples of a sect other than the daimyo's own cannot be used for an <{1B}CRUprising{1B}CD>.\nThere is a limit to the number of magistrates for "Stratagem".\nThe higher the corps commander's {1B}CBIntellect{1B}CD, the more magistrates he can appoint.
+@5533
+* Relevant abilities\nMagistrates with high {1B}CBIntellect{1B}CD succeed more often.\nThe better your relations with the gentry or temples you incite to the <{1B}CRUprising{1B}CD>, the more likely it succeeds.
+@5534
+Relieves a magistrate of his current post.\n\n* Tips\nA <{1B}CRDismiss{1B}CD> does not lower the officer's loyalty.\n[{1B}CRMagistrates{1B}CD] cost gold every month, so if an officer is doing unneeded work, <{1B}CRDismiss{1B}CD> him at once or move him to another magistrate post.
+@5535
+<{1B}CROrganise{1B}CD> sets each officer's unit type; <{1B}CRSortie{1B}CD> is the actual attack. Which shall I explain?
+@5537
+Sets the unit type for battle.\nYou can also see how many squads each officer leads in battle.\nOne squad is 200 soldiers.\nThe number of squads an officer leads depends on his fief.\n\n* Limits on the command\nCavalry and gun squads cannot have more soldiers than you have horses or guns.\nTo [{1B}CROrganise{1B}CD] a cannon squad, you must own cannon.
+@5538
+* Tips\nFor want of horses or guns, an officer may lead fewer squads than he is entitled to.\nAfter every battle, check the [{1B}CROrganise{1B}CD] screen and buy horses or guns or change unit types as needed.
+@5539
+Marches on another clan's castle to take it.\nOnce a <{1B}CRSortie{1B}CD> is ordered, the battle takes place after every clan's strategy phase ends.\n\n* Limits on the command\nYou can attack other clans' castles in these provinces:\n1. A province where you control a castle.\n2. A province adjacent to one where you control most of the castles.\nYou cannot attack a clan in a lord-vassal relationship with you, and a vassal clan cannot attack a province where its overlord has a castle.
+@5540
+* Requesting a joint army\nIf another clan can also sortie against the province of the castle you attack, you can request a joint army. You can only ask clans with lower prestige than yours, or your vassal clans.
+@5541
+Placing officers well and raising their fiefs wisely are the basics of a daimyo's work.
+@5543
+Moves an officer from one province to another.\nMoving him to a province of another corps also changes his corps.\n\n* Limits on the command\nOfficers who have already moved or are marching to battle cannot be moved. A corps commander cannot move to a province governed by another corps.
+@5544
+Grants fief to a vassal.\nA <{1B}CRRaise{1B}CD> increases the officer's loyalty and the number of squads he leads.\nA vassal with little merit and low ambition cannot be raised, though. Such vassals must first earn merit in domestic affairs or battle.\n\nYou can also raise all your vassals at once. In that case as much yield as can be spared from the "Daimyo's Own" yield is granted to them.\n\n* Limits on the command\nFief granted with <{1B}CRRaise{1B}CD> cannot exceed the total yield.
+@5545
+* Tips\nGranting the whole of your yield to vassals as fief is dangerous. Fiefs reduce the "Daimyo's Own" yield and with it the provisions income, which may leave you short of provisions later.\nWithout spare yield you also cannot take on new officers through <{1B}CRRecruit{1B}CD> or battle.
+@5546
+Confiscates a vassal's fief.\nA <{1B}CRCut{1B}CD> lowers the officer's loyalty and the number of squads he leads.\n\n* Tips\nIf you lose a battle and land to the enemy, the "Daimyo's Own" yield shrinks, provisions income falls and you may run short of provisions.\nIn that case a <{1B}CRCut{1B}CD> secures the provisions income. But since a <{1B}CRCut{1B}CD> lowers loyalty, think carefully about whose fief to cut before you act.
+@5547
+Changes who holds a treasure.\nGiving a treasure raises the vassal's loyalty.\nSome treasures raise an officer's abilities, grant a skill or add unit types he can use.\n\n* Limits on the command\nYou cannot give a treasure if you own none.\nTreasures are obtained through [{1B}CRTrade{1B}CD] or by asking a navy for "{1B}CBForeign Trade{1B}CD" with <{1B}CRNegotiate{1B}CD>.
+@5548
+* Tips\nWhen giving a treasure, consider whether the officer is suited to battle or to domestic affairs.\nTreasures carrying battle skills such as "{1B}CBConfuse{1B}CD" or "{1B}CBCapture{1B}CD" are best given to officers who fight in the front line.
+@5549
+Gives a vassal gold or provisions.\nA <{1B}CRReward{1B}CD> raises the officer's loyalty.\n\n* Limits on the command\nAn officer's loyalty also depends on the prestige of the clan he serves and the like.\nSo some vassals' loyalty will not rise any further however they are rewarded.\nFor such vassals this command cannot be used even if their loyalty is below 100.
+@5550
+Retires the daimyo and passes the headship to a vassal.\nA retired daimyo never appears in the game again.\n\n* Limits on the command\nOnly a kin officer can be chosen as successor.
+@5551
+* Tips\nThe daimyo is also commander of the 1st Corps, so a daimyo of low ability runs strategy poorly. If there is an able officer among your kin, an early <{1B}CRRetire{1B}CD> is one option.\nIf you have no kin officer, <{1B}CRAdopt{1B}CD> brings a vassal into the kin.\nIf the daimyo is married to another clan's princess, a <{1B}CRRetire{1B}CD> ends the marriage alliance with her family.
+@5552
+Marries a princess to a vassal and makes him kin.\nA kin officer is less likely to betray you, and as a corps commander he can rule under the "{1B}CBDirect{1B}CD" policy.\nIf the princess dies, the officer leaves the kin and can no longer rule under "{1B}CBDirect{1B}CD".\nA kin officer can also be named the daimyo's successor on <{1B}CRRetire{1B}CD>.\n\n* Limits on the command\nYou cannot <{1B}CRAdopt{1B}CD> without a princess.\nA princess made an officer cannot be used to <{1B}CRAdopt{1B}CD>.
+@5553
+Sends a vassal to study under the local gentry.\nAn officer who has studied can <{1B}CROrganise{1B}CD> more unit types.\n\n* Limits on the command\nYou cannot <{1B}CRStudy{1B}CD> without a "{1B}CBLetter of Introduction{1B}CD".\nLetters of introduction are presented by gentry on good terms with you.\nOnly ordinary officers can <{1B}CRStudy{1B}CD>; the daimyo and corps commanders cannot.
+@5554
+Banishes a retainer.\nA banished officer becomes a ronin.\n\n* Limits on the command\nCorps commanders, officers in the field and officers away studying cannot be banished.\n\n* Tips\nRetainers are paid gold and provisions every month.\nWith too many retainers you may run short of gold and provisions and be unable to carry out much strategy at all.\nIn that case banish the retainers you do not need to secure your income.
+@5555
+For a small clan, diplomacy will be the most important means of surviving the Sengoku age.
+@5557
+Sends gifts to another clan to raise friendship.\nA friendlier clan is less likely to attack you.\nIt is also more likely to agree to a {1B}CBrequest for reinforcements{1B}CD.\n\n* Limits on the command\nNot possible with less than 100 gold and no treasures.\nA vassal clan can only use it on its overlord.
+@5558
+Marries a princess to another clan to raise friendship.\nA friendlier clan is less likely to attack you.\nYou also learn everything about the clan she marries into, without using <{1B}CRInfiltrate{1B}CD> under [{1B}CRNinja{1B}CD].\n\n* Limits on the command\nNot possible without a princess.\nA vassal clan can only use it on its overlord.
+@5559
+Threatens another clan into becoming your vassal.\nIf it succeeds, you are the overlord and they the vassal clan, and neither can attack the other.\nA vassal clan is also barred from [{1B}CRDiplomacy{1B}CD] with anyone but its overlord.\nIf you <{1B}CRThreaten{1B}CD> your own vassal clan and succeed, that clan joins your vassals as officers.\nIf it fails, though, the clan secedes.\n\n* Limits on the command\nA vassal clan cannot use it. It cannot be used on the clan in charge of the Shogunate.
+@5560
+Offers submission to another clan.\nIf it succeeds, you are the vassal clan and they the overlord, and neither can attack the other.\nAs a vassal clan you are barred from [{1B}CRDiplomacy{1B}CD] with anyone but your overlord.\nYour renown also falls and your prestige drops.\n\n* Limits on the command\nA vassal clan or the clan in charge of the Shogunate cannot use it.\nIt cannot be used on a clan that is itself a vassal of another.
+@5561
+Breaks the vassal relationship and makes you independent.\nA vassal clan can use it at any time.\nAfter seceding, friendship with your former overlord drops to 0.\n\n* Tips\nAfter seceding you are more likely to be attacked by your former overlord.\nIf you mean to secede, build up enough strength first.
+@5562
+Appoints other clans to the posts of the Shogunate.\nFriendship with the clan appointed rises.\n\n* Limits on the command\nOnly the clan in charge of the Shogunate can use it.\nWhich posts can be given depends on the clan.
+@5563
+Issues a punitive order against a clan hostile to the Shogunate.\nClans that join the order drop to 0 friendship with the target clan.\n\n* Limits on the command\nOnly the clan in charge of the Shogunate can use it.\nOnly a clan that is not a vassal and fully controls at least one province (every castle in it) can be targeted.\nSeveral clans cannot be targeted at once.\nIf no clan joins the order, it does not take effect.
+@5564
+* Clans that may join\nClans with a castle in a province where the target clan has a castle, or in an adjacent province, may join the order.\nThe target's vassal clans may not.\nClans with high friendship with the Shogunate clan, and those holding Shogunate posts, are more likely to join.
+@5565
+An essential command for winning the cooperation of the gentry, the ninja schools and the rest.
+@5567
+Sends an envoy to a minor power and offers goods in return for various requests.\nWhat you can ask depends on the state of the power.\nIf you only send goods and ask for nothing, your relations with that power improve.
+@5568
+◆ Command restrictions\n<{1B}CRNegotiate{1B}CD> can be used with the following 6:\n(1) Gentry in a province with your castle, or next to one\n(2) Temples and shrines in the same\n(3) Navies controlling waters next to a province with your castle\n(4) Ninja whose range includes a province with your castle\n(5) Merchant towns in a region including a province with your castle\n(6) The Court, when court nobles are visiting\nOnly the daimyo or an officer of Court origin can <{1B}CRNegotiate{1B}CD> with the Court.
+@5569
+Takes part of the land held by the local gentry into the clan's own holdings.\nA <{1B}CRSurvey{1B}CD> raises the province's yield.\n\n* Limits on the command\nNot possible unless you control every castle in the province.\nNot possible without an officer with the "{1B}CBSurvey{1B}CD" skill.
+@5570
+* Tips\nThe higher the {1B}CBPolitics{1B}CD of the officer in charge, the more yield you gain.\nA <{1B}CRSurvey{1B}CD> worsens relations with the local gentry, though.\nIf they worsen badly, the gentry may rise up, so mend relations with <{1B}CRNegotiate{1B}CD>.
+@5571
+Reduces the size of a temple.\nAt size 0 the temple is destroyed.\n\n* Limits on the command\nNot possible unless you control every castle in the province.\nIt cannot be used on these temples:\n1. Temples of the same sect as a temple you are "Close" with.\n2. Temples currently in revolt.
+@5572
+Trades in goods, arms and treasures.\nUnless you are on good terms with the free city, it will not sell arms or treasures. Depending on the city's stock, some deals may also be unavailable.\nIf the officer in charge owns tea utensils, a tea ceremony may be held.\n\n* Limits on the command\nYou cannot [{1B}CRTrade{1B}CD] unless a merchant is visiting.
+@5573
+* Tips\nIf the officer in charge has the "{1B}CBCommerce{1B}CD" skill, you can choose "Overcharge" or "Haggle" when setting the amount.\nIf it fails and the merchant takes offence, you cannot [{1B}CRTrade{1B}CD] with him for the rest of the month.\nA merchant from a free city on good terms with you offers better prices.\nRelations with a free city improve by using [{1B}CRTrade{1B}CD] often or sending goods with <{1B}CRNegotiate{1B}CD>.
+@5574
+An essential command for learning about the other clans.
+@5576
+Borrows ninja from a ninja school.\nIf your relations with the school are poor, it may refuse.\n\n* Limits on the command\nA clan can borrow up to 32 ninja.\nThe number of ninja a school keeps depends on its size.\nYou cannot borrow from a school whose ninja are all away, or whose range does not include a province where you have a castle.
+@5577
+* Tips\nA <{1B}CRHire{1B}CD> slightly worsens relations with the ninja school.\nAfter borrowing a few ninja, mend relations with <{1B}CRNegotiate{1B}CD>.
+@5578
+Sends a ninja into another clan to spy.\nThe longer he stays, the more you learn.\n\n* Limits on the command\nNot possible without ninja.\nNinja are borrowed from a ninja school with <{1B}CRHire{1B}CD>.
+@5579
+Brings a ninja home from the province he is in.\n\n* Tips\nA ninja in the field may be wounded in fights with other ninja or patrolling officers.\nA wounded ninja who loses a fight with enemy ninja or a patrolling officer dies.\nIf a ninja is wounded, do not push him: <{1B}CRRecall{1B}CD> him and let him recover.
+@5580
+Moves a ninja in the field to another province.\n\n* Tips\nA ninja of low ability is likely to be discovered by the enemy or killed in a fight.\nWhen sending a ninja into a dangerous province, it is better to replace him with one of higher ability.
+@5581
+As the provinces you control grow in number, the magistrates per province grow fewer. To run your strategy efficiently across several provinces, create corps and entrust them with rule.
+@5583
+Creates a new corps.\nThe new corps' supplies are levied from the other corps.\n\n* Limits on the command\nThe higher your prestige, the more corps you can create.\nThe 2nd Corps needs prestige 200, the 3rd 300. Up to 8 corps can be created.\nYou cannot create a corps if you have fewer provinces with castles than corps.
+@5584
+* Tips\nThe commander of a new corps is chosen from the officers in the provinces it will govern. <{1B}CRMove{1B}CD> the officer you want as commander into one of those provinces beforehand.\nAn ordinary corps can only be delegated, but under a kin commander its policy can be set to "Direct".\nIf you do not wish to leave things to a commander, make a kin officer the commander.
+@5585
+Changes the province each corps is responsible for.\nOfficers in a province that changes corps move to their new corps.\n\n◆ Command restrictions\nThe province where a corps commander belongs cannot have its corps changed.
+@5586
+Merges two corps into one.\nProvinces held by the corps being merged are added to those of the corps it joins.\n\n◆ Command restrictions\nThe 1st Corps cannot be merged into another corps.
+@5587
+Chooses a new corps commander.\n\n◆ Command restrictions\nCannot be used on the 1st Corps.\n\n◆ Command tips\nDepending on the new commander's abilities, merit and compatibility with the old one, the old commander's loyalty may fall. When you <{1B}CRCreate{1B}CD> a corps, choose its commander carefully so you need not <{1B}CRReappoint{1B}CD> later.
+@5588
+Has supplies transported between corps.\n\n◆ Command tips\nCorps under delegation tend to be left to themselves. When supplies run short, a corps' strategy stalls. Keep track of every corps and adjust with <{1B}CRTransport{1B}CD>.
+@5589
+Sets the delegation policy for the 2nd Corps and below.\n\n◆ Command restrictions\nThe policy can be set to "Direct" only for corps whose commander is a kin officer.\n\n◆ Meaning of each policy\n"Direct": you give orders yourself, without delegating.\n"Development": focuses on building up provincial strength.\n"Defence": focuses on building up troop strength.\n"Conquest": attempts to take the castle you designate
+@5590
+Saves, loads and sets options.\nYou can also quit the game here.\n\n◆ Number of save slots\nYou can save data in up to 6 places.
+@5591
+Shows various information about the game.\nChoose the kind of information you want and a list appears.\nChoose an item from the list to see the details.
+@5592
+If Tutorial is set to "Watch" in the initial settings, a "council" to decide the daimyo house's goals is held for a while after the game begins.\n\n◆ To stop holding councils\nChoose [No more councils are needed] and no council will ever be held again. Your retainers will no longer advise you of it, so think carefully before choosing.
+@5593
+◆ To check the current goal\nPress the {1B}PK button on the main game screen to switch to the help screen. Choose the [Check Goal] button at the bottom to open the goal screen.\n\n◆ To cancel the current goal\nChoose [Abandon Goal] on the goal screen.
+@5594
+Officer
+@5595
+Daimyo
+@5597
+Province
+@5598
+Castle
+@5599
+Notables
+@5600
+Powers
+@5601
+Princess
+@5603
+Title
+@5604
+{1B}FLOfficer{1B}FE
+@5605
+{1B}FLDaimyo{1B}FE
+@5607
+{1B}FLProvince{1B}FE
+@5608
+{1B}FLCastle{1B}FE
+@5609
+{1B}FLNotables{1B}FE
+@5610
+{1B}FLPowers{1B}FE
+@5611
+{1B}FLPrincess{1B}FE
+@5612
+{1B}FLTreasure{1B}FE
+@5613
+{1B}FLTitle{1B}FE
+@5614
+Choose [Info] in the castle town screen\nto obtain various information
+@5615
+Choose the item you wish to know about
+@5616
+Shows summary information on the current officer.\nPress the {1B}PC button for details.\nFor officers of other houses, only some information is shown unless you send a ninja with <{1B}CRInfiltrate{1B}CD>.\n\n◆ Key information\n"{1B}CBKin{1B}CD":\nKin officers' loyalty falls less easily and they are less likely to defect. If a kin officer of a player daimyo becomes corps commander, you can set the policy to "Direct".\n"{1B}CBFief{1B}CD":\nEach 100 of fief leads 1 squad (200 troops). Change it with <{1B}CRRaise{1B}CD>.
+@5617
+◆ Key information\n"{1B}CBLoyalty{1B}CD":\nChanges with <{1B}CRRaise{1B}CD>, <{1B}CRCut{1B}CD>, <{1B}CRTreasure{1B}CD> and the house's prestige.\n"{1B}CBPolitics{1B}CD":\nAffects the results as magistrate of <{1B}CRCultivate{1B}CD>, <{1B}CRCommerce{1B}CD> and <{1B}CRRepair{1B}CD>.\n"{1B}CBLeadership{1B}CD":\nAffects the results as magistrate of <{1B}CRTrain{1B}CD> and <{1B}CRGuard{1B}CD>, squad strength in battle, and the number of times [{1B}CRSpirit{1B}CD] can be used as commander.
+@5618
+◆ Key information\n"{1B}CBIntellect{1B}CD":\nAffects the results as magistrate of <{1B}CRRecruit{1B}CD>, <{1B}CRPoach{1B}CD> and <{1B}CRUprising{1B}CD>, and the effect and success rate of [{1B}CRDiplomacy{1B}CD] and [{1B}CRPowers{1B}CD].\n"{1B}CBAmbition{1B}CD":\nAffects the fief demanded in <{1B}CRRaise{1B}CD> and the chance of rebellion.\n"{1B}CBMerit{1B}CD":\nAffects the fief demanded in <{1B}CRRaise{1B}CD> and the monthly stipend (gold) paid.
+@5619
+◆ Key information\n"{1B}CBSquads{1B}CD":\nThe number of squads currently led. 200 troops make 1 squad. The maximum is set by fief.\n"{1B}CBTraining{1B}CD":\nThe higher it is, the less likely confusion is in battle. Raised by <{1B}CRTrain{1B}CD>.\n"{1B}CBAction{1B}CD":\nShows whether the officer has acted this turn.
+@5620
+◆ Key information\n"{1B}CBSpear{1B}CD" to "{1B}CBCannon{1B}CD":\nTroop types that can be organised. Increased by <{1B}CRTraining Trip{1B}CD>.\n"{1B}CBHealth{1B}CD":\nIf ill or injured, Politics, Leadership and Intellect fall. Usually recovers in a few months.\n\n"{1B}CBCultivation{1B}CD" to "{1B}CBTea Ceremony{1B}CD" are skills that affect strategy.\n"{1B}CBSwordsman{1B}CD" to "{1B}CBIron Wall{1B}CD" affect battle.\n"{1B}CBRecovery{1B}CD" affects both strategy and battle.
+@5621
+◆ Strategy skills and the commands they affect\n"{1B}CBCultivation{1B}CD": <{1B}CRCultivate{1B}CD>\n"{1B}CBCommerce{1B}CD": <{1B}CRCommerce{1B}CD>\n"{1B}CBRepair{1B}CD": <{1B}CRRepair{1B}CD>\n"{1B}CBService{1B}CD": <{1B}CRCultivate{1B}CD> <{1B}CRCommerce{1B}CD> <{1B}CRRepair{1B}CD> <{1B}CRSurvey{1B}CD>\n"{1B}CBTraining{1B}CD": <{1B}CRTrain{1B}CD>\n"{1B}CBRecruitment{1B}CD": <{1B}CRRecruit{1B}CD>\n"{1B}CBPoaching{1B}CD": <{1B}CRPoach{1B}CD>
+@5622
+◆ Strategy skills and the commands they affect\n"{1B}CBDiplomacy{1B}CD": [{1B}CRDiplomacy{1B}CD] <{1B}CRNegotiate{1B}CD> <{1B}CRPunish{1B}CD>\n"{1B}CBSurvey{1B}CD": <{1B}CRSurvey{1B}CD>\n"{1B}CBTrade{1B}CD": [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>\n"{1B}CBFlood Control{1B}CD": flood works events occur\n"{1B}CBTea Ceremony{1B}CD": tea party events occur\n"{1B}CBRecovery{1B}CD": troops recover faster after battle\n\nFor battle skills, see "Battle Skills".
+@5623
+◆ Key information\n"{1B}CBCourt Title{1B}CD":\nGranted by the Imperial Court. The higher the title, the greater the house's prestige. For the same title, a larger Court gives more prestige.\n"{1B}CBCourt{1B}CD" to "{1B}CBNavy{1B}CD":\nThe officer's origin. Against forces of the same origin, the effect of [{1B}CRPowers{1B}CD] is higher.\nThe origin of "{1B}CBIkko{1B}CD" to "{1B}CBChristian{1B}CD" can change through the missionary work of temples and shrines.
+@5624
+Shows summary information on the current daimyo house.\nPress the {1B}PC button for details.\nFor other houses, only some information is shown unless you send a ninja with <{1B}CRInfiltrate{1B}CD>.\n\n◆ Key information\n"{1B}CBFriendship{1B}CD":\nFriendship with your house. Affects the chance of being attacked, the success of requests for aid, and the effect and success rate of [{1B}CRDiplomacy{1B}CD]. Rises with successful <{1B}CRTribute{1B}CD> and <{1B}CRMarriage{1B}CD>.
+@5625
+◆ Key information\n"{1B}CBMarriage{1B}CD":\nShows whether the house has a marriage alliance with yours. Marrying a princess out to another house, or taking one in, with <{1B}CRMarriage{1B}CD> forms an alliance. Houses allied by marriage are less likely to attack you, and you can see information on the house a princess married into without <{1B}CRInfiltrate{1B}CD>.\n"{1B}CBPrestige{1B}CD":\nAffects officers' loyalty, the success of <{1B}CRRecruit{1B}CD> and [{1B}CRDiplomacy{1B}CD], and the court title granted. Rises as you take more castles or gain high titles and posts.
+@5626
+◆ Key information\n"{1B}CBHorses{1B}CD" "{1B}CBGuns{1B}CD" "{1B}CBCannon{1B}CD" "{1B}CBTreasure{1B}CD":\nObtained through [{1B}CRTrade{1B}CD] with merchants. Cannon and treasures cannot be bought unless relations with the merchant town are good.\n"{1B}CBCastle Building{1B}CD":\nThe house's castle-building skill. The higher it is, the higher the defence limit. Defence rises with <{1B}CRRepair{1B}CD>.\nIt also rises when a gentry teaches you its skill.
+@5627
+◆ Key information\n"{1B}CBCourt Relations{1B}CD":\nFriendship with the Court. Affects the court title granted and the chance of being named Seii Taishogun. Rises when you grant the Court's requests.\n"{1B}CBDaimyo Title{1B}CD":\nThe daimyo's court title, conferred by the Court.\n"{1B}CBPost{1B}CD":\nThe daimyo's shogunate post, appointed by the shogunate.\n"{1B}CBPunitive Force{1B}CD":\nShows whether the house is taking part in a punitive order issued by the shogunate
+@5628
+Shows summary information on the current corps.\nPress the {1B}PC button for details.\nFor other houses' corps, only some information is shown unless you send a ninja with <{1B}CRInfiltrate{1B}CD>.\n\n◆ Key information\n"{1B}CBCorps Commander{1B}CD":\nThe 1st Corps' commander is the daimyo.\n"{1B}CBPolicy{1B}CD":\nYour own corps' policy can be changed with <{1B}CRPolicy{1B}CD>.\n"{1B}CBTarget{1B}CD":\nOnly when the policy is "Conquest", the province targeted for conquest is shown.
+@5629
+◆ Meaning of the information\n"{1B}CBGold Balance{1B}CD":\nThe gold collected next month minus the gold paid to retainers as stipends.\n"{1B}CBRice Balance{1B}CD":\nThe rice collected in the next 8th month minus the rice issued to troops.
+@5630
+Shows summary information on the current province.\nPress the {1B}PC button for details.\nFor provinces where you hold no castle, only some information is shown unless you send a ninja with <{1B}CRInfiltrate{1B}CD>.\n\n◆ Key information\n"{1B}CBRuler{1B}CD":\nThe daimyo house holding a majority of the castles in the province.\n"{1B}CBMax Yield{1B}CD":\nThe limit on yield. Yield can be raised with <{1B}CRCultivate{1B}CD>. Flood works raise the maximum yield.
+@5631
+◆ Key information\n"{1B}CBPowers 1-4{1B}CD":\nThe powers in that province.\n"{1B}CBGood Harvest{1B}CD":\nRice income increases.\n"{1B}CBPoor Harvest{1B}CD" "{1B}CBTyphoon{1B}CD" "{1B}CBFamine{1B}CD":\nThe yield of every castle in the province falls, and rice income drops.\n"{1B}CBEpidemic{1B}CD":\nThe yield and commerce of every castle in the province, and its troop numbers, fall. Officers may fall ill.
+@5632
+◆ Key information\n"{1B}CBEarthquake{1B}CD":\nThe defence of every castle in the province falls. Officers may be injured.\n"{1B}CBHeavy Snow{1B}CD":\nUnits advance more slowly in battle.
+@5633
+Shows each castle's yield, commerce, defence and so on.\n\n◆ Key information\n"{1B}CBYield{1B}CD":\nThe yield raised by <{1B}CRCultivate{1B}CD>. When the total of all castles' yields reaches the province's maximum, <{1B}CRCultivate{1B}CD> is no longer possible.\n"{1B}CBMine{1B}CD":\nA gold or silver mine brings in gold every month.
+@5634
+◆ Key information\n"{1B}CBStructure{1B}CD":\nThe castle's construction type. There are flatland and mountain castles.
+@5635
+Shows information on notables belonging to the powers.\n\n◆ Key information\n"{1B}CBHealth{1B}CD":\nA notable's state of health. A notable who is "Injured" or "Ill" has reduced attack and so on in battle. Usually recovers in a few months.
+@5635.1
+"{1B}CBCourt{1B}CD" to "{1B}CBNavy{1B}CD":\nThe notable's origin (the kind of power they belong to).\n
+@5636
+Shows the state and activities of the powers.\n\n◆ Key information\n"{1B}CBRelations{1B}CD":\nFriendship with your house. Depending on <{1B}CRNegotiate{1B}CD>, it changes among five levels: "Sworn Enemy", "Hostile", "Distant", "Friendly" and "Close".\n"{1B}CBScale{1B}CD":\nThe power's size. Court: prestige from titles. Shogunate: prestige from posts. Gentry and temples: troops in battle. Ninja: ninja that can be sent. Merchant towns: merchants. Navies: naval strength. Changes with aid from daimyo houses.
+@5637
+◆ Key information\nThe following appear in a power's individual information.\n"{1B}CBNotables{1B}CD":\nThe power's leading figures. Through events or <{1B}CRNegotiate{1B}CD> they may become officers.
+@5638
+◆ Key information\n"{1B}CBSkill{1B}CD":\nThe skill a gentry has. Specialty goods matching it are produced and presented to houses on good terms.\n"{1B}CBSect{1B}CD":\nA temple's sect: Ikko, Old Buddhism or Christian.\n"{1B}CBSea Area{1B}CD":\nThe number of sea areas a navy controls. Changes through naval battle.\n"{1B}CBTrade{1B}CD":\nShows whether Japan-Ming trade is in effect and the name of the daimyo who requested it
+@5639
+Shows a princess's husband, real father and so on.\n\n◆ Key information\n"{1B}CBHusband{1B}CD":\nThe officer who is the princess's husband.\n"{1B}CBReal Parent{1B}CD":\nThe officer who is the princess's real father.
+@5640
+Shows a treasure's effects, owning daimyo and so on.\n\n◆ Key information\n"{1B}CBGrade{1B}CD":\nThe treasure's grade. Grade 1 is the most valuable.\n"{1B}CBOwner{1B}CD":\nThe person who owns the treasure. Besides officers, notables belonging to the powers may own one.\n\n"{1B}CBAbility{1B}CD":\nThe ability raised by owning the treasure.
+@5641
+◆ Key information\n"{1B}CBEffect{1B}CD":\nThe amount the ability is raised.\n"{1B}CBSkill{1B}CD":\nA skill gained by owning the treasure.\n"{1B}CBTroop Type{1B}CD":\nA troop type gained by owning the treasure.
+@5642
+Shows officers who have received a court title from the Imperial Court.\n\n◆ Key information\n"{1B}CBRank{1B}CD":\nThe order of the title. The highest is Junior First Rank.\n"{1B}CBHolder{1B}CD":\nThe officer who has received the title.
+@5643
+Is something troubling you\nabout battle?
+@5645
+I want to know the victory conditions
+@5646
+I want to know the basic controls
+@5647
+I want to know about formations
+@5648
+I want to know about morale
+@5649
+Meaning of battle commands
+@5650
+Meaning of battle skills
+@5651
+I want to know about castles and forts
+@5652
+Complete victory requires the annihilation of the enemy house's castles and units
+@5653
+◆ Victory conditions\nDestroy the enemy house's commander unit and take every castle it holds to win.\nYou need not wipe out the powers' bases or units.
+@5654
+◆ Time limit\nThe battle ends after 30 days. There are no drawn-out wars.\nEach castle goes to the house holding it at that time.\nCaptive officers become prisoners.
+@5655
+Choose a unit with the {1B}PA button,\nchoose a target with the {1B}PX button.\nKnow just this and\nyou can fight a battle
+@5656
+Please choose an item
+@5657
+How do I give orders?
+@5658
+How do I attack a castle?
+@5659
+How do I retreat?
+@5660
+Related command: "Spirit"
+@5661
+About shortcut keys
+@5662
+With a unit selected, choose a target to attack or move to with the {1B}PX button,\nor give an order with the {1B}PY button
+@5663
+◆ Basic controls\nSelect a castle or unit on the screen directly with the {1B}PA button, or choose a unit from the unit list, to take hold of it. With an allied unit held, choose a destination or target with the {1B}PX button and it starts to move or attack.
+@5664
+◆ Giving commands\nChoose the button of the command you want from the command list shown when you press the {1B}PY button.\n\n◆ Selecting several units\nHold the {1B}PA button and move the cursor around allied units to enclose them and select several at once. You can also select units together from the unit list opened with the {1B}PR button. Pressing {1B}PL selects all your units.
+@5665
+Attacking a castle or base is\nno different from a normal attack.\nJust make an enemy castle or base\nthe target
+@5666
+◆ Ordering attacks on castles and bases\nWith a unit selected, choose an enemy castle or base with the {1B}PX button and the unit moves to the target castle and starts to attack.\n\n◆ Control of a captured castle\nOnce taken, the castle belongs to your house, and you can send allied units in to rest. If several houses took part in the siege, the castle goes to the house that contributed most.
+@5667
+◆ Attacking neutral powers\nAttacking a neutral power's castle or base forces it into the battle. If your friendship with the targeted power is high, it joins your side, which should help you fight the battle.
+@5668
+Knowing when to withdraw matters in battle\nIf you think you cannot win,\nplease retreat from the field\nbefore the losses grow
+@5669
+◆ How to retreat\nOn the field there are "retreat points" marked by light blue arrows. With the unit to retreat held, choose a retreat point with the {1B}PX button and that unit moves to it and leaves the field.
+@5670
+◆ Retreat from falling morale\nWhen a unit's morale falls, it abandons its current order and starts to retreat toward a base or retreat point.\nReaching a castle, it enters and rests. Reaching a retreat point, it leaves the field.\nYou cannot order a unit that has begun to retreat. A unit that retreated through low morale can be ordered again once its morale is restored.
+@5671
+To move several units effectively,\nit is best to form a formation
+@5673
+What is a formation?
+@5674
+Effects of formations
+@5675
+Related command: "Join/Split"
+@5676
+Related command: "Forced Attack"
+@5677
+Related information: "Battle Skills"
+@5678
+A formation is a tactic in which several units\nact together, each making use of\nits troop type
+@5679
+◆ What is a formation?\nSeveral units that have used [{1B}CRJoin{1B}CD] form a formation. Units in a formation always act together.\n\n◆ Forming a formation\nWith several units selected, open the command list with the {1B}PY button and press the [{1B}CRJoin{1B}CD] button. Disband with [{1B}CRSplit{1B}CD]. Putting a joined unit into a castle or camp also disbands it.
+@5680
+◆ Using formations well\nMorale changes unit by unit. If some units' morale has fallen, disband the formation and let the low-morale units rest
+@5681
+Battle Skills
+@5682
+Forming a formation lets the units in it share officers' skills\nYou can also use [{1B}CRForced Attack{1B}CD], which strengthens units temporarily
+@5683
+◆ Strengthened and shared skills\nSome battle skills grow stronger in a formation, and their effect is shared among the units in it.\nFor example, when two gunner units are in a formation and one has the "{1B}CBVolley{1B}CD" skill, the other can also use "{1B}CBVolley{1B}CD".
+@5684
+◆ Using Forced Attack\n[{1B}CRForced Attack{1B}CD] is a command that can be used only with a formation formed. Using [{1B}CRForced Attack{1B}CD] temporarily raises the attack of the units in the formation.\nHowever, when the effect runs out, the morale of the units in the formation falls sharply.
+@5685
+What matters most in battle is\nunit morale\nWhen morale falls, units retreat\non their own...
+@5687
+What is morale?
+@5688
+How do I rest?
+@5690
+Unit morale greatly affects\nwho wins a battle\nPlease take care
+@5691
+◆ Effects of morale\nMorale affects a unit's defence. The higher it is, the less damage the unit takes when attacked. When morale falls, the unit may start to retreat. At 0 morale it will certainly start to retreat.
+@5692
+◆ Changes in morale\nEach unit's morale changes with the battle situation, such as the progress of sieges and the arrival of reinforcements. When morale falls to a dangerous level, the troop gauge turns red.\n\nYou can restore morale by sending units to rest in an allied castle or camp, or by using [{1B}CRSpirit{1B}CD].
+@5693
+As long as you have a place to rest,\nyou can restore morale as often as you like
+@5694
+◆ About resting\nA unit with fallen morale put into a castle or base enters a resting state. A resting unit regains morale gradually over time.\n\n◆ Places to rest\nYou can rest at an allied power's castle or base, or at a camp set up by an allied supply train.
+@5695
+In battle, daimyo castles and the\npowers' forts play a major role
+@5697
+Roles of castles and forts
+@5698
+Recovering resistance
+@5699
+How do I take a castle effectively?
+@5700
+At a resting place, units not only restore morale\nbut can also reorganise the troop numbers of each squad
+@5701
+◆ Officer squads and ordinary squads\nA unit is made up of an officer squad and ordinary squads. The squad with a banner on its back is the officer squad. When the officer squad's troops reach 0, the unit starts to retreat even if ordinary squads remain.
+@5702
+◆ Reorganising squad troops\nFor a unit of an officer squad and ordinary squads, entering a resting place (an allied castle, fort or a camp set up by a supply train) automatically reorganises the squads' troops. If the officer squad is short of troops, men are taken from the ordinary squads to fill it.\nWhen the officer squad's numbers fall, send it to a resting place early.
+@5703
+When enemy attacks bring a castle's resistance\nto 0, the castle falls,\nbut if the commander unit is in the castle,\nresistance recovers
+@5704
+◆ Castle resistance\nA castle has resistance according to its defence. When enemy attacks reduce it to 0, the castle falls and passes to the enemy.\n\n◆ Recovering resistance\nWhen a castle's resistance falls, send in your commander unit and it recovers gradually. It does not recover while the castle is under enemy attack.
+@5705
+Attacking a strongly defended castle\nblindly will not\ntake it easily
+@5706
+◆ Destroy the enemy commander unit\nA castle that has lost its commander cannot recover resistance. If you wish to besiege patiently, first defeat the enemy commander unit.\n\n◆ Attack with pikes and cannon\nPikes are best suited to sieges. For a battle in which the siege looks difficult, sortie with many pike units. Cannon can attack from a distance.
+@5707
+◆ The "Siege" skill\nUnits with the "Siege" skill do double attack damage in sieges. Give them priority in attacking castles.
+@5708
+Spirit
+@5709
+Join/Split
+@5710
+Camp
+@5711
+Skirmish
+@5712
+Evade
+@5713
+Retreat
+@5715
+Join War
+@5716
+Request
+@5717
+Mediate
+@5718
+Forced Attack
+@5719
+Rest
+@5720
+{1B}FLSpirit{1B}FE
+@5721
+{1B}FLJoin/Split{1B}FE
+@5722
+{1B}FLCamp{1B}FE
+@5723
+{1B}FLSkirmish{1B}FE
+@5724
+{1B}FLEvade{1B}FE
+@5725
+{1B}FLRetreat{1B}FE
+@5727
+{1B}FLJoin War{1B}FE
+@5728
+{1B}FLRequest{1B}FE
+@5729
+{1B}FLMediate{1B}FE
+@5730
+{1B}FLForced Attack{1B}FE
+@5731
+{1B}FLRest{1B}FE
+@5732
+{1B}FLShortcuts{1B}FE
+@5733
+You wish to know about\nbattle commands?
+@5735
+Commands for your own units
+@5736
+Commands for your own castles
+@5737
+Other commands
+@5739
+To give an order to your own unit:\n1. Select the unit with the {1B}PA button\n2. Choose a command with the {1B}PY button
+@5741
+A command that rouses the troops and raises morale. Using it restores the morale of all your units.\n\n◆ Command restrictions\nThere is a limit to how many times [{1B}CRSpirit{1B}CD] can be used, set by the commander's Leadership. The remaining uses are shown in the description field at the top of the screen.\n\nOnce used, [{1B}CRSpirit{1B}CD] cannot be used again for 2 days. It also cannot be used if the commander unit has been destroyed or has retreated.
+@5742
+◆ Command tips\nBecause the uses are limited, using it too often may leave you unable to use [{1B}CRSpirit{1B}CD] at a crucial moment. Make use of allied castles, forts and supply trains, and try to restore morale by resting as far as possible.
+@5743
+[{1B}CRJoin{1B}CD] forms a formation and [{1B}CRSplit{1B}CD] disbands it. In a formation, units automatically move in ways that suit their troop types.\n\n◆ Command tips\nIn a formation, skill effects extend to the whole formation and [{1B}CRForced Attack{1B}CD] becomes available. When you want several units to act together, it is best to [{1B}CRJoin{1B}CD] them.
+@5744
+A command that lets units rest and restore morale. While in [{1B}CRRest{1B}CD], morale recovers gradually over time.\n\n◆ Places to rest\nYou can [{1B}CRRest{1B}CD] in 5 places: (1) your own castles, (2) castles of allied daimyo, (3) bases of allied powers, (4) camps set up by your supply trains, and (5) camps set up by allied supply trains.
+@5745
+◆ Command tips\nBesides [{1B}CRRest{1B}CD], [{1B}CRSpirit{1B}CD] also restores morale. [{1B}CRSpirit{1B}CD] restores all your units' morale instantly, but the number of uses is limited. To be able to use [{1B}CRSpirit{1B}CD] at a crucial moment, restore morale by [{1B}CRRest{1B}CD] as far as possible.
+@5746
+[{1B}CRCamp{1B}CD] has a supply train set up a camp. To fold the camp, select it with the {1B}PA button. Units can enter a camp set up by a supply train and [{1B}CRRest{1B}CD].\n\n◆ Command tips\nSupply trains have no attack and move slowly. Left alone, they are helpless when attacked. If units of other troop types [{1B}CRJoin{1B}CD] them, a formation is made around the supply train, protecting it from enemy attacks.
+@5747
+[{1B}CRSkirmish{1B}CD] is a command that sets a unit's behaviour policy. Each of your units then acts automatically according to the policy.\n\n◆ Behaviour of [{1B}CRSkirmish{1B}CD]\n[{1B}CRSkirmish{1B}CD] aggressively attacks approaching enemy units. Even if the unit has orders to attack or move, it gives priority to attacking any enemy unit that approaches.
+@5748
+[{1B}CREvade{1B}CD] is a command that sets a unit's behaviour policy. Each of your units then acts automatically according to the policy.\n\n◆ Behaviour of [{1B}CREvade{1B}CD]\n[{1B}CREvade{1B}CD] attacks approaching enemy units. If the unit has orders to move or attack, it does not attack even when enemies approach, and gives priority to its current orders.
+@5749
+[{1B}CRRetreat{1B}CD] is a command that sets a unit's behaviour policy. Each of your units then acts automatically according to the policy.\n\n◆ Behaviour of [{1B}CRRetreat{1B}CD]\n[{1B}CRRetreat{1B}CD] automatically moves to an allied base and enters it. If there is no allied base, it automatically moves to a retreat point and withdraws from the province.
+@5750
+To give an order to your own castle:\n1. Select the castle with the {1B}PA button\n2. Carry out a command that can run automatically
+@5752
+A command that sends the units inside a castle out onto the field.\nUnits that have gone out wait around the castle.
+@5753
+A command to join the attackers or the defenders when you are not a party to the battle.\n\n◆ Command tips\nIn a neutral position you cannot [{1B}CRSortie{1B}CD] units. Use [{1B}CRJoin War{1B}CD] when you want to take a castle or capture an enemy officer.
+@5754
+Choose another house's unit or base\nto use commands on\nthat unit or base
+@5756
+A command that asks allied powers to attack a unit or base. They may refuse.\n\n◆ Command tips\nTargets can be enemy castles and units, and neutral castles and bases. Castles taken by your allied powers are presented to your house afterward.
+@5757
+Asks the Imperial Court or the shogunate to mediate a ceasefire. It may fail.\n\n◆ Command tips\nThe better your relations with the Court and the higher the daimyo's court title (or, for the shogunate, relations with it and the daimyo's post), the likelier it is to succeed.\n\nThe ceasefire envoy takes several days to arrive. The days depend on the distance to Yamashiro for the Court, or to the province of the shogunate's daimyo for the shogunate.
+@5758
+A command that strengthens the attack of the units in a formation for a set time.\n\n◆ Command restrictions\nThere is a limit to how many times [{1B}CRForced Attack{1B}CD] can be used. The limit is set by the number of bases at the start of battle, and taking castles during battle adds uses. The remaining uses are shown in the description field at the top of the screen.
+@5759
+◆ Skills effective with Forced Attack\nWith these skills, attacks become stronger still.\n"{1B}CBSpear Wall{1B}CD" "{1B}CBCharge{1B}CD" "{1B}CBRapid Fire{1B}CD" "{1B}CBVolley{1B}CD"\n"{1B}CBRain Fire{1B}CD" "{1B}CBHold Fast{1B}CD" "{1B}CBWar God{1B}CD" "{1B}CBIron Wall{1B}CD"\n\n◆ Command tips\nAfter [{1B}CRForced Attack{1B}CD], morale falls sharply. Used at the wrong time, it leaves you open to an enemy counterattack. Use it with timing in mind, such as when you want to topple a tough enemy in one blow.
+@5760
+Shortcut keys let you give orders quickly.\n\n● Ctrl + left click (add to selection)\n  Adds another unit to the selected units.\n● Ctrl + A (select all)\n  Selects all your units on the screen.\n● Double click (select same type)\n  Selects all your units of the same troop type.\n● Alt + left click (leave formation)\n  Removes a unit from its formation.\n● Tab (select in turn)\n  Selects your units on the screen one by one.
+@5761
+● B (split)\n  Splits a formation.\n● R (rest)\n  Orders the selected units to rest.\n● Z (policy "Skirmish") / X (policy "Evade")\n  Changes the policy of the selected units.\n● U (speed up) / D (slow down)\n  Changes the speed of the battle.\n● T (show commander unit)\n  Centres the screen on your commander unit.\n● Space (pause)\n  Pauses the battle. While paused you can still give your units move and attack targets.
+@5762
+{1B}FLSkills 1{1B}FE
+@5763
+{1B}FLSkills 2{1B}FE
+@5764
+Battle skills fall into two kinds\nWhich shall I explain?
+@5766
+Skills stronger in formations
+@5767
+Other skills
+@5768
+For these skills, if just one officer in a formation has the skill, its effect extends to every unit in the formation.\n\nUsing [{1B}CRForced Attack{1B}CD] strengthens the skill's effect further.
+@5769
+"{1B}CBSpear Wall{1B}CD": raises pike units' attack.\n"{1B}CBCharge{1B}CD": raises cavalry units' attack.\n"{1B}CBRapid Fire{1B}CD": raises archer units' attack.\n"{1B}CBVolley{1B}CD": raises gunner units' attack.\n"{1B}CBRain Fire{1B}CD": guns and cannon fire in the rain.\n"{1B}CBHold Fast{1B}CD": raises the unit's defence.\n"{1B}CBWar God{1B}CD": raises the unit's attack.\n                      Enemy morale falls more easily.\n"{1B}CBIron Wall{1B}CD": raises the unit's defence.\n                      Morale falls less easily.
+@5770
+These skills affect only the unit that has them.\n\n"{1B}CBRecovery{1B}CD": morale recovers faster at rest.\n"{1B}CBSwordsman{1B}CD": raises the officer squad's attack only.\n"{1B}CBCapture{1B}CD": easier to capture enemy officers.\n"{1B}CBEscape{1B}CD": harder for enemies to capture the officer.\n"{1B}CBShadow{1B}CD": when the officer squad is destroyed, another squad becomes the officer squad.
+@5771
+"{1B}CBSiege{1B}CD": raises attack when attacking castles.\n"{1B}CBRestore Order{1B}CD": returns confused allied units to normal with some chance.\n"{1B}CBEncourage{1B}CD": restores the morale of allied units that have begun to retreat.\n"{1B}CBConfuse{1B}CD": throws surrounding enemy units into confusion with some chance.\n"{1B}CBPersuade{1B}CD": makes enemy units defect with some chance.
+@5772
+{01}C{0B}{00}, this month's development report
+@5773
+{01}C{0B}{00}, this month the mood for opening new fields is rising in the domain, and cultivation should go well. Why not put effort into cultivation?
+@5773.1
+{01}C{0B}{00}, word of your good rule has spread, and refugees are flowing into the domain. Cultivate now and great results can be expected.
+@5773.2
+{01}C{0B}{00}, the gentry have spread new farming methods through the domain. Add cultivation magistrates now and great results will follow.
+@5774
+{01}C{0B}{00}, of late the fields in the domain have often been ravaged, and cultivation looks set to stall. I advise holding back on cultivation...
+@5774.1
+{01}C{0B}{00}, of late the villagers have been fleeing one after another. Perhaps some ill rumour is going around... It will hurt the results of cultivation...
+@5774.2
+{01}C{0B}{00}, of late no smoke is seen rising from the villages' hearths... Why not hold back on cultivation?
+@5775
+{01}C{0B}{00}, a market is open in the domain this month and commerce is lively. Invest in commerce and the castle town should flourish.
+@5775.1
+The free-market policy has worked, and trade in the castle town is lively. Add commerce magistrates now and it will grow livelier still.
+@5775.2
+They say merchants fleeing the wars are gathering in the comparatively peaceful domain of the {02}{0C}5... Why not add commerce magistrates?
+@5776
+{01}C{0B}{00}, unscrupulous merchants are rampant of late. Investing now would only profit them. Hold back on investment for a while and watch how things go...
+@5776.1
+{01}C{0B}{00}, of late the circulation of coin in the domain has stalled. For now, assign few commerce magistrates and wait for the tide to turn...
+@5776.2
+{01}C{0B}{00}, bad coin has been circulating in the domain of late. Until the sorting of coin is done, we cannot expect much from commerce magistrates.
+@5777
+{01}C{0B}{00}, timber is plentiful in the domain this month, and repairs should go well. Why not put effort into repairs?
+@5777.1
+{01}C{0B}{00}, a new method of castle building has reached our domain. The best course is to add repair magistrates and try it out...
+@5777.2
+{01}C{0B}{00}, a master castle builder has come to the castle town and offers to help with repairs... Shall we add repair magistrates?
+@5778
+{01}C{0B}{00}, masons and carpenters are scarce this month, and repairs will stall. I advise holding back on repairs...
+@5778.1
+{01}C{0B}{00}, stone and timber are short. Even if you add repair magistrates now, the work will not be good.
+@5778.2
+Rumour has it a vengeful ghost haunts the {02}{0C}5 clan's castle, and builders will not come to repair it. Better to stop repairs this month.
+@5779
+{01}C{0B}{00}, {01}C{15}{00} seems dissatisfied at not being given a fief equal to the merit earned. Why not raise it?
+@5779.1
+{01}C{0B}{00}, {01}C{15}{00} seems dissatisfied with the present treatment. Why not grant a reward?
+@5780
+{01}C{0B}{00}, it seems %s harbours hostility toward our house. Should we not take some measures...
+@5780.1
+{01}C{0B}{00}, %s seems to harbour hostility toward our house. It might be well to take some measures...
+@5781
+{01}C{0B}{00}, our remaining rice seems to be running low. Why not put effort into cultivation, to enrich our rice income?
+@5782
+{01}C{0B}{00}, our house's directly held yield is only meagre. To raise it, why not put effort into cultivation?
+@5783
+{01}C{0B}{00}, our remaining gold seems to be running low. Why not put effort into commerce, to enrich our gold income?
+@5784
+{01}C{0B}{00}, it seems ronin are visiting {02}y2 Province. Why not put effort into recruitment?
+@5785
+{01}C{0B}{00}, it seems several spies have slipped into {02}y2. Put effort into guarding against them.
+@5786
+{01}C{0B}{00}, troop training is lacking in {02}y2. To prepare for invasion by other houses, why not put effort into training?
+@5787
+{01}C{0B}{00}, the troops of %s have not recovered enough. Why not hold off on battle?
+@5787.1
+{01}C{0B}{00}, the troops of %s have not recovered enough. It would be best to hold off on battle...
+@5788
+{01}C{0B}{00}, the castle repairs in {02}y2 are lacking. To prepare for invasion by other houses, why not put effort into repairs?
+@5789
+{01}C{0B}{00}, merchants are visiting this month, so you can trade.
+@5790
+{01}C{D6}{00}, at last I have united {02}y2! Another step forward in spreading my rule over the realm!
+@5790.1
+{01}C{D6}{00}, at last I have united {02}y2! Another step closer to ruling the realm!
+@5791
+{01}C{D6}{00}, I have won back {02}{97}2 at last! A castle like this I shall not give up so easily!
+@5791.1
+So this is {02}{97}2 I have heard of... Splendour and magnificence were surely meant for this castle.
+@5791.2
+So this is {02}{97}2 I have heard of... They say it is one of the strongest castles south of the river, and so it is.
+@5792.1
+So this is {02}{97}2 I have heard of... "Peerless in the three realms" was surely meant for this castle.
+@5792.2
+So this is {02}{97}2 I have heard of... They say it is one of the strongest castles in the Kinai, and so it is.
+@5793
+So this is {02}{97}2 I have heard of... Truly the finest castle in the Kanto, as they say. Utterly impregnable.
+@5793.1
+{01}C{D6}{00}, I have taken {02}{97}2! The castle town here is said to be thriving. Let us engage in commerce and raise our income.
+@5793.2
+{01}C{D6}{00}, I have taken {02}{97}2! A first step toward the seat of the realm's ruler.
+@5794
+{01}C{DC}{00}... So it ends in a draw. Well, the contest is far from over!
+@5794.1
+{01}C{DC}{00}... The contest ends in a draw. I must think over my strategy again...
+@5795
+{01}C{DC}{00}, so {02}{97}2 is lost... A castle of such splendour I cannot give up so easily. I will surely take it back!
+@5795.1
+{01}C{DC}{00}, so {02}{97}2 is lost... One of the strongest castles south of the river I cannot give up so easily. I will surely take it back!
+@5796
+{01}C{DC}{00}, so {02}{97}2 is lost... A castle called peerless in the three realms I cannot hand over for nothing. I will surely take it back!
+@5796.1
+{01}C{DC}{00}, so {02}{97}2 is lost... One of the strongest castles in the Kinai I cannot give up so easily. I will surely take it back!
+@5797
+{01}C{DC}{00}, so {02}{97}2 is lost... One of the strongest castles in the Kanto I cannot hand over for nothing. I will surely take it back!
+@5797.1
+{01}C{DC}{00}, so {02}{97}2 is lost... A vital base for uniting the realm I cannot give up so easily. I will surely take it back!
+@5798
+{01}C{DC}{00}... So {02}y2 is lost... Well, the contest is far from over!
+@5798.1
+{01}C{DC}{00}... So {02}y2 is lost... The greatest blunder of {02}{0B}2's life.
+@5798.2
+{01}C{DC}{00}... So {02}y2 is lost... But I have not given up yet!
+@5799
+{01}C{D6}{00}, I have united {02}y2 quite by chance. I must thank {02}{0C}3.
+@5799.1
+{01}C{D6}{00}, I have united {02}y2 quite by chance. {02}{0C}3 is truly too good-natured.
+@5800
+{01}C{D6}{00}, I have won back {02}{97}2 by chance! A castle like this I shall not give up so easily!
+@5800.1
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. Still, splendour and magnificence were surely meant for this castle.
+@5800.2
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. They said it was one of the strongest castles south of the river, and so it is.
+@5801.1
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. Still, "peerless in the three realms" was surely meant for this castle.
+@5801.2
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. They said it was one of the strongest castles in the Kinai, and so it is.
+@5802
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. They said it was one of the strongest castles in the Kanto, and so it is.
+@5802.1
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. The castle town here is said to be thriving. Let us engage in commerce and raise our income.
+@5802.2
+{01}C{D6}{00}, {02}{97}2 has come into my hands by chance. A first step toward the seat of the realm's ruler.
+@5803
+I managed to bring the contest to a draw. Still, I must think over my strategy again...
+@5803.1
+I managed to bring the contest to a draw. Next, I will take the attack to them!
+@5808
+One day...\nLuis Frois, a Jesuit missionary, called on {02}{0B}2.
+@5809
+Lord {02}{0B}3, it is a pleasure to meet you. I am a missionary of the Society of Jesus, Luis Frois.
+@5810
+A missionary is a rare guest. Frois, was it? What is it you wish?
+@5811
+I would like to spread the teachings of Deus within Lord {02}{0B}3's domain. I beg your permission.
+@5812
+Very well!\n...More to the point, what is that strange box beside you?
+@5813
+It is an instrument for measuring time. I have brought it as a gift for Lord {02}{0B}3. Please take a look.
+@5814
+Let me see. ...? ...?? ...???\n...Frois, how does this work?
+@5815
+There is a thing called a screw on the back of the box. If you turn it...
+@5816
+Oh, it has indeed begun to move... But I understand none of it... Frois, I am sorry, but take it back.
+@5817
+Oh! Why, my lord? Is something not to your liking...?
+@5818
+I cannot grasp how the box works at all... What I cannot understand I do not want. Take it back, I say.
+@5819
+I see... What a pity.
+@5820
+Do not be downcast, Frois. I may not understand it, but it is surely an interesting thing. Bring me something interesting again.
+@5821
+Yes. Thank you, my lord. Then I shall take my leave for today.
+@5823
+Lord {02}{0B}3, it has been a long time. I am Luis Frois.
+@5824
+Ah, Frois. It has been a long time. What brings you today?
+@5825
+Yes. I have brought something to present to Lord {02}{0B}3.
+@5826
+...? What is this round thing? It is painted in all sorts of colours, blue, green...
+@5827
+This is called a globe. It is a map of the whole world.
+@5828
+Oh? A map of the whole world? Then where is my {02}{0B}T? Around here? Or around here?
+@5829
+Heh heh... Lord {02}{0B}3, the land of Japan where you live is here.
+@5830
+Let me see... Hm? Wh-what! This tiny thing! This is the land of the rising sun!?
+@5831
+Yes... that is so. My homeland, Portugal, is on the far side... here.
+@5832
+The far side? ...Wait. If the world is round like this, would one not fall off standing here?
+@5833
+No... one does not fall. The earth is truly round. Long ago, a man even sailed all the way around it by ship.
+@5834
+Oh... then I understand what you say. There is still much in this world that I do not know...
+@5835
+Good! Today was amusing! Tell me more amusing tales again! I shall gratefully accept the globe.
+@5836
+I am glad it pleases you. Then I take my leave.
+@5837
+One day...\nOn his way home from hawking, {02}{0B}2 stopped at a temple.
+@5838
+Well, well, Lord {02}{0B}3. Welcome. Please, come in.
+@5839
+No, I only stopped by because hawking made me thirsty. The veranda will do. More to the point, could you give me a cup of tea?
+@5840
+Ah... I did not notice. Hey! Sakichi! Serve tea to our lord!
+@5841
+Yes! Coming...\n...\nSorry to keep you waiting.
+@5842
+Ah, there it is.\nGulp, gulp, gulp... Phew.\nI feel revived. Sorry, but another cup.
+@5843
+Certainly.\nPlease wait a moment.\n...\nSorry to keep you waiting.
+@5844
+Good, good.\nGulp... phew... gulp...\nAh, I am much calmer now. Sakichi, was it? Another cup, if you would.
+@5845
+Hm... let me see.\nSlurp... phew... slurp...\nAh, what fine tea... Abbot! Give me this young acolyte!
+@5846
+What!?\nThis is a sudden request.\nWhy Sakichi, of all people...
+@5847
+For the first cup he served it lukewarm, easy for me to drink.\nFor the second, a little hotter, so I could taste the tea...
+@5848
+...And for the third, hot tea to savour at leisure...\nSuch attention in just pouring tea! Remarkable!
+@5849
+This boy has the makings to run the whole realm!\nIt is a waste to keep him as a temple acolyte!\nWell, will you come to my place?
+@5850
+B-but...\nAbbot...
+@5851
+Go, Sakichi.\nThis may be the Buddha's guidance.\nFollow our lord, and rid this world of war as soon as you can.
+@5852
+Hahaha! Just as I expected of an abbot, a man who understands!\nRight, Sakichi! Let us go!
+@5853
+Y-yes!\nI am in your care!
+@5854
+Because of this, Sakichi, the temple acolyte,\nlater {02}{0C}2,\nentered the service of {02}{0B}3.
+@5855
+One day...\nA banquet was held at {02}{0C}2's castle,\n{02}{0C}T.
+@5856
+Hic... hic...\n...{02}{0B}3!\nIs {02}{0B}3 not here!
+@5858
+...Hic...\nThere was a big cup, as I recall.\nBring it here.
+@5859
+At once.\n...\nSorry to keep you waiting.
+@5860
+Ah, good, good! Well done!\nIs there anyone who can drain this cup filled with sake?\n...
+@5861
+...\nWhat, what! Nobody!? What a killjoy!\n...{02}{0B}3! Will you try it?
+@5862
+...My lord.\nThis jest goes too far.
+@5863
+Wh-what!? ...Hic.\n{02}{0B}3! M-my order... hic...\nYou refuse to obey!?
+@5864
+N-no...\nIt is not that.
+@5865
+All right, I understand! ...Hic.\nIf you can drain it,\nI shall give you anything you want!
+@5866
+My lord, a samurai does not go back on his word, does he?\nThen I would like your treasured spear, Nomitori.\nMay I?
+@5867
+Nomitori! Come to think of it, you have wanted it for a long time.\nHic... you shall have it!\nNow, hic, drink!
+@5868
+Then... here I go.\nGulp, gulp...\nGulp... gulp...\nGulp...... gulp......
+@5869
+.........\n......\n...\nPhwah...
+@5870
+Oh! Splendid, {02}{0B}3!!\nAs promised, Nomitori is yours!
+@5871
+Yes, my lord!\nI am most grateful!
+@5872
+And so {02}{0B}3 obtained\nthe famed spear Nomitori.
+@5873
+{02}{0B}3's drinking was\nhanded down to later ages\nin the folk song\n"Kuroda Bushi"...
+@5874
+One day...\n{02}{0B}2 took {02}{0C}2 and five or six other pages\non a pilgrimage to Chikubushima, an island in Lake Biwa.
+@5875
+They say our liege is making\na pilgrimage to Chikubushima.
+@5876
+It is 15 ri to that island each way...\nHe surely will not return today.
+@5877
+Then, then, would it be all right\nto go out and play in the castle town?\nI would like to stretch my wings once in a while.
+@5878
+Yes...\nLet us go!
+@5879
+The maids of {02}{0B}T went out together\nto Kuwanomi-dera in the castle town.\nThey passed a pleasant time at the temple,\nlistening to a sermon and drinking tea.
+@5880
+But...\nContrary to the maids' expectations,\n{02}{0B}3 came back while the sun was still high!
+@5881
+Our liege returns!!
+@5882
+...Hm? Hey!\nWhy do the maids not come to greet me!
+@5883
+It seems they have gone out\nto play in the castle town.
+@5884
+...What!?\nI shall not forgive such conduct!\nSummon every one of them back to the castle at once!!!
+@5885
+The maids who had gone out to play\nall came back deathly pale.\nThe abbot of Kuwanomi-dera had also come\nto plead for them.
+@5886
+You lot!\nSlipping out of the castle while I was away,\nwhat is the meaning of this!
+@5887
+We are s-sorry, my lord.\nWe were sure you would not return until tomorrow...
+@5888
+When the master is away, you should be guarding the castle against any emergency!\nRunning off to play is outrageous!\nYou shall all be put to death!!
+@5889
+My liege, I beg you\nforgive these women!\nEven at the cost of my own life...
+@5890
+What!?\nYou would shield them!\nYou are as guilty as they are!!
+@5891
+And so all the maids who had left the castle without leave,\nand the abbot of Kuwanomi-dera, were beheaded...
+@5892
+This is the castle of {02}{0B}2,\n{02}{0B}T...\n{02}{0B}3's wife, {02}{0C}3,\nbroached a certain matter with {02}{0B}3...
+@5893
+...By the way, my lord,\nhave you heard rumours of a monk called "Muben"?
+@5894
+Mu... ben?\nI do not know the name.\nWhat sort of man is he?
+@5895
+They say he instantly cures the blind, the lame,\nthe sick given up on by physicians.
+@5896
+Oh...\nA monk with a mysterious power.
+@5897
+Yes... I hear he always performs his secret rite at the hour of the Ox,\nand the market at his gate is in an uproar every day from dusk.
+@5898
+...How interesting!\nThis monk, I, {02}{0B}3,\nshall examine in person!
+@5900
+You are this Muben?
+@5901
+I am honoured\nto meet you.
+@5902
+Hmm... his face, his body, his clothes\nseem ordinary enough...\nHey, Muben!\nWhat is your native province!
+@5903
+I have no\nnative province...
+@5904
+What... no native province...?\nThen are you Chinese?\nIndian? Or a demon?
+@5905
+I am\nonly an ascetic...
+@5906
+...Right! Someone there!\nPrepare to burn him at once!\nIf he says he is no man,\nfire should be nothing to him!
+@5907
+!\nPlease wait!\nThis humble monk\nwas born in Haguro in Dewa Province!
+@5908
+Hmph!... Then I have a favour to ask.\nWith your mysterious power,\nheal a sick man for me!
+@5909
+!...
+@5910
+After a while,\na sick man was brought in.\nMuben sat at his side\nand chanted spells desperately, but...
+@5911
+.........\nHe is not healed!\nYou lying monk!
+@5912
+F-f-\nforgive me, please!
+@5913
+Muben was berated by the furious {02}{0B}3,\ndragged around the town and then banished.\nA few days later...
+@5914
+Hahaha...\nI wish Nohime could have seen\nthat monk's blue face.
+@5915
+My lord...\nAbout that Muben...
+@5916
+?\nThat lying monk,\nwhat of him?
+@5917
+They say...\nwhen the partner in his secret rite was a woman,\nhe performed a lewd rite\ncalled "navel comparing".
+@5918
+.........\n...That sham monk!\nHe cannot be left alive any longer!!
+@5919
+Muben, dragged before {02}{0B}3 again,\nwas questioned still more harshly,\nand then, it is said, beheaded...
+@5920
+One day...\n{02}{0C}2 called on\n{02}{0B}2.
+@5921
+Lord {02}{0B}3,\ntoday I have come hoping you will try\nan unusual dish.
+@5922
+Oh...\nI have never seen this dish.\nWhat do you call it?
+@5923
+It is a dish from China\ncalled tempura.\nPlease, do try it.
+@5924
+Let me see...\nMm! This is delicious!
+@5925
+I am most happy\nthat it pleases you.
+@5926
+...Mm, mm...\nI cannot stop.\n{02}{0C}3, tell them to keep cooking it\nand bring more.
+@5927
+...Lord {02}{0B}3,\neating too much will harm your health.\nIt might be best to stop about there...
+@5928
+Be quiet and bring it!\nI have never had such delicious food.\nI can eat as much as I like!...
+@5929
+That night...\nA sudden, violent stomach pain struck {02}{0B}3!
+@5930
+Ugh... ugh... it hurts!\nS-someone!\nIs anyone there!
+@5931
+What is the matter!
+@5932
+M-my belly...\nMy belly hurts!
+@5933
+Did I not warn you so?\nThis is what comes of stuffing yourself\nwith unfamiliar food...
+@5934
+Ugh, ugh, uhh...\n.........\n......\n...
+@5935
+...Lord {02}{0B}3?\nPull yourself together!\nStay with me!...
+@5936
+...{02}{0B}2, who had always been\ncareful in everything,\nmet his sudden end\nin this way.
+@5937
+One day...\n{02}{0C}2 visited {02}{0B}2,\nwho lay ill.
+@5938
+Lord {02}{0B}3!\nStay with us...
+@5939
+It is no use for me now...\nYou have done much for me.\nI thank you.
+@5940
+Lord {02}{0B}3!...\nDo not speak so faintly!
+@5941
+There is only one thing\nI regret...\nI wished you would lend me your strength\nin the next world too...
+@5942
+My house and yours follow different faiths,\nso we would go to different places...
+@5943
+I see... Then from this very day\nI shall take the same faith as Lord {02}{0B}3.\nThen I can serve you forever...
+@5944
+Oh, is that so?\nI am relieved to hear it...
+@5945
+But {02}{0C}3\nreturned to his old faith\nright after {02}{0B}3's death.
+@5946
+One day...\nA tea gathering was held at {02}{0B}2's residence,\nand {02}{0C}2 and others were invited.
+@5947
+After you, then...\n...Ah!
+@5948
+Lord {02}{0C}3, what is the matter?
+@5949
+I am terribly sorry.\nI dripped snot into the tea.
+@5950
+No one has noticed.\nCome, pass the bowl.
+@5951
+B-but, Lord {02}{0B}3!\nYou know of my illness, do you not?
+@5952
+That? It is nothing.
+@5953
+Lord {02}{0B}3!
+@5954
+...Lord {02}{0C}3,\ndo you remember what you once said to me?
+@5955
+...People do not move for money. Unless you treat them with sincerity, however high a stipend you give, they will not submit in their hearts, and will be of no use at a crucial time...
+@5956
+...Those words moved me. Ever since, I have resolved to give my life for you, Lord {02}{0C}3. Now then...
+@5957
+{02}{0B}3 drained the tea,\nsnot and all, in a single draught\nwithout hesitation.
+@5958
+...I am deeply moved by your heart, Lord {02}{0B}3. For your sake, I, {02}{0C}3, will lay down my life at any time.
+@5959
+Lord {02}{0C}3...
+@5960
+The friendship of {02}{0B}2 and {02}{0C}2\nlasted from then on\nuntil they died.
+@5961
+One day...\n{02}{0B}2 was lecturing his son {02}{0C}2\non the proper mindset for battle.
+@5962
+...And so, at the time of this battle...
+@5963
+.........\nI beg your pardon...\nExcuse me for a moment.
+@5964
+Hey, {02}{0C}3!\nWhere are you going!
+@5965
+To r-relieve myself.
+@5966
+What!
+@5967
+Some time later...\n{02}{0C}3 finished relieving himself\nand returned.
+@5968
+Phew...\nSorry to keep you waiting.
+@5969
+.........\n{02}{0C}3!\nSit there!
+@5970
+!\nY-yes.
+@5971
+{02}{0C}3...\nWhat am I talking to you about\nright now?
+@5972
+...?\nThe battle,\nI believe.
+@5973
+These are times of war...\nYou know how important talk of battle is, do you not?
+@5974
+Yes...\nI believe I understand.
+@5975
+...Then why leave your seat for something as trivial as relieving yourself in the middle of such important talk! You fool!
+@5976
+Eek...
+@5977
+We are talking of war, the greatest matter of the state!\nEven if you wet yourself, listen to the end with full attention!!
+@5978
+Y-yes, I understand.\nI shall take care in future...
+@5979
+Takenaka Hanbei is said to have scolded his son Shigekado, and Date Masamune his son Tadamune, in this way. It shows how important talk of battle was.
+@5980
+One day...\n{02}{0B}2 was having a meal\nwith his son {02}{0C}2.
+@5981
+Oh ho...\nThis looks delicious.\nWell, let us eat.
+@5982
+Thank you!\nI shall put soup on the rice right away...\nOh, not enough soup.
+@5983
+!!\nAh... the {02}{0B}5 clan\nwill end with my generation...
+@5984
+...?\nFather, what are you\nsaying so suddenly?
+@5985
+{02}{0C}3, listen well.\nIn a lifetime a man sits before his meal again and again,\nso the amount of soup he pours on his rice\nis naturally trained.
+@5986
+You have just poured soup on your rice twice.\nWith such clumsiness\nyou cannot judge men.
+@5987
+If you cannot judge men, you cannot keep good samurai. These are times of war. As things stand, when I die the {02}{0B}5 clan will be destroyed in an instant.
+@5988
+Y-yes, I understand.\nI shall take care in future.
+@5989
+It is said to be the warning that Hojo Ujiyasu, the great general who held vast lands in the Kanto, gave his son Ujimasa on seeing how he ate.
+@5990
+One day, {02}{0B}2, a retainer of the {02}{0F}5 clan, summoned {02}{0C}2, {02}{0D}2 and {02}{0E}2.
+@5991
+I have gathered you all for one reason.\nI mean to carry out our long-planned scheme.\nAre the preparations going without a hitch?
+@5992
+No problem on our side. Most of the retainers have given up on Lord {02}{0F}3 and promised to side with our house.
+@5993
+I have probed Lord {02}{0F}3's state. He suspects nothing and is off his guard... I believe now is the time to rise.
+@5994
+Our troops are\nall ready to march out.\nOnce you give the order, my lord,\nthe army can move at once.
+@5995
+Then the time is ripe. {02}{0F}3 believed the slander of Shimamura and killed my grandfather Yoshiie... Now I repay that grudge.
+@5996
+{02}{0C}3, {02}{0D}3, {02}{0E}3!\nGive the orders to march out at once!
+@5997
+{02}{0B}3's army promptly surrounded\n{02}{0F}3's castle, {02}{0F}T.\nThe men who followed {02}{0F}3\nwere very few indeed...
+@5998
+Wh-what is the meaning of this!?\n...Hm! Is that {02}{0B}3 there!\nWhy do you commit such an outrage!?
+@5999
+"Outrage" is unjust.\nThen what of Lord {02}{0F}3's own deed,\nkilling my grandfather on slander?

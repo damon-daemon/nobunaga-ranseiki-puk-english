@@ -1,0 +1,564 @@
+# Texture English: PACK.object<TAB>text ('|' line break, ';' separates the spots of a multi-box item)
+# Japanese originals and decisions: notes/gfx_review.md
+# MAINCG 237-395: command buttons 64x32, 3 states each
+MAINCG.237	Power
+MAINCG.238	Power
+MAINCG.239	Power
+MAINCG.240	Magistrate
+MAINCG.241	Magistrate
+MAINCG.242	Magistrate
+MAINCG.243	Diplomacy
+MAINCG.244	Diplomacy
+MAINCG.245	Diplomacy
+MAINCG.246	Corps
+MAINCG.247	Corps
+MAINCG.248	Corps
+MAINCG.249	Personnel
+MAINCG.250	Personnel
+MAINCG.251	Personnel
+MAINCG.252	Info
+MAINCG.253	Info
+MAINCG.254	Info
+MAINCG.255	Battle
+MAINCG.256	Battle
+MAINCG.257	Battle
+MAINCG.258	Ninja
+MAINCG.259	Ninja
+MAINCG.260	Ninja
+MAINCG.261	Trade
+MAINCG.262	Trade
+MAINCG.263	Trade
+MAINCG.264	Transport
+MAINCG.265	Transport
+MAINCG.266	Transport
+MAINCG.267	Officer
+MAINCG.268	Officer
+MAINCG.269	Officer
+MAINCG.270	Daimyo
+MAINCG.271	Daimyo
+MAINCG.272	Daimyo
+MAINCG.273	Secede
+MAINCG.274	Secede
+MAINCG.275	Secede
+MAINCG.276	Adopt
+MAINCG.277	Adopt
+MAINCG.278	Adopt
+MAINCG.279	Cut
+MAINCG.280	Cut
+MAINCG.281	Cut
+MAINCG.282	Join
+MAINCG.283	Join
+MAINCG.284	Join
+MAINCG.285	Corps
+MAINCG.286	Corps
+MAINCG.287	Corps
+MAINCG.288	Military
+MAINCG.289	Military
+MAINCG.290	Military
+MAINCG.291	Dispatch
+MAINCG.292	Dispatch
+MAINCG.293	Dispatch
+MAINCG.294	Organise
+MAINCG.295	Organise
+MAINCG.296	Organise
+MAINCG.297	Princess
+MAINCG.298	Princess
+MAINCG.299	Princess
+MAINCG.300	Policy
+MAINCG.301	Policy
+MAINCG.302	Policy
+MAINCG.303	Move
+MAINCG.304	Move
+MAINCG.305	Move
+MAINCG.306	Move
+MAINCG.307	Move
+MAINCG.308	Move
+MAINCG.309	Treasure
+MAINCG.310	Treasure
+MAINCG.311	Treasure
+MAINCG.312	Retire
+MAINCG.313	Retire
+MAINCG.314	Retire
+MAINCG.315	Vassalage
+MAINCG.316	Vassalage
+MAINCG.317	Vassalage
+MAINCG.318	Treasure
+MAINCG.319	Treasure
+MAINCG.320	Treasure
+MAINCG.321	Develop
+MAINCG.322	Develop
+MAINCG.323	Develop
+MAINCG.324	Rank
+MAINCG.325	Rank
+MAINCG.326	Rank
+MAINCG.327	Raise
+MAINCG.328	Raise
+MAINCG.329	Raise
+MAINCG.330	Stratagem
+MAINCG.331	Stratagem
+MAINCG.332	Stratagem
+MAINCG.333	Survey
+MAINCG.334	Survey
+MAINCG.335	Survey
+MAINCG.336	Return
+MAINCG.337	Return
+MAINCG.338	Return
+MAINCG.339	Marriage
+MAINCG.340	Marriage
+MAINCG.341	Marriage
+MAINCG.342	Negotiate
+MAINCG.343	Negotiate
+MAINCG.344	Negotiate
+MAINCG.345	Province
+MAINCG.346	Province
+MAINCG.347	Province
+MAINCG.348	Threaten
+MAINCG.349	Threaten
+MAINCG.350	Threaten
+MAINCG.351	Tribute
+MAINCG.352	Tribute
+MAINCG.353	Tribute
+MAINCG.354	Appoint
+MAINCG.355	Appoint
+MAINCG.356	Appoint
+MAINCG.357	Reappoint
+MAINCG.358	Reappoint
+MAINCG.359	Reappoint
+MAINCG.360	Infiltrate
+MAINCG.361	Infiltrate
+MAINCG.362	Infiltrate
+MAINCG.363	Create
+MAINCG.364	Create
+MAINCG.365	Create
+MAINCG.366	Castle
+MAINCG.367	Castle
+MAINCG.368	Castle
+MAINCG.369	Powers
+MAINCG.370	Powers
+MAINCG.371	Powers
+MAINCG.372	Training
+MAINCG.373	Training
+MAINCG.374	Training
+MAINCG.375	Sortie
+MAINCG.376	Sortie
+MAINCG.377	Sortie
+MAINCG.378	Punish
+MAINCG.379	Punish
+MAINCG.380	Punish
+MAINCG.381	Exile
+MAINCG.382	Exile
+MAINCG.383	Exile
+MAINCG.384	Notables
+MAINCG.385	Notables
+MAINCG.386	Notables
+MAINCG.387	Allot
+MAINCG.388	Allot
+MAINCG.389	Allot
+MAINCG.390	Reward
+MAINCG.391	Reward
+MAINCG.392	Reward
+MAINCG.393	Arson
+MAINCG.394	Arson
+MAINCG.395	Arson
+# MAINCG 396-438: gold window title plates (64/88/112/136 px)
+MAINCG.396	Transport
+MAINCG.397	Allot
+MAINCG.398	Officer Info
+MAINCG.399	Map
+MAINCG.400	Daimyo Info
+MAINCG.401	Secede
+MAINCG.402	Adopt
+MAINCG.403	Cut Fief
+MAINCG.404	Join
+MAINCG.405	Corps Info
+MAINCG.406	Military
+MAINCG.407	Dispatch
+MAINCG.408	Organise
+MAINCG.409	Princess Info
+MAINCG.410	Policy
+MAINCG.411	Move
+MAINCG.412	Retire
+MAINCG.413	Vassalage
+MAINCG.414	Treasure
+MAINCG.415	Treasure Info
+MAINCG.416	Develop
+MAINCG.417	Raise
+MAINCG.418	Stratagem
+MAINCG.419	Survey
+MAINCG.420	Return
+MAINCG.421	Marriage
+MAINCG.422	Negotiate
+MAINCG.423	Threaten
+MAINCG.424	Tribute
+MAINCG.425	Appoint
+MAINCG.426	Reappoint
+MAINCG.427	Infiltrate
+MAINCG.428	Create
+MAINCG.429	Powers Info
+MAINCG.430	Training
+MAINCG.431	Sortie
+MAINCG.432	Punish
+MAINCG.433	Exile
+MAINCG.434	Notables Info
+MAINCG.435	Trade
+MAINCG.436	Province Info
+MAINCG.437	Reward
+MAINCG.438	Arson
+# MAINCG 580-589: list title plates
+MAINCG.580	Notables
+MAINCG.581	Daimyo
+MAINCG.582	Corps
+MAINCG.583	Princesses
+MAINCG.584	Treasures
+MAINCG.585	Court Ranks
+MAINCG.586	Provinces
+MAINCG.587	Castles
+MAINCG.588	Powers
+MAINCG.589	Officers
+# MAINCG 107-114 corps numerals; 159 confirm button; 220-236 list column icons
+MAINCG.107	1
+MAINCG.108	2
+MAINCG.109	3
+MAINCG.110	4
+MAINCG.111	5
+MAINCG.112	6
+MAINCG.113	7
+MAINCG.114	8
+MAINCG.159	Confirm
+MAINCG.220	Frm
+MAINCG.221	Com
+MAINCG.222	Rep
+MAINCG.223	Trn
+MAINCG.224	Grd
+MAINCG.225	Rec
+MAINCG.226	Poa
+MAINCG.227	Grt
+MAINCG.228	Def
+MAINCG.229	Koku
+MAINCG.230	Dev
+MAINCG.231	Mil
+MAINCG.232	Str
+MAINCG.233	Conquer
+MAINCG.234	Develop
+MAINCG.235	Direct
+MAINCG.236	Defend
+# MAINCG 458/461/464 shortage overlays; 551/552 offence/defence bars
+MAINCG.458	No|Horses
+MAINCG.461	No|Guns
+MAINCG.464	No|Cannon
+MAINCG.551	Offence
+MAINCG.552	Defence
+# MAINCG 594-619 tags (48x24, 48x48 = 2 states stacked, 24x24 one letter group)
+MAINCG.594	Illness
+MAINCG.595	Local
+MAINCG.596	Normal
+MAINCG.597	General
+MAINCG.598	Kyoto
+MAINCG.599	High
+MAINCG.600	Low
+MAINCG.601	Noble
+MAINCG.602	Province
+MAINCG.603	Hardline
+MAINCG.604	Quiet
+MAINCG.605	Ignore
+MAINCG.606	Ronin
+MAINCG.607	F
+MAINCG.608	M
+MAINCG.609	Killed
+MAINCG.610	Rule
+MAINCG.611	Cautious
+MAINCG.612	Rough
+MAINCG.613	Always
+MAINCG.614	Cav
+MAINCG.615	Sup
+MAINCG.616	Cnn
+MAINCG.617	Gun
+MAINCG.618	Spr
+MAINCG.619	Bow
+# MAINCG 620-633 name-entry tabs (56x24, 2 states); tabs hold ASCII since tools/nameentry.py (Kanji tab = A-Z, Hira = a-z, Kata = 123, ABC = Aa)
+MAINCG.620	Aa
+MAINCG.621	Aa
+MAINCG.622	a-z
+MAINCG.623	a-z
+MAINCG.624	A-Z
+MAINCG.625	A-Z
+MAINCG.626	123
+MAINCG.627	123
+MAINCG.628	Symbols
+MAINCG.629	Symbols
+MAINCG.630	Insert
+MAINCG.631	Insert
+MAINCG.632	Overwrite
+MAINCG.633	Overwrite
+# MAINCG 634 minor-power type sheet; 638/639 move destination/source markers; 640-643 seasons; 644/645 stamps
+MAINCG.634	Shogun;Court;Ikko;City;Church;Gentry;Temple;Ninja;Navy
+MAINCG.638	To
+MAINCG.639	Fr
+MAINCG.640	Spr
+MAINCG.641	Sum
+MAINCG.642	Aut
+MAINCG.643	Win
+MAINCG.644	Dead
+MAINCG.645	Wounded
+# MAINCG 487-489 options menu tabs; 494-509 settings panels (2 states); 510-531 setting values (2 states)
+MAINCG.487	Options 1
+MAINCG.488	Options 2
+MAINCG.489	Options 3
+MAINCG.494	Difficulty
+MAINCG.495	Tutorial
+MAINCG.496	Custom Officers
+MAINCG.497	AI Type
+MAINCG.498	Princess Limit
+MAINCG.499	Prisoners
+MAINCG.500	Messages
+MAINCG.501	Animation
+MAINCG.502	Battle
+MAINCG.503	Vibration
+MAINCG.504	Cursor
+MAINCG.505	Sound Output
+MAINCG.506	Music Volume;-;+
+MAINCG.507	Effects Volume;-;+
+MAINCG.508	Custom Events
+MAINCG.509	Custom Treasures
+MAINCG.510	Yes
+MAINCG.511	Medium
+MAINCG.512	Hidden
+MAINCG.513	Normal
+MAINCG.515	Advanced
+MAINCG.516	Release
+MAINCG.517	Aggressive
+MAINCG.518	Fast
+MAINCG.519	Skip
+MAINCG.520	Watch
+MAINCG.521	Mono
+MAINCG.522	None
+MAINCG.525	Rational
+MAINCG.526	Select
+MAINCG.527	Beginner
+MAINCG.528	Stereo
+MAINCG.529	Slow
+MAINCG.530	Appear
+MAINCG.531	Normal
+# COMMON 24 'all' button; 42-47 unit types (2 states); 48-52 tactics; 53-57 statuses; 90 kin
+COMMON.24	All
+COMMON.42	Cannon
+COMMON.43	Supply
+COMMON.44	Cavalry
+COMMON.45	Guns
+COMMON.46	Spears
+COMMON.47	Bows
+COMMON.48	Charge
+COMMON.49	Volley
+COMMON.50	Rapid Fire
+COMMON.51	Arrow Rain
+COMMON.52	Spear Wall
+COMMON.53	Retired
+COMMON.54	Commander
+COMMON.55	Daimyo
+COMMON.56	Vassal
+COMMON.57	Ronin
+COMMON.90	Kin
+# COMMON 108-137 skill plates (2 states, glossary Skills); 138-145 coloured command tags; 146-155 icons
+COMMON.108	Flee
+COMMON.109	Arrow Rain
+COMMON.110	Recruit
+COMMON.111	Spear Wall
+COMMON.112	Charge
+COMMON.113	Iron Wall
+COMMON.114	Restore|Order
+COMMON.115	Defence
+COMMON.116	Commerce
+COMMON.117	Persuade
+COMMON.118	Volley
+COMMON.119	Rapid Fire
+COMMON.120	Training
+COMMON.121	Siege
+COMMON.122	Confuse
+COMMON.123	Swordsman
+COMMON.124	Survey
+COMMON.125	Repair
+COMMON.126	Cultivation
+COMMON.127	Recovery
+COMMON.128	Shadow
+COMMON.129	Service
+COMMON.130	Capture
+COMMON.131	Poach
+COMMON.132	War God
+COMMON.133	Rally
+COMMON.134	Diplomacy
+COMMON.135	Flood|Control
+COMMON.136	Tea
+COMMON.137	Trade
+COMMON.138	Repair
+COMMON.139	Uprising
+COMMON.140	Cultivate
+COMMON.141	Poach
+COMMON.142	Guard
+COMMON.143	Train
+COMMON.144	Commerce
+COMMON.145	Recruit
+COMMON.146	Gun
+COMMON.147	Sup
+COMMON.148	Cnn
+COMMON.149	Cav
+COMMON.150	Spr
+COMMON.151	Bow
+COMMON.152	Ill
+# COMMON 191 attack/defence gauge sheet
+COMMON.191	Atk;Def
+# COMMON 184/187 back/next buttons (2 states)
+COMMON.184	Back
+COMMON.187	Next
+# STARTUP 0 title logo subtitle; 9-36 main menu (4 states each)
+STARTUP.0	Power-Up Kit
+STARTUP.9	New Game
+STARTUP.10	New Game
+STARTUP.11	New Game
+STARTUP.12	New Game
+STARTUP.13	Mission Challenge
+STARTUP.14	Mission Challenge
+STARTUP.15	Mission Challenge
+STARTUP.16	Mission Challenge
+STARTUP.17	Load Game
+STARTUP.18	Load Game
+STARTUP.19	Load Game
+STARTUP.20	Load Game
+STARTUP.21	Register Events
+STARTUP.22	Register Events
+STARTUP.23	Register Events
+STARTUP.24	Register Events
+STARTUP.25	Edit Officers
+STARTUP.26	Edit Officers
+STARTUP.27	Edit Officers
+STARTUP.28	Edit Officers
+STARTUP.29	Edit Treasures
+STARTUP.30	Edit Treasures
+STARTUP.31	Edit Treasures
+STARTUP.32	Edit Treasures
+STARTUP.33	Sound Mode
+STARTUP.34	Sound Mode
+STARTUP.35	Sound Mode
+STARTUP.36	Sound Mode
+# EDITORPK 2-36 editor menu (5 states each); ED*.2 / EDKAHOU.4 editor title plates; EDKAHOU 5-56 treasure types
+EDITORPK.2	Officers
+EDITORPK.3	Officers
+EDITORPK.4	Officers
+EDITORPK.5	Officers
+EDITORPK.6	Officers
+EDITORPK.7	Daimyo
+EDITORPK.8	Daimyo
+EDITORPK.9	Daimyo
+EDITORPK.10	Daimyo
+EDITORPK.11	Daimyo
+EDITORPK.12	Castles
+EDITORPK.13	Castles
+EDITORPK.14	Castles
+EDITORPK.15	Castles
+EDITORPK.16	Castles
+EDITORPK.17	Powers
+EDITORPK.18	Powers
+EDITORPK.19	Powers
+EDITORPK.20	Powers
+EDITORPK.21	Powers
+EDITORPK.22	Treasures
+EDITORPK.23	Treasures
+EDITORPK.24	Treasures
+EDITORPK.25	Treasures
+EDITORPK.26	Treasures
+EDITORPK.27	Princesses
+EDITORPK.28	Princesses
+EDITORPK.29	Princesses
+EDITORPK.30	Princesses
+EDITORPK.31	Princesses
+EDITORPK.32	Ninja
+EDITORPK.33	Ninja
+EDITORPK.34	Ninja
+EDITORPK.35	Ninja
+EDITORPK.36	Ninja
+EDBUSHOU.2	Edit Officer
+EDDAI.2	Edit Daimyo
+EDHIME.2	Edit Princess
+EDNINJA.2	Edit Ninja
+EDSEI.2	Edit Powers
+EDSHIRO.2	Edit Castle
+EDKAHOU.4	Edit Treasure
+EDKAHOU.5	Tea Caddy
+EDKAHOU.6	Tea Jar
+EDKAHOU.7	Kettle
+EDKAHOU.8	Tea Bowl
+EDKAHOU.9	Vase
+EDKAHOU.10	Tea Scoop
+EDKAHOU.11	Censer
+EDKAHOU.12	Water Jar
+EDKAHOU.13	Swords
+EDKAHOU.14	Pike
+EDKAHOU.15	Matchlock
+EDKAHOU.16	Great Gun
+EDKAHOU.17	Pistol
+EDKAHOU.18	Short Bow
+EDKAHOU.19	Great Bow
+EDKAHOU.20	Armour
+EDKAHOU.21	Helmet
+EDKAHOU.22	Fine Horse
+EDKAHOU.23	Swift Horse
+EDKAHOU.24	Farming
+EDKAHOU.25	Commerce
+EDKAHOU.26	Building
+EDKAHOU.27	Chronicle
+EDKAHOU.28	Anecdotes
+EDKAHOU.29	Diplomacy
+EDKAHOU.30	Medicine
+EDKAHOU.31	Swordplay
+EDKAHOU.32	Martial Arts
+EDKAHOU.33	Spearmanship
+EDKAHOU.34	Riding
+EDKAHOU.35	Gunnery
+EDKAHOU.36	Learning
+EDKAHOU.37	Strategy
+EDKAHOU.38	Map
+EDKAHOU.39	Ink Painting
+EDKAHOU.40	Painting
+EDKAHOU.41	Sweets
+EDKAHOU.42	Local Sake
+EDKAHOU.43	Spectacles
+EDKAHOU.44	Clock
+EDKAHOU.45	Fragrant Wood
+EDKAHOU.46	War History
+EDKAHOU.47	Essays
+EDKAHOU.48	Survey
+EDKAHOU.49	Flood Control
+EDKAHOU.50	Picture Scroll
+EDKAHOU.51	Records
+EDKAHOU.52	Famed Sword
+EDKAHOU.53	Tales
+EDKAHOU.54	Heavy Armour
+EDKAHOU.55	War Tale
+EDKAHOU.56	Armour
+# WARCG 4 battle unit-state sheet (cells 0-9 row 1, then 3 cells row 2); 16 battle-speed sheet
+WARCG.4	Join;Move;Attack;Wait;Enter;Pursue;Retreat;Confused;Chaos;Orders;Resist;Defend;In Castle;Ord;Sq;Mor
+WARCG.16	Instant;Short;Long;Fast;Slow
+# SAVELOAD 0 (+ strip 1) save/load screen labels
+SAVELOAD.0	Daimyo;Saved;Difficulty
+SAVELOAD.5	Mission
+# SOUNDMD 0 sound-mode screen title; KAISEN 4/5 naval battle ship-count tabs
+SOUNDMD.0	Sound Mode
+KAISEN.4	Ships
+KAISEN.5	Ships
+# MISSION 0 mission-select panel headings
+MISSION.0	Scenario;Time Limit;Playable Daimyo;Victory Conditions;Failure Conditions
+MISSION.2	Missions Cleared
+# EDEVENT 2/4 event editor screens
+EDEVENT.2	Register Events
+EDEVENT.4	Trigger Conditions;Outcome
+# MRESULT 0 result-screen labels; 2/3 banners (award art 4-7 left as painted kanji)
+MRESULT.0	Mission;Daimyo;Completed
+MRESULT.2	Mission Failed
+MRESULT.3	Mission Complete
+# TGAIYOU tutorial diagrams (spots in ITEMS order; notes/gfx_review.md)
+TGAIYOU.0	Power-Up Kit
+TGAIYOU.1	Daimyo Castle;Province;Power Base
+TGAIYOU.2	Commander ability|sets how many|magistrates.;The daimyo gives|commanders policy only;One corps governs several provinces!;Kin commanders take direct orders
+TGAIYOU.3	No Cooperation;Cooperation;(battle reinforcements,|skills, etc.)
+TGAIYOU.6	Daimyo;Commander|(Vassal);Commander|(Kin);Magistrate|Magistrate|Officer|Officer;1st Corps;2nd Corps;3rd Corps
+TGAIYOU.7	(rice, gold, etc.);Aid;Refuse Aid;Friendly;Hostile;Daimyo;Minor|Powers
+TGAIYOU.8	Your Corps' Strategy;Other Clans;Build the|Domain;Build the|Army;En-|voy;Sor-|tie;Make|Friends;Joint Ops;Expand|by War;Help;Aid;Minor Powers;Basic Strategy

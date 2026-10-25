@@ -1,0 +1,8 @@
+# chunk c: e650000 .. e6e3b00 (ELF UI labels: strategy screen, key guide, stats)
+# key<TAB>English; \n = newline; "-" = keep the Japanese (debug text); ASCII only.
+# Smoke-test set (phase 6b port): daimyo-select dialog and key-guide labels.
+e650ca0	Yes
+e650ca8	No
+e6e2e50	OK
+e6e2f10	Change Page
+e6e3188	Zoom

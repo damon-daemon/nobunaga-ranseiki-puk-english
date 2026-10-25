@@ -1,0 +1,892 @@
+@5281
+Ah, Lord {02}{0B}2. Is something troubling you?
+@5282
+Choose a topic
+@5283
+I want more gold and provisions
+@5300
+* Buying from a merchant\nIf there is a merchant in the province, you can also buy provisions from him with [{1B}CRTrade{1B}CD].
+@5301
+Lead the strongest troops you can, in the greatest numbers you can... Simple, but that is the secret of victory.
+@5302
+Choose a topic
+@5303
+How do I get more troops?
+@5304
+How do I make my troops stronger?
+@5305
+Troop numbers depend on an officer's fief. In other words, raising your retainers' fiefs means more troops.
+@5306
+* Raising fiefs\nOne squad is 200 soldiers. The number of squads an officer leads depends on the officer's fief. Fiefs are raised with <{1B}CRRaise Fief{1B}CD> under [{1B}CRPersonnel{1B}CD]. Raising a fief, however, needs enough yield to spare.
+@5307
+* Replacing squads\nWhen a raised fief entitles an officer to more squads, or squads are lost in battle, one squad is replaced in each of the months that change the season: the 2nd, 5th, 8th and 11th. Cavalry, gunner and cannon squads, however, are only replaced while you hold horses, guns or cannon in store. Buy the arms you need from a merchant, or change the unit type to one that needs no arms, such as pikes.
+@5308
+In battle, the strength of the troops depends on the leadership of the officer commanding them. Raising their drill level also makes a unit harder to throw into confusion.
+@5309
+* Raising the troops' drill level\nAppoint a <{1B}CRDrill{1B}CD> magistrate under the "Military" heading of [{1B}CRMagistrates{1B}CD] and the troops' drill level rises every month. A magistrate with the "{1B}CBDrill{1B}CD" skill raises it faster.\n\n* Raising an officer's leadership\nAn officer's leadership rises gradually with military experience. Taking part in battles or serving as <{1B}CRDrill{1B}CD> or <{1B}CRPatrol{1B}CD> magistrate counts as military experience.
+@5310
+Battles are not the only way to fight. For a small house, diplomacy is the true battle for survival in this troubled age.
+@5312
+What is an alliance?
+@5313
+What is submission?
+@5314
+An equal non-aggression alliance with another house is not possible, but there are several ways to keep a house from becoming your enemy.
+@5315
+* Raising friendship\nA house that is friendly towards you is less likely to attack you. Friendship rises through <{1B}CRTribute{1B}CD> under [{1B}CRDiplomacy{1B}CD] and by answering requests for aid.\n\n* Marriage ties\nA house tied to you by marriage is very unlikely to attack you. If you have a princess, you can tie a marriage with <{1B}CRMarriage{1B}CD> under [{1B}CRDiplomacy{1B}CD].
+@5316
+* Lord and vassal\nHouses in a lord-vassal relationship cannot attack each other. <{1B}CRThreaten{1B}CD> and <{1B}CRSubmit{1B}CD> under [{1B}CRDiplomacy{1B}CD] create such a relationship with another house.
+@5317
+If you <{1B}CRSubmit{1B}CD> to another house, you become its vassal house. It is a constrained position, but it has its advantages.
+@5318
+* Limits on a vassal house\nA vassal house is forbidden all [{1B}CRDiplomacy{1B}CD] with any house other than its overlord. And when its overlord fights a battle in a province where the vassal house holds a castle, the vassal must always take the overlord's side.
+@5319
+* Advantages of a vassal house\nHouses in a lord-vassal relationship cannot attack each other, so by choosing to <{1B}CRSubmit{1B}CD> you avoid war with a house stronger than your own. A vassal house may also <{1B}CRSecede{1B}CD> at any time. After seceding, however, friendship between the two houses falls to 0, so seceding without enough strength is dangerous.
+@5320
+Ninja, navies, local gentry, temples... Winning their cooperation is the short road to ruling the land.
+@5322
+What is aid?
+@5323
+What is a land survey?
+@5324
+Negotiation terms and effects
+@5325
+Changes in relations
+@5326
+Relations with the minor powers improve through <{1B}CRNegotiate{1B}CD>. A power on good terms with you will help you in many ways.
+@5327
+* An edge in battle\nIf you are on good terms with the gentry and temples based in the province where a battle is fought, they join the battle on your side.\n\n* Effects on commands\n<{1B}CRDispatch{1B}CD> and [{1B}CRTrade{1B}CD] cannot be carried out, or go badly, unless you are on good terms with the ninja school or the free city concerned.
+@5328
+* Avoiding hostility\nThe minor powers work all kinds of mischief against houses they are hostile to. Improving relations also serves to prevent that hostility.
+@5329
+A land survey takes land from the local gentry and adds it to your own yield. It can only be carried out in a province you have unified.
+@5330
+* Advantages of <{1B}CRSurvey{1B}CD>\nNormally, raising yield takes months of <{1B}CRCultivate{1B}CD> or seizing enemy castles in battle. A <{1B}CRSurvey{1B}CD> raises the yield at once.\n\n* Carrying out a <{1B}CRSurvey{1B}CD>\nIt cannot be carried out until the province is unified (every castle in it is yours), and it needs an officer with the "{1B}CBSurvey{1B}CD" skill.
+@5331
+* Caution with <{1B}CRSurvey{1B}CD>\nCarrying out a <{1B}CRSurvey{1B}CD> worsens relations with the local gentry. If relations become very bad, they may rise up against you, so send them goods through <{1B}CRNegotiate{1B}CD> and mend relations.
+@5332
+What you can ask for depends on the kind of power and your relations with it, the aid you offer, and the intellect and origin of the officer you send.
+@5333
+* Spreading your name and working against others\nAsk a power to "Publicise our house" in negotiation and, if it succeeds, your relations with the neighbouring powers improve. Asking it to "Work against another house" worsens the target house's relations with the neighbouring powers.\n\n* Patrol the province (gentry)\nThey patrol the province and uncover other houses' ninja and the like.
+@5334
+* Levy troops (gentry)\nTroops are levied from the local gentry to fill the squads of your officers in that province.\n\n* Plot against a power (ninja)\nThey slip into another house to steal gold or provisions, carry out assassinations and so on.\n\n* Encourage piracy (navy)\nThey plunder the gold and provisions of other houses along the coasts of their sea areas.
+@5335
+* Expand into a neighbouring sea (navy)\nThey advance into a sea area next to one they control. If another navy is there, a sea battle breaks out.\n\n* Trade with Ming (navy)\nThey trade with Ming China. Success brings gold, treasures and the like, but trade can also fail. To arrange it, an officer with the "{1B}CBTrade{1B}CD" skill must negotiate with a navy of scale 6 or more that is not already trading.
+@5336
+* Request a court title (court)\nYou receive a new court title. Only the daimyo or an officer of court origin can ask. It is only possible while a court noble is visiting a province where you hold a castle.
+@5337
+Relations with a minor power have 5 levels: Sworn Enemy, Hostile, Distant, Friendly and Close.
+@5338
+* Improving relations\nIf you give goods as aid in negotiation and ask for nothing in return, relations improve. If you ask a power to "Publicise our house", it improves your relations with the neighbouring powers.\n\n* First come, first served\nA minor power can only be "Close" to one daimyo. A power already "Close" to another house will never become "Close" to you, however much aid you give.
+@5339
+About the corps? Which aspect of the corps shall I explain?
+@5341
+What is a corps?
+@5342
+How do I form a corps?
+@5343
+How do I give a corps orders?
+@5344
+Whoever understands the corps rules the land... that is hardly an exaggeration. That is how important the corps are.
+@5345
+* What is a corps?\nA house consists of several corps. Each corps governs several provinces and carries out strategy and battles.\n\n* Why form a new corps?\nThere is a limit to the number of magistrates a single corps can appoint. If one corps governs too many provinces, it cannot use the [{1B}CRMagistrates{1B}CD] command efficiently. As your provinces grow in number, you need to form new corps.
+@5346
+* Running a corps\nAs a rule, running a corps is delegated to its commander; the daimyo only sets the policy. The 1st Corps, whose commander is the daimyo, and corps whose commander is a kin officer can be given direct orders.
+@5347
+When you form a new corps, you choose its commander and the provinces it will govern. The commander's abilities greatly affect the corps' strategy.
+@5348
+* Choose an able commander\nThe number of magistrates depends on the commander's abilities: politics sets the number of "Development" magistrates, leadership the "Military" ones and intellect the "Stratagems" ones.\n\n* Kin (blood relations) allow direct rule\nMake a kin officer commander and you can rule the corps directly. With any other officer as commander, you must delegate.
+@5349
+* Choosing the provinces\nA single corps can be given several provinces. Decide how many to entrust to it according to the commander's abilities.
+@5350
+A corps carries out its strategy according to its policy. You would do well to review the policy often as the situation around it changes.
+@5351
+* Delegated rule\nNormally you only set a policy for each corps and leave strategy to the commander's judgement. The policy is chosen from "Develop", "Defend" and "Conquer". "Develop" concentrates on building up the provinces. "Defend" concentrates on building up the troops. "Conquer" attempts to take the castle you name. Set the policy to suit the state of the corps' provinces.
+@5352
+* Direct rule\nIn the provinces of the 1st Corps, the daimyo gives orders in person. From the 2nd Corps on, if the commander is kin of the daimyo, setting the policy to "Direct" lets you give orders in person too.
+@5353
+I shall answer anything that lies within my knowledge.
+@5355
+What is the council?
+@5356
+How do I learn about other houses?
+@5357
+How do I get more vassals?
+@5358
+How do I raise prestige?
+@5359
+How do I carry out flood works?
+@5360
+How do I gain court titles and posts?
+@5361
+How do I found a shogunate?
+@5362
+What do I do before a battle?
+@5363
+How do I raise an officer's abilities?
+@5364
+Know the enemy and know yourself, and you need not fear a hundred battles... Learning the enemy's inner state gives you a great advantage in the manoeuvring of battle.
+@5365
+* Spying on other houses with ninja\nIf you have ninja, <{1B}CRInfiltrate{1B}CD> under [{1B}CRNinja{1B}CD] gathers information on other houses. Ninja are borrowed from a ninja school with <{1B}CRDispatch{1B}CD> under [{1B}CRNinja{1B}CD]. The longer a ninja stays hidden, the more information you get. A ninja goes home when the dispatch period runs out.
+@5366
+* Marrying off a princess\nMarry a princess to another house with <{1B}CRMarriage{1B}CD> under [{1B}CRDiplomacy{1B}CD] and you learn everything about the house she marries into.
+@5367
+However fine the strategy you devise, Lord {02}{0B}3, it means nothing without the men to carry it out.
+@5368
+* Recruiting ronin\nAppoint a <{1B}CRRecruit{1B}CD> magistrate under the "Stratagems" heading of [{1B}CRMagistrates{1B}CD] and he will take ronin officers in the province into your service. Take care: without a fief to give, a ronin cannot be recruited even once found.
+@5369
+* Recruiting captives\nEnemy officers captured in battle can be invited to serve you after the battle. As with <{1B}CRRecruit{1B}CD>, without a fief to give, a captive cannot be recruited.\n\n* Kin coming of age\nWhen a child of the daimyo or of a vassal comes of age, the child becomes a vassal of your house. A princess can be made an officer too, but a princess made an officer can no longer be used for <{1B}CRAdopt{1B}CD>.
+@5370
+Prestige has its effect in many situations. As your domains grow, so will the prestige of your house, little by little.
+@5371
+* Effects on commands\nSome commands go better the higher your prestige. <{1B}CRRecruit{1B}CD> and <{1B}CRThreaten{1B}CD> succeed more easily with high prestige. Prestige also sets the number of corps you can form with <{1B}CRNew Corps{1B}CD>.
+@5372
+* Effects on battle\nIf another house marches into the same target province as your <{1B}CRSortie{1B}CD>, the house with the highest prestige becomes the "attacker". The other houses choose between the attacking and the defending side.\n\n* How do I raise prestige?\nIt rises when you win battles, make a <{1B}CRMarriage{1B}CD> with another house, are appointed to a post by the shogunate, receive a court title from the court, and so on.
+@5373
+Flood works are a most important undertaking for enriching a province. They cannot, however, be carried out at any time.
+@5374
+* Carrying out flood works\nFlood works are only possible when a vassal proposes them. A proposal comes when these conditions are met:\n1. The province's current yield is close to its maximum.\n2. An officer with the "{1B}CBFlood Works{1B}CD" skill is in the province.\n\n* Effects of flood works\nFlood works raise the province's maximum yield. They also prevent typhoon damage and epidemics.
+@5375
+Court titles come from the Imperial Court, posts from the shogunate. Gaining a title or a post raises your house's prestige a great deal.
+@5376
+* Receiving a court title\nIf you are on good terms with the court, you may receive an imperial decree granting a title. You may also gain one by negotiating while a court noble is visiting a province where you hold a castle. A court title raises your house's prestige.
+@5377
+* Receiving a post\nIf you are on good terms with the shogunate, you may be appointed to a shogunate post. A post raises prestige. Some posts, such as "Constable" or "Oshu Commissioner", are only granted once you have unified a particular province or region.\n\n* Granting posts\nThe daimyo who holds the shogunate can grant posts to other houses with <{1B}CRAppoint{1B}CD>.
+@5378
+Does the office of Shogun interest you, Lord {02}{0B}2? As you no doubt know, one does not become Shogun so easily.
+@5379
+* Good relations with the court\nTo found a shogunate, you must be appointed Shogun. Since the right of appointment belongs to the Imperial Court, you must first be on good terms with the court.
+@5380
+An envoy may come from the court bearing an imperial decree. Follow its terms and relations improve little by little. Also, while a court envoy (a noble) is visiting a province where you hold a castle, offering gold or treasures through <{1B}CRNegotiate{1B}CD> improves relations with the court.
+@5381
+Before a battle, you place your officers, declare your position and choose a commander.
+@5383
+Declaring a position and placing vassals
+@5384
+Choosing the commander
+@5385
+When you request aid
+@5386
+When aid is requested of you
+@5387
+Before a battle, you declare your position and place your officers in your castles.
+@5388
+* Placing officers\nOfficers are placed when you have 2 or more castles in the province where the battle takes place. Choose the castle to move to from those shown on the left of the screen, then the officers to move from the officer list.
+@5389
+* Declaring a position\nWhen other houses fight a battle in a province where you hold a castle, you decide the position your house takes: attacker, defender or neutral. A position chosen here cannot be changed during the battle. The positions of other houses and minor powers not party to the battle depend on their relations with the parties.
+@5390
+Once the officers are placed and your position declared, you choose a commander. The choice of commander bears on victory or defeat, so choose with care.
+@5391
+* Choosing a commander\nChoose an officer with high leadership as commander. In battle, [{1B}CRRally{1B}CD] restores the morale of all your units, and the number of times [{1B}CRRally{1B}CD] can be used, and its effect, depend on the commander's leadership. When the daimyo marches out in person, however, the daimyo automatically becomes commander.
+@5392
+* If the commander's unit is destroyed\nThe destruction of the commander's unit does not mean defeat. The morale of all your units, however, falls sharply, and the battle turns against you.
+@5393
+When another house attacks you, you can request aid from the daimyo of a neighbouring province.
+@5394
+* Requesting aid\nWhen another house attacks you, you can ask the houses of neighbouring provinces for aid. The friendlier a house, the more readily it answers.\n\nNo aid can be requested when the attacker is an uprising army.\n\n* After the battle\nFriendship with a house that answered your request rises.
+@5395
+When a request for aid comes, you decide whether to accept it. Sending aid raises friendship, and your house's prestige as well.
+@5396
+* Deciding whether to send aid\nWhen a battle breaks out in a province next to one where you hold a castle, the defending house may ask you for aid. If you accept, you send reinforcements.\n\n* Once the battle begins\nYou fight on the defending side. If you take an attacker's castle during the battle, it becomes yours.
+@5397
+* After the battle\nAnswering a request for aid raises friendship with the house that asked, and your house's prestige.
+@5398
+The higher an officer's abilities, the better things go in both domestic affairs and battle. Abilities rise gradually as the officer is given orders.
+@5399
+* Abilities rising through commands\nWhen you make a retainer a magistrate under [{1B}CRMagistrates{1B}CD] or the officer carrying out some other command, politics, leadership, intellect or ambition may rise, according to the command carried out.
+@5400
+* Abilities rising through treasures\nSome treasures raise an officer's abilities or add skills or unit types. Give such a treasure with <{1B}CRTreasure{1B}CD> under [{1B}CRPersonnel{1B}CD] to raise the officer's abilities.
+@5401
+Magistrates
+@5402
+Development
+@5403
+Military
+@5404
+Stratagem
+@5405
+Cultivate
+@5406
+Commerce
+@5407
+Repair
+@5408
+Train
+@5409
+Patrol
+@5410
+Recruit
+@5411
+Poach
+@5412
+Uprising
+@5413
+Dismiss
+@5414
+Battle
+@5415
+Organise
+@5416
+Sortie
+@5417
+Personnel
+@5418
+Move
+@5419
+Raise
+@5420
+Cut
+@5421
+Treasure
+@5422
+Reward
+@5423
+Retire
+@5424
+Adopt
+@5425
+Study
+@5426
+Banish
+@5427
+Diplomacy
+@5428
+Tribute
+@5429
+Marriage
+@5430
+Threaten
+@5431
+Submit
+@5432
+Secede
+@5433
+Appoint
+@5434
+Punish
+@5435
+Powers
+@5436
+Negotiate
+@5437
+Survey
+@5438
+Raze
+@5439
+Foreign Trade
+@5440
+Trade
+@5441
+Ninja
+@5442
+Hire
+@5443
+Infiltrate
+@5444
+Recall
+@5446
+Corps
+@5447
+Create
+@5448
+Distribute
+@5449
+Merge
+@5450
+Reappoint
+@5451
+Transport
+@5452
+Policy
+@5453
+Options
+@5454
+Info
+@5455
+Council
+@5456
+{1B}FLMagistrates{1B}FE
+@5457
+{1B}FLDevelopment{1B}FE
+@5458
+{1B}FLMilitary{1B}FE
+@5459
+{1B}FLStratagem{1B}FE
+@5460
+{1B}FLCultivate{1B}FE
+@5461
+{1B}FLCommerce{1B}FE
+@5462
+{1B}FLRepair{1B}FE
+@5463
+{1B}FLTrain{1B}FE
+@5464
+{1B}FLPatrol{1B}FE
+@5465
+{1B}FLRecruit{1B}FE
+@5466
+{1B}FLPoach{1B}FE
+@5467
+{1B}FLUprising{1B}FE
+@5468
+{1B}FLDismiss{1B}FE
+@5469
+{1B}FLBattle{1B}FE
+@5470
+{1B}FLOrganise{1B}FE
+@5471
+{1B}FLSortie{1B}FE
+@5472
+{1B}FLPersonnel{1B}FE
+@5473
+{1B}FLMove{1B}FE
+@5474
+{1B}FLRaise{1B}CD
+@5475
+{1B}FLCut{1B}CD
+@5476
+{1B}FLTreasure{1B}CD
+@5477
+{1B}FLReward{1B}CD
+@5478
+{1B}FLRetire{1B}FE
+@5479
+{1B}FLAdopt{1B}FE
+@5480
+{1B}FLStudy{1B}FE
+@5481
+{1B}FLBanish{1B}CD
+@5482
+{1B}FLDiplomacy{1B}FE
+@5483
+{1B}FLTribute{1B}FE
+@5484
+{1B}FLMarriage{1B}FE
+@5485
+{1B}FLThreaten{1B}FE
+@5486
+{1B}FLSubmit{1B}FE
+@5487
+{1B}FLSecede{1B}FE
+@5488
+{1B}FLAppoint{1B}FE
+@5489
+{1B}FLPunish{1B}FE
+@5490
+{1B}FLPowers{1B}FE
+@5491
+{1B}FLNegotiate{1B}FE
+@5492
+{1B}FLSurvey{1B}FE
+@5493
+{1B}FLRaze{1B}FE
+@5494
+{1B}FLForeign Trade{1B}FE
+@5495
+{1B}FLTrade{1B}FE
+@5496
+{1B}FLNinja{1B}CD
+@5497
+{1B}FLHire{1B}CD
+@5498
+{1B}FLInfiltrate{1B}CD
+@5499
+{1B}FLRecall{1B}CD
+@5002
+On how to give aid to the ninja bands.
+@5003
+Shall I explain the method for Aid Ninja once more?
+@5004
+To borrow ninja, it is important to have good relations with the ninja bands. It is indispensable to <Negotiate> aid with the "Ninja".
+@5007
+You have achieved the Aid Gentry goal!
+@5008
+{01}C{0B}{00}, now you can govern in peace for a while.
+@5009
+{01}C{E4}{00} It was no small expense, and it was not given for nothing. We must put it to good use.
+@5011
+Still, it is a pity that the aid to the gentry came to nothing.
+@5013
+As all the gentry have vanished, the Aid Gentry goal can no longer be achieved.
+@5014
+{01}C{E5}{00} If the gentry are already gone, no aid can be given...
+@5016
+The deadline for the Aid Gentry goal has passed.
+@5022
+On how to give aid to the gentry.
+@5023
+Shall I explain the method for Aid Gentry once more?
+@5024
+To borrow the gentry's strength, it is important to have good relations with them. It is indispensable to <Negotiate> aid with the "Gentry".
+@5027
+You have achieved the Scout Enemy goal!
+@5028
+{01}C{0B}{00}, now that you hold the enemy's information, you can plan your strategy as you please.
+@5029
+{01}C{E4}{00} There is no reason not to use this information. Make full use of it.
+@5030
+The deadline for the Scout Enemy goal has passed.
+@5036
+On how to learn the state of enemy provinces.
+@5037
+Shall I explain the method for Scout Enemy once more?
+@5038
+Gaining information on enemy provinces is important for planning strategy. It is indispensable to use [Ninja].
+@5041
+You have achieved the Create Corps goal!
+@5042
+{01}C{0B}{00}, with a stronger corps system, more magistrates can be appointed, and further growth can be expected.
+@5043
+{01}C{E4}{00} Brace yourselves and attend to your corps duties.
+@5044
+The deadline for the Create Corps goal has passed.
+@5050
+On how to entrust part of the government to those you trust.
+@5051
+Shall I explain the method for Create Corps once more?
+@5052
+It is important to entrust government to a corps and lighten the burden. For that, carrying out <Create> is indispensable.
+@5055
+Our preparations for the sortie are now complete. Yet our army is still weak; having confirmed how to sortie is enough for now.
+@5056
+{01}C{E4}{00} We withdraw for now. Let us build up our strength for the real thing.
+@5057
+You have achieved the Sortie Drill goal!
+@5058
+{01}C{0B}{00}, in a real sortie, the choice of officers decides your fate.
+@5059
+{01}C{E4}{00} We shall sortie only after knowing the enemy well and knowing our own strength.
+@5060
+The deadline for the Sortie Drill goal has passed.
+@5066
+On what to keep in mind when you sortie.
+@5067
+Shall I explain the method for Sortie Drill once more?
+@5068
+Which officers you send to the field holds your future. Bear this in mind when you <Sortie>.
+@5069
+{01}C{E4}{00} I understand. I shall make use of it when we sortie. You have done well; you may withdraw.
+@5071
+You have achieved the Request Ninja goal!
+@5072
+{01}C{0B}{00}, dispatched ninja show their strength in gathering intelligence on other houses and in covert schemes.
+@5073
+{01}C{E4}{00} There is every reason to make good use of them.
+@5075
+I asked for ninja as you advised, but it is a pity that we could not borrow any.
+@5076
+Still, if you improve relations further, the ninja bands may be moved. Ask them to dispatch ninja again another time.
+@5077
+The deadline for the Request Ninja goal has passed.
+@5083
+On how to increase further the ninja who serve as our hands and feet.
+@5084
+Shall I explain the method for Request Ninja once more?
+@5085
+With many ninja to carry out orders, they will serve in all sorts of situations. Request ninja with <Dispatch>.
+@5088
+{02}{0B}2's %s rose by %d
+@5089
+{02}{0B}2's %s fell by %d
+@5090
+{02}{0B}2's %s became %d
+@5092
+My lord, there is unrest within {02}y2.
+@5093
+What? Unrest, you say?
+@5094
+Unidentified bandits are marching armed on %s. They have even built a fort in the mountains. How shall we deal with them?
+@5095
+You can now practise battle. Shall we practise?
+@5096
+Building a fort without our leave is unforgivable! Bring my armour! We sortie!
+@5097
+There is no need for me to go against mere bandits. I leave it to you; crush them.
+@5098
+Yes, my lord! I shall prepare to sortie at once.
+@5099
+The fort was swiftly destroyed.
+@5100
+My lord, a page begs an audience. He says it is urgent...
+@5101
+What, at such a busy time? Well, no matter. Show him in.
+@5102
+I am honoured beyond words to behold your face.
+@5103
+Though young, I have studied the art of war since childhood. Hearing that you march out, I have come to offer my service.
+@5104
+You wish to be of use to me on a battlefield like this? An amusing thing to say.
+@5105
+I beg you. I will not be in the way. Please take me with you.
+@5106
+...Very well. Stay at my side and tell me of this art of war you have learned.
+@5107
+With respect, let me begin with the war council. Before a battle, a war council is held to deploy officers and declare their stances.
+@5108
+Officers are deployed only when your house has two or more castles in the province where the battle is fought.
+@5109
+Each officer sorties from the castle assigned at the war council.
+@5110
+Choose the castle to sortie from now if you wish to sortie from a castle nearer the enemy, split into two forces, or have a castle you want to protect.
+@5111
+Declaring a stance means making clear your side in the battle: attackers, defenders, or neutral.
+@5112
+However, you can choose a stance only when you are not a party to the battle...
+@5113
+That is, when battle begins between other daimyo houses in a province where you hold a castle, declaring a stance is choosing which side to take.
+@5114
+I see, I understand well. Then let us open the war council at once.
+@5115
+Now let us try the war council controls.
+@5116
+This time you have several castles, so you can change the officers' placement. Let us practise placing them. Press the Change button.
+@5117
+This time we will practise placing officers. Press the Change button.
+@5118
+Press the Auto button and officers are placed automatically. But now we are practising placement... Press the Change button.
+@5119
+Next, choose the castle to move to. Select a castle in the list on the left of the screen and a list of officers who can move to that castle opens.
+@5120
+Select an officer from the list and you can move him from another castle to the castle currently selected.
+@5121
+Now, select {02}{98}2 and deploy {02}{0B}2 and {02}{0C}2 to {02}{98}2.
+@5122
+This time we move officers to {02}{98}2. Select {02}{98}2, not {02}{97}2.
+@5123
+Choose the officers to move. Select {02}{0B}2 and {02}{0C}2 and move them to {02}{97}2.
+@5124
+The officers are not yet deployed. Select {02}{0B}2 and {02}{0C}2 and move them to {02}{97}2.
+@5125
+Both castles now have two officers each. Press the {1B}PB button to leave Change mode, then press the OK button.
+@5126
+Placement is complete. Next we proceed to declaring stances. Press the OK button.
+@5127
+Now we declare a stance. As you are a party to this battle, you are automatically on the defending side. Press the [Defend] button to proceed.
+@5128
+Once deployment and stances are done, the commander is decided. In a battle the daimyo joins, the daimyo automatically becomes commander.
+@5129
+The daimyo takes part this time, so no commander need be chosen. Preparations are complete. The battle begins.
+@5130
+The daimyo takes part this time, so the commander cannot be changed. Press [Confirm] to begin the battle.
+@5131
+With respect, do you know how to read the battle screen?
+@5132
+This is a unit. Select units with the {1B}PA button and give attack or move orders with the {1B}PX button to carry the battle forward.
+@5133
+This is a castle. You can take an enemy castle by attacking it with units and bringing its resistance to 0.
+@5134
+Move the cursor over a unit or castle to see its information.
+@5135
+Press the {1B}PY button and the commands you can use at that moment are shown at the bottom of the screen.
+@5136
+This is the minimap. It shows a map of the province where the battle is fought.
+@5137
+The red fan shape on the map shows the area displayed on the screen.
+@5138
+Your own units appear as red dots if attacking, blue if defending. Other attacking units are pink dots, and defending units are light blue.
+@5139
+The {1B}PK button shows help. The {1B}PT button pauses the battle at any time.
+@5140
+Now, the battle at last. To win, you must wipe out every enemy castle and the commander's unit.
+@5141
+In this battle the enemy is only bandits. Wipe out their fort and their commander's unit and we win.
+@5142
+Conversely, if the enemy takes all your castles and wipes out your commander's unit, you lose.
+@5143
+If no result is reached in 30 days of fighting, the battle ends there. Castles and captives taken in battle belong to the house that took them.
+@5144
+With respect, there is one more thing I ask you not to forget: the battle goes on at all times, even when you give no orders.
+@5145
+Enemy units are moving all the time too. In battle, quick judgement that reads the enemy's moves is required. Now, let us advance the battle.
+@5146
+To give orders to units, you must first sortie them from the castle.
+@5147
+Now, let us sortie all the units in {02}{97}2 and {02}{98}2.
+@5148
+To sortie units from a castle, select the castle where the units are.
+@5149
+A list of units in the castle opens. Select the units to sortie with the {1B}PA button and confirm with the {1B}PX button to sortie them.
+@5150
+Now then, give the order to sortie all units in {02}{97}2 and {02}{98}2...
+@5151
+Select {02}{97}2 with the {1B}PA button.
+@5152
+The castle's unit list opens. Select all the units with the {1B}PA button, then sortie them with the {1B}PX button.
+@5153
+Not all the units are selected yet. Select all the units with the {1B}PA button, then sortie them with the {1B}PX button.
+@5154
+As with {02}{97}2, select {02}{98}2 and sortie all the units in the castle.
+@5155
+All units have sortied. You would like to give each unit orders, but there are no enemy units in sight nearby.
+@5156
+For now, let us move the highly mobile cavalry. The cavalry is led by {02}{0B}2.
+@5157
+Before moving units, it would be best to confirm their policy for when they meet enemy units.
+@5158
+Policy is set in advance: either [Skirmish], which puts attacking the enemy first, or [Evade], which puts the current order first, when a unit meets the enemy.
+@5159
+Normally the policy is [Evade]. This time, so that units can respond at once on meeting the enemy, I suggest setting it to [Skirmish].
+@5160
+Now, let us change the policy. The basics of ordering a unit: select it with the {1B}PA button and give it a target with the {1B}PX button.
+@5161
+But for a command with no target, such as changing "Policy", press the {1B}PY button to open the command list and select the command you want.
+@5162
+Select the cavalry with the {1B}PA button.
+@5163
+Open the command list with the {1B}PY button.
+@5164
+Select a unit like this and press the {1B}PY button, and the commands that unit can take are shown. This time, press the [Skirmish] button.
+@5165
+Press the [Skirmish] button.
+@5166
+Now, order {02}{0B}2's unit to move. The enemy may be lurking to the north...
+@5167
+Why not move the unit to around there first?
+@5168
+To move a unit, select the unit you want to order with the {1B}PA button, then choose the target point with the {1B}PX button.
+@5169
+Now, order the cavalry to move! Select the cavalry with the {1B}PA button and choose the target point with the {1B}PX button.
+@5170
+Choose the target with {1B}PX.
+@5171
+My lord, an enemy pike unit has appeared!
+@5172
+Shall we send Lord {02}{0B}3's unit and {02}{0C}2's unit, waiting near the castle, to attack?
+@5173
+Attacking works the same as moving. Select your unit with the {1B}PA button, put the cursor on the enemy unit you want to attack, and press the {1B}PX button.
+@5174
+Now, let us order the pikes near {02}{97}2 and the archers near {02}{98}2 to attack.
+@5175
+Select your pike unit with the {1B}PA button.
+@5176
+Select the enemy unit with the {1B}PX button.
+@5177
+Once you have ordered the pikes, give the archers the same order.
+@5178
+Select your archers with {1B}PA.
+@5179
+Select the enemy to attack with {1B}PX.
+@5180
+New enemies have appeared. Give attack orders to each unit.
+@5181
+To give the same order to several units, it is convenient to hold the {1B}PA button and move the cursor, selecting all units within the circle that appears.
+@5182
+You can also press the {1B}PR button to open the unit list and choose units from it.
+@5183
+Now, hold the {1B}PA button and move the cursor to select the pikes and archers.
+@5184
+Select the units with the {1B}PA button.
+@5185
+Select the pikes and archers.
+@5187
+Splendid! You have wiped out the enemy unit!
+@5188
+...But, Lord {02}{0B}3, this time our foe is only bandits. Against seasoned commanders it will not be so easy.
+@5189
+You will want to press on and take the enemy fort...
+@5190
+But our units are tired from this fighting and their morale has dropped a little. I suggest advancing the baggage train, making camp and resting the troops.
+@5191
+When morale is high, troops hardly fall even under attack. But fatigue builds with every action and morale slowly falls.
+@5192
+When morale nears 0, the unit abandons the fight and retreats. Always keep an eye on each unit's morale.
+@5193
+To restore morale, move units to a castle or a camp. A camp is where a baggage train has made [Camp].
+@5194
+To restore morale, let us advance the baggage train near our units and make camp.
+@5195
+First move the baggage train to the target point. Select it with {1B}PA and choose the point with {1B}PX.
+@5196
+The baggage train has reached the point. Order it to make camp...
+@5197
+Have the baggage train make camp. Select the baggage train, open the command list with the {1B}PY button and choose [Camp].
+@5198
+Select the baggage train with {1B}PA.
+@5199
+Choose the destination with {1B}PX.
+@5201
+Press the [Camp] button.
+@5202
+Lord {02}{0B}3, the baggage train seems to have finished the camp. Let us rest the units. Order each unit into the camp...
+@5203
+To put a unit in a camp, select the unit and choose your side's camp.
+@5204
+Press the {1B}PL button to select all units.
+@5205
+Press {1B}PX and choose the camp as target.
+@5206
+This is no time for that. Please put all the units in the camp.
+@5207
+Press the {1B}PL button to select all your units quickly. Let us use this function now.
+@5208
+All the units seem to be in the camp. This time we put them all in at once, but that is because the enemy is weak.
+@5209
+Ordinarily you must rotate those who fight and those who rest, and give the enemy no time to rest. Please do not forget this...
+@5210
+Now, the units must be well rested by now. Let us sortie and look for the enemy fort and commander's unit!
+@5211
+Sortie the units from the camp. The controls are the same as sortieing units from a castle.
+@5212
+Select the camp to open the unit list and choose the units to sortie. If you fold the camp, all the units inside sortie automatically.
+@5213
+Select the camp with the {1B}PA button.
+@5214
+Select all units with {1B}PA, sortie with {1B}PX.
+@5215
+Next you choose whether to fold the camp. This time, let us fold it.
+@5216
+All the units seem to have sortied. Let us advance them.
+@5217
+Our target is the enemy fort. Let us send the units to the northwest.
+@5218
+Move all the units to the target point. Select all units with the {1B}PA button or {1B}PL button and choose the target point with {1B}PX.
+@5219
+Lord {02}{0B}3! The enemy fort seems to lie ahead. But the fence is in the way... Let us order the units to break it down.
+@5220
+Make the fence the attack target and you can destroy it. Once it is destroyed, you can enter beyond it.
+@5221
+There is no gate here, but if an enemy castle has a gate, it can be broken by the same operation.
+@5222
+Now, order the pikes to break the fence.
+@5223
+The fence is destroyed! Now we can go on beyond it.
+@5224
+Select a unit and attack the fence with {1B}PX.
+@5225
+Baggage trains cannot attack. Select another unit.
+@5226
+With respect, I do not think we should go to the east yet.
+@5227
+My lord, let us take the bandits' fort!
+@5228
+Attacking a castle or fort is the same as a normal attack. The more units you attack with, the sooner the castle falls.
+@5229
+Select the pikes, cavalry and archers.
+@5230
+Choose the enemy fort with {1B}PX to attack.
+@5231
+Splendid! You have taken the enemy fort! But the battle is not over yet.
+@5232
+You must find the enemy commander's unit and wipe it out. Why not search around the fort?
+@5233
+But the siege seems to have lowered our units' morale.
+@5234
+The battle nears its end. Making camp would take time, so why not raise morale with Lord {02}{0B}3's fighting spirit?
+@5235
+[Spirit] is a command that rallies units and restores morale. But note that it cannot be used many times.
+@5236
+The number of times you can use [Spirit] is decided by the commander's Leadership.
+@5237
+Press the {1B}PY button to open the command list and press the [Spirit] button.
+@5238
+Press {1B}PY to open the command list.
+@5239
+Choose [Spirit] from the command list.
+@5240
+The units' morale seems restored. All that remains of the enemy is the commander's unit...
+@5241
+Here it may be better to make a formation and strike together rather than move each unit separately.
+@5242
+[Join] several units and a formation is made. A formation lets each troop type's strengths show in the attack.
+@5243
+The formation's shape follows its squads' troop types. A formation can use [Forced Attack], and officers' skills are shared by all.
+@5244
+To make a formation, select several units, press the {1B}PY button and choose [Join] from the command list. To dissolve it, choose [Split].
+@5245
+Now, let us make a formation. Select your pikes, cavalry and archers and press the [Join] button.
+@5246
+The formation seems made. The skills lit in the info area can be used by every squad in the formation.
+@5248
+Press the [Join] button.
+@5249
+[Join] with a baggage train and you get a formation suited to guarding it. But only the enemy commander remains, so I suggest an aggressive formation.
+@5250
+We are ready. I believe the enemy commander is probably in the mountains to the northeast. Let us move the units to the mountains!
+@5251
+Ah! The enemy commander's unit! A summer moth flying into the flame. Let us wipe it out in one stroke.
+@5252
+To order a formation, as with an ordinary unit, select the formation with the {1B}PA button and choose a target with the {1B}PX button.
+@5253
+Order the joined unit in the formation to attack the enemy unit!
+@5254
+Select the joined unit and attack the enemy.
+@5255
+Lord {02}{0B}3, look! The archers' attack seems stronger. That is because an officer with the "Rapid Fire" skill is in the formation.
+@5256
+Officers have all sorts of skills. There are 18 skills useful in battle. See the help for details of each skill.
+@5257
+The enemy commander's unit is at its last gasp. Why not use [Forced Attack] to finish them off?
+@5258
+[Forced Attack] is a command that temporarily boosts the abilities of the units in a formation. While it is active, skill effects grow as well as abilities.
+@5259
+However, there is a limit to how many times [Forced Attack] can be used. It depends on the number of bases you hold, so taking enemy castles raises it.
+@5260
+When [Forced Attack] wears off, the morale of every unit in the formation drops sharply. Take care when you use it.
+@5261
+Now, carry out [Forced Attack]. Select the joined unit in the formation, open the command list with the {1B}PY button and order [Forced Attack]!
+@5262
+Select the joined unit with the {1B}PA button.
+@5264
+Press the [Forced Attack] button.
+@5265
+Congratulations! Lord {02}{0B}3 is victorious!
+@5266
+Against a small band of bandits, victory was perhaps to be expected, but it will not be so against a daimyo.
+@5267
+If you attack another daimyo house's castle, increase your troops and train them well, and make every preparation.
+@5268
+This is no time for that.
+@5269
+That is not the destination.
+@5270
+Baggage trains cannot attack the enemy. They are units for making camp, so let them wait now.
+@5271
+That is not the enemy to aim for.
+@5272
+Another unit is selected. Select only the specified unit.
+@5273
+30 days have passed... The bandits too seem worn out, and there is no harm in leaving them. Let us withdraw for now.
+@5274
+The bandits seem to have scattered.
+@5275
+Our army has defeated the uprising army!
+@5276
+Normally, after a battle you would decide what to do with captured enemy officers...
+@5277
+This time the foe was bandits, so that is not needed.
+@5278
+Then I shall take my leave. If I can be of use again, I will come at any time.
+@5279
+Select a unit and move it to the north.
+@5280
+Select a unit and move it to the mountains.
+@5284
+Strengthen the military
+@5285
+Learn about diplomacy
+@5286
+Learn about the powers
+@5287
+Learn about corps
+@5288
+Learn about something else
+@5289
+Meaning of commands
+@5290
+Meaning of info
+@5291
+Without gold or rice, you cannot survive the age of war. Which would you like explained, how to increase gold or rice?
+@5293
+Increase gold?
+@5294
+Increase rice?
+@5295
+Gold is what makes the world go round... There are several ways to increase it.
+@5296
+* Raise commerce\nThe higher a province's "{1B}CBCommerce{1B}CD", the more gold is collected monthly. To raise commerce, choose the magistrate officer for <{1B}CRCommerce{1B}CD> under [{1B}CRMagistrates{1B}CD].\nIf the magistrate has the "{1B}CBCommerce{1B}CD" skill, commerce rises efficiently.
+@5297
+* Sell goods to merchants\nSelling goods to merchants earns gold. If a merchant is in the province, you can [{1B}CRTrade{1B}CD] goods.\n\n* Request trade\nIf a request for trade to the navies through [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD> succeeds, you gain gold, treasures and more.\nHowever, trade may fail.
+@5298
+Rice is essential for battle and for aiding the powers.
+@5299
+* Raise yield\nThe higher the daimyo's direct "{1B}CBYield{1B}CD", the more rice is collected in the 8th month. To raise yield, choose the magistrate officer for <{1B}CRCultivate{1B}CD> under [{1B}CRMagistrates{1B}CD].\nIf the magistrate has the "{1B}CBCultivation{1B}CD" skill, yield rises efficiently.

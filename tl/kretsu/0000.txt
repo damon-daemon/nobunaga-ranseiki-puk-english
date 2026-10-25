@@ -1,0 +1,1000 @@
+@1
+The "wandering tea caddy", finest of the age, named for the 99 kan Murata Juko paid. Owned by Asakura Soteki, Matsunaga Hisahide and Nobunaga.
+@3
+One of Juko's famed pieces, among the Four Great Nasu. Takigawa Kazumasu begged Nobunaga for it in vain. Lost in the fire at Honnoji.
+@5
+Chinese-style caddy, one of the Three Great Katatsuki. Passed from the merchant Shimai Soshitsu to Akizuki Tanezane, then Hideyoshi. Later lost.
+@7
+Chinese caddy, one of the Three Great Katatsuki. Owned by Murata Juko, Miyoshi Masanaga, Otomo Sorin, Nobunaga and Hideyoshi, then the Tokugawa.
+@9
+Chinese caddy, one of the Three Great Katatsuki. Said to be Yang Guifei's oil jar; named by Ashikaga Yoshimasa. Owned by Nobunaga and Hideyoshi.
+@0
+Tsukumo Nasu Caddy
+@2
+Juko Nasu Caddy
+@4
+Narashiba Katatsuki Caddy
+@6
+Nitta Katatsuki Caddy
+@8
+Hatsuhana Katatsuki Caddy
+@10
+Fuji Nasu Caddy
+@12
+Juko Bunrin Caddy
+@14
+Matsumoto Nasu Caddy
+@16
+Joo Nasu Caddy
+@18
+Uesugi Gourd
+@20
+Enjobo Katatsuki Caddy
+@22
+Honnoji Bunrin Caddy
+@24
+Tamagaki Bunrin Caddy
+@26
+Honganji Katatsuki Caddy
+@28
+Kokushi Nasu Caddy
+@30
+Nitari Nasu Caddy
+@32
+Miyao Katatsuki Caddy
+@34
+Matsuya Katatsuki Caddy
+@36
+Somu Katatsuki Caddy
+@38
+Hozuki Bunrin Caddy
+@40
+Osozakura Katatsuki Caddy
+@42
+Ankokuji Katatsuki Caddy
+@44
+Tsutsui Katatsuki Caddy
+@46
+Uchigumori Taikai Caddy
+@48
+Takenaka Kokatatsuki Caddy
+@50
+Tsukushi Katatsuki Caddy
+@52
+Inaba Gourd
+@54
+Matsumae Katatsuki Caddy
+@56
+Yamana Katatsuki Caddy
+@58
+Kuki Bunrin Caddy
+@60
+Mikazuki Jar
+@62
+Matsushima Jar
+@64
+Shijukkoku Jar
+@66
+Matsuhana Jar
+@68
+Luzon Jar
+@70
+Hashidate Jar
+@72
+Shiga Jar
+@74
+Susono Jar
+@76
+Hyogo Jar
+@78
+Rinki Jar
+@80
+Hiragumo Kettle
+@82
+Fujigata Kettle
+@84
+Otogoze Kettle
+@86
+Amidado Kettle
+@88
+Daikodo Kettle
+@90
+Ubaguchi Kettle
+@92
+Darumado Kettle
+@94
+Junishi Kettle
+@96
+Ashiya Kettle
+@98
+Shirihari Kettle
+@100
+Seiji Bakohan
+@102
+Seiji Matsumoto
+@104
+Kuroraku Oguro
+@106
+Hosokawa Ido
+@108
+Kaga Ido
+@110
+Kuroraku Toyobo
+@112
+Akaraku Hayafune
+@114
+Kizaemon Ido
+@116
+Inaba Yohen Temmoku
+@118
+Akaraku Rinzai
+@120
+Miyoshi Kofuki
+@122
+Mishima Fujibakama
+@124
+Haikatsugi Niji Temmoku
+@126
+Uraku Ido
+@128
+Unkaku Hikita Tsutsu
+@130
+Araki Korai
+@132
+Mishima Oke
+@134
+Shibata Ido
+@136
+Totoya Ibitsu Korai
+@138
+E-Shino Unohanagaki
+@140
+Kinuta Seiji Ouchi Tsutsu Vase
+@142
+Onjoji Vase
+@144
+Yonaga Vase
+@146
+Shakuhachi Vase
+@148
+Miyamagi Vase
+@150
+Yukiore Vase
+@152
+Tabimakura Vase
+@154
+Harusame Vase
+@156
+Kateki Vase
+@158
+Karatachi Vase
+@160
+Namida Scoop
+@162
+Yoroboshi Scoop
+@164
+Sasanoha Scoop
+@166
+Tamaarare Scoop
+@168
+Musashino Scoop
+@170
+Nisonin Scoop
+@172
+Zangetsu Scoop
+@174
+Mushikui Scoop
+@176
+Ochikumori Scoop
+@178
+Shirayama Scoop
+@180
+Chidori Censer
+@182
+Facing Lions Censer
+@184
+Hakamagoshi Censer
+@186
+Asama Censer
+@188
+Konoyo Censer
+@190
+Hishiuma Water Jar
+@192
+Yamatsutsuji Water Jar
+@194
+Yabureoke Water Jar
+@196
+Dutch Water Jar
+@198
+Tanetsubo Water Jar
+@200
+Onimaru Kunitsuna
+@202
+Dojigiri Yasutsuna
+@204
+Mikazuki Munechika
+@206
+Onikiri
+@208
+Odenta Mitsuyo
+@210
+Juzumaru Tsunetsugu
+@212
+Sozan Samonji
+@214
+Yoshimitsu Honebami
+@216
+Nikko Ichimonji
+@218
+Myoho Rengekyo
+@220
+Hagunsei
+@222
+Daihannya Nagamitsu
+@224
+Okanehira
+@226
+Heshikiri Hasebe
+@228
+Kagehide
+@230
+Terazawa Sadamune
+@232
+Kenshin Kagemitsu
+@234
+Raikiri
+@236
+Tsugaru Masamune
+@238
+Fudo Masamune
+@240
+Inaba Go
+@242
+Ikoma Mitsutada
+@244
+Hirano Toshiro
+@246
+Hiki Yasuyoshi
+@248
+Tonbogiri
+@250
+Nomitori
+@252
+Bindoshi Spear
+@254
+Single-Hook Spear
+@256
+Vermilion Spear
+@258
+Cross-Bladed Spear
+@260
+Kikuchi Spear
+@262
+Chidori Spear
+@264
+Omodaka Spear
+@266
+Sasaho Spear
+@268
+Tanegashima Gun
+@270
+Sakai Gun
+@272
+Kunitomo Gun
+@274
+Kishu Gun
+@276
+Satsuma Gun
+@278
+Bizen Gun
+@280
+Hino Gun
+@282
+Sendai Gun
+@284
+Awa Gun
+@286
+Yonezawa Gun
+@288
+Furanki Cannon
+@290
+Shibatsuji Cannon
+@292
+Kunikuzushi
+@294
+Saker Cannon
+@296
+Culverin
+@298
+Horse Gun
+@300
+Hand-Fired Gun
+@302
+Pocket Gun
+@304
+Belt Gun
+@306
+Palanquin Gun
+@308
+Bamboo Bow
+@310
+Wisteria Bow
+@312
+Willow Bow
+@314
+Four-Sided Bamboo Bow
+@316
+Hien Bow
+@318
+Itcho Bow
+@320
+Shigeto Bow
+@322
+Soi Bow
+@324
+Shuzen Bow
+@326
+Sanponto Bow
+@328
+Black Lacquer Five-Plate
+@330
+Black Bear-Fur Cuirass
+@332
+Gold-Scale Many-Colour Armour
+@334
+Vermilion Okegawa Cuirass
+@336
+Gold Lacquer Hotoke Cuirass
+@338
+Silver-Leaf White-Laced Armour
+@340
+Blue Hinomaru-Laced Armour
+@342
+Uzuramaki Navy-Laced Armour
+@344
+Nanban Cuirass Armour
+@346
+Bared-Shoulder Armour
+@348
+Smoked-Leather Sugake Armour
+@350
+Russet Okegawa Cuirass
+@352
+White-Laced Sugake Cuirass
+@354
+Iyozane Sugake Armour
+@356
+Crimson-Laced Small Haramaki
+@358
+Iron Two-Plate Armour
+@360
+Blue-Laced Red-Skirt Armour
+@362
+Sugake Mogami Cuirass
+@364
+Rising-Ladder Two-Plate Cuirass
+@366
+Brown-Laced Armour
+@368
+Sato Tadanobu Helmet
+@370
+Iris-Leaf Helmet
+@372
+Tall Eboshi Helmet
+@374
+Daikoku Hood Helmet
+@376
+Antler Helmet
+@378
+Great Buffalo Helmet
+@380
+Ichinotani Helmet
+@382
+Vermilion Bowl Helmet
+@384
+Wild-Hair Helmet
+@386
+Catfish-Tail Helmet
+@388
+Matsukaze
+@390
+Hoshi Kawarage
+@392
+Kurokumo
+@394
+Oni Kage
+@396
+Shiroishi
+@398
+Arabian Horse
+@400
+Oashige
+@402
+Kasuge
+@404
+Taiheiraku
+@406
+Okage
+@408
+Taishaku Kurige
+@410
+Hojo Tsukige
+@412
+Shiroishi Kage
+@414
+Oni Ashige
+@416
+Kohibari
+@418
+Mikuni Black
+@420
+Sakurano
+@422
+Hoshizaki
+@424
+Totomi Kage
+@426
+Kokage
+@428
+Nosei Zensho
+@430
+Seiryoki
+@432
+Umezu Masakage Diary
+@434
+Mi no Kagami
+@436
+Masamoto Travel Diary
+@438
+Imai Sokyu Diary
+@440
+Shimai Soshitsu Precepts
+@442
+Sotan Diary
+@444
+Matsuya Hikki
+@446
+Enshu Shui
+@448
+Chikujoki
+@450
+Gushikenki
+@452
+Shomei
+@454
+Bukyo Zensho
+@456
+Shikan Yoho
+@458
+Romance of the Three Kingdoms
+@460
+Taiheiki
+@462
+Water Margin
+@464
+Tale of the Heike
+@466
+Oninki
+@468
+Jozan Kidan
+@470
+Rojin Zatsuwa
+@472
+Buya Shokudan
+@474
+Okinagusa
+@476
+Ochiboshu
+@478
+Zenrin Kokuhoki
+@480
+Kaito Shokokuki
+@482
+Nihon Ikkan
+@484
+Togoku Kiko
+@486
+Kaikoku Zakki
+@488
+Isho Taizen
+@490
+Sanki Kaio Isho
+@492
+Keitekishu
+@494
+Tokuhon Iho
+@496
+Classic of Difficulties
+@498
+Shinto-ryu Heiho Book
+@11
+Chinese nasu tea caddy, one of the Three Great Nasu. Its stately form recalls Mt Fuji. Passed from Ashikaga Yoshiteru to Hideyoshi, then the Maeda.
+@13
+Chinese bunrin tea caddy, a famed piece of Juko. Also called the Tennojiya or Sokyu Bunrin after its owners. Said to have reached Nobunaga.
+@15
+Chinese tea caddy. After Nobunaga and Hideyoshi, Ieyasu is said to have picked it from the ruins of Osaka Castle. A tea jar of strange fate.
+@17
+Chinese nasu caddy, named for its owner, tea master Takeno Joo. Also called Miotsukushi. A small amber caddy, one of the Four Great Nasu.
+@19
+Chinese tea caddy, one of the Six Great Gourds. Owned by Uesugi Kagekatsu; also called the Ouchi or Otomo Gourd. Later held by the Kii Tokugawa.
+@21
+Old Seto tea caddy. Enjobo Soen found it in the ruins after the Honnoji Incident, hence the name. Over ten ridges circle its body.
+@23
+Chinese tea caddy, first owned by the Echizen Asakura, then Nobunaga after their fall. He gave it to Honnoji, hence the name.
+@25
+Chinese bunrin caddy, famed since the Momoyama age as a masterpiece with the Nitta Katatsuki. Owned by Oda Urakusai and Toyotomi Hideyori.
+@27
+Chinese tea caddy kept by Higashi Honganji. A katatsuki ("shouldered") caddy; many of the most famous caddies are of this kind.
+@29
+Chinese nasu caddy, one of the Three Great Nasu. Kept by the Kitabatake, governors of Ise. Tea master Shokado Jojo prized it as Yawata's finest.
+@31
+Priced at 100 kan, hence "Hundred-Kan Nasu", like the 99-kan Tsukumogami Nasu. Owned by Otomo Sorin.
+@33
+Chinese tea caddy named for Miyao Daifu Dosan. Held by Hideyoshi and Ieyasu, then granted to Ii Naotaka for his Osaka Summer Campaign deeds.
+@35
+Chinese katatsuki caddy, also called Matsumoto Katatsuki. Lacquerer Matsuya of Nara got it from Murata Juko. Many lords sought it in vain.
+@37
+Chinese tea caddy named for Sumiyoshiya Somu, its owner. A lovely caddy crazed all over. Beloved by Satake Yoshinobu.
+@39
+Chinese tea caddy, persimmon-red glowing on a dark amber ground. Ieyasu gave it to Sakai Tadayo, and it stayed with the Sakai house.
+@41
+Chinese tea caddy, shown later than the Hatsuhana, so Ashikaga Yoshimasa named it from a poem. Passed via Todo Takatora to the Tokugawa shoguns.
+@43
+Chinese tea caddy named for Ankokuji Ekei. Later Tsuda Hidemasa and Hosokawa Tadaoki owned it; Tadatoshi sold it to feed the famine-struck poor.
+@45
+Old Seto tea caddy named for Tsutsui Junkei. Its delicate form recalls Junkei, dead young of illness. Later held by Ieyasu.
+@47
+Chinese tea caddy, named by Ashikaga Yoshimasa for black marks like clouds on a persimmon ground. Passed via Hideyoshi and Kyogoku to the Tokugawa.
+@49
+Chinese tea caddy said to be named for Takenaka Hanbei Shigeharu, whom Hideyoshi granted it. A small, fragrant azuki-red piece.
+@51
+Chinese tea caddy. Its name is uncertain, perhaps from Tsukushi. The glaze is a purple-brown rainbow. Owned by Hideyoshi and Ieyasu.
+@53
+Tea caddy owned by the Inaba, lords of Yodo. One of the Six Great Gourds. In the Meiji era it passed to Iwasaki Yanosuke.
+@55
+Old Seto tea caddy, tall and chestnut-brown. Kept by the Satake, then given to the shogunate as a shogunal treasure of the Tokugawa.
+@57
+Chinese tea caddy of the Tajima Yamana house. Also called Sohan Katatsuki, after Nakagawa Sohan, a Maeda retainer who owned it.
+@59
+Tea caddy owned by Kuki Yoshitaka. Later presented to the 2nd shogun Tokugawa Hidetada, then held by the 3rd, Iemitsu.
+@61
+Tea-leaf jar with seven big lumps and a lean to it, hence the name. Passed from Ashikaga Yoshimasa to Nobunaga; lost at Honnoji.
+@63
+Tea-leaf jar whose lumps recall Matsushima in Oshu. Via the Miyoshi and Imai Sokyu, given to Nobunaga; lost at Honnoji.
+@65
+Tea-leaf jar an Ashikaga Yoshimasa retainer got for 40 koku of land. In Hideyoshi's day: "After Mikazuki and Matsushima, the finest."
+@67
+Tea-leaf jar from southern China, one of the Three Great Jars with Matsushima and Mikazuki. Juko, Nobunaga, Hideyoshi, then the Owari Tokugawa.
+@69
+Jar imported from southern China via Luzon (Philippines). Hideyoshi liked it, and it briefly set off a craze.
+@71
+Tea-leaf jar holding seven kin. Found in Tango and named for Amanohashidate. Its plain look suited wabi, and Sen no Rikyu prized it.
+@73
+A famed tea-leaf jar found on Mt Shiga in Chikuzen. Black over indigo glaze, with many lumps large and small. Also "Shika Jar".
+@75
+A famed tea-leaf jar. Named after Juko's remark that it looked like distant hills below. Owned by the Kaga Maeda.
+@77
+Tea-leaf jar that Araki Murashige found at Hyogo in Settsu. Hideyoshi bought it dear and gave it to Nobunaga's second son Nobukatsu.
+@79
+Tea-leaf jar owned by Furuta Shigenari (Oribe). Back from Korea, his wife smashed it in jealousy, hence the name.
+@81
+Its flat form recalls a crawling spider. Matsunaga Hisahide refused Nobunaga's demand and blew himself up with it packed with gunpowder.
+@83
+Tea kettle with a narrow mouth and flared body like Mt Fuji. The ring-holders have fine patterns.
+@85
+A kind of tea kettle. Otogoze means a plump Otafuku face. Nobunaga owned one, later given to Shibata Katsuie; several are on record.
+@87
+Famed tea kettle Sen no Rikyu had Tsuji Yojiro cast to his taste. Hideyoshi sent it to Amidaji, hence the name.
+@89
+A kind of tea kettle, first made from a censer of Enryakuji on Mt Hiei. The word "Daikodo" stands in relief on the upper body.
+@91
+A kind of tea kettle. Its mouth resembles a toothless old woman's. Rikyu and many tea masters used such kettles.
+@93
+A kind of tea kettle, from the censer in a hall built by Seigan at Kotoin, Kyoto. Some bear "Darumado" in relief.
+@95
+A kind of tea kettle with the twelve zodiac signs on its body. The one at Taimadera's Nakanobo is the most famous.
+@97
+A kind of tea kettle, made at Ashiya near the Onga River mouth in Chikuzen. The basic type, made until Kyoto kettles rose in the Momoyama age.
+@99
+A kind of tea kettle with a swollen base, as its name says. Said to be Rikyu's favourite, by Tsuji Yojiro. Also "Dorogake Kettle".
+@101
+Celadon bowl said to be Taira no Shigemori's gift from China. Six clamps on a crack look like locusts. Held by Yoshimasa and the Suminokura.
+@103
+Celadon bowl, a Matsumoto ware made by Miwa Kyusetsu of Yamato. A faintly blue, lovely bowl. A phantom piece lost at Honnoji.
+@105
+Black Raku bowl by Chojiro, one of Rikyu's Seven. Named for being a big black bowl. From Rikyu through many houses to the Konoike.
+@107
+Korean bowl, one of the Three Great Ido. Named for Hosokawa Tadaoki, one of Rikyu's Seven Disciples. A noble masterpiece in form and glaze.
+@109
+Large Ido Korean bowl of the Kaga Maeda. Called "Shishi" (the best). One of the Three Great Ido with Kizaemon and Hosokawa.
+@111
+Black Raku bowl by Chojiro, one of Rikyu's Seven. Thin and broad-bellied, calm. Treasured by Toyobo, tea priest of Shinnyodo.
+@113
+Red Raku bowl by Chojiro, one of Rikyu's Seven. Rikyu had it sent by fast boat from Kyoto for a tea gathering. Then to Gamo Ujisato.
+@115
+Large Ido Korean bowl, one of the Three Great Ido. Said to curse its owner with boils.
+@117
+The most famous Yohen Temmoku bowl, owned by the Inaba of Yodo. Seven-coloured star marks on black. The Inaba later sold it.
+@119
+Red Raku bowl by Chojiro, one of Rikyu's Seven. Five flaws likened to the Five Mountains of Rinzai; said to be the finest.
+@121
+Great Korean bowl with a dull white glaze, hence the name. Owned by Miyoshi Nagayoshi, then Hideyoshi, Kanamori Sowa and the Mitsui.
+@123
+Korean bowl. Mishima-fuji is a Kyogen hakama pattern: chrysanthemum roundels in thunder-pattern bands. Oda Urakusai, then Tokugawa Yoshinao.
+@125
+A famed Haikatsugi Temmoku bowl whose pattern recalls a rainbow. Passed from Higashiyama treasures to Todaiji, the Mitsui and Sakai.
+@127
+Large Ido Korean bowl, called after Oda Urakusai, its owner. A celebrated piece among large Ido, later passed among many houses.
+@129
+Korean Unkaku bowl with four cranes and four chrysanthemum roundels. Owned by Kyoto merchant Hikita Sokan, later the Wakasa Sakai.
+@131
+Korean bowl owned by Araki Murashige, formerly Rikyu's. A soft, gentle glaze. First blue-and-white bowl in tea records.
+@133
+Korean Mishima bowl shaped like a bucket (oke). Rikyu owned it; via his son Do'an it reached the Owari Tokugawa.
+@135
+Korean bowl with the rugged taste of an Aoido and a loquat tint. Said to be Nobunaga's gift to chief retainer Shibata Katsuie.
+@137
+Great Korean bowl, named for its distorted (ibitsu) shape. Via Kameya Eijin and Furuta Oribe to the Asano of Geishu.
+@139
+Shino bowl named for a poem of Unohanagaki. Its thick glaze is likened to snow. A lovely bowl.
+@141
+One of the most famous kinuta celadon cylinder vases. Owned by the Suo Ouchi. A rare shape, narrowing toward the base.
+@143
+Bamboo vase Rikyu cut from Izu Nirayama bamboo on Hideyoshi's Odawara campaign and gave his son Shoan. Its slight leak was prized.
+@145
+Bamboo vase Rikyu cut from Izu Nirayama bamboo on the Odawara campaign. He gave two others to his son and Hideyoshi, and kept this one.
+@147
+Bamboo vase Rikyu cut from Izu Nirayama bamboo on the Odawara campaign, later given to Hideyoshi. Smashed by Hideyoshi when Rikyu killed himself.
+@149
+Shakuhachi-bamboo vase named from a waka poem. Made by Kobori Enshu.
+@151
+Single-cut bamboo vase made from bamboo snapped by snow. By Kobori Enshu, founder of the Enshu school, who studied under Furuta.
+@153
+A vase type with an old-woman mouth and plain cylinder, likened to a small travel pillow. Hung on a pillar through a hole in the back.
+@155
+Famed vase named by Kobori Enshu from a poem. One of the "Revival Famed Items" chosen by the celebrated tea master Enshu.
+@157
+Boat-shaped vase hung in the alcove. Two are famed: Nobunaga's, lost at Honnoji, and one Akaneya Soza bought for 600 kan.
+@159
+Old Iga vase of manly, hardy air. Its rim is partly broken, yet it stands as if decayed, giving a sense of strength.
+@161
+Tea scoop Rikyu carved himself as he died, ordered by Hideyoshi to commit seppuku. Given to Furuta; he named it in memory of Rikyu.
+@163
+Tea scoop praised in the Chuko Meibutsu-ki as "a slender scoop". By Rikyu's grandson Sen Sotan, the "Beggar Sotan"; a top-class piece.
+@165
+Tea scoop resembling a Chinese medicine spoon, said to be by Ashikaga Yoshimasa. A Higashiyama treasure; model for later leaf-shaped scoops.
+@167
+Legendary tea scoop. In the Osaka Winter Campaign a cannonball from the castle grazed Furuta's bald head as he carved it; hence the name.
+@169
+Tea scoop said to be by Kobori Enshu. It came with the Fuji Nasu of the Kaga Maeda. Tea masters carved their own scoops.
+@171
+Tea scoop by Hosokawa Tadaoki, one of Rikyu's Seven Disciples. Said carved from Nisonin bamboo, finished by Rikyu; Gamo Ujisato made the case.
+@173
+A tea scoop by Hideyoshi, its case of the same fine bamboo. Inscribed in vermilion lacquer, "Made at Kodaiji".
+@175
+Tea scoops with worm-eaten marks. Famed ones were made by Rikyu, Furuta, Hosokawa Tadaoki and Sen Sotan.
+@177
+Tea scoop by Rikyu, said to be Hideyoshi's, though unsure. Physician Tokuun-ken stopped Hideyoshi bending it to his taste and was granted it.
+@179
+Tea scoop by Kanamori Sowa. Its case bears a waka praising Mt Haku in Kaga.
+@181
+Kinuta celadon censer of Hideyoshi. Thief Ishikawa Goemon tried to steal it from Fushimi Castle, but its plover lid cried out and he was caught.
+@183
+A kind of censer: a pair of lions, smoke curling from their open mouths. Much used by tea masters. Round and plump lions.
+@185
+A kind of censer, named for its waist-skirt (hakama) shape. The most famous is a tripod celadon from Song China.
+@187
+Celadon censer, a Higashiyama treasure. Passed Tofukuji, then Inaba Tango-no-kami; Priest Takuan loved it. Incense smoke like Mt Asama.
+@189
+Small, rustic famed censer, named for a poem by Izumi Shikibu. Loved by Rikyu and many tea masters.
+@191
+Blue-and-white water jar. Two donkeys back to back on a broad fan on the front, one on the back. A deep, wide diamond shape.
+@193
+A kind of Nanban taro-head water jar: a bulging, taro-shaped jar from the Ryukyu or south. Holds the water poured into the kettle.
+@195
+Water jar modelled on a Bizen bamboo-hooped tub, broken. Rikyu's favourite; later kept by the Kaga Maeda.
+@197
+Nanban water jar. Its vivid yellow, red and green pattern recalls tobacco leaves, so also the "Tobacco Leaf Jar".
+@199
+Unglazed jar farmers once kept seed in. Tea masters of the age liked its unique charm and used it as a water jar.
+@201
+Sword of the Kamakura Hojo regents. After their fall it passed to Nitta Yoshisada, the Ashikaga, Nobunaga and Hideyoshi, prized as peerless.
+@203
+Blade by Yasutsuna of Hoki, one of the Five Swords of the realm. Said to have slain Shuten-doji. Ashikaga, Nobunaga, Hideyoshi, then the Tokugawa.
+@205
+A sword of Sanjo Munechika, named for its crescent-shaped patterns. One of the Five Swords of the realm; held by Tokugawa Hidetada.
+@207
+Heirloom blade of the Minamoto; Yoshinaka slew an ogre with it on Mt Togakushi. Hidetada presented it to the Court when his daughter Kazuko wed.
+@209
+Treasure of the Ashikaga shoguns, kept like Onimaru. It went to Hideyoshi, then became Maeda Toshiie's favourite blade.
+@211
+Sword given to Nichiren by a believer and used for life. He hung his rosary on the hilt, hence "Juzumaru".
+@213
+Blade Miyoshi Masanaga (Sozan) gave Takeda Nobutora. Imagawa Yoshimoto wore it; Nobunaga took it at Okehazama and carried it himself.
+@215
+Blade by Yoshimitsu of Awataguchi. Given by the Otomo to the shoguns, then Matsunaga Hisahide; back to the Otomo, then Hideyoshi after Kyushu.
+@217
+Sword Hojo Soun won and made a Hojo heirloom. Given to Kuroda Kanbei for his peace talks with the Hojo during the Odawara campaign.
+@219
+Blade forged by Muramasa of Kuwana, Ise, on Nichiren's death day. Inscribed Myoho Renge Kyo; his masterpiece, kept by the Nabeshima of Saga.
+@221
+Secret blade inscribed only "Hagunsei", maker unknown. That star, 7th of the Dipper, is sword-shaped; its direction was thought ill-omened.
+@223
+Fine blade by Nagamitsu of Bizen, priced at 600 kan, hence named for the 600-scroll Daihannya Sutra. Yoshiteru, Nagayoshi, Nobunaga, Ieyasu.
+@225
+Mighty blade by Kanehira of Bizen, Ikeda Terumasa's pride. Large and majestic, as if showing off Kanehira's skill.
+@227
+Nobunaga's blade, named for cutting a tea boy through the shelf he hid under. Passed to Hideyoshi, then Kuroda Nagamasa.
+@229
+Date Masamune's favourite. In Korea it split an enemy general's head and saddle, hence the nickname "Saddle-Cutter".
+@231
+Short sword by Sadamune of Sagami, Terasawa Hirotaka's favourite; later given to Tokugawa Hidetada. Sadamune was Masamune's pupil and adopted son.
+@233
+Short sword by Kagemitsu of Osafune, Bizen, Uesugi Kenshin's favourite. Chichibu Daibosatsu on the blade, Sanskrit on the back; an Uesugi treasure.
+@235
+Tachibana Dosetsu's blade, first named Chidori. Struck by lightning, he cut the thunder god with it and lived, so renamed.
+@237
+Slender long sword by Masamune of Sagami, who forged hard and soft steel together. A Tsugaru family heirloom.
+@239
+Short sword by Masamune, carved with Fudo Myoo. Sengoku lords collected Masamune blades eagerly. Passed Ieyasu to Yoshinao.
+@241
+Inaba Shigemichi's favourite. "Go" means made by Yoshihiro of Etchu, said to be a pupil of Masamune and a sure hand.
+@243
+One of Nobunaga's favourites, by Mitsutada of Osafune, Bizen. Nobunaga loved Mitsutada's work and collected 32 blades.
+@245
+Blade by Toshiro Yoshimitsu of Awataguchi, Kyoto, mid-Kamakura. Unrivalled steel. From Hirano Dosetsu of Settsu to the Maeda.
+@247
+Short sword by Yasuyoshi of Chikuzen, early Muromachi. Dirks spread after the Mongol invasions' close combat, and many fine blades came with them.
+@249
+Famed long spear of Honda Tadakatsu, "too good for Ieyasu". A dragonfly landing on the tip was cut in two, hence the name.
+@251
+Spear Hideyoshi gave Fukushima Masanori. Kuroda's Mori Tahei won it in a drinking match, a tale in the Kuroda Bushi song.
+@253
+Spear of Sakai Tadatsugu. It pierced a foe hiding behind a jar, jar and all, hence the name.
+@255
+Kato Kiyomasa's spear, once cross-bladed. In Korea a tiger bit one blade off while he slew it, leaving one hook.
+@257
+Famed spear of Maeda Keiji, peerless warrior. In the Uesugi house only the permitted could bear it, and others envied him.
+@259
+A spear with small blades pointing up at either side of the centre blade. Used in the Hozoin style, devised by Hozoin Inei of Kofukuji.
+@261
+A plain single-edged spear shaped like a dirk with an extended haft. Light and handy; it could sweep, thrust and cut.
+@263
+A spear with hooks at the base curving toward the tip like a plover. They let spear walls stand tighter.
+@265
+A spear with hooks at the base curving toward the shaft like omodaka leaves. The hooks can catch on the pull-back.
+@267
+A spear with a bamboo-leaf head. The commonest type, used by many foot soldiers. In the Sengoku the spear outranked bow and sword.
+@269
+Japan's first gun. Tanegashima Tokitaka bought a Nanban gun and had smith Kinbee Kiyosada copy it. The start of Sengoku's greatest innovation.
+@271
+Production began at Sakai after Tachibanaya Matasaburo learned the craft on Tanegashima. Skilled casters and trade made Sakai the chief supplier.
+@273
+Gunmaking began at Kunitomo, Omi, on Shogun Yoshiharu's order via Hosokawa Harumoto. West of iron-rich Mt Ibuki, it had the skill.
+@275
+Said to start when Sugibo of Negoroji in Kii brought back Tanegashima's craft. Gun-armed warrior monks tormented Nobunaga and others.
+@277
+Satsuma made guns from the Sengoku age. Since Tokitaka gave Shimazu Yoshihisa a gun, the Shimazu pushed output and used guns in battle first.
+@279
+Bizen was among the regions that took up gunmaking in the late Sengoku. Near iron-rich Harima, its sword smiths were famed from the mid-Heian.
+@281
+Hino, Omi, made many guns under the Gamo from Gamo Sadahide on. They did remarkable service in the Osaka Winter and Summer Campaigns.
+@283
+Sendai was among the regions that took up gunmaking in the late Sengoku, with fine local iron. Barrels are long, octagonal or round.
+@285
+Awa was among the regions that took up gunmaking in the late Sengoku. Near Sakai, its gunsmiths were protected by the lord.
+@287
+Yonezawa took up gunmaking in the late Sengoku and later gave rise to the Kasumi school. Its barrels are short compared with other regions'.
+@289
+Bronze cannon imported from the Nanban. "Furanki" is the Chinese word for Portuguese, and it stuck as the name.
+@291
+Japan's first iron cannon, made on Ieyasu's order by Sakai gunsmith Shibatsuji Riemon. Said used in the siege of Osaka Castle.
+@293
+Cannon imported from Portugal that Otomo Sorin mastered. First used in real Japanese battle, against the Shimazu at Mimikawa.
+@295
+Nanban cannon: France's powerful culverin shrunk for use at sea as well as on land.
+@297
+Latest Nanban cannon bought by Ieyasu for the Osaka Winter Campaign. One shot hit Lady Yodo's room and pushed her to accept peace.
+@299
+A kind of gun: a matchlock altered to load and fire on horseback. Barrel halved and parts lightened.
+@301
+A kind of gun, fired by pressing the fuse by finger onto the touch-hole. Under 30 cm long; jitte-shaped ones came in the Edo period.
+@303
+A kind of pistol. In Edo, percussion-cap guns struck by a hammer were common. Some are under 40 cm and fired one-handed.
+@305
+A kind of pistol. Edo made many "odd-shaped guns", some shaped like a short sword or a dirk.
+@307
+A kind of pistol. Guns under 50 cm are pistols; use varies by bore and length. Pocket and saddle guns are also pistols.
+@309
+A simple bow of bamboo laminated onto a shaved log. The bamboo's spring gives far greater range and power than a plain log bow.
+@311
+A refined bamboo bow wrapped in wisteria vine for strength. The wrapping is complex and varies endlessly.
+@313
+A small play bow. Named for Yang Youji of Chunqiu China, who shot willow leaves. 2 shaku 8 sun long, made of fine woods like sappanwood.
+@315
+A square wooden core with bamboo glued on four sides. Flexible and easy to draw, it was widespread among foot soldiers.
+@317
+Bow said to be used by Fei Wei, ancient Chinese master archer. His divine skill could shoot willow leaves, or a flock of geese, at 100 paces.
+@319
+Bow permitted only to holders of the Ogasawara school's highest licence, Itcho Yumi. So named since the Muromachi; also Mandala or Snake-Head Bow.
+@321
+A composite bow heavily wrapped in wisteria, which strengthened it. The wrapping varied by warrior house and owner.
+@323
+Ogasawara school bow of the 3rd licence. Like the Shigeto Bow, black lacquer wrapped in wisteria, but wrapped differently. Also "Fukiyose-to".
+@325
+Ogasawara school bow of the 4th licence. Red-lacquered, wrapped in wisteria in 7 places above, 5 below, for the Seven Luminaries and Five Elements.
+@327
+Ogasawara school bow of the 5th licence. A plain wood bow wrapped in thread or hemp, lacquered red, with a Suhama-tomoe pattern.
+@329
+Armour by the Myochin of Kamakura, Sagami, called "Yukinoshita Cuirass" after the place. Date Masamune and his men used it: "Sendai Cuirass".
+@331
+Odd armour covered all over in black bear fur. Katagiri Katsumoto liked it. Eerie to see; Sengoku warriors made such strange helmets and armour.
+@333
+Armour of fine gilt plates laced in four colours. One of Nobunaga's gifts to Uesugi Kenshin for a brief alliance when Takeda Shingen marched west.
+@335
+Armour of the Ii house. Ii Naomasa's unit, many ex-Takeda men, wore vermilion armour as the "Red Unit" and swept the battlefield.
+@337
+Armour covered entirely in gold leaf. Ieyasu wore it at Okehazama carrying rice to Odaka Castle for the Imagawa, hence "Odaka Rice Armour".
+@339
+Silver-leaf armour laced with white thread, Nabeshima Naoshige's favourite. Warlords liked the light do-maru once worn only by common soldiers.
+@341
+Armour with a rising sun painted in blue thread on the front. Said Hideyoshi's; Ieyasu took it at Osaka's fall and gave it to Yoshinao.
+@343
+One of Nobunaga's favourite armours. The helmet has the Oda five-petal crest; the body is black lacquered plates laced in navy.
+@345
+Nanban armour. Ieyasu gave one to Sakakibara Yasumasa, and it survives. Sengoku "modern armour" copied the Nanban cuirass for agility.
+@347
+Armour with a sleeve on one side only, as if one shoulder were bared. Shows Sengoku warriors' boldness. Kato Kiyomasa and others liked it.
+@349
+Armour said to be Uesugi Kenshin's. Gilt old-style helmet; the separate sleeve guards are said to be Nobunaga's gift.
+@351
+Armour said to be of Ryuzoji Takanobu, "Bear of Hizen". Helmet bowl and body in rust lacquer, giving it a sober look.
+@353
+Plates lacquered, silver-leafed and laced in white thread. Hideyoshi gave it to Date Masamune at Utsunomiya Castle for the Tohoku settlement.
+@355
+Worn by Ieyasu at Sekigahara, thereafter a lucky Tokugawa armour. Black-laced iyo plates; the fern crest gives it the name "Fern Armour".
+@357
+Fine black plates laced in crimson. Said made at Nara for Imagawa Yoshimoto; the armour Ieyasu first wore as an Imagawa hostage.
+@359
+Sanada heirloom armour. Against cannon, like Nanban armour, an iron plate is fixed mid-chest. Gauntlets bear the Sanada six-coin crest.
+@361
+Armour Hideyoshi gave Wakisaka Yasuharu. Lacquered iron raised plates at the skirt, a Momoyama trait.
+@363
+Sugake is simplified plate lacing. Mogami cuirass: five iron plates hinged at four places, made in Mogami at the end of the Muromachi.
+@365
+Armour of Sanada Masayuki, a leather-covered cuirass typical of the Momoyama age. A diagonal ladder is painted on the chest.
+@367
+Armour with brown-laced plates. Tokugawa Hidetada wore it at the siege of Ueda and kept it to remember his defeat.
+@369
+Helmet of Heian warrior Sato Tadanobu. Hideyoshi gave it to Honda Tadakatsu. Tadanobu, a Four Guardian of Yoshitsune, died shielding him.
+@371
+Hideyoshi's favourite helmet, with iris leaves fanning out behind like a halo. Showy, to his taste. He wore it in the Kyushu campaign.
+@373
+Eboshi-shaped helmet, liked by many to look big and awe foes. Kato Kiyomasa used an even taller eboshi.
+@375
+One of Ieyasu's favourite helmets, shaped like the Daikoku hood from his dream. The Tokugawa treasured it above all for generations.
+@377
+Helmet with a large stag-antler ornament, Honda Tadakatsu's favourite. A stag once guided him across a flooded river.
+@379
+Helmet with large water-buffalo horn ornaments, Kuroda Nagamasa's favourite. The imposing horns are gilt wood, lighter than they look.
+@381
+Helmet with a plate crest, rounded forward like the Ichinotani battlefield. Used by Takenaka Hanbei, Fukushima Masanori and other fine generals.
+@383
+Kuroda Kanbei's helmet, shaped like an upturned lidded bowl (goshi). Vivid vermilion lacquer; a beautiful helmet.
+@385
+Odd helmet whose bowl is covered in bear or boar hair, as if bareheaded. Liked by Sengoku warriors wanting to stand out.
+@387
+Odd helmet rising high above the crown like an upended catfish. Said worn by Gamo Ujisato and Maeda Toshiie.
+@389
+Maeda Keiji's warhorse. Extraordinarily swift, brave and strong, it ran calmly with the huge Keiji, whom ordinary horses could not carry.
+@391
+Nobunaga's warhorse, a sturdy, spirited stallion given by Tagaya Shuri. Nobunaga refused Akechi Mitsuhide's gift of a horse that same time.
+@393
+Takeda Shingen's warhorse. So fierce his body doubles could not ride it. Shingen took two or three spare horses to war.
+@395
+Takeda Nobutora's warhorse. The Koyo Gunkan says Nobutora promised it to Shingen, 13, for his coming of age with the banner and armour.
+@397
+Ieyasu's warhorse. Despite "white" in its name it was black. Said to have carried him at Sekigahara.
+@399
+A small, graceful, well-built breed, gentle and hardy, swift with great stamina. The Nanban trade also dealt in rare beasts.
+@401
+Nobunaga's warhorse. So huge it could be told apart at once even among a vast mass of cavalry.
+@403
+Roan: white hairs mixed into a bay or chestnut coat, only on neck and legs, never changing with age. Also owned by Oda Nobutaka.
+@405
+Toyotomi Hideyori's horse. Kept in Osaka Castle by his overprotective mother Yodo, he never rode to a battlefield.
+@407
+Akechi Hidemitsu's horse. After Honnoji, told of Mitsuhide's defeat at Azuchi, he rode it across Lake Biwa to Sakamoto Castle.
+@409
+Kato Kiyomasa's horse. Taishaku is the god Taishakuten, who guards the Dharma with Bonten. 6 shaku 3 sun tall, it overawed the generals.
+@411
+Uesugi Kenshin's horse. Tsukige is a reddish grey coat. In the Sengoku, "kamo" meant a bay and "sen" a black-muzzled horse.
+@413
+Nobunaga's warhorse, a fine steed given by the Date of Oshu. Very comfortable to ride; he named it "Dragon's Child".
+@415
+Nobunaga's warhorse, one of his favourites among the many fine horses given him. A wild grey, hence the name.
+@417
+Nobunaga's warhorse, a favourite among many given him. Later granted to Gamo Ujisato, who made it his own.
+@419
+Honda Tadakatsu's horse, granted by his lord Tokugawa Hidetada. Ridden at Sekigahara late in life, greatly aiding the Eastern victory.
+@421
+Tokugawa Hidetada's horse, a chestnut roan presented by Honda Masazumi. The Sunpu-ki records he rode it in the Osaka Summer Campaign.
+@423
+Horse Hideyoshi gave Tomita Tomonobu as a reward. At Komaki-Nagakute he went to Oda Nobukatsu as envoy and greatly aided the peace.
+@425
+Nobunaga's warhorse, an old Totomi breed of which very few remained. A splendid ride that Nobunaga especially liked.
+@427
+One of Nobunaga's warhorses, a favourite among the many fine horses given him. A small bay, hence the name.
+@429
+Chinese farm encyclopedia by Xu Guangqi, covering tools, irrigation and gardening. Intensive farming arose in the Sengoku and output soared.
+@431
+Chronicle of Doi Kiyoyoshi, Saionji retainer famed for wit and valour. 30 volumes; vol. 7 is known as Japan's oldest farming book.
+@433
+Diary of Satake retainer Umezu Masakage, silver mine and town magistrate. Valuable on mine rule, castle finances and daily life.
+@435
+Autobiography finished in 1617 by Tamaki Yoshiyasu, who served three Mori lords. A key source on a provincial warrior's life.
+@437
+Diary kept by Kampaku Kujo Masamoto for about 3.5 years from the 3rd month of 1501. Vividly shows his rule of the Hine estate in Izumi.
+@439
+Diary in 10 volumes of Sakai merchant Imai Sokyu, Nobunaga's tea master. His tea-gathering records alone form the "Imai Sokyu Chanoyu Kakinuki".
+@441
+15-article will of Hakata merchant Shimai Soshitsu to his adopted son Kamiya Nobuyoshi, advising him on his forties, friends and conduct.
+@443
+Diary of Hakata merchant Kamiya Sotan, 1586 to 1613. Details his tea-gathering ties with Hideyoshi and the Sakai merchants.
+@445
+Tea records of three heads of the Nara merchant Matsuya, also Matsuya Nikki. Two volumes: Heaven (3rd, 4th heads) and Earth (5th head).
+@447
+Book by early Edo merchant Kamiyanagi Hosai, a Kyoto draper who served Ieyasu as attendant. He learned tea from Kobori Masakazu.
+@449
+Sengoku castle-building manual, with separate methods for mountain and flatland castles. A copy was kept secretly by the Echizen Asakura.
+@451
+Architecture book given to Horyuji by temple carpenter Taira Masataka. Edo period. Says Niwa Nagahide devised the castle keep.
+@453
+Japan's oldest carpentry-proportions book, by Shogunate master carpenter Heinai Masanobu. Gives timber sizes and names of buildings and parts.
+@455
+Castle-building book by Yamaga Soko, founder of the Yamaga school; Confucian and strategist who served Ako. Records late-Sengoku methods.
+@457
+Castle-building book by Hojo Ujinaga, founder of the Hojo school and a student of Obata Kagenori. Records late-Sengoku methods.
+@459
+Long novel of heroes in China's Three Kingdoms. Based on the histories, with many folk legends and anecdotes to enliven the tale.
+@461
+War chronicle of the Northern and Southern Courts, from the Southern view. Sengoku lords read it as strategy; Kikkawa Motoharu copied it in camp.
+@463
+By Shi Nai'an or Luo Guanzhong. A rogue tale of wild outlaws gathered at Liangshan Marsh in Song China, taking on great evil.
+@465
+War tale of the rise and fall of the Taira clan under Kiyomori, chanted by biwa priests. Famous for its opening, "the bell of Gion Shoja".
+@467
+War tale of the Onin War, from Shogun Yoshimasa's misrule to Yamana Mochitoyo's death. Late Muromachi; author and date unknown.
+@469
+Collected tales of warriors from the Sengoku to early Edo, excerpted from many books by Yuasa Jozan. Plain prose vividly shows their lives.
+@471
+Early Edo anecdotes by Neo-Confucian Ito Tan'an, from his teacher Emura Sensai's talk. Shows Sengoku warriors and everyday life.
+@473
+Warrior tales of the kin and retainers who founded the Tokugawa shogunate: Ieyasu, Hidetada, Sakai Tadakatsu, Doi Toshikatsu. By Kimura Takaatsu.
+@475
+Essays by Kanzawa Toko, a Kyoto magistrate and noted haiku poet. Covers history since the Kamakura, legends and court and military usage.
+@477
+An Edo-period local-government text, author and date unknown. Rich on land survey, lawsuits, and the legal and economic system.
+@479
+Guide to foreign relations by Zuikei Shuho, Zen monk-diplomat of the Muromachi shogunate. 3 volumes on Ming and Korean dealings since antiquity.
+@481
+Geography by Korea's Sin Sukju on Korea's ties with Japan and the Ryukyu. A prime source for medieval Japan-Korea relations.
+@483
+Japan travelogue by Ming envoy Zheng Shungong, written on his return after 3 years. Notes on Bungo and guns.
+@485
+Late Muromachi travelogue by Sobo. From the capital via Ishiyamadera, Kuwana and Atsuta to Asakusa's Kannon. Renga left along the way.
+@487
+Late Muromachi travelogue by Doko, Shogoin abbot, who left the capital at 57 for the Kanto and Tohoku via Hokuriku, leaving waka on the way.
+@489
+Chinese Ming medical book. Sakai physician Asai Nosozui corrected its errors at his own cost and reprinted it, Japan's first medical book.
+@491
+Book by Tashiro Sanki, physician to the Koga Ashikaga. He studied Li-Zhu medicine in Ming and spread it in the Kanto; teacher of Manase Dosan.
+@493
+Eight-volume medical book by Manase Dosan, father of modern kanpo, presented to Emperor Ogimachi. Covering nearly all illnesses, it moved him.
+@495
+Medical book by Nagata Tokuhon, physician to the Takeda. He devised his own methods, knew drugs well and taught medical ethics. Lived to 118.
+@497
+Ancient Chinese medical text printed by Echizen lord Asakura Takakage via temple monks. Blocks saved at the Asakura fall survive.
+@499
+Strategy book of Shinto-ryu, founded by Iizasa Choisai, father of modern swordsmanship. He lived to 102 and taught Tsukahara Bokuden.

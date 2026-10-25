@@ -1,0 +1,1456 @@
+@582
+Start the game with a retainer succeeding {02}{0B}2 as daimyo?
+@583
+Start the game as {02}{0B}2, without a retainer succeeding him?
+@600
+To think I would meet this day without ever seeing the land united...
+@601
+{01}C{0B}{00}... Forgive me. I go on ahead to the next world. Pardon me for leaving you behind...
+@601.1
+Fifty years of a man's life... set against the heavens below, they are but a dream... My own life has truly been like a dream...
+@601.2
+Fallen like dew... vanished like dew, this body of mine... My life fades like dew on the grass, and how I regret it...
+@601.3
+A man's life is like walking a long road with a heavy load upon his back... At last, it seems, the time has come to set that load down...
+@601.4
+{01}C{0B}{00}... Forgive me... It seems I, {02}{0B}2, can be of no more use to you...
+@601.5
+{01}C{0B}{00}... It seems the time has come to say farewell. I shall watch over your deeds from beneath the grass...
+@601.6
+{01}C{0B}{00}... My life, too, seems to be at its end. To be of no more use to you is my bitterest regret...
+@601.7
+{01}C{0B}{00}... You must not weep. Every man has his allotted span, and mine has simply run out. Smile, and see me off...
+@602
+{02}{0B}3, wife of {02}{0C}2, an officer of the {02}{0C}k, has died.
+@603
+As the princess given in marriage has died, the marriage tie between the {02})2 and the {02}*2 is no more.
+@604
+{02}{0B}2, princess of the {02})2, has died.
+@605
+{02}{0B}3, daughter of {02}{0C}2, has died.
+@606
+It has been a long time, {01}C{0B}{00}. I am {02}{0B}2! I have come to serve you once more!
+@607
+Too kind a word! I, {02}{0B}2, will serve you with my very life!
+@608
+...Is that so... Then the bond between us is at an end... Farewell!
+@609
+I am {02}{0B}2, once in the service of {02}{0D}2. I have come to serve you, {01}C{0B}{00}!
+@610
+Yes, my lord! What good fortune! I shall serve you with the same loyalty I showed {01}C{14}{00}!
+@611
+It seems you are not the equal of {01}C{14}{00} after all... A pity... Farewell!
+@612
+{01}C{DE}{00}, to meet {01}C{11}{00} in a place like this! Shall I invite him to join our house?
+@612.1
+{01}C{DE}{00}, to meet {01}C{11}{00} in a place like this! Shall I ask him to come to our house?
+@612.2
+{01}C{DE}{00}, to run into {01}C{11}{00} in a place like this! Shall I ask him to join our house?
+@612.3
+There is a ronin of real promise here. Shall I ask him to join our house?
+@613
+{01}C{0B}{00}, I hear Lord {02}{0D}2 of your own kin is nearby, living as a ronin. Shall I persuade him to enter your service?
+@613.1
+{01}C{0B}{00}, among my kin is a man named {02}{0D}2. Shall I invite him to enter your service?
+@613.2
+{01}C{0B}{00}, I have heard a rumour that a promising ronin named {02}{0D}2 is nearby. Shall I invite him to enter your service?
+@613.3
+{01}C{0B}{00}, I would like to persuade a ronin named {02}{0D}2 to enter our house's service.
+@613.4
+{01}C{0B}{00}, I have found a ronin named {02}{0D}2. I would like to win him over before another house takes him.
+@615
+There are no ronin in the castle town
+@616
+No ronin has been chosen
+@617
+Recruit him as an officer of our house?
+@618
+My name is {02}{0B}2. From this day, {02}{97}2 is mine to rule.
+@618.1
+I have had enough of a wanderer's life. I, {02}{0B}2, will take {02}{97}2 for myself.
+@618.2
+How convenient, an empty castle. From {02}{97}2, {02}{0B}2 will set his sights on the whole land.
+@619
+Lord {02}{0B}2! {02}{97}2 has been seized by a ronin named {02}{0C}2!
+@620
+What! {02}{97}2 seized! Who is this {02}{0C}2? The impudence...
+@621
+Lord {02}{0B}2, I hear {02}{97}2 has been taken over by a ronin named {02}{0C}2.
+@622
+Oh? So {02}{97}2 has been seized. That fool {02}{0D}2 must have let his guard down... But who is this {02}{0C}2?
+@623
+Heaven has witnessed my seven trials and eight hardships... I will welcome Lord {02}{0C}3 to {02}{97}2 and restore the {02}{0C}5 clan!
+@623.1
+I have waited for this moment. I welcome Lord {02}{0C}3 to {02}{97}2, and here the {02}{0C}5 clan rises again!
+@623.2
+The name of {02}{0C}5 shall not die out. From {02}{97}2, the {02}{0C}5 clan will once more set out to conquer the land.
+@624
+Lord {02}{0B}2! {02}{0C}2 has raised troops at {02}{97}2 under the banner of restoring the {02}{0D}5 clan!
+@624.1
+Lord {02}{0B}2! {02}{0C}2 has welcomed {02}{0D}2 to {02}{97}2 and raised his banner! He is calling for the restoration of the {02}{0D}5 clan!
+@625
+Restoring the {02}{0D}5 clan at {02}{97}2... That impudent {01}C{10}{00}...
+@625.1
+Has {02}{0C}3 been possessed by a demon? Dragging out a ghost like the {02}{0D}5 clan...
+@625.2
+That {01}C{10}{00}, putting on a show of loyalty... If he wants to die for his old masters so badly, I shall oblige him.
+@626
+Lord {02}{0B}2! It is said that {02}{0C}2 has welcomed {02}{0D}2 to {02}{97}2, raised his banner and restored the {02}{0D}5 clan.
+@626.1
+Lord {02}{0B}2, I hear {02}{97}2 has been taken over by remnants of the {02}{0D}5 clan, let in by {02}{0C}2.
+@627
+How loyal {02}{0C}2 is. He never abandoned his devotion to the {02}{0D}5 clan, and now he has restored their house.
+@627.1
+{01}C{D6}{00}, the {02}{0D}5, you say? So we must fight ghosts now? How frightening, {01}C{D6}{00}.
+@627.2
+Dragging out an antique like the {02}{0D}5 clan... {02}{0C}2 is a strange fellow indeed.
+@628
+{01}C{D6}{00}, you were careless, {01}C{09}{00}. From now on {02}{0B}T belongs to Lord {02}{0D}2!
+@628.1
+I have lost all patience with {01}C{0B}{00}. I will take {02}{0B}T as a gift and ride to {01}C{11}{00}!
+@628.2
+I have waited for this moment. From now on, we and {02}{0B}T with us serve Lord {02}{0D}2!
+@628.3
+The chance to leave the {02}{0C}k has come. From this day, the master of {02}{0B}T is Lord {02}{0D}2!
+@628.4
+The time has come to settle an old grudge. We, and {02}{0B}T with us, go over to Lord {02}{0D}2!
+@629
+{01}C{0B}{00}, {02}{0D}2 of {02}{0D}T has come over to our side.
+@629.1
+{01}C{0B}{00}, good news. {02}{0D}2 of {02}{0D}T has rebelled and come over to us from the {02}{0D}k.
+@629.2
+{01}C{0B}{00}, a letter has come from {02}{0D}2 of {02}{0D}T... "For reasons of my own I leave the {02}{0D}k and take the side of the {02}{0B}k."
+@630
+What, {01}C{09}{00} brings us {02}{0C}T as a gift? {01}C{D6}{00}, just what I expect of {01}C{09}{00}.
+@630.1
+{01}C{D6}{00}, I can just picture {02}{0D}2 running about in a panic.
+@630.2
+Thanks to {02}{0C}2, {02}{0C}T is ours without the loss of a single soldier.
+@630.3
+Betrayed by {02}{0C}2... The {02}{0D}k's days are numbered.
+@631
+{01}C{0B}{00}, treason! {02}{0E}2 of {02}{0E}T has gone over to {02}{0D}2!
+@631.1
+{01}C{0B}{00}! A rider from {02}{0E}T! {02}{0E}2 has rebelled and gone over to the {02}{0D}k!
+@631.2
+A grave matter. {02}{0E}2 of {02}{0E}T has rebelled and gone over to the {02}{0D}k.
+@632
+What, {01}C{0A}{00}... There must be some mistake. I cannot believe it.
+@632.1
+What! {02}{0C}T, to {02}{0D}2! Grr... {02}{0C}2... He will pay for this...
+@632.2
+Curse you, {01}C{10}{00}. Curse you, {02}{0D}2... To make a fool of me...
+@632.3
+That dolt {01}C{10}{00}... Falling for {02}{0D}2's cheap tricks...
+@633
+{02}{0B}T, held by {02}{0C}2, has gone over to {02}{0D}2.
+@634
+I, {02}{0B}2, have my reasons: I take the side of the {02}{0C}k!
+@634.1
+With this many troops, I have a fine gift for Lord {02}{0C}3! Men! From this day {02}{0B}2 serves the {02}{0C}k!
+@634.2
+Time to give {02}{0D}3 a shock. From now on, the master of {02}{0B}2's army is Lord {02}{0C}2!
+@635
+{01}C{0B}{00}, {02}{0D}2 of the {02}{0D}k has rebelled! He has come over to us with his troops as a gift!
+@635.1
+Good news, {01}C{0B}{00}. The army led by {02}{0D}2 of the {02}{0D}k has come over to our side!
+@635.2
+{01}C{0B}{00}, it seems someone in the {02}{0D}k's army has come over to us. I believe it is the army led by {02}{0D}2.
+@636
+Just like {01}C{09}{00}. I knew you would not come empty-handed, but to bring this many troops!
+@636.1
+{01}C{DE}{00}, {02}{0C}2's corps has come to us! I can just picture {02}{0D}2's panic, {01}C{D6}{00}.
+@636.2
+To bring an army over from the {02}{0D}k to our house... {02}{0C}2, what a splendid fellow.
+@636.3
+{02}{0C}2 has come over to us! And with a whole corps! Well done, {02}{0C}2!
+@637
+{01}C{0B}{00}! {02}{0D}2, out on campaign, has gone over to the {02}{0E}k!
+@637.1
+{01}C{0B}{00}! {02}{0D}2 has rebelled on campaign! He has gone over to the {02}{0E}k!
+@637.2
+{01}C{09}{00}! {02}{0D}2 has rebelled! He has gone over to the {02}{0E}k, troops and all!
+@638
+{01}C{09}{00} has turned traitor on campaign! Blast it, that disgrace to the {02}{0B}k, going over to the {02}{0D}k of all people!
+@638.1
+What! {02}{0C}2 has gone over to the {02}{0D}k with his troops! ...Is this {02}{0D}2's scheming?
+@638.2
+{02}{0C}2, to the {02}{0D}k... That {01}C{10}{00}... I was a fool to trust him with troops...
+@638.3
+{02}{0C}2 has run to {02}{0D}2 with his troops as a gift... Curse him... that {01}C{10}{00}...
+@640
+The corps led by {02}{0B}2, a retainer of {02}{0C}2, has gone over to {02}{0D}2.
+@641
+I hardly have the face to show myself now... but blood is thicker than water. Take me into the {02}{0C}k.
+@641.1
+I have lost all patience with {02}{0D}2. Let me enter Lord {02}{0C}3's service.
+@641.2
+I have fled from {02}{0D}2's service. I beg you to add me to Lord {02}{0C}3's ranks.
+@641.3
+I heard of Lord {02}{0C}2's renown and fled {02}{0D}2's service to ask a place among your retainers.
+@642
+Blood is thicker than water... indeed... {01}C{D6}{00}, it is as {01}C{09}{00} says. I welcome you gladly.
+@642.1
+Well come. See for yourself the difference between {02}{0D}3 and me, {02}{0B}3.
+@642.2
+I have long wished for a man like {01}C{0A}{00} as a vassal. Lend me your strength.
+@642.3
+I have heard of you for some time. Well come to the {02}{0B}k. I expect great things of you.
+@643
+{01}C{0B}{00}, word by fast rider: {02}{0D}2 has deserted our house and gone over to the {02}{0E}k.
+@643.1
+{01}C{0B}{00}, it seems someone has deserted our house and gone over to the {02}{0E}k. It appears to be {02}{0D}2...
+@643.2
+{01}C{0B}{00}, it seems someone has deserted our house for the {02}{0E}k. In the castle they are whispering it was {02}{0D}2...
+@644
+{01}C{09}{00}, so you would rather have {02}{0D}2 than me, {01}C{02}{00}...
+@644.1
+{02}{0C}2, gone to {02}{0D}2... Curse them, {02}{0D}3 and {02}{0C}3 both, making a fool of me...
+@644.2
+{02}{0C}2 has deserted! And to {02}{0D}3 of all people... To make a fool of me like this... I will remember it!
+@645
+{02}{0B}2, a retainer of {02}{0C}2, has defected to {02}{0D}2.
+@646
+{01}C{D6}{00}, at last the time has come. I, {02}{0B}2, stand here to claim supremacy in this age of war.
+@646.1
+My name is {02}{0B}2. I raise my banner here to claim supremacy over the land.
+@646.2
+My name is {02}{0B}2. The perfect chance has come to take my first step towards the whole land.
+@647
+{01}C{0B}{00}! It seems {02}{0D}2 of {02}{0D}T has risen in rebellion.
+@647.1
+{01}C{0B}{00}, a grave matter! {02}{0D}2 of {02}{0D}T has broken away from our house!
+@647.2
+{01}C{0B}{00}! A rider from {02}{0D}T! He reports that {02}{0D}2 has risen in rebellion!
+@648
+{01}C{09}{00}, what do you hold against me, {01}C{02}{00}... Do you hate me so much...
+@648.1
+What! {02}{0C}2, in rebellion... So that {01}C{10}{00}'s show of loyalty was all an act for this day... Curse him...
+@648.2
+{02}{0C}2... So he was waiting for this chance at {02}{0C}T... The blunder of my life.
+@648.3
+{01}C{DD}{00}... {02}{0C}2, making a fool of me... I will not let this pass.
+@649
+{02}{0B}2 has broken away from the {02}{0B}k.
+@650
+It seems my {01}C{09}{00} has no need of me. Then I have no choice but to leave...
+@650.1
+I will take no more orders from {01}C{10}{00}. From now on I do as I please.
+@650.2
+Stiff service is not in my nature. Wandering the land as I please suits me better.
+@650.3
+{02}{0C}2 is not the lord for me. I shall roam the provinces until the day I meet a true master.
+@651
+{01}C{0B}{00}! {02}{0D}2 of {02}{0D}T has deserted!
+@652
+What, a note from {01}C{09}{00}... So {01}C{09}{00} means to abandon me, {01}C{02}{00}, and leave our house...
+@652.1
+What, {02}{0C}2 has deserted... To leave me, {02}{0B}2... What a fool.
+@652.2
+So {02}{0C}2 has thrown away rank and honour alike and left our house... Utter folly...
+@652.3
+What, {02}{0C}2 has deserted... So he would rather be a ronin than a retainer of the {02}{0B}k...
+@653
+{02}{0B}2 of {02}{0B}U has deserted the {02}{0C}k and become a ronin.
+@654
+{02}{97}2 is short of gold and cannot pay stipends. The retainers are grumbling.
+@655
+To keep our house alive we bow to the strong. That is the way of the age. {02}{97}2 now follows the {02}{0C}k!
+@655.1
+The tide is turning from the {02}{0D}k to the {02}{0C}k... {02}{97}2 will ride that tide and side with the {02}{0C}k!
+@656
+{02}{0B}2, lord of {02}{97}2 under the {02}{0D}k, has defected with the castle and now serves the {02}{0C}k.
+@657
+{02}{97}2 of the {02}{0C}k has changed its allegiance to the {02}{0B}k.
+@658
+The {02}{0B}k has united the whole land! The age of war is at an end.
+@659
+{02}{0B}2 has brought every daimyo house to heel! The age of war is at an end.
+@660
+No one has united the land, and the age of war is over.
+@661
+Name the princess {02}{C9}?
+@662
+Heavy snow seems to have fallen in some provinces
+@663
+The thaw has come. The heavy snow no longer has any effect
+@664
+A typhoon seems to be approaching Japan
+@665
+Terrible news! The recent typhoon seems to have done damage in our lands too
+@666
+Rivers swollen by the typhoon have also washed away bridges in some places! Repairs will take until autumn
+@667
+{01}C{DD}{00}... So the flood works must start again from nothing...
+@668
+Some provinces seem to have had a poor harvest
+@669
+Famine seems to have broken out in some provinces
+@670
+Some provinces seem to have had a good harvest
+@671
+{01}C{0B}{00}, rejoice! This year our lands have had a good harvest!
+@671.1
+{01}C{0B}{00}, good news! Thanks to fine weather, some districts have reaped more than usual this year.
+@671.2
+{01}C{0B}{00}, listen to this! Some districts have had a good harvest, and the people are holding festivals in thanks...
+@672
+Oh, is that so! Then we can expect more rice. Splendid news.
+@672.1
+{01}C{DE}{00}, {01}C{0A}{00}, that is happy news. Heaven itself has blessed my {02}{0B}k.
+@672.2
+That is good. The soldiers will eat their fill and their spirits will rise.
+@673
+Our lands have had a good harvest this year. We can expect more rice. Splendid news.
+@673.1
+Fine weather, and by good fortune the crops have been plentiful. Happy news...
+@673.2
+Some of our lands have had a good harvest. Splendid, splendid. The five grains in plenty: truly a gift from heaven.
+@674
+{01}C{0B}{00}, terrible news! Our lands seem to have had a poor harvest this year.
+@674.1
+{01}C{0B}{00}, the weather has been bad, and in some districts the crops have done poorly.
+@674.2
+{01}C{0B}{00}, {01}C{0B}{00}! The harvest has failed and the people are suffering!
+@675
+{01}C{DE}{00}, what a disaster! At this rate we cannot expect the tax rice... The {02}{0B}k's very survival is at stake. We must do something.
+@675.1
+A poor harvest in our lands... With nothing to eat, nothing else can begin. We must take measures...
+@675.2
+What! That is serious. Food is the foundation of the people and of the realm. We must act, or the {02}{0B}k will founder.
+@676
+Our lands seem to have had a poor harvest. At this rate we cannot expect the tax rice... The {02}{0B}k's survival is at stake. We must do something.
+@676.1
+Some of our lands have had a poor harvest. An army cannot fight on an empty stomach. For the soldiers' sake, we must find a way...
+@676.2
+In this weather the crops grow poorly. Even so, on the name of the {02}{0B}k, I cannot let the soldiers starve...
+@677
+{01}C{0B}{00}, terrible news! Our lands are buried in heavy snow.
+@677.1
+{01}C{0B}{00}, {01}C{0B}{00}! In some provinces heavy snow is making it hard for armies to move!
+@677.2
+{01}C{0B}{00}! Snow is lying all over our lands, and armies can hardly move.
+@678
+{01}C{DE}{00}, snow, snow! Follow me, {01}C{0A}{00}! We shall ready ourselves for a snowball fight!
+@679
+{01}C{DE}{00}, what a nuisance... We cannot move this winter. Then let us wait quietly for spring.
+@679.1
+{01}C{0A}{00}, do not fret so. Sometimes one must simply rest and wait.
+@679.2
+Hmph, so the snow blocks my road... Perhaps heaven commands me to sit still this winter.
+@681
+{01}C{DE}{00}, snow, snow! Men, build snow huts! Build snowmen!
+@682
+Heavy snow in our lands, you say? We cannot move this winter. Then let us wait quietly for spring.
+@682.1
+Our lands are buried in snow? A fine chance. Let the soldiers rest until spring.
+@682.2
+So heavy snow has struck our lands. Sending out troops in this cold would be no easy thing.
+@684
+An epidemic has broken out, centred on {02}y2!!
+@685
+The epidemic is raging in our province too! Please take care, my lord...
+@686
+Cough... cough... Blast it, to fall ill at a time like this...
+@687
+{02}{0B}2 of {02}y2 seems to have fallen ill!
+@688
+An earthquake has struck {02}y2!!
+@689
+The earthquake has done great damage to the castle town of {02}y2!
+@690
+The earthquake seems to have damaged the gates of every castle in {02}y2 Province
+@691
+That is serious. There is no telling what may follow. Repair them at once.
+@692
+Ouch... For me, {02}{0B}2, to be hurt by a mere earthquake... How careless!
+@693
+{02}{0B}2 of {02}y2 seems to have been injured in the earthquake!
+@694
+{02}{97}2 lacked the rice to pay stipends, and the {02})2's prestige has fallen by %d
+@695
+Famine has halved the soldiers and wounded at {02}{97}2
+@696
+Lord {02}{0B}2, I hear {02}{0C}2's daughter has had her hair-tying ceremony.
+@697
+Choose the princess's name
+@698
+The marriage tie between the {02})2 and the {02}*2 is no more
+@699
+{02}{0B}2 of {02}{0B}U seems to have recovered from injury
+@700
+The ninja {02}{83}2, hiding in {02}y2, seems to have recovered from injury
+@701
+The ninja {02}{83}2, now waiting, seems to have recovered from injury
+@702
+{02}{0D}2 of {02}{0D}U seems to have recovered from illness
+@703
+It would be a waste to leave a warrior of your valour a wandering ronin. I want you in the service of our house.
+@703.1
+I want your valour, famed as matchless under heaven, to serve my lord.
+@704
+It would be a waste to leave a man of your wit a wandering ronin. I want you in the service of our house.
+@704.1
+I want your wit, said to have no equal in Japan, to serve my lord.
+@705
+It would be a waste to leave a man of your calibre a wandering ronin. I want you in the service of our house.
+@705.1
+A man who can move a million men like his own limbs: my {02}{0B}k needs your calibre.
+@706
+I hear your horsemanship is the finest in the land. Will you put it to use for my {02}{0B}k?
+@706.1
+I want your horsemanship, which tames any wild horse, to serve my lord.
+@707
+I hear your gunnery is the finest in the land. Will you put it to use for my {02}{0B}k?
+@707.1
+I want your gunnery, famed to hit a hundred times in a hundred, to serve my lord.
+@708
+A navy is vital for the wars to come. Lend me your strength: let us build the {02}{0B}5 navy together.
+@708.1
+Life ashore may not suit you, but I want your navy to serve my lord.
+@709
+{01}C{DE}{00}, who is this but {02}{0C}3? Well, will you serve the {02}{0B}k together with me?
+@709.1
+{01}C{09}{00}, do not sit idle in a place like this. Will you work for the {02}{0B}k with me, {01}C{02}{00}?
+@710
+You there. You seem tired of life as a ronin. Will you serve under my lord?
+@710.1
+My {02}{0B}k will give {01}C{09}{00} a foothold to make your name known across the land. Will you serve?
+@710.2
+I have heard of {01}C{09}{00}'s reputation. We would gladly have your strength for our house.
+@710.3
+Lord {02}{0C}2... Will you serve my lord, Lord {02}{0D}2?
+@710.4
+I heard of you in the castle town and came here. Will you meet my lord?
+@710.5
+Are you interested in the {02}{0D}k? If you are willing, I will put in a word with my lord.
+@711
+Will you work under me?
+@711.1
+I need your strength, badly. Will you help me?
+@711.2
+To end this age of war, I need your strength. Become my retainer.
+@711.3
+My {02}{0B}k will give {01}C{09}{00} a foothold to make your name known across the land. Will you serve?
+@712
+How could I refuse {01}C{09}{00}'s request? I will accept the {02}{0C}k's care.
+@712.1
+I cannot refuse a request from {01}C{09}{00}. I will accept the {02}{0C}k's care.
+@713
+Thank you for asking me. I will prove worthy of your expectations!
+@713.1
+Such a courteous invitation to one such as me! I gladly enter the {02}{0C}k's service.
+@713.2
+Agreed. I will earn the greatest rewards in the {02}{0C}k.
+@713.3
+Nothing could please me more. I was about to come to you myself.
+@713.4
+I cannot refuse such an invitation. I will become a retainer of the {02}{0D}k.
+@713.5
+I have waited for a chance like this. I place my life in {01}C{14}{00}'s hands.
+@713.6
+I have long wished to serve Lord {02}{0D}2. I am in your debt.
+@714
+For Lord {02}{0C}2 to come to me in person... I am deeply moved... I swear lifelong loyalty to you, my lord.
+@714.1
+Lord {02}{0C}2! For my lord to come himself, for one like me... I am unworthy. I will prove worthy of your trust.
+@714.2
+They say a warrior dies for the one who knows his worth... I place my life in Lord {02}{0C}3's hands.
+@715
+I doubt you understand the way of the shinobi. Please leave.
+@716
+I do not trust the word of one who knows nothing of the way of tea. Please leave.
+@717
+I do not trust the word of one who knows nothing of the sword. Please leave.
+@718
+I serve the Buddha alone. Please leave.
+@719
+Lord {02}{0D}2, they say, prefers kemari to the martial arts... I have no wish to serve such a man.
+@719.1
+Lord {02}{0D}2, I hear, cares for nothing but drink and women. I have no wish to serve such a man.
+@719.2
+Lord {02}{0D}2, I hear, is a fool given to outlandish behaviour. I have no wish to serve such a man.
+@719.3
+Lord {02}{0D}2, I hear, is an upstart of no known family. I have no wish to serve such a man.
+@719.4
+Lord {02}{0D}2, I hear, is so ruthless they call him the Viper. I have no wish to serve such a man.
+@719.5
+Lord {02}{0D}2, I hear, is a man who stole a retainer's wife. I have no wish to serve such a man.
+@719.6
+Serve the {02}{0C}k? Anything but that, please. That man alone I cannot stomach.
+@719.7
+Lord {02}{0D}3, I hear, is a man ruled by duty and sentiment. We do not think alike.
+@719.8
+Lord {02}{0D}3, I hear, believes that might is right. We do not think alike.
+@719.9
+Please leave. I cannot bring myself to trust a man like {02}{0D}2.
+@719.10
+A kind invitation, but... I have no wish to serve anyone at present.
+@719.11
+Please go home. I do not mean to come out into the world for a while.
+@720
+Serve you...? {01}C{D6}{00}, Lord {02}{0C}3, the joke goes too far.
+@720.1
+Please leave... Serving you is the one thing I cannot bring myself to do.
+@720.2
+The {02}{0C}k is safe enough without me. Please leave...
+@721
+Well, so be it... He is hardly a man to be the backbone of our house.
+@721.1
+Is that so... If that is what {01}C{0B}{00} says, it cannot be helped.
+@722
+I hate to leave a man of your calibre buried away... but it cannot be helped.
+@722.1
+Pressing you further would be useless... Then I shall take my leave.
+@722.2
+A pity, but it cannot be helped. A great pity...
+@723
+You will not serve our house, you say? Perhaps my own calibre is lacking...
+@723.1
+Then I shall call again another day. I will come as many times as it takes to make you my retainer.
+@723.2
+One day you may change your mind. When that day comes, come and see me.
+@724
+Your rewards will match your deeds. Show me all you can do.
+@724.1
+This is welcome news! I expect great things from your work.
+@724.2
+To have a famous commander like you as my retainer... Truly an honour.
+@725
+{01}C{DE}{00}, you accept? Then let us go to my lord at once.
+@725.1
+I am most grateful. My lord will surely be glad to have you join him.
+@725.2
+Just as I expected of {01}C{09}{00}. I knew you would give a good answer.
+@726
+Lord {02}{0B}3, Lord {02}{0C}2, head of the {02}{0C}k, has come for the New Year's celebration!
+@727
+Lord {02}{0C}3, I am glad to see you in good health. Forgive my presumption: I, {02}{0B}3, have come with New Year's greetings.
+@728
+You have come a long way. I have had a modest feast prepared to mark the day. Stay a while and enjoy it.
+@729
+I am honoured beyond measure. Our house swears unchanging loyalty to Lord {02}{0C}3. Command me as you will.
+@730
+That is good to hear. In that case...
+@730.1
+Hm, good. In that case...
+@731
+Ask something of the {02}{0C}k
+@732
+Ask for nothing
+@733
+Ask for %s
+@735
+{01}C{0A}{00}, the truth is our house is hard pressed for %s. Forgive me, but could you spare us about %d?
+@736
+A request from Lord {02}{0C}3 himself cannot be refused. I shall have it readied at once.
+@737
+Oh! That is most welcome. {01}C{0A}{00}, I am always asking too much of you.
+@738
+Received %s %d from the {02}{0C}k
+@739
+Friendship with the {02}{0C}k is now %d
+@740
+Even for Lord {02}{0C}3, our house has its own troubles. Forgive me, I cannot...
+@741
+You say you cannot... Hmph. Well, let it be.
+@741.1
+You cannot, you say... Hmph. Well, let it be.
+@742
+{01}C{0A}{00}, I hear {01}C{0F}{00} hold {02}G2. Could you let me have it?
+@743
+A request from Lord {02}{0C}3 himself cannot be refused. I shall give it to you.
+@744
+Received {02}G2 from the {02}{0C}k
+@745
+Even for Lord {02}{0C}3, I cannot give up {02}G2. Please forgive me...
+@746
+Your loyalty gladdens me. I will go on counting on you.
+@748
+Lord {02}{0B}2, Lord {02}{0C}3, head of the {02}{0C}k, is holding a New Year's banquet and commands you to attend in {02}y2.
+@749
+A command from Lord {02}{0C}3, is it... Then I must go.
+@750
+Lord {02}{0C}3, I am glad to see you in good health. Forgive my presumption: I, {02}{0B}3, have come with New Year's greetings.
+@753
+Oh, kind words indeed. Well then, to come straight to the point...
+@754
+The truth is our house is hard pressed for %s. Sorry to ask, but could you spare us about %d?
+@755
+As you wish
+@756
+I am sorry, but...
+@757
+(Current %s: %d)
+@759
+Oh! That is most welcome. {01}C{0A}{00}, I am always asking too much of you.
+@760
+Gave %s %d to the {02}{0C}k
+@761
+It is Lord {02}{0C}3's request, but our house has its own troubles. Forgive me...
+@762
+You say you cannot... Hmph. Well, let it be.
+@763
+I hear {01}C{0F}{00} hold {02}G2. Could you perhaps let me have it?
+@764
+A request from Lord {02}{0C}3 himself cannot be refused. I shall give it to you.
+@765
+Gave {02}G2 to the {02}{0C}k
+@766
+Even for Lord {02}{0C}3, I cannot give up {02}G2. Please forgive me...
+@767
+Lord {02}{0B}2, Lord {02}{0C}2, head of the {02}{0C}k, commands you to come to {02}y2 on urgent business.
+@768
+Lord {02}{0C}3, I am glad to see you in good health. {02}{0B}3 has come at your summons.
+@769
+Oh, nothing in particular. I simply wished to see your face. I have had a meal prepared. Stay a while and enjoy it.
+@770
+The land of my {02}y2 is fully tilled. The yield is already at its limit.
+@770.1
+In my {02}y2 the land is fully tilled, and no more yield can be hoped for. Is there no good way forward?
+@771
+To raise the yield further, we must carry out flood works. They would prevent floods too: two birds with one stone...
+@771.1
+{01}C{0B}{00}, why not carry out flood works in this province? They would open new fields and prevent floods as well.
+@772
+Carry out flood works in {02}y2
+@773
+Do not carry out flood works in {02}y2
+@774
+(Cost of works: %d  Corps gold: %d)
+@775
+Carry out flood works in {02}y2? Gold needed for the works: %d. 1st Corps gold: %d
+@776
+I look forward to the day the works bear fruit.
+@776.1
+Yes, my lord! I, {02}{0B}3, will see this task done well.
+@777
+There must be things that come before flood works.
+@777.1
+I see. A pity...
+@778
+Let me see, the flood works in {02}y2 should be nearly finished... I shall go and see for myself.
+@778.1
+{01}C{0A}{00}, how are the flood works in {02}y2 coming along?
+@779
+{01}C{DE}{00}, splendid!
+@779.1
+{01}C{0B}{00}, the flood works in {02}y2 are safely completed.
+@780
+Now there is more land to cultivate, and less fear of floods. The works were the right choice after all.
+@780.1
+Now there is more land to cultivate, and less fear of floods. The works were well worth it.
+@781
+{02}{0C}2, in charge of the works, has died. The flood works in {02}y2 are abandoned
+@782
+{02}{0C}2, in charge of the works, has retired. The flood works in {02}y2 are abandoned
+@783
+{02}{0C}2, in charge of the works, is no longer an officer of the {02}{0B}k. The flood works in {02}y2 are abandoned
+@784
+{02}{97}2 has been lost. The flood works in {02}y2 are abandoned
+@785
+The flood works in {02}y2 are still at the stage of laying foundations.
+@785.1
+{01}C{0B}{00}, the flood works in {02}y2 are at the stage of laying foundations.
+@786
+The foundations of the flood works in {02}y2 are laid. So far, so good.
+@786.1
+{01}C{0B}{00}, the foundations of the flood works in {02}y2 are laid and all is going well.
+@787
+The flood works in {02}y2 are one step from completion.
+@787.1
+{01}C{0B}{00}, the flood works in {02}y2 should be finished very soon.
+@788
+The {02})2 seems to have completed flood works in {02}y2
+@789
+{02}{0B}2, a retainer of the {02}{0C}k, asked for an audience with his lord, {02}{0C}2
+@790
+What brings you here today?
+@791
+Yes, my lord! I, {02}{0B}3, have come to speak to you about the {02}{0D}k.
+@792
+Oh, the {02}{0D}k, is it...
+@793
+As {01}C{0B}{00} knows, the {02}{0D}k grows ever stronger and threatens the authority of the Shogunate.
+@794
+I fear it would be unwise to leave them unchecked...
+@795
+Indeed... Have you some plan in mind?
+@796
+I believe it best to send letters to the neighbouring daimyo and call for the punishment of the {02}{0D}k.
+@797
+So we would join forces and strike the {02}{0D}k...
+@798
+{01}C{0B}{00}, I beg you to allow the punishment of the {02}{0D}k...
+@799
+Issue a punitive order against the {02})2
+@800
+There is no need for that
+@801
+If {01}C{0B}{00} says so, there is nothing to be done.
+@802
+Yes, my lord! Then I shall make the arrangements at once and call on the daimyo to join the punishment.
+@803
+So the {02}{0B}k sent letters to the daimyo, calling for the overthrow of the {02}{0C}k, who defied the Shogunate
+@804
+What answer have the daimyo given since?
+@805
+W-well... Forgive me. Not one daimyo has given a favourable reply.
+@806
+What! Is there no one who will defend the authority of the Shogunate?
+@807
+{01}C{E5}{00}... It cannot be helped. We shall have to bring down the {02}{0D}k without relying on other houses.
+@808
+{01}C{0B}{00}! The {02}{0D}k has answered the call and promised to raise troops against the {02}{0E}k!
+@809
+{01}C{0B}{00}! The {02}{0D}k and others have answered the call and promised to raise troops against the {02}{0E}k!
+@810
+{01}C{E4}{00} a good start. Then we must not miss this chance to bring down the {02}{0D}k. Tell the others so!
+@812
+Curse you, {02}{0C}2! Brandishing the Shogunate's authority to call the neighbouring daimyo against us...
+@813
+I will make you regret this scheme. Just you wait.
+@814
+Oh, a letter from the {02}{0D}k? What could they want?
+@814.1
+{01}C{0B}{00}, a letter has arrived from the {02}{0D}k.
+@815
+Let me see... What! It is a call to arms. We are to strike the {02}{0E}k...
+@816
+{01}C{E5}{00}, what to do...
+@816.1
+The Shogunate may be scheming to have us and the {02}{0E}k destroy each other. Please think carefully.
+@817
+Join the punishment of the {02})2
+@819
+This is the perfect chance to put the Shogunate in our debt. Let us join the punishment of the {02}{0E}k.
+@820
+So the {02}{0B}k wrote to the Shogunate, declaring its intent to overthrow the {02}{0C}k
+@821
+Now is a time to watch and wait. We will not dance to the Shogunate's tune.
+@822
+So the {02}{0B}k wrote back to the Shogunate, declining to join the punishment of the {02}{0C}k
+@823
+{02}{0D}2... Issuing a punitive order against me... Unforgivable!
+@823.1
+{01}C{0B}{00}, a grave matter! The Shogunate has issued a call to arms to the daimyo, ordering them to punish our {02}{0B}k!
+@824
+I will make you regret this scheme. Just you wait!
+@825
+The Shogunate seems to have issued a punitive order against the {02}{0C}k
+@826
+Nnngh... I never thought I would be stripped of the title of Shogun...
+@826.1
+Now that the {02}{0B}k no longer holds the Shogunate, I regret to say the earlier punitive order has no force.
+@827
+I have not lost my resolve, but the punitive order no longer has any force...
+@827.1
+We can only renew our resolve and begin again.
+@828
+I must show proper gratitude to the daimyo who answered my call.
+@828.1
+Forgive my boldness, but I believe those who swore to rally to you, my lord, should be suitably rewarded.
+@829
+I am sorry for the lords, but without gold there can be no rewards.
+@830
+A meagre reward would only earn their resentment.
+@830.1
+So long as the lords do not turn against us...
+@831
+The {02}{0B}k no longer holds the Shogunate, and the punitive order is void. The {02}{0B}k gave no rewards to the daimyo who took part
+@832
+Shogunate or not, how high-handed! We will never join hands with the {02}{0C}k again!
+@833
+I am sorry for the daimyo, but we have no gold worthy of a reward.
+@834
+A meagre reward would only earn their resentment.
+@836
+Nnngh... Whatever trouble the {02}{0C}k falls into from now on, we will never lend a hand again.
+@837
+I cannot now break the pledges made while we held the Shogunate.
+@838
+It is only right to reward those who obeyed my command.
+@838.1
+Quite so, my lord. It will serve as a token of friendship as well.
+@839
+The {02}{0B}k no longer holds the Shogunate, and the punitive order is void. The {02}{0B}k gave %d gold in rewards to the daimyo who took part
+@840
+We were of no use to the {02}{0C}k, yet they reward us. One day I must repay this.
+@840.1
+{01}C{DE}{00}, how admirable of the {02}{0C}k. I accept it gratefully.
+@841
+So the {02}{0D}k has been stripped of the title of Shogun by the Court. An enemy gone without any effort, and the encirclement broken with it.
+@841.1
+My lord, the {02}{0D}k, who issued the punitive order against our {02}{0C}k, has been stripped of the title of Shogun.
+@842
+I will make the foolish {02}{0D}k regret making an enemy of me. Now they shall learn!
+@842.1
+The {02}{0D}k was never fit to hold the Shogunate. To think they would punish me! A fitting end for fools.
+@843
+The {02}{0B}k no longer holds the Shogunate, and the punitive order is void
+@844
+So the Shogunate has fallen... We swore to defeat the same enemy, and I meant to give them every help...
+@844.1
+My lord, the Shogunate that issued the punitive order has fallen.
+@845
+With the punitive order toothless, the lords will do as they please. I will not allow it.
+@845.1
+I see... With the punitive order void, the struggle for supremacy will flare up... We must not fall behind.
+@846
+The Shogunate has fallen and the punitive order is void
+@847
+The Shogunate, fallen? I cannot stop laughing. Heaven's punishment for making an enemy of me.
+@847.1
+{01}C{0B}{00}, our sworn enemy has fallen. Nothing could be better.
+@848
+The nuisance is gone. There is nothing left to fear!
+@848.1
+A fitting end for fools. Nothing could please me more.
+@850
+So they are finally gone... A weight off my shoulders.
+@850.1
+{01}C{0B}{00}! The fall of our sworn enemy is cause for great rejoicing.
+@851
+From now on I can turn to governing, to strengthen our foundations.
+@851.1
+{01}C{E4}{00} the threat to our {02}{0B}k is gone. I could not be happier.
+@852
+Now, what of rewards for those who answered the punitive order...
+@852.1
+What will you do about rewards for those who joined the punitive order? For the future's sake, I believe they must not be neglected.
+@853
+Sadly, my {02}{0B}k's purse is empty. We cannot pay a reward worthy of the name.
+@854
+A meagre reward would be worse than none.
+@854.1
+Then they will surely resent us deeply. To give no thanks at all...
+@855
+The daimyo house under punishment has fallen. The Shogunate gave no rewards to the daimyo who took part
+@856
+We too joined the encirclement... and get nothing for it...
+@857
+But think of the future. Reward them now and they may become a threat later. I shall give no rewards.
+@858
+A meagre reward would only earn their anger.
+@858.1
+Then the lords will surely resent us. To give nothing at all...
+@860
+We too joined the encirclement... and the {02}{0C}k gives us nothing for it...
+@861
+This success could not have come without the encirclement. Their service must be rewarded.
+@862
+It is only right to reward those who obeyed my command.
+@862.1
+Quite so, my lord. I believe it best to reward the daimyo.
+@863
+The daimyo house under punishment has fallen. The Shogunate, the {02}{0B}k, gave %d gold in rewards to the daimyo who joined the punitive order
+@864
+{01}C{DE}{00}, how thoughtful of the {02}{0C}k. I accept it gratefully.
+@865
+Reward the daimyo who took part? Gold set aside for rewards: %d. The {02}{0B}k's gold: %d
+@866
+Reward the daimyo who took part
+@868
+
+
+@868.1
+
+
+@869
+has fallen
+
+@869.1
+has fallen
+
+@871
+There are no other daimyo houses around the {02}{0D}k, so no punitive order can be issued.
+@872
+Oh, is that so? It had slipped my mind.
+@873
+You called, my lord?
+@874
+{02}{0D}2's disregard for the authority of the Shogunate has gone too far.
+@875
+Therefore I shall call on the neighbouring daimyo to punish the {02}{0D}k.
+@876
+A year has passed since the punitive order against the {02}{0D}k was issued.
+@877
+{02}{0D}2 still stands. Continue the punishment?
+@878
+Continue the punishment
+@879
+Call off the punishment
+@880
+The punishment of the {02}{0D}k continues
+@881
+The punishment of the {02}{0D}k has been called off
+@882
+Another year has passed with no peace in the land... If only someone would appear to end the fighting...
+@883
+That {02}{0C}2, making light of the Court... We shall not let this stand...
+@884
+{02}{0C}2's power seems to be growing... We must find out whether he holds the Emperor in reverence...
+@885
+{02}{0C}2's power seems to be growing... Perhaps we might work on him to unite the land for us...
+@886
+{02}{0C}2, so devoted to the Emperor, seems to be growing strong. If only he would bring the land together...
+@887
+So another hot summer is here... The season that decides this year's harvest. Let us hope for fine weather...
+@888
+I hear {02}y2 Province has been struck by a typhoon. Let us hope the damage is not great...
+@889
+Autumn is well upon us... Harvest time again, and the people must be glad.
+@890
+I hear the rice harvest in {02}y2 Province has been poor. Let us hope there is no uprising...
+@891
+Cold, so cold... Winter in the capital is hard to bear. Someone, bring a brazier.
+@892
+{02}y2 Province is shut in by heavy snow, and the people suffer for it. Hard times in the north.
+@893
+Lord {02}{0B}2 has come from the Palace as Imperial envoy.
+@894
+I am {02}{0B}5 %s {02}{0B}3. I humbly receive the Imperial decree.
+@895
+A rider from the capital. The Court has decreed a change of era: the era name is now %s.
+@896
+Urgent news from the capital! %s has %s and a new Emperor has ascended the throne. Our relations with the Court may change.
+@897
+Relations between the Court and our house are now "%s"
+@898
+There are signs of improvement in relations between the Court and our house
+@899
+There are signs of improvement in relations between the Court and the {02}{0B}5 clan
+@901
+Relations between the Court and the {02}{0B}5 clan are now "%s"
+@902
+{02}{0C}5 %s {02}{0C}3, We command you: restore the Imperial estates of {02}y2 Province.
+@903
+Yes, my lord. I humbly obey...
+@904
+I beg you to forgive me in that matter...
+@905
+His Majesty will be pleased. Continue to serve the Court and work for the peace of the realm.
+@906
+Returning the Imperial estates has cut our yield, but our ties with the Court have grown closer.
+@907
+We had thought your reverence for the Emperor ran deeper... We shall report this faithfully to His Majesty.
+@908
+Refusing to return the Imperial estates kept our yield, but our relations with the Court have worsened.
+@909
+Lord {02}{0B}2 seems to have restored the Imperial estates of {02}y2 Province and drawn closer to the Court
+@910
+Lord {02}{0B}2 has come from the Palace.
+@911
+Well, well, Lord {02}{0C}2. To what do we owe the honour of your visit?
+@912
+The Court's finances are so strained that even palace ceremonies go wanting. We would have Lord {02}{0C}5 donate %d gold.
+@915
+His Majesty will be pleased. Continue to serve the Court and work for the peace of the realm...
+@916
+Lord {02}{0B}2 has departed. Donating the gold has brought us closer to the Court.
+@918
+Lord {02}{0B}2 has departed. Refusing to donate the gold has worsened our relations with the Court.
+@919
+Lord {02}{0B}2 seems to have donated gold to the Court and raised his standing at the palace
+@920
+{02}{0C}5 %s {02}{0C}3, you are relieved of the office of Shogun.
+@921
+What... I-I obey.
+@921.1
+Ugh... I-I obey.
+@922
+You have served well. Continue to serve the Court and work for the peace of the realm.
+@923
+Lord {02}{0B}5 has departed. To be dismissed as Shogun... There is no deeper regret.
+@924
+The Court has dismissed Lord {02}{0B}2 as Shogun. Our house's post is now meaningless.
+@925
+The Court has dismissed Lord {02}{0B}2 as Shogun. Unrest is spreading among the daimyo houses that held Shogunate posts.
+@926
+{02}{0C}5 %s {02}{0C}3, We appoint you Shogun.
+@927
+Yes...
+@928
+With respect, I must decline...
+@929
+Yes... I, {02}{0B}5 %s {02}{0B}3, humbly accept the appointment.
+@930
+Good... Continue to serve the Court and work for the peace of the realm.
+@931
+Congratulations on your appointment as Shogun! Now that you have founded a shogunate, you can appoint daimyo across the land to posts.
+@932
+What! You decline the office of Shogun! We begin to doubt whether you truly mean to bring peace to the land...
+@933
+Declining the appointment as Shogun seems to have deepened the Court's distrust of our house. Please take care.
+@934
+I report: the Court has appointed Lord {02}{0B}2 Shogun.
+@935
+I report: the Court has appointed Lord {02}{0B}2 Shogun. Our house may be given a post.
+@936
+I report: the Court has appointed Lord {02}{0B}2 Shogun. This will be a great obstacle to our uniting the land.
+@937
+{02}{0C}5 %s {02}{0C}3, you are newly appointed {02}e2.
+@938
+Yes, I am deeply honoured...
+@940
+Good, nothing could please Us more. Continue to serve the Court and work for the peace of the realm.
+@941
+Congratulations on your appointment as {02}e2. Your prestige will rise further, my lord. But beware: defying the Court's wishes can cost you prestige.
+@942
+Declining the appointment... Have you some reason of your own? Well, so be it. We shall report it faithfully to His Majesty.
+@943
+Lord {02}{0B}2 has departed. He seemed somewhat displeased that you declined the appointment.
+@944
+I report: Lord {02}{0B}2 seems to have been appointed {02}e2.
+@945
+We grant {02}{0C}5 %s %d gold.
+@947
+With respect, I must decline.
+@949
+The gift of war funds widens our options, my lord. Our relations with the Court should improve as well.
+@950
+We thought it good news for you, yet you decline... Well, so be it. We shall report it faithfully to His Majesty.
+@951
+Lord {02}{0B}5 has departed. He seemed somewhat displeased that you declined the gift.
+@952
+An Imperial envoy has visited Lord {02}{0B}2. The Court seems to have granted him gold.
+@953
+Lord {02}{0B}2 seems to be holding a tea gathering for the court noble Lord {02}{0C}2. Let us hope he is not plotting something...
+@954
+The Court's power is growing, and the influence of daimyo holding court titles is growing with it.
+@955
+The Shogunate's power is growing, and our prestige as {02}{AB}2 is growing with it.
+@956
+The Shogunate's power is growing, and the prestige of daimyo houses holding posts is growing with it.
+@957
+The Shogunate's power is waning, and our prestige as {02}{AB}2 is suffering for it.
+@958
+The Shogunate's power is waning, and the prestige of daimyo holding Shogunate posts is suffering for it.
+@959
+There are signs of improvement in relations between our house and the merchants of {02}Q2
+@960
+Relations between our house and the merchants of {02}Q2 are now "%s"
+@961
+A Nanban ship has put in at {02}Q2. Large numbers of guns seem to be changing hands
+@962
+A Nanban ship has put in at {02}Q2. It seems to have brought rare goods from the West
+@963
+A Nanban ship has put in at {02}Q2. Cannon from the West seem to be changing hands
+@964
+Lord {02}{0B}2 seems to be holding a tea gathering for Lord {02}{0C}2 of {02}Q2. Let us hope he is not plotting something...
+@965
+Business in the town of {02}Q2 has been brisk of late. It seems to grow livelier by the day.
+@966
+There are signs of unrest among the gentry of {02}y2 Province
+@967
+Relations between our house and the {02}o2 are now "%s"
+@968
+Lord {02}{0B}2 has come on behalf of the minor powers of {02}y2.
+@969
+Well, Lord {02}{0C}3. What brings you here today?
+@970
+As you may have heard, there are signs of an uprising in our province... With about %d more rice, we could calm the unrest...
+@971
+Then I shall have it arranged at once.
+@972
+I am sorry, but that I cannot do.
+@973
+I am most grateful. I will not forget this kindness...
+@974
+Preventing the uprising seems to have raised Lord {02}{0B}3's prestige.
+@975
+What! You do not care if there is an uprising? That is most regrettable...
+@976
+...Our house has no rice to spare...
+@977
+{02}{0B}2 seems to have given rice to the minor powers and calmed the unrest in his lands
+@978
+The gentry of {02}y2 Province are showing signs of unrest. Left alone, it could lead to an uprising. Please take care.
+@979
+We can bear {02}{0C}2's rule no longer! Rise up! Tear down the castles of the {02}{0C}k!
+@980
+A grave matter! The gentry of {02}y2 have risen up! {02}y2 will become a battlefield...
+@981
+The gentry of {02}y2 Province look likely to rise against {02}{0B}2. {02}y2 will become a battlefield...
+@982
+This uprising is to drive the hated {02}{0D}2 out of {02}y2... Selfish as it is, we ask for your help.
+@983
+So we are to march to {02}y2 this month and fight alongside them... Not a bad offer...
+@984
+Today we have come to present %d gold from our own mines. Please accept it.
+@985
+Today we have come to present %d war horses we have raised. Please use them in battle.
+@986
+Today we have come to present %s %s, forged by our own hands. Please accept it.
+@987
+Today we have come to present a cannon cast by our own hands. Please use it in battle.
+@988
+Today we have come to present %d guns forged by our own hands. Please use them in battle.
+@989
+I accept without reserve.
+@990
+Our house has no need of such things.
+@990.1
+I have no need of such things.
+@991
+I am relieved you accept. We hope to remain in your favour.
+@992
+The gentry's gift has been stored away. The more supplies the better. A welcome thing, my lord.
+@993
+Is that so? Then we shall say no more and take our leave.
+@994
+Lord {02}{0B}2 has departed. He seemed a little displeased that you refused the gift.
+@995
+We heard that some in your household suffer from illness or injury, so we have brought our secret remedy. Please make use of it.
+@996
+Thank you, I gladly accept.
+@996.1
+Hm, I accept without reserve.
+@997
+I want no such dubious medicine...
+@998
+Then please give this medicine at once to those who are unwell. No, no thanks are needed.
+@999
+We gave the medicine to the sick and injured, and they all recovered before our eyes. A fearsome remedy, my lord.
+@500
+Set the officer's face CG
+@501
+Set the registered officer's face CG
+@502
+Set the officer's face CG
+@503.1
+I accept the fief... Such a generous judgement, I am lost for words...
+@503.2
+Living on in shame is not my wish... Yet {01}C{00}{00} seem to have more left to do in this life...
+@503.3
+Then I shall serve the {02}{0C}5 clan. I would greet my lord and all the generals of the {02}{0C}5 clan anew...
+@503.4
+Serve this {02}{0B}3, you say... I know nothing of this {02}{0C}3. Perhaps it is worth finding out...
+@503.5
+With such a fief, my kin and followers will not want. ...I swallow my shame and accept
+@503.7
+Understood... Then pray allow me to write letters to summon those close to me
+@503.8
+What! Such a fief for a man of such little talent... Very well. I shall serve the {02}{0C}5 clan
+@504
+{01}C{09}{00}, leaving this {01}C{02}{00} alive will only sow trouble. Take my head without hesitation...
+@504.1
+I was ready to die if taken prisoner... Do not spare me out of pity because I am a woman
+@504.3
+To show myself to the enemy in such a state... I am angry and ashamed...
+@504.7
+Complaining now achieves nothing. I shall leave myself to the will of heaven
+@505.2
+You would make a traitor of {02}{0B}3, would you? That will not happen...
+@505.3
+I would sooner starve than eat the stipend of the {02}{0C}5 clan...
+@505.4
+Absurd... You think {02}{0B}3 would defect for such a fief? Lord {02}{0C}3 is a fool indeed
+@505.6
+An age of gekokujo, perhaps... no, precisely because it is such an age, I would keep faith and loyalty...
+@505.7
+It is thanks to my lord and so many others that {01}C{00}{00} am what I am. To forget that debt and defect is impossible...
+@505.8
+I will not listen to such nonsense... Take my head and be done with it
+@505.9
+Hmph... The {02}{0C}5 clan must be short of men. Sooner or later, you are doomed
+@506.8
+The bell of Gion Shoja tolls the impermanence of all things; the hue of the sala flowers shows that the mighty must fall. The proud do not last... only a spring... a spring night...
+@506.15
+A strange bird flies across the western sky... How I envy it, free in the heavens... Farther and farther away...
+@507
+{01}C{0C}{00}... how unlike you... Since it is your kindness, I shall thank you plainly now...
+@507.3
+Much obliged... By the way, would you return {01}C{00}{00} my horse? It is a favourite of mine...
+@507.9
+It seems my life is spared... {02}{0C}2... perhaps a man of great calibre after all...
+@508
+Load registered officer data. Choose the hard disk or memory unit to load from
+@509
+Cancel loading registered officer data?
+@510
+Creating game data on the Xbox. Do not turn off the Xbox
+@511
+Creating game data on memory unit <%s>. Do not remove the memory unit or controller
+@512
+Failed to create game data
+@513
+No memory card (PS2) is in memory card slot 1. Saving needs %dKB or more of free space. Start anyway?
+@514
+The memory card (PS2) in memory card slot 1 lacks free space. Saving needs %dKB or more of free space. Start anyway?
+@515
+Insert a memory card (PS2) with %dKB or more of free space in memory card slot 1
+@516
+No memory card (PS2) is in memory card slot 1. Saving needs %dKB or more of free space
+@517
+No memory card (PS2) is in memory card slot 1
+@518
+Continue %s?
+@519
+The memory card (PS2) in memory card slot 1 is not formatted
+@520
+Format it?
+@504.5
+To suffer the shame of capture and be the realm's laughing stock... A dream... It must be...
+@506.9
+I forgot to say where the tea utensils go. Such fine pieces... how careless
+@521
+Saving to the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset
+@522
+Saving to the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset {1B}CY<This takes time. Please wait>{1B}CD
+@523
+Loading from the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset
+@524
+Formatting the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset
+@525
+The memory card (PS2) was removed from memory card slot 1, so %s was interrupted
+@526
+Could not %s
+@527
+%s was cancelled
+@528
+The memory card (PS2) in memory card slot 1 has no data
+@529
+There is no saved data
+@530
+Choose data to load
+@531
+Load the data. Are you sure?
+@532
+The data is corrupted
+@533
+Choose where to save
+@534
+The memory card (PS2) in memory card slot 1 has no system data for Nobunaga's Ambition: Ranseiki with Power-Up Kit. Create new system data?
+@535
+Creating system data on the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset
+@536
+Not enough free space. Saving needs a memory card (PS2) with %dKB or more free
+@537
+Loaded
+@538
+Saved
+@539
+Overwrite the data. Are you sure?
+@540
+The memory card (PS2) in memory card slot 1 has no registered officer data
+@541
+If you have not saved, the officer data being edited will be lost. Are you sure?
+@542
+Registered officers: %d Load this data?
+@543
+Registered officers have changed. If you have not saved, the changes will not be reflected. Are you sure?
+@544
+Save the clear data?
+@545
+Quit without saving the clear data. Are you sure?
+@546
+Quit Mission Challenge mode without saving the clear data. Are you sure?
+@547
+Clear data saved
+@548
+Checking the memory card (PS2) in memory card slot 1. Do not remove the memory card (PS2), turn off the power or reset
+@549
+Cannot load the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit on the "PlayStation BB Unit". The game data may be damaged
+@550
+Cannot load the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit on the "PlayStation BB Unit"
+@551
+Repair the "PlayStation BB Unit" following the instructions in its manual
+@552
+From now on, data is read from the DISC
+@553
+Install the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit on the "PlayStation BB Unit". Are you sure?
+@554
+Installation cancelled
+@555
+The "PlayStation BB Unit" is not connected correctly
+@556
+The "PlayStation BB Unit" is not formatted. Format it following the instructions in its manual
+@557
+A fault was found in the "PlayStation BB Unit"
+@558
+The game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit is already installed
+@559
+The game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit is not installed
+@560
+The version of the game data on the "PlayStation BB Unit" does not match the DISC
+@561
+Uninstall it, then install again
+@562
+The "PlayStation BB Unit" lacks free space. Installing the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit needs %dMB or more
+@563
+Delete unneeded data, then install again
+@564
+Installing the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit. Do not turn off the power or remove the "PlayStation BB Unit" {1B}CY<To cancel: hold {1B}PX for a while>{1B}CD
+@565
+Cancel installing the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit. Are you sure?
+@566
+Installation interrupted
+@567
+Installation failed
+@568
+Continue installing the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit?
+@569
+Installation complete
+@570
+Uninstall the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit from the "PlayStation BB Unit". Are you sure?
+@571
+Uninstallation cancelled
+@572
+Uninstalling the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit. Do not turn off the power or remove the "PlayStation BB Unit"
+@573
+Uninstallation failed
+@574
+Continue uninstalling the game data for Nobunaga's Ambition: Ranseiki with Power-Up Kit?
+@575
+Uninstallation interrupted
+@576
+Uninstallation complete
+@577
+Install the game data
+@578
+Uninstall the game data
+@579
+Choose a registered event to edit
+@580
+Choose a registered event to delete
+@581
+The memory card (PS2) in memory card slot 1 has no registered officer data for Nobunaga's Ambition: Ranseiki
+@584
+Lord {02}{0C}3, rejoice! A princess is born!
+@584.1
+Lord {02}{0C}3, rejoice! A young lord is born!
+@585
+Lord {02}{0B}3, rejoice! A princess is born!
+@585.1
+Lord {02}{0B}3, rejoice! A young lord is born!
+@586
+{01}C{DE}{00}, a boy is born!
+@586.1
+A boy! Splendid news!
+@586.2
+A boy! Well done!
+@586.3
+{01}C{DE}{00}, how auspicious!
+@587
+He shall be {02}{0C}3 as an adult
+@587.1
+When grown... {02}{0C}3 it is?
+@587.2
+His adult name: {02}{0C}3
+@588
+Splendid! We shall name her {02}{0C}3. Let us celebrate!
+@588.1
+{01}CJ{02}\nChildhood name... Bontenmaru it is!\n{01}CK{02}
+@588.2
+{01}CJ{02}\nChildhood name... Tokujumaru!\nSame as my own!\n{01}CK{02}
+@588.3
+{01}CJ{02}\nChildhood name... Fujimasa it is!\nAt tonsure: {02}{0C}3
+@588.5
+{01}CJ{02}\nChildhood name... Kokuomaru it is!\n{01}CK{02}
+@588.6
+{01}CJ{02}\nChildhood name... Kotsurumaru it is!\n{01}CK{02}
+@588.7
+{01}CJ{02}\nChildhood name... Senkumamaru it is!\n{01}CK{02}
+@588.8
+{01}CJ{02}\nChildhood name... Yonekikumaru it is!\n{01}CK{02}
+@588.9
+{01}CJ{02}\nHm, a peculiar face... Kimyomaru it is!\n{01}CK{02}
+@588.10
+{01}CJ{02}\nHm, hair fit for a topknot... Chasenmaru it is!\n{01}CK{02}
+@588.11
+{01}CJ{02}\nThe date? The 7th of the 3rd month... Sanshichimaru it is!\n{01}CK{02}
+@588.12
+{01}CJ{02}\nAfter Osute... this one is Ohiroi!\n{01}CK{02}
+@588.13
+{01}CJ{02}\nHeir of the {02}{0B}k... Takechiyo, same as mine!\n{01}CK{02}
+@588.14
+{01}CJ{02}\nChildhood name... Ogimaru it is!\n{01}CK{02}
+@588.15
+{01}CJ{02}\nChildhood name... Nagamatsumaru it is!\n{01}CK{02}
+@588.16
+{01}CJ{02}\nChildhood name... Tensaimaru it is!\n{01}CK{02}
+@588.17
+{01}CJ{02}\nChildhood name... Senyumaru it is!\n{01}CK{02}
+@588.18
+{01}CJ{02}\nChildhood name... Fukumatsumaru it is!\n{01}CK{02}
+@588.19
+{01}CJ{02}\nChildhood name... Tatsuchiyo it is!\n{01}CK{02}
+@588.20
+{01}CJ{02}\nChildhood name... Chojumaru it is!\n{01}CK{02}
+@588.21
+{01}CJ{02}\nChildhood name... Torakumamaru it is!\n{01}CK{02}
+@588.23
+{01}CJ{02}\nChildhood name... Sanboshi it is!\n{01}CK{02}
+@588.24
+{01}CJ{02}\nChildhood name... Nokamaru it is!\n{01}CK{02}
+@588.25
+{01}CJ{02}\nChildhood name... Umetsurumaru it is!\n{01}CK{02}
+@588.26
+{01}CJ{02}\nChildhood name... Umetsurumaru!\nSame as my own!\n{01}CK{02}
+@588.27
+{01}CJ{02}\nHe takes the name Magoichi, borne by our heads for generations\n{01}CK{02}
+@588.28
+{01}CJ{02}\nChildhood name... Saikikumaru it is!\n{01}CK{02}
+@588.29
+{01}CJ{02}\nChildhood name... Chizurumaru it is!\n{01}CK{02}
+@588.30
+{01}CJ{02}\nChildhood name... Komatsumaru it is!\n{01}CK{02}
+@588.31
+{01}CJ{02}\nChildhood name... Somyomaru it is!\n{01}CK{02}
+@588.32
+{01}CJ{02}\nChildhood name... Iwamaru it is!\n{01}CK{02}
+@588.33
+{01}CJ{02}\nChildhood name... Isejumaru it is!\n{01}CK{02}
+@588.34
+Splendid! When he comes of age, shall we name him {02}{0C}3? Let us celebrate!
+@589
+A daughter, Princess {02}{0C}3, has been born to {02}{0B}2
+@589.1
+A son, {02}{0C}3, has been born to {02}{0B}2. We look forward to his coming of age
+@589.2
+Princess {02}{0C}3 has been born into the kin of {02}{0B}2
+@589.3
+{02}{0C}3 has been born into the kin of {02}{0B}2. We look forward to the coming of age
+@590
+Lord {02}{0C}2, {02}{0B}2 has newly joined your retainers
+@591
+I, {02}{0B}3, have come of age. I shall follow your valour, {01}C{0B}{00}, and be no unworthy child
+@591.1
+I, {02}{0B}3, have finally come of age. I am glad to work under {01}C{0B}{00}, whom I so respect
+@591.2
+{01}C{0B}{00}, I have just finished the coming-of-age ceremony. From now on I intend to help you and work hard
+@592
+I, {02}{0B}3, have come of age. From now on I am truly kin of the {02}{0C}k
+@592.1
+I am {02}{0B}2. I shall serve the {02}{0C}k until my life ends
+@592.2
+I am {02}{0B}2 of {02}{0B}T. I shall surely be of use
+@592.3
+I am {02}{0B}2. I shall devote myself to serving the {02}{0C}k
+@592.4
+I am {02}{0B}2 of {02}{0B}T. I intend to give my loyalty for the sake of the {02}{0B}k
+@593
+Lord {02}{0B}2, the princess's hair-tying ceremony is complete
+@594
+Raise this princess as an officer?
+@595
+{02}{0C}3, I am glad the hair-tying ceremony ended without incident
+@596
+Father-in-law, from today I too shall strive, as a woman of a warrior house, to bring no shame on the {02}{0C}k name
+@596.1
+Father, from now on I too shall strive, as a woman of a warrior house, to bring no shame on the {02}{0C}k name
+@597
+{01}C{09}{00}, since childhood I have secretly studied swordsmanship and strategy. My wish is to live as an officer of our house
+@598
+...Well said. From now on you too are one of the {02}{0B}k's officers. ...Are you prepared?
+@598.1
+...Very well. From now on you too are one of the {02}{0B}k's officers. ...Are you prepared?
+@599
+I have long wished to be of use to Lord {02}{0C}3...
+@599.1
+I too have long wished to be of use to the {02}{0B}k...
+@599.2
+I have wished to end this age of war as soon as possible...
+@599.3
+This {01}C{02}{00} has been looking forward to this day...

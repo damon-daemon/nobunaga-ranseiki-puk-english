@@ -1,0 +1,22 @@
+[
+{"id": 0, "en": ["Saito", "Kicho", "Kicho"], "s1": ["Nagai", "Kicho", "Kicho"], "s6": ["Nagai", "Kicho", "Kicho"]},
+{"id": 1, "en": ["Oda", "Ichi", "Ichi"]},
+{"id": 2, "en": ["Oda", "Gotoku", "Gotoku"]},
+{"id": 3, "en": ["Azai", "Chacha", "Chacha"], "s12": ["Toyotomi", "Yodo", "Yodo"], "s13": ["Toyotomi", "Yodo", "Yodo"], "s14": ["Toyotomi", "Yodo", "Yodo"]},
+{"id": 4, "en": ["Azai", "Hatsu", "Hatsu"]},
+{"id": 5, "en": ["Azai", "Go", "Go"]},
+{"id": 6, "en": ["Sekiguchi", "Sena", "Sena"]},
+{"id": 7, "en": ["Tokugawa", "Toku", "Toku"], "s1": ["Matsudaira", "Toku", "Toku"], "s2": ["Matsudaira", "Toku", "Toku"], "s6": ["Matsudaira", "Toku", "Toku"], "s8": ["Matsudaira", "Toku", "Toku"], "s9": ["Matsudaira", "Toku", "Toku"]},
+{"id": 8, "en": ["Tamura", "Mego", "Mego"]},
+{"id": 9, "en": ["Honda", "Komatsu", "Komatsu"]},
+{"id": 10, "en": ["Takeda", "Kiku", "Kiku"]},
+{"id": 11, "en": ["Mogami", "Yoshi", "Yoshi"]},
+{"id": 12, "en": ["Oura", "Inu", "Inu"]},
+{"id": 13, "en": ["Maeda", "Go", "Go"]},
+{"id": 14, "en": ["Akechi", "Tamako", "Tamako"]},
+{"id": 15, "en": ["Nagao", "Momo", "Momo"]},
+{"id": 16, "en": ["Tachibana", "Ginchiyo", "Ginchiyo"], "s1": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s2": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s3": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s6": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s8": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s9": ["Hetsugi", "Ginchiyo", "Ginchiyo"], "s15": ["Hetsugi", "Ginchiyo", "Ginchiyo"]},
+{"id": 17, "en": ["Hatakeyama", "Tsubaki", "Tsubaki"]},
+{"id": 18, "en": ["Ota", "Katsu", "Katsu"]},
+{"id": 19, "en": ["Hojo", "Haru", "Haru"]}
+]

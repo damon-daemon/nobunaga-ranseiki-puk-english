@@ -1,0 +1,1454 @@
+@0
+I
+@0.1
+I
+@0.2
+I
+@0.3
+I
+@0.4
+I
+@0.5
+I
+@1
+I-
+@1.1
+I-
+@1.2
+I-
+@1.3
+I-
+@1.4
+I-
+@1.5
+I-
+@2
+daughter
+@2.1
+father
+@2.2
+mother
+@2.3
+younger brother
+@2.4
+younger sister
+@2.5
+elder brother
+@2.6
+elder sister
+@2.7
+husband
+@2.8
+wife
+@3
+I
+@3.1
+I
+@3.2
+I
+@3.3
+I
+@3.4
+I
+@3.5
+I
+@3.6
+I
+@3.7
+I
+@4
+I
+@4.1
+I
+@4.2
+I
+@4.3
+I
+@5
+we ninja
+@6
+ninja
+@7
+my
+@7.1
+our
+@8
+we
+@8.1
+we
+@9
+Father
+@9.1
+Mother
+@9.2
+Brother
+@9.3
+Sister
+@9.4
+my dear
+@9.5
+Lord {02}{0C}3
+@9.6
+Lord {02}{0C}3
+@9.7
+Lord {02}{0C}3
+@9.8
+Lord {02}{0C}3
+@10
+old man
+@11
+young master
+@11.1
+my lord
+@11.2
+Lord {02}{0C}3
+@12
+Lady {02}{0C}3
+@12.1
+Lord {02}{0C}3
+@13
+Lord {02}{0C}3
+@13.1
+Lord {02}{0C}3
+@13.2
+Lord {02}{0C}3
+@14
+Father
+@14.1
+Mother
+@14.2
+Brother
+@14.3
+Sister
+@14.4
+you
+@15
+you
+@15.1
+you
+@15.2
+you
+@16
+brat
+@16.1
+girl
+@16.2
+greenhorn
+@16.3
+old fool
+@17
+Father
+@17.1
+Mother
+@17.2
+Brother
+@17.3
+Sister
+@17.4
+Lord {02}{0D}3
+@17.5
+Lord {02}{0D}3
+@18
+father
+@18.1
+mother
+@18.2
+elder brother
+@18.3
+elder sister
+@18.4
+younger brother
+@18.5
+younger sister
+@18.6
+my wife
+@18.7
+husband
+@18.8
+Lord {02}{0D}3
+@18.9
+Lord {02}{0D}3
+@19
+old man
+@20
+young master
+@20.1
+my lord
+@20.2
+Lord {02}{0D}3
+@21
+Lord {02}{0D}3
+@21.1
+Lord {02}{0D}3
+@22
+brat
+@22.1
+girl
+@22.2
+greenhorn
+@22.3
+old fool
+@23
+woman
+@23.1
+man
+@25
+
+@25.1
+
+@25.2
+
+@25.3
+
+@27
+
+@27.1
+
+@29
+
+@29.1
+
+@31
+
+@31.1
+
+@31.2
+
+@33
+
+@33.1
+
+@35
+
+@35.1
+
+@35.2
+
+@37
+
+@37.1
+
+@39
+
+@39.1
+
+@39.2
+
+@41
+
+@41.1
+
+@43
+
+@43.1
+
+@43.2
+
+@45
+
+@45.1
+
+@47
+
+@47.1
+
+@47.2
+
+@49
+
+@49.1
+
+@51
+
+@51.1
+
+@51.2
+
+@53
+
+@53.1
+
+@55
+
+@55.1
+
+@55.2
+
+@57
+
+@59
+
+@59.1
+
+@59.2
+
+@61
+
+@61.1
+
+@63
+
+@63.1
+
+@63.2
+
+@63.3
+
+@65
+
+@65.1
+
+@67
+
+@67.1
+
+@67.2
+
+@69
+
+@71
+
+@71.1
+
+@71.2
+
+@73
+
+@75
+Sorry
+@75.1
+Forgive me
+@75.2
+Sorry
+@75.3
+Forgive me
+@77
+I am sorry
+@77.1
+I am sorry
+@77.2
+I am sorry
+@79
+
+@79.1
+
+@79.2
+
+@79.3
+
+@81
+
+@81.1
+
+@81.2
+
+@83
+
+@83.1
+
+@83.2
+
+@83.3
+
+@85
+
+@85.1
+
+@87
+
+@87.1
+
+@87.2
+
+@87.3
+
+@89
+
+@89.1
+
+@91
+
+@91.1
+
+@91.2
+
+@91.3
+
+@93
+
+@95
+
+@95.1
+
+@95.2
+
+@97
+
+@97.1
+
+@99
+
+@99.1
+
+@99.2
+
+@99.3
+
+@101
+
+@103
+
+@103.1
+
+@103.2
+
+@105
+
+@107
+
+@107.1
+
+@107.2
+
+@107.3
+
+@109
+
+@111
+
+@111.1
+
+@111.2
+
+@111.3
+
+@113
+
+@115
+
+@115.1
+
+@115.2
+
+@115.3
+
+@116
+
+@117
+
+@119
+
+@119.1
+
+@119.2
+
+@121
+
+@123
+
+@123.1
+
+@123.2
+
+@123.3
+
+@125
+
+@125.1
+
+@127
+
+@127.1
+
+@129
+
+@129.1
+
+@129.2
+
+@131
+
+@133
+
+@133.1
+
+@133.2
+
+@133.3
+
+@135
+
+@135.1
+
+@137
+
+@137.1
+
+@137.2
+
+@137.3
+
+@139
+
+@139.1
+
+@141
+
+@141.1
+
+@141.2
+
+@143
+
+@145
+
+@145.1
+
+@145.2
+
+@145.3
+
+@147
+
+@147.1
+
+@149
+
+@149.1
+
+@149.2
+
+@151
+
+@153
+
+@153.1
+
+@153.2
+
+@153.3
+
+@155
+
+@155.1
+
+@156
+
+@156.1
+
+@158
+
+@158.1
+
+@159
+
+@159.1
+
+@159.2
+
+@159.3
+
+@161
+
+@161.1
+
+@161.2
+
+@163
+
+@165
+
+@165.1
+
+@165.2
+
+@165.3
+
+@167
+
+@169
+
+@171
+
+@171.1
+
+@171.2
+
+@171.3
+
+@173
+
+@173.1
+
+@175
+
+@175.1
+
+@175.2
+
+@175.3
+
+@177
+
+@178
+How dull
+@178.1
+How tedious
+@178.2
+How dull
+@179
+
+@179.1
+
+@179.2
+
+@179.3
+
+@180
+
+@180.1
+
+@180.2
+
+@181
+
+@181.1
+
+@181.2
+
+@182
+
+@182.1
+
+@183
+
+@183.1
+
+@183.2
+
+@183.3
+
+@184
+
+@184.1
+
+@185
+
+@185.1
+
+@186
+
+@186.1
+
+@187
+say
+@187.1
+say
+@187.2
+say
+@187.3
+say
+@188
+not say
+@188.1
+not say
+@188.2
+not say
+@188.3
+not say
+@188.4
+not say
+@189
+perhaps
+@189.1
+perhaps
+@189.2
+perhaps
+@189.3
+perhaps
+@189.4
+perhaps
+@190
+perhaps
+@190.1
+perhaps
+@190.2
+perhaps
+@190.3
+perhaps
+@191
+do so
+@191.1
+do so
+@192
+Wait
+@192.1
+Please wait
+@192.2
+Please wait
+@192.3
+Please wait a moment
+@192.4
+Wait a moment
+@193
+Cut him down
+@193.1
+Please strike him down
+@193.2
+Please strike him down
+@193.3
+Cut him down
+@194
+
+@194.1
+
+@195
+
+@195.1
+
+@196
+
+@196.1
+
+@197
+
+@198
+
+@198.1
+
+@199
+
+@199.1
+
+@200
+
+@200.1
+
+@201
+
+@201.1
+
+@202
+
+@202.1
+
+@203
+
+@204
+
+@204.1
+
+@205
+
+@205.1
+
+@205.2
+
+@206
+
+@206.1
+
+@206.2
+
+@207
+
+@207.1
+
+@208
+
+@209
+
+@210
+brothers
+@210.1
+sisters
+@210.2
+sister and brother
+@210.3
+brother and sister
+@211
+parent and child
+@211.1
+husband and wife
+@211.2
+kin
+@212
+men
+@213
+everyone
+@213.1
+men
+@213.2
+all of you
+@213.3
+everyone
+@214
+Ohoho
+@214.1
+Hee hee
+@214.2
+Wahaha
+@214.3
+Heh
+@214.4
+Ahaha
+@214.5
+Kukuku
+@214.6
+Fufufu
+@214.7
+Hahaha
+@215
+Aah!
+@215.1
+Augh!
+@215.2
+Ugh!
+@215.3
+Guh!
+@215.4
+Gah!
+@215.5
+Gwah!
+@215.6
+Urgh!
+@215.7
+Gyah!
+@215.8
+Uugh!
+@215.9
+Aah!
+@215.10
+Gueh!
+@216
+...
+@217
+!...
+@218
+!?...
+@219
+Yes!
+@219.1
+Yes!
+@219.2
+Yes...
+@219.3
+Yes, my lord!
+@220
+Oh my
+@220.1
+Hmmm
+@221
+Ah
+@221.1
+Mm
+@222
+Oh my
+@222.1
+Oh
+@223
+Oh!
+@223.1
+Ah!
+@224
+Zzz
+@224.1
+Zzz
+@225
+Haah
+@225.1
+Hic
+@226
+
+@226.1
+
+@227
+
+@227.1
+
+@228
+Hm,
+@229
+Hmm
+@229.1
+Mmm
+@230
+
+@230.1
+
+@230.2
+
+@231
+over a hundred years
+@231.1
+ninety-odd years
+@231.2
+eighty-odd years
+@231.3
+seventy-odd years
+@231.4
+sixty-odd years
+@231.5
+fifty-odd years
+@231.6
+forty-odd years
+@231.7
+thirty-odd years
+@231.8
+twenty-odd years
+@231.9
+ten-odd years
+@231.10
+these many years
+@232
+
+@232.1
+
+@233
+There are not enough free blocks to save the game. %d more blocks are needed. Press {1B}PA to continue or {1B}PB to free some blocks
+@234
+There is a problem with the disc. It may be dirty or scratched. Press {1B}PA to continue
+@235
+The data count is full, so the game cannot be saved. Press {1B}PA to continue without saving or {1B}PB to delete a file
+@236
+Connect a controller and press {1B}PT
+@237
+No daimyo has been chosen. Is that all right?
+@238
+Loading data from the Xbox console
+@239
+Loading data from the memory unit
+@243
+Choose the daimyo you will play
+@244
+Begin play as {02}{0B}2?
+@245
+Choose the game settings
+@246
+Start the game with the current settings?
+@247
+Continue the game with the current settings?
+@266
+Lord {02}{0C}2, your orders for %s.
+@240
+No memory unit is inserted
+@241
+Cannot access memory unit <%s>. A problem occurred in %s. Press {1B}PA to continue
+@242
+Choose a scenario to play
+@248
+Quit Nobunaga's Ambition: Ranseiki. Are you sure?
+@249
+Return to the title screen. Are you sure?
+@250
+Cancel editing. Are you sure?
+@251
+Save data to the Xbox
+@252
+The Xbox has no Ranseiki system data. Create new system data?
+@253
+Save data to the memory unit
+@254
+Cannot access the memory unit
+@255
+Loading data. Do not turn off the Xbox
+@256
+Loading from memory unit <%s>. Do not remove the memory unit or controller
+@257
+Saving data. Do not turn off the Xbox
+@258
+Saving to memory unit <%s>. Do not remove the memory unit or controller
+@259
+Cannot load the data. Press {1B}PA to continue
+@260
+Save failed
+@261
+Save complete
+@262
+If you have not saved, the current game data will be lost. Are you sure?
+@263
+Leave your daimyo to the computer and watch over events. Are you sure?
+@264
+Difficulty cannot change in play
+@265
+End this month's orders. Are you sure?
+@267
+%s {02}{0B}2 has died
+@268
+{02}{0B}2 has died in %s {02}{0B}U
+@269
+...{01}C{00}{00}'s life ends here... Before it does, there is something I wish to pass to you, {01}C{09}{00}...
+@270
+{01}C{09}{00}, you must not say such things! Let us keep working together for the {01}C{D1}{00} clan! Pull yourself together!
+@271
+Ugh... I am done for... I leave {02}G2, the heirloom of our house, to you, {01}C{0A}{00}. Give your all for the {01}C{D1}{00} clan...
+@272
+{01}C{09}{00}, this {02}G2... I, {02}{0B}2, receive it faithfully... {01}C{09}{00}? ...{01}C{09}{00}!...
+@273
+With the headship of the {02}{0B}k I pass on {02}G2, the heirloom of our house, to you, {01}C{0A}{00}. Strive for the {01}C{D0}{00} clan.
+@274
+{01}C{09}{00}, this {02}G2... I, {02}{0B}3, receive it faithfully.
+@275
+We cannot impose upon the {02}{0C}5 family like this. I, {02}{0B}3, shall shave my head and take Buddhist vows
+@275.1
+Without Lord {02}{0C}3, the world holds no meaning. I, {02}{0B}3, shall shave my head and take Buddhist vows
+@275.2
+To pray for my husband's repose, I, {02}{0B}3, shall shave my head and become a nun
+@276
+With Lord {02}{0C}3 gone, we cannot impose upon the {02}{0C}5 family any longer. I wish to return to my family home today
+@276.1
+In this state, we cannot impose upon the {02}{0C}5 family any longer. I wish to return to my family home today
+@277
+Lady {02}{0B}3, wife of Lord {02}{0C}3, has taken holy orders
+@278
+Lady {02}{0B}3, wife of Lord {02}{0C}3, has returned to the {02})2
+@279
+I, {02}{0B}3, remain Lord {02}{0C}3's wife to the end. Wherever he goes, I shall follow
+@279.1
+I, {02}{0B}3, am nothing without Lord {02}{0C}3. I would abandon my family home and follow him
+@280
+Lady {02}{0B}3, wife of Lord {02}{0C}3, has severed ties with her family, the {02})2
+@281
+{02}{0B}2, a distant relative, was taken in and has succeeded to the {02}{0C}k
+@282
+Choose a successor
+@283
+Choose a new Corps Commander
+@284
+{02}{0B}2, choose your successor
+@285
+Allow {02}{0B}2 to succeed our house?
+@286
+{02}{0B}2 has succeeded {02}{0C}2 and become daimyo
+@287
+{02}{0B}2, choose a new Corps Commander
+@288
+Make {02}{0B}2 Corps Commander of %s. Are you sure?
+@289
+{02}{0B}2 is the new Corps Commander of %s
+@290
+Stand beneath {01}C{0A}{00}? I will not have it! I will make Lord {02}{0C}3 pay!
+@290.1
+Lord {02}{0C}3 as head... I cannot allow it! Crush {01}C{0A}{00} for me!
+@290.2
+Why {01}C{0A}{00} as head, and not me? I will not accept it, never!
+@291
+Stand beneath {01}C{10}{00}? I will not have it! I will make Lord {02}{0C}3 pay!
+@291.1
+Lord {02}{0C}3 as head... I cannot accept such a thing! Crush {01}C{10}{00} for me!
+@291.2
+Why {01}C{10}{00} as head, and not me? I will not accept it, never!
+@292
+{02}{0B}2 has raised a rebellion at {02}{97}2
+@293
+{02}{0B}2's %s has risen by 1
+@294
+The {02})2 has been destroyed
+@295
+The {02})2 destroyed, you say... We withdraw for now and plan anew
+@296
+Corps %s of the {02})2 has vanished
+@297
+How much fief to grant {02}{0B}2?
+@298
+{02}{0B}2, taken prisoner, was recruited by the {02}{0C}k
+@299
+{02}{0B}2, taken prisoner by the {02}{0C}k, met a miserable end...
+@300
+{02}{0B}2, taken prisoner by the {02}{0C}k, has been released
+@301
+Horses were shared among squads short of mounts, forming a cavalry unit
+@302
+Guns were shared among squads short of guns, forming a gunner unit
+@303
+Cannon were shared among squads short of cannon, forming a cannon unit
+@304
+Half-width symbols cannot be used
+@305
+Characters that may not display correctly are used. Are you sure?
+@306
+Only full-width hiragana and katakana can be used for readings
+@307
+The same name already exists in the game. Are you sure?
+@308
+Officers whose real father was another registered officer lose that setting
+@309
+Changing the birth or death year will void the real father setting. Are you sure?
+@310
+Changing the birth or death year will void the real father setting of {02}{0B}2%s. Are you sure?
+@311
+Changing the sex will void the real father setting of {02}{0B}2%s. Are you sure?
+@312
+Discard the data being created and return to the registered officer screen. Are you sure?
+@313
+Discard the data being created and load historical officer data. Are you sure?
+@314
+Delete the data of the %d selected registered officers. Are you sure?
+@315
+Choose a registered officer to edit
+@316
+Choose a registered officer to delete
+@317
+Choose a registered officer to save
+@318
+Choose a registered officer to load
+@319
+Overwrite existing data with the current data. Are you sure?
+@320
+Create new Ranseiki system data. Are you sure?
+@321
+Not enough free blocks
+@323
+There are no registered officers
+@324
+Registered Officer Management
+@325
+The Onin War, sparked by the succession dispute of the Ashikaga shogunate, set a storm of war across the land. Children struck down parents, and vassals their lords: the age of gekokujo had come. In the 5th month of 1534, a son was born to Oda Nobuhide, lord of Furuwatari Castle in Owari: Kipposhi. He would take the name Oda Nobunaga and rise to the verge of ruling the realm...
+@326
+After his father Nobuhide's death, Nobunaga became head of the Oda and pressed on with unifying Owari, destroying Deputy Constable Oda Nobutomo and moving to Kiyosu. But in the 4th month of 1556 his father-in-law Dosan died in his son Yoshitatsu's rebellion, and in the 8th month his brother Nobuyuki rose in revolt. Nobuyuki must fall for Owari to be unified. Nobunaga's days of anguish began...
+@327
+Nobunaga backed Ashikaga Yoshiaki, marched on Kyoto and made him Shogun, and his power grew. But Yoshiaki realised he was a puppet and called on the daimyo to "Defeat Nobunaga". In the 4th month of 1570, Nobunaga marched on Echizen to punish Asakura Yoshikage, only to learn in camp that his brother-in-law Asai Nagamasa had defected. The greatest crisis of his life loomed...
+@328
+Nobunaga drove Yoshiaki from Kyoto and laid his old foes low one by one: the Asakura, the Asai, the Honganji. Tenka Fubu advanced steadily. In the 2nd month of 1582, Kiso Yoshimasa, son-in-law of Takeda Shingen, offered to submit to the Oda. Seeing the Takeda in decline, Nobunaga accepted and ordered his heir Nobutada to attack them. It seemed that no enemy remained before Nobunaga...
+@329
+Nobunaga vanished in the flames of Honnoji, betrayed by his vassal Akechi Mitsuhide. Mitsuhide, beaten by Hashiba Hideyoshi, who rushed back to the capital region, was killed by unknown hands as he fled. Half a month later at Kiyosu Castle, a council met to decide Nobunaga's successor and his lands. Shibata Katsuie and Hashiba Hideyoshi clashed over the succession. Conflict seemed unavoidable...
+@330
+Imagawa Yoshimoto, lord of Suruga and Totomi, took the Matsudaira of Mikawa under his wing and began to advance on Owari. Saito Dosan of Mino also eyed Owari, and at home Deputy Constable Oda Nobutomo defied Oda Nobuhide by backing Constable Shiba Yoshimune. Nobuhide's position was far from easy. In 1546 at Nagoya Castle, Nobuhide's heir Kipposhi came of age as Saburo Nobunaga...
+@331
+A few years after inheriting the Oda, Oda Nobunaga defeated his rebellious brother Nobuyuki and Oda Nobutaka, lord of Iwakura Castle, and unified Owari. But it did not last. In 1560 Imagawa Yoshimoto, lord of Suruga, Totomi and Mikawa, set out for Kyoto under the pretext of aiding the Shogun. Against Yoshimoto's 40,000, Nobunaga had a mere 4,000. All thought the fate of the Oda was sealed...
+@332
+Nobunaga raced east and west to break the "Nobunaga Encirclement" laid by the Shogun Ashikaga Yoshiaki's intrigues. But his ally Tokugawa Ieyasu was crushed by Takeda Shingen at Mikatagahara, and Yoshiaki openly raised the banner of revolt, bringing Nobunaga to his greatest crisis. Then came news that changed everything: Takeda Shingen had died of illness at Komaba in Shinano...
+@333
+Chosokabe Motochika escaped punishment thanks to the Honnoji Incident and, after Awa and Sanuki, defeated the Kono of Iyo in spring 1585, uniting Shikoku at last. Hashiba Hideyoshi, bent on unifying the realm, disliked this and ordered Sanuki and Iyo returned, but Motochika refused. In the 6th month of 1585 Hideyoshi resolved to conquer Shikoku and ordered the daimyo to march...
+@334
+After Toyotomi Hideyoshi's death, his heir Hideyori, aged six, succeeded him. But the rift between the two factions meant to guard him, the military faction led by Tokugawa Ieyasu and the civil faction led by Ishida Mitsunari, only deepened. In the 3rd month of 1599, Maeda Toshiie, the pillar of the Toyotomi regime who had kept both factions in check, passed away as if following Hideyoshi...
+@335
+Tokugawa Ieyasu, victor at Sekigahara, became Shogun and set up his government in Edo. The Toyotomi objected to Ieyasu's conduct but took no notable action, spending their time idly. Then, in the 7th month of 1614, word reached the Toyotomi that Ieyasu was furious: the inscription on the bell of Hokoji in Kyoto contained words cursing him...
+@336
+In the late 16th century, heroes revived from ancient times descended on a Japan at war: great generals of the Three Kingdoms, the mighty of the Mongol Empire. Heroes who left their names in history, like stars in the sky, rose to sound their fame once more. The daimyo and the heroes of old: who will rule the realm? The Sengoku age was gripped by tension as never before.
+@337
+Oda Nobunaga, sending his corps in all directions to unify the realm, was betrayed by Akechi Mitsuhide at Honnoji and died. Mitsuhide's rule was not secure either, and the capital region was in turmoil. Hashiba Hideyoshi, learning of Nobunaga's death in Harima, resolved to avenge his lord and face Mitsuhide. The battle to divide the realm was about to begin...
+@338
+My lord, Lady {02}{0B}5 of your kin has come to our house seeking your aid
+@339
+With {01}C{11}{00} dead, the only one {01}C{00}{00} can turn to is you, {01}C{09}{00}...
+@340
+Load data based on a historical officer
+@341
+Cancel editing this officer
+@342
+Register an officer with the current data
+@343
+Set the officer's face graphic
+@344
+Set the castle of the registered officer
+@345
+Set the castle of the registered officer
+@346
+Set the officer's real father
+@347
+Set the real father of the registered officer
+@348
+{1B}CYNo officer can be set as real father{1B}CD
+@349
+Set the registered officer's family name
+@350
+Set the registered officer's given name
+@351
+Set the reading of the family name
+@352
+Set the reading of the given name
+@353
+Set the officer's family name
+@354
+Set the reading of the family name
+@355
+Set the officer's given name
+@356
+Set the reading of the given name
+@357
+Change the officer's sex
+@358
+Make the officer male
+@359
+Make the officer female
+@360
+Choose the officer's initial state
+@361
+Choose the officer's initial state
+@362
+Appears as an active officer at the castle
+@363
+Appears as a ronin in the home province
+@364
+Dies in war or of old age
+@365
+Choose the officer's cause of death
+@366
+Choose the officer's cause of death
+@367
+Choose the officer's cause of death
+@368
+Choose the officer's cause of death
+@369
+Dies around the year of death
+@370
+Choose the officer's speech style
+@371
+Choose the officer's speech style
+@372
+Choose the officer's speech style
+@373
+Choose the officer's speech style
+@374
+A common style: "I", "-desu"
+@375
+Sometimes speaks few words
+@376
+A rough style: "I'll", "-da"
+@377
+A courtier's style: "-de ojaru"
+@378
+Set how much the officer values prestige
+@379
+Set how much the officer values prestige
+@380
+Set how much the officer values prestige
+@381
+Set how much the officer values prestige
+@382
+Serves only the highest-prestige daimyo
+@383
+Values prestige over duty
+@384
+Values duty over prestige
+@385
+Hardly influenced by prestige
+@386
+Set the origin (ties to powers)
+@387
+Set the origin (ties to powers)
+@388
+Set the officer's origin
+@389
+Set the officer's origin
+@390
+Has ties to the Imperial Court
+@391
+Has ties to the shogunate
+@392
+Has ties to the gentry
+@393
+Has ties to a self-governing town
+@394
+Has ties to the ninja
+@395
+Has ties to the navy
+@396
+Devoted to the Ikko sect
+@397
+Devoted to old Buddhism
+@398
+Has become a Christian
+@399
+Set which troop types the officer can lead
+@400
+Set which troop types the officer can lead
+@401
+Set the troop types (Pikes required)
+@402
+Set the troop types (Pikes required)
+@403
+Can lead pike units
+@404
+Can lead archer units
+@405
+Can lead cavalry units
+@406
+Can lead gunner units
+@407
+Can lead cannon units
+@408
+Can lead baggage units
+@409
+Set the registered officer's outlook
+@410
+Set the officer's outlook
+@411
+Set the registered officer's outlook
+@412
+Set the officer's outlook
+@413
+Aims to unify the whole realm
+@414
+Aims to unify the home region
+@415
+Aims to unify the home province
+@416
+Tends to adopt aggressive strategies
+@417
+Strategy between bold and cautious
+@418
+Rarely adopts aggressive strategies
+@419
+Politics specialist: Politics rises easily
+@420
+Leadership specialist: LDR rises easily
+@421
+Intellect specialist: Intellect rises easily
+@422
+Politics [1-150]: set Politics. {1B}CYYellow{1B}CD marks a strength
+@423
+Set Politics [1-150]. {1B}CYYellow{1B}CD is a strength
+@424
+Set the registered officer's Politics
+@425
+Set the officer's Politics
+@426
+Make a Politics specialist?
+@427
+Leadership [1-150]: set Leadership. {1B}CYYellow{1B}CD marks a strength
+@428
+Set Leadership [1-150]. {1B}CYYellow{1B}CD is a strength
+@429
+Set the registered officer's Leadership
+@430
+Set the officer's Leadership
+@431
+Make a Leadership specialist?
+@432
+Intellect [1-150]: set Intellect. {1B}CYYellow{1B}CD marks a strength
+@433
+Set Intellect [1-150]. {1B}CYYellow{1B}CD is a strength
+@434
+Set the registered officer's Intellect
+@435
+Set the officer's Intellect
+@436
+Make an Intellect specialist?
+@437
+Ambition [1-100]: set the officer's ambition
+@438
+Set the officer's ambition [1-100]
+@439
+Set the registered officer's ambition
+@440
+Set the officer's ambition
+@441
+Duty [1-max]: set duty to the daimyo
+@442
+Set the officer's duty [1-max]
+@443
+Set the registered officer's duty
+@444
+Set the officer's duty
+@445
+Max duty [1-100]: set the duty limit
+@446
+Set the officer's duty limit [1-100]
+@447
+Set the registered officer's max duty
+@448
+Set the officer's duty limit
+@449
+Compatibility [0-99]: set compatibility
+@450
+Set the officer's compatibility [0-99]
+@451
+Set the registered officer's compatibility
+@452
+Set the officer's compatibility
+@453
+Birth year [1454-1682]: set the birth year
+@454
+Set the registered officer's birth year
+@455
+Death year [birth+16-89]: set the death year
+@456
+Set the death year [birth+16-89]
+@457
+Set the officer's death year
+@458
+Set the officer's daimyo house
+@459
+Set the officer's daimyo house
+@460
+{1B}CYDaimyo/Corps Commanders cannot move{1B}CD
+@461
+{1B}CYRetired or underage officers cannot move{1B}CD
+@462
+The {02}{0B}k is close to %s temples; cannot set another sect
+@463
+Creator: name of the user who made this officer
+@464
+Creator: email address of the user who made this officer
+@465
+Set the registered officer's skills
+@466
+Set the officer's skills
+@467
+Set the registered officer's skills (max 4)
+@468
+Set the officer's skills (max 4)
+@469
+Raises the effect of Cultivate
+@470
+Raises the effect of Commerce
+@471
+Raises the effect of Repair
+@472
+Raises the effect of Train
+@473
+Raises recruitment success
+@474
+Raises the effect of Poach
+@475
+Raises the effect of Diplomacy
+@476
+Troops recover faster
+@477
+Can carry out Survey
+@478
+Triggers flood control events
+@479
+Allows trade
+@480
+Gentry help when developing
+@481
+Tea parties occur on trading
+@482
+Raises the effect of Guard
+@483
+[Battle] Recovers from confusion easily
+@484
+[Battle] Restores lost morale
+@485
+[Battle] Not wiped out while squads remain
+@486
+[Battle] Captures enemy officers
+@487
+[Battle] Harder for the enemy to capture
+@488
+[Battle] Troops are lost slowly
+@489
+[Battle] Morale falls slowly
+@490
+[Battle] Greatly lowers enemy morale
+@491
+[Battle] More gun attacks
+@492
+[Battle] Can fire guns in rain
+@493
+[Battle] More archer attacks
+@494
+[Battle] Makes spear wall attacks
+@495
+[Battle] Raises castle attack effect
+@496
+[Battle] Makes charge attacks
+@497
+[Battle] Confuses enemy units
+@498
+[Battle] Turns enemy units to defect
+@499
+Set the registered officer's face CG

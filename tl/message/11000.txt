@@ -1,0 +1,596 @@
+@11000
+By the way, Lord Ujizane, any other companions?
+@11001
+I would like more companions, but talented men are not easily found...
+@11002
+What about that one over there?
+@11003
+Hmm... what a bizarre appearance... He does not look like a man of Japan. You there, good sir!
+@11004
+Is that to Us?
+@11005
+(Hmm, this man... He has the same air as I. He is surely no ordinary man.)
+@11006
+Lord Ujizane, Lord Ujizane, I would advise against this one too...
+@11008
+This is King John of England, who yielded to the rebellion of the nobles and was made to accept the Magna Carta...
+@11009
+Gaaah! The Magna Carta! Do not speak those words before Us!
+@11010
+W-what? What came over this man all of a sudden? Page, what is a Magna Carta? A kind of card game?
+@11011
+The Magna Carta is a charter recognising the rights of the nobles...
+@11012
+Hmm, I do not follow, but it is like a house code, is it not?
+@11014
+Father too said a house code is essential to government. To have granted one, he must be a fine man after all.
+@11015
+Lord John, was it? This is sudden, but will you strive with us for the realm in Japan?
+@11016
+The realm? That sounds fun. Leave domestic affairs and battles to Us.
+@11017
+Hmm... birds of a feather, as they say...
+@11018
+Good, now I have reliable retainers as well. I shall surely restore the Imagawa and seize the realm!
+@11019
+Thus Imagawa Ujizane seized Sunpu Hall and raised his banner as a daimyo in the age of warring states.
+@11020
+In an age of warring states, when mighty lords contend for this land, heroes whose names live in history were about to rise again...
+@11021
+Ugh, ngh... Where is this?
+@11022
+So you are awake. Masuda Tokisada... no, Lord Amakusa Shiro.
+@11023
+How do you know my name? And who are you?
+@11024
+My art transcends even time. I am Kashin Koji... I called your soul here from the future.
+@11025
+What! I can hardly believe it... Yet I am certain I was cut down by the shogunate's army...
+@11026
+Your strong bitterness answered the art of Lord Kashin, and your soul was called back to this world.
+@11027
+And you?
+@11028
+I am Ashiya Doman, an onmyoji. Unlike you, I was revived from the distant past, the Heian era.
+@11029
+From the Heian era!? Lord Kashin, what do you mean to do by reviving us?
+@11030
+Heh heh heh... Oh, I merely wished to give the rulers of the day, Oda Nobunaga and Ashikaga Yoshiaki, a bit of a fright.
+@11031
+Surely you too would like to strike back at Tokugawa's men?
+@11032
+That... is true...
+@11033
+Heh heh heh... Then let us begin the final touch.
+@11034
+At last, we are to revive Lord Masakado?
+@11035
+Yes. ......New Emperor Taira no Masakado! Answer my art of recalling souls!
+@11036
+Is it you who disturbs my sleep?
+@11037
+Ohh, Lord Masakado!
+@11038
+Why do you disturb my sleep?
+@11039
+Japan is now in an age of war. We called to you with our art, hoping your power would bring still more chaos.
+@11040
+Oh, how interesting. In my past life I thought the paltry thought of ruling the eight Kanto provinces...
+@11041
+This time I shall make Japan a world of chaos ruled by dark arts. You shall serve as my minions.
+@11043
+Thus Taira no Masakado seized Sakura Castle and raised his banner as a daimyo in the age of warring states.
+@11044
+Hmm, one moment we were wrapped in a strange mist, and now it seems we have wandered into an odd place.
+@11045
+Where on earth is this?
+@11046
+Ah! Retired lord, Suke-san! Look around you!
+@11047
+Looking about, they found the three surrounded by fierce bandits.
+@11048
+Heh heh heh... You lot are well dressed. Who are you?
+@11049
+Oh no, we are merely crepe merchants from Echigo.
+@11050
+R-retired lord! This is no time for jokes! These are mountain bandits!
+@11051
+Oh, is that so... Then Kaku-san, show them that.
+@11052
+Yes, sir! Enough, you insolent fools! Bow your heads! Do you not see this crest!?
+@11053
+Huh? What about that medicine case? Never mind, boys, get them!
+@11054
+What!? This is bad! Suke-san, Kaku-san, run!
+@11055
+Huff, huff... Are we safe now...? But they were not even startled by the hollyhock crest?
+@11056
+Huff, huff... R-retired lord, does this scenery not look familiar from somewhere?
+@11057
+Hmm, now that you say so, it does seem familiar...
+@11058
+Ah! The buildings look odd, but it is certain! This is Mito!
+@11059
+Oh! Indeed it is Mito!
+@11060
+But something is strange... Ah! Retired lord, look at that!
+@11061
+What is it, Suke-san?
+@11062
+That war banner! A five-ribbed fan with a moon disc... that is the Satake crest!
+@11063
+The Satake ruled Mito before the Battle of Sekigahara... Which means, surely not!?
+@11064
+Hmm, this is... Ah, good priest over there!
+@11065
+Yes?
+@11066
+A strange question, but what year is it now?
+@11067
+This is the first year of Genki... Is something the matter?
+@11068
+N-no, nothing at all. Thank you.
+@11069
+The first year of Genki!? Suke-san, it seems we have come to a time long past!
+@11070
+It is hard to believe, but it must be true. The first year of Genki is the midst of the Sengoku period...
+@11071
+Retired lord, there is nothing for it now. Let us hasten to Lord Tokugawa Ieyasu!
+@11072
+Heh heh heh heh...
+@11073
+Ho, ho, ho, ho!
+@11074
+Retired lord... Ugh!? The retired lord's expression is not normal!
+@11075
+Suke-san, Kaku-san, listen well! From now on, I shall aim for the realm!
+@11076
+What!?
+@11077
+I am sick of punishing petty villains! I, Mitsukuni, shall stand in this age of chaos and proclaim my hegemony! You two, come with me!
+@11078
+Gwaah! This is terrible! What a mess we are in!
+@11079
+Thus Tokugawa Mitsukuni seized Ota Castle and raised his banner as a daimyo in the age of warring states.
+@11080
+Father, Japan has changed completely, has it not?
+@11081
+Yes, a great many years have passed since our time. Yet I never imagined it would be a world of rival lords like this...
+@11082
+Father!
+@11083
+Oh, Yoshitoki. Did you learn anything?
+@11084
+I asked the people of Kamakura. They say Kamakura is ruled by one Hojo Ujiyasu.
+@11085
+Hojo Ujiyasu!? Is he our descendant?
+@11086
+No, it seems he has no tie to us. Most likely he merely took the Hojo name to lend himself prestige...
+@11087
+What! That I cannot forgive!
+@11088
+What shameless wretches! We must have been revived to strike him down. Very well, I shall raise an army!
+@11089
+Father, do not be hasty. Let us look into him a little more.
+@11090
+True... Yasutoki, are you there?
+@11091
+Yes, Father! What is it?
+@11092
+Go to Hojo Ujiyasu's base and find out how things stand.
+@11093
+Yes, understood.
+@11094
+Thus Hojo Yasutoki infiltrated Odawara and investigated the Odawara Hojo. Several days later...
+@11095
+Father, forgive me for interrupting your meal. I have just returned.
+@11096
+Oh, Yasutoki, you are back! Well, how was it?
+@11097
+Yes. The lord, Hojo Ujiyasu, is a famed commander of both wisdom and valour, and is loved by his people.
+@11098
+Hm, that is a formidable foe.
+@11099
+However, his heir Ujimasa is said to be thoroughly mediocre.
+@11100
+Hahaha... Is that so? If the heir is mediocre, there is nothing to fear.
+@11101
+Oh! Not enough broth for my rice. A little more...
+@11102
+...You are one to talk.
+@11103
+In any case, the enemy seems formidable, but there appear to be openings to exploit.
+@11104
+True. Then I shall become lord and aim to overthrow Hojo Ujiyasu.
+@11105
+No, no, Father, you are old now. Leave the lord's duties to me, Yoshitoki.
+@11106
+You would outmanoeuvre your own father!? I am the first Regent! Of course I am the lord!
+@11108
+What are you saying! It was I who destroyed our political rivals and established the regency. My merit is greater.
+@11109
+Father, Father! As for merit, I believe I am the foremost, with the pacification of the Jokyu War and the Goseibai Shikimoku.
+@11110
+You would outmanoeuvre your own father!? Unfilial wretch! Your father is grieved!
+@11111
+Enough, be silent! I can leave it to the men no longer. I, Masako, called the Nun Shogun, shall be lord!
+@11112
+B-but, Masako...
+@11113
+Father, you have no objection, do you!
+@11114
+U-uh, no...
+@11115
+Thus Hojo Masako seized Iwatsuki Castle and raised her banner in the age of warring states. A battle for the Hojo name between the Kamakura Hojo and the Odawara Hojo was about to begin.
+@11116
+Hmm, we have finally taken a castle, but in a land so unknown I feel forlorn...
+@11117
+King Charles of France, revived in Sengoku Japan, had taken Jinoji Castle through the efforts of his officer Gilles de Rais and made it his base.
+@11118
+Your Majesty Charles!
+@11119
+Oh, Gilles. What is it?
+@11120
+Someone nearby says he saw a maiden with golden hair.
+@11121
+Could it be Jeanne d'Arc?
+@11122
+We have been revived in this land, so it would not be strange if Jeanne were here too.
+@11123
+I see... But it may be an impostor. Is there a way to tell whether she is truly Jeanne?
+@11124
+Then let us hold a banquet in this castle and invite her. And seat an impostor of Your Majesty on the throne.
+@11125
+Oh, that reminds me. At Chinon Castle, Jeanne was not fooled by the impostor on the throne and recognised me, hiding, as the king, did she not?
+@11126
+Yes. If she is the true Jeanne, she will see through it. I shall sit on the throne myself.
+@11127
+Thus a banquet was held at Jinoji Castle. Among the guests was a maiden with golden hair.
+@11130
+Jeanne stood before Gilles, the false king, but turned at once and walked toward the hidden Charles.
+@11132
+......(So she really is Jeanne?)
+@11133
+What a splendid gentleman... Pardon me, what is your name?
+@11134
+Hm? Are you speaking to me?
+@11135
+Gaaah, wait! Jeanne! Have you forgotten Us?
+@11136
+Oh! Your Majesty Charles!?
+@11137
+Jeanne, how cruel! You ignore Us and speak to some man of unknown birth...
+@11138
+Who is the cruel one!? You left me to die when the English captured me...
+@11139
+Ugh, that is...
+@11140
+Oh, never mind that... Splendid sir, please, your name?
+@11141
+Me? I am Robin Hood.
+@11142
+What!? Robin Hood? The outlaw of Sherwood, the master archer?
+@11143
+The very same.
+@11144
+Heh heh heh... Lord Robin, a most interesting company seems to have gathered in this land.
+@11145
+Oh, Lord Caesar. So you were there.
+@11146
+Eh, Lord Caesar!?
+@11147
+Yes, this is the hero of ancient Rome, Julius Caesar.
+@11148
+Your Majesty Charles, what is wrong? Oh, Jeanne! Are you truly that Jeanne?
+@11149
+Oh, you are Gilles! It has been a long time.
+@11150
+Ah, a long time indeed... Hm? And these two?
+@11151
+This is Lord Robin Hood and Lord Julius Caesar...
+@11152
+What! Lord Robin and Lord Caesar! Two heroes at once...
+@11153
+This is most reassuring. Lord Caesar, please become our lord and lead us!
+@11154
+What? I am not to be lord?
+@11155
+What are you saying! With Lord Caesar here, how could Your Majesty Charles possibly be lord?
+@11156
+Ugh, no...
+@11157
+Heh heh heh... Revived in a foreign land and leading heroes to proclaim hegemony over the world... How interesting. All of you, follow me!
+@11159
+Thus Julius Caesar made Jinoji Castle his base and raised his banner as a daimyo in the age of warring states.
+@11160
+This is {02}{0B}T, the seat of {02}{0B}2... A man had been granted an audience with {02}{0B}3 and offered his service.
+@11161
+So you are the one who wishes to serve me?
+@11163
+I hear you are an onmyoji. Why would an onmyoji wish to serve me? Do you want gold or land?
+@11164
+With respect, I have no interest in such things.
+@11165
+Then why?
+@11166
+Sinister power overflows in the eastern lands. If left alone, the evil aura will only grow stronger.
+@11167
+Sinister power in the east...? Come to think of it, someone calling himself Taira no Masakado has raised an army in Shimosa. Is that it?
+@11169
+I think they are of no account... But you cannot leave them be, can you?
+@11169.1
+I think they are of no account... But you cannot leave them be, can you?
+@11170
+Yes, my lord!
+@11171
+Now then, as an onmyoji, can you use some mysterious power?
+@11172
+A little...
+@11173
+Let me see... Ah, there is a frog in the garden. Can you dispose of that frog without touching it?
+@11173.1
+Let me see... Oh, there is a frog in the garden. Can you dispose of that frog without touching it?
+@11174
+I can, but I would rather not commit such a sin.
+@11175
+Heh... If you lack confidence, I will not force you...
+@11175.1
+Heh... If you lack confidence, I will not force you...
+@11176
+Then it cannot be helped...
+@11177
+So saying, the man picked up a blade of grass, murmured a spell, and threw it at the frog.
+@11178
+Oh, this is...!
+@11179
+The grass covered the frog, and the frog was crushed flat.
+@11180
+Splendid! I accept your service. And what is your name?
+@11181
+...Seimei. Please call me Abe no Seimei.
+@11182
+Oh! Daring to borrow the name of the great onmyoji of old... How amusing. I like you, Seimei.
+@11182.1
+Oh! Daring to borrow the name of the great onmyoji of old... How amusing. I like you, Seimei.
+@11183
+Thus Abe no Seimei came to serve {02}{0B}2.
+@11184
+{02}{0C}2, revived in Sengoku Japan, commanded such mighty warriors as {02}{0D}2 and {02}{0E}2 and swiftly expanded their power.
+@11185
+My lord, the army of {02}{0C}2 has invaded our territory.
+@11186
+Curse them! Appearing from nowhere and spreading their power... Who are they? They are utterly unfathomable.
+@11187
+Speaking of the unfathomable, word has come that a man of unknown origin has drifted into our territory.
+@11188
+What, what sort of man?
+@11189
+I know no details... but they say he is an extraordinary warrior.
+@11190
+I see, then...
+@11191
+Meanwhile, the army of {02}{0C}2 advanced irresistibly into the domain of the {02}{0B}5 clan.
+@11192
+Heh. These samurai of Wa are nothing much. There is no challenge in them at all.
+@11193
+Come on, who wants to be fodder for my spear!? Come at me!
+@11195
+Oh... this one might be a bit of a match.
+@11196
+Hm! This fellow!
+@11197
+{02}{0E}2, I will lend you a hand!
+@11198
+Ngh, brother, stay out of it!
+@11199
+I cannot. You are being pushed back!
+@11200
+Heh heh heh heh...
+@11201
+Hm, what a fighter! Yet this spear work... have I seen it somewhere?
+@11202
+He does not give an inch against both {02}{0D}2 and {02}{0E}2... Who is he?
+@11203
+Heh heh heh... It has been a long time, {02}{0D}2 and {02}{0E}2.
+@11204
+W-what!?
+@11205
+Come to think of it, we fought like this at Hulao Pass too.
+@11206
+What... could you be...
+@11207
+Hahaha! Yes, it is me, Lu Bu! I am glad to fight you again!
+@11208
+What! Lu Bu! This is bad, {02}{0D}2, {02}{0E}2!
+@11209
+Hm, {02}{0C}2? Three against one is a poor bargain... Shall I withdraw!
+@11210
+Wait! Lu Bu!
+@11211
+Heh... now that we have met again, there is no need to hurry. Next time I will face you at leisure.
+@11212
+{02}{0E}2! Do not pursue him rashly!
+@11213
+Ngh!
+@11214
+Still, that Lu Bu, defying us to the end... This is going to be troublesome.
+@11215
+Lu Bu, hailed as the best of men as his Red Hare was the best of horses. The appearance of this fierce general stood as a great wall in the path of {02}{0C}2.
+@11216
+{02}{0B}2 and {02}{0C}2, officers of the {02}{0B}k, slipped away from their duties and headed out into the streets of Kyoto...
+@11217
+Ah... Kyoto is lively and pleasant, is it not, Shinemon?
+@11218
+Indeed... Ah, Lord {02}{0B}5, let us try the far side of the river this time.
+@11219
+The two tried to cross a bridge, but at its foot stood a sign reading "Do not cross this hashi."
+@11220
+No crossing the bridge... This is a problem. Lord {02}{0B}5, what shall we do?
+@11221
+Hmm, this is a problem, is it not? What to do...
+@11222
+............Ah! I see!
+@11223
+After pondering a while, {02}{0B}5 hit upon something and began to walk boldly down the middle of the bridge.
+@11224
+Lord {02}{0B}5! The sign says not to cross, yet you cross so boldly. Is that all right?
+@11225
+Hahaha... Shinemon, it says not to cross the hashi... that is, the edge (hashi). So the middle of the bridge is fine to walk on.
+@11226
+Eh? Ah, I see! As expected of Lord {02}{0B}5, that is what it means!
+@11227
+Heh... a riddle of this size, for the {02}{0B}5 who was called a genius of quick wit, is like twisting a baby's arm...
+@11228
+You two, halt!
+@11229
+Eh!?
+@11230
+To cross this Gojo Bridge boldly, unafraid of Benkei, who terrorises it... You have some nerve.
+@11231
+Aaah... Lord {02}{0B}5, what is the meaning of this?
+@11232
+Eeek! Even if you ask me that...
+@11233
+Oh, you there, samurai. That is quite a fine sword you carry.
+@11234
+Eh!? Do you mean me?
+@11235
+I have taken 999 swords so far. For the 1000th, I think I shall take yours...
+@11236
+Huh? In the story, the one who had the 1000th sword was Ushiwakamaru. Which means...
+@11237
+Shinemon, you were Ushiwakamaru!
+@11238
+How could it come to that!
+@11239
+Heh heh heh... Prepare yourself, here I come!
+@11240
+Eeek!
+@11241
+Halt! Benkei!
+@11242
+Hm, who goes there? Ah! You are Ushiwaka... no, Lord Yoshitsune!
+@11243
+Benkei! Stop such mischief!
+@11244
+Lord Yoshitsune... forgive me. I awoke in the streets of Kyoto, surrounded by strangers, and in my forlorn state I fell to this wickedness.
+@11245
+I see... But from now on I am with you, so be at ease. By the way, who are you two?
+@11246
+I am {02}{0B}2, a retainer of the {02}{0B}k. This is my companion, Lord {02}{0C}2...
+@11247
+I see. Benkei has caused you trouble. By the way, do you serve some samurai house?
+@11248
+We do.
+@11249
+We are without a patron. We would very much like to serve your lord. What do you say?
+@11250
+This is sudden, but my lord would surely welcome mighty warriors like you. I will introduce you at once.
+@11251
+Is that so? We are obliged.
+@11252
+Thus Minamoto no Yoshitsune and Musashibo Benkei came to serve the {02}{0B}k.
+@11253
+{02}{0B}2 recruited 3000 brave men in Zhejiang, which had suffered from the wako, and trained them into a force strong enough to crush the pirates.
+@11254
+And here in the {02}{0B}k too, troops were being raised and drilled...
+@11255
+I wish to pick a brave man to entrust with command of the army...
+@11256
+Very well. Whoever among you believes himself the bravest, step forward.
+@11257
+Lord {02}{0B}2! I have slain many wild dogs and boars! I am a brave man!
+@11258
+No, no, I have punished bandits! I am the braver!
+@11259
+Hmm, I see... But there is still nothing decisive.
+@11260
+Oh, I know! Let us do this! Listen, all of you!
+@11261
+Those who fear their wives, gather under the white flag! Those who do not, gather under the red flag!
+@11262
+The soldiers began to move toward the red and white flags, but all except one gathered under the white flag.
+@11263
+How can this be! Every last one of you fears his wife!
+@11264
+Oh, one man alone under the red flag! You are the true brave man!
+@11265
+Um, Captain...
+@11266
+Hm? What is it?
+@11267
+Well, the thing is, I did not hear what you said just now...
+@11268
+W-what!? Then why are you under the red flag?
+@11269
+Well... my wife told me that when I do not understand what I am told, I should not move from where I stand.
+@11270
+Ah, even in this country men cannot stand up to their wives... Not that I can speak for others.
+@11271
+This tale shows that {02}{0B}2, hailed as the greatest general of the Ming for defeating the wako and repelling the nomads, in truth feared his wife.
+@11272
+{02}{0B}2 often inspected his domain in disguise. On this day he walked through Kozuke Province disguised as a monk.
+@11273
+At a place called Sano he met heavy snow and, having no choice, begged a night's lodging at a poor house.
+@11274
+It is a shabby place, but please make yourself at home.
+@11275
+I am obliged.
+@11276
+Here... I do not know if it will suit you, but it is millet rice.
+@11277
+Oh! I am grateful. I shall partake.
+@11278
+The master of the house treated Tokiyori warmly. But soon the firewood ran out and the fire in the hearth was dying.
+@11279
+Oh, this will not do! If the priest caught a cold, it would be terrible!
+@11280
+So saying, the master threw a potted plum tree into the hearth fire.
+@11281
+Is that all right? It looked like a bonsai you had tended with great care.
+@11282
+No, not at all! I must not be rude to a guest. Fallen as I am, I am still a samurai.
+@11283
+When the plum tree had burned out, the master threw a potted pine and a cherry tree on the fire without hesitation.
+@11284
+Master, if you would, might I hear of your circumstances? You do not look like an ordinary villager.
+@11285
+......I once held an estate of some thirty villages in the Sano manor, and was its lord.
+@11286
+But I was tricked by my uncle and lost my estate, and now I have fallen to this state.
+@11287
+Yet I, Genzaemon, should a call to arms come, will be the first to appear and will surely win glory in battle.
+@11288
+Is that so... I hope the day comes when your loyalty is rewarded.
+@11289
+Some time later, the warriors of Kozuke Province were ordered to march out. Sano Genzaemon, who had hosted {02}{0B}3, was the first to arrive, determined to be there before all others.
+@11290
+Genzaemon, raise your face.
+@11291
+Yes, sir! ...Hm? How do you know my name?
+@11292
+Heh heh heh... I was in your care on the day of the heavy snow. You burned even your potted trees to keep me warm.
+@11293
+Ah! You are the priest from that night!?
+@11294
+Indeed. When the order to march came, you would be the first to appear... Your words were no empty lie.
+@11295
+Yes, sir! You honour me.
+@11296
+I wish to reward your loyalty. First, the Sano manor that was your estate shall be returned to you at once.
+@11297
+Yes, sir! I am most grateful.
+@11298
+And as repayment for your three pots, plum, pine and cherry...
+@11299
+For the plum, the Umeda manor of Kaga Province; for the pine, the Matsuida manor of Kozuke Province; for the cherry, the Sakurai manor of Etchu Province. These three manors I grant as your reward.
+@11300
+What! Such an excessive reward for one such as I... I have no words.
+@11301
+Hm. A loyal man like you is a treasure of this house. Continue to serve me well.
+@11303
+This is a famous anecdote of {02}{0B}2's tours of the provinces.
+@11304
+The tale conveys the loyalty of the housemen, but also shows that many housemen were falling into ruin.
+@11305
+The renown of the {02}{0B}k has risen.

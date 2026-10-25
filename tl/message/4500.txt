@@ -1,0 +1,1136 @@
+@4798
+{1B}FL{1B}BB{1B}CKRule the Realm{1B}CD{1B}BD{1B}FE
+@4799
+Welcome to the world of Nobunaga's Ambition: Ranseiki. The stage is Japan in the Sengoku era. Order has broken down, and only the strong survive in an age where the low overthrow the high.
+@4800
+To end this age of war, you become head of a daimyo house and set out to unite the land.
+@4827
+End the guide and start the game?
+@4828
+And now the story begins. Enjoy the age of war to the full......
+@4842
+{02}{0B}2 of the {02}{0B}k gathered his retainers at {02}{0B}T.
+@4843
+Let us hold a council on the course the {02}{0B}k should take. Anyone with an opinion, speak freely.
+@4843.1
+To one day rule the whole land, what must we do now? Each of you, give me your thoughts.
+@4844
+In this age of war, the most important thing is to lay in ample stores of provisions, against both battle and famine.
+@4854
+[{1B}CRMagistrate{1B}CD] <{1B}CRCultivate{1B}CD>: rice yield\nof {02}y2 to %d (now %d)
+@4865
+{01}C{0B}{00}, your decision, please.
+@4866
+Adopt the goal of %s
+@4867
+No further council is needed
+@4868
+%s\n\nAdopt the goal above (%s)?
+@4869
+What {01}C={13} says is right. Let us concentrate on raising the rice yield of {02}y2.
+@4882
+1. Under [{1B}CRMagistrate{1B}CD], choose the officer to be\n   magistrate for <{1B}CRCultivate{1B}CD>.\n2. The rice yield rises monthly; keep going\n   until it reaches the goal.\n\n* If the officer is not in the goal province,\n   send him there with [{1B}CRPersonnel{1B}CD] <{1B}CRMove{1B}CD>.
+@4911
+{02}{0B}5 clan head {02}{0B}2 summoned his retainer {02}{0C}2 to {02}{97}2.
+@4912
+I have called you here today for one reason. I mean one day to bring peace to this troubled land, yet I have no plan for reaching that goal...
+@4922
+Then let us begin the first council.
+@4500
+{1B}BB%s falls{1B}BD
+@4501
+{1B}BB{02}{0B}{83} commander{02}{0B}2 destroyed{1B}BD
+@4502
+{1B}BB{02}{0B}{83} commander{02}{0B}2 retreats{1B}BD
+@4503
+{1B}BBDefender reinforcements{02}{0B}2 arrive{1B}BD
+@4504
+{1B}BB{02}{0B}{83} joins the %s side{1B}BD
+@4505
+{1B}BBCeasefire envoy arrives{1B}BD
+@4506
+{1B}BBPeace mediation{1B}BD
+@4507
+{1B}BB{02}{0B}{83} unit{02}{0B}2 destroyed{1B}BD
+@4508
+{1B}BB{02}{0B}{83}{02}{0B}2 defects to {02}{0C}{83}{1B}BD
+@4509
+{1B}BB{02}{0B}{83} launches an assault!{1B}BD
+@4510
+The battle seems to have begun. It will be %d more days before we arrive. {01}C{D5}{00}, make haste to {02}y2!
+@4511
+{02}=3 is running out of rice. The {02}=3 units cannot rest in this battle.
+@4512
+{02}=3 has run out of rice. The {02}=3 units can no longer rest.
+@4513
+{02}{0B}2 of the {02})2 has agreed to defect!
+@4514
+{02}{0B}2 has defected to the {02})2!
+@4515
+Whom will you ask to mediate?
+@4516
+Accept the mediation?
+@4517
+Whose side will you join in the battle?
+@4518
+Choose a unit to send out
+@4519
+Set a target for the {02}{0B}2 unit
+@4520
+Set a target for the %d selected units
+@4521
+Set the speed of real-time battle
+@4522
+Set whether the battle pauses on command input
+@4523
+Set the scroll speed of the battle map
+@4524
+Set how long messages are displayed
+@4525
+Ask the Court or shogunate to mediate the battle
+@4526
+Set all your units to "Skirmish"
+@4527
+Set all your units to "Evade"
+@4528
+Set all your units to "Retreat"
+@4529
+Whom will you ask to attack the enemy?
+@4530
+Ask an allied force to attack the enemy
+@4531
+Set the base or unit to attack
+@4532
+Execute a unit command
+@4533
+Pursue the target unit
+@4535
+Enter the target base
+@4536
+Attack the target unit
+@4537
+Attack the target base
+@4538
+Order the unit to retreat
+@4539
+Move the unit to the target point
+@4540
+Cannot move to this point
+@4541
+Choose a target near the cursor
+@4542
+Spend morale for a powerful attack (%d left)
+@4543
+All joined units launch an assault (%d left)
+@4544
+Join the selected units into one
+@4545
+Split the selected joined unit
+@4546
+Set the selected units to "Skirmish"
+@4547
+Set the selected units to "Evade"
+@4548
+Set the selected units to "Retreat"
+@4549
+Raise your army's morale (%d left)
+@4550
+{1B}PA selects or deselects your units
+@4551
+Make the selected baggage train a camp (base)
+@4552
+Strike camp?
+@4553
+Choose the unit or base to command
+@4554
+{1B}CBAttack{1B}CD {02}{0B}2
+@4555
+{1B}CBAttack{1B}CD %s
+@4556
+{1B}CBEnter{1B}CD %s
+@4557
+{1B}CBMove{1B}CD to this point (%s)
+@4558
+{1B}CBRetreat{1B}CD from the province
+@4559
+{1B}CBBreak{1B}CD the gate
+@4560
+{1B}CBBreak{1B}CD the fence
+@4561
+This province is as good as my own garden. I shall rampage to my heart's content!
+@4562
+To attack my homeland... I will never forgive it! I fight with all my strength!
+@4563
+Officers from {02}y2 have higher Leadership during battle.
+@4564
+In the battle of {02}y2, our army defeated the rebels.
+@4565
+In the battle of {02}y2, our army was defeated by the rebels...
+@4566
+In the battle of {02}y2, the {02})2, whom we aided, defeated the rebels.
+@4567
+In the battle of {02}y2, the {02})2, whom we aided, was defeated by the rebels...
+@4568
+In the battle of {02}y2, it seems the {02})2 defeated the rebels.
+@4569
+In the battle of {02}y2, it seems the rebels defeated the {02})2.
+@4570
+In the battle of {02}y2, our army defeated the {02})2.
+@4571
+In the battle of {02}y2, our army was defeated by the {02})2.
+@4572
+In the battle of {02}y2, the {02})2, whom we aided, defeated the {02}*2.
+@4573
+In the battle of {02}y2, the {02})2, whom we aided, was defeated by the {02}*2.
+@4574
+In the battle of {02}y2, it seems the {02})2 defeated the {02}*2.
+@4575
+Time ran out, and the battle of {02}y2 was left undecided.
+@4576
+Time ran out, and it seems the battle of {02}y2 was a draw.
+@4577
+By imperial command, the battle of {02}y2 was called off.
+@4578
+By imperial command, it seems the battle of {02}y2 was called off.
+@4579
+By the Shogun's private letter, the battle of {02}y2 was called off.
+@4580
+By the Shogun's private letter, it seems the battle of {02}y2 was called off.
+@4581
+I missed my chance during the battle, but as promised, take {02}{0B}3 into your service.
+@4582
+I, {02}{0B}2, shall now work for the {02}{0C}k.
+@4582.1
+I feel I have finally met my true lord. I shall gladly serve you.
+@4583
+So a good-for-nothing like me is not needed by the {02}{0C}k.
+@4584
+Oh, {01}C{09}{00}... To die at the hands of my own... How terrible is the fate of my line...
+@4584.1
+{01}C{09}{00}, I have a favour to ask. Will you bury the body of this {01}C{02}{00} in the family graveyard?
+@4584.2
+Ah... To see {01}C{09}{00} once more before my life ends... Now I have no regrets...
+@4584.3
+{01}C{09}{00}, letting this {01}C{02}{00} live would only breed future trouble. Do not hesitate, take my head.
+@4584.4
+This is the end... I leave the future of the {02}{0C}5 clan to you, {01}C{09}{00}.
+@4585
+{01}C{0C}{00}, you are a woman too. Please understand how I feel...
+@4585.1
+Woman though I am, I threw myself into the world of carnage and lived with all my heart... I have no regrets...
+@4585.2
+What is that look...? I will not be stared at out of idle curiosity. Cut me down, quickly... Cut me down!
+@4585.3
+I was prepared to die if I were ever taken prisoner. Spare me your needless pity.
+@4585.4
+Ow, ow, ow... Can the {02}{0C}5 clan not even treat a prisoner properly?
+@4586
+My heart aches for those who died... What a miserable showing I made in this battle...
+@4586.1
+My death poem is not yet written... If you pity me at all, grant me a little time, will you not?
+@4586.2
+To be put on display before the enemy general like this... I do not know whether to be angry or ashamed...
+@4586.3
+This {02}{0B}3 has not the slightest intention of begging for life. Boil me or roast me, do as you please.
+@4586.4
+Defeated in battle and taken captive, how could I shamelessly live on? I want no mercy... none!
+@4586.5
+That this {02}{0B}3 should suffer the shame of the rope and be the laughing stock of the realm... This is a dream... it must be...
+@4586.6
+That this {02}{0B}3 should be captured... It seems I underestimated the strength of the {02}{0C}5 clan...
+@4586.7
+There is no use in lamenting now. I shall leave my fate to heaven.
+@4586.8
+Damn {02}{0C}3... You must be walking on air for having captured me...
+@4589
+Enter my service with a fief of %d.
+@4590
+Then how about a fief of %d?
+@4591
+What! Then how about a fief of %d?!
+@4592
+Will you not join the {02}{0B}k?
+@4593
+I spare your life... Go wherever you like.
+@4594
+I shall take your head... Forgive me.
+@4595
+It seems I badly misjudged everything... {01}C{0C}{00}, forgive me.
+@4595.1
+If I accept a fief, I am from now on {01}C{0C}{00}'s vassal... I shall never defy you again.
+@4595.2
+Oh, {01}C{0C}{00}... You not only forgive this {01}C{02}{00} but grant a fief as well... I am beaten... I am truly beaten...
+@4595.3
+What, a fief for me...? You still trust this {01}C{02}{00}... Ah... I am so happy, {01}C{09}{00}.
+@4595.4
+Ah, {01}C{0C}{00}... Forgive me for all my past wrongs. Now I can only be ashamed of my narrow mind.
+@4596
+It may be strange for a woman to say this to a woman, but I have fallen for you, Lady {02}{0C}3.
+@4596.1
+Oh, what is this...? Looking into the eyes of Lord {02}{0C}3, the word "yes" rises to my lips by itself...
+@4596.2
+I want to know more of the mighty man who defeated me... I cannot bear not knowing...
+@4596.3
+I thank you for treating me as a warrior in my own right. I am a spitfire, but I ask your favour.
+@4597
+This {02}{0B}3 has fallen for your spirit, {01}C{0C}{00}.
+@4597.1
+A woman who aims at the realm itself...? Splendid! Let this {02}{0B}3 share that great dream of yours.
+@4597.2
+I thought I had lost everything I had to protect in this defeat... but it seems I have found one thing I want to live for...
+@4597.3
+Staking the rest of my life on a mighty woman like {01}C{0C}{00} may be a fine thing... Ha ha, I am a strange one too.
+@4597.4
+Perhaps it is the strength of women that will set this age of strife right. With this person, perhaps...
+@4598
+...This {02}{0B}3 has fallen for you, {01}C{0C}{00}. For my lord's sake I will gladly work like a dog or a horse.
+@4598.1
+To live on in shame is not my wish... but it seems there is yet something I must do.
+@4598.2
+Then I shall serve the {02}{0C}5 clan. I wish to greet my lord and all the generals of the {02}{0C}5 clan anew.
+@4598.3
+You ask me to serve you...? I cannot read {02}{0C}3 at all. Perhaps it would be interesting to find out.
+@4598.4
+{01}C{0C}{00} tells this beaten dog to live on...? Very well... my life was cast away once already anyway.
+@4598.5
+Understood... Now, if I may, I would like to summon my kin and kindred. Allow me to write them a letter.
+@4599
+...This {02}{0B}3 has fallen for you, {01}C{0C}{00}. For my lord's sake I will gladly work like a dog or a horse.
+@4599.4
+With a fief like that, my kin and retainers will not go hungry... Swallowing my shame, I accept your offer.
+@4599.6
+I accept that fief. Ah... such a generous offer leaves me speechless...
+@4599.8
+What! Such a fief for one of such poor talent... Very well. I shall serve the {02}{0C}5 clan.
+@4600
+To return to the old sheath now is impossible... {01}C{0C}{00}, give it up.
+@4600.1
+{01}C{0C}{00}, that would set a poor example. Do you want to make the {02}{0C}5 clan the laughing stock of the realm?!
+@4600.2
+{01}C{0C}{00}, you are always like this... You never understand this {01}C{02}{00}'s feelings in the least.
+@4600.3
+{01}C{0C}{00}, you are too soft... In your place, I would never show such mercy.
+@4600.4
+I am glad of your feelings, {01}C{0C}{00}, but that I must refuse. I too have my pride.
+@4601
+I am glad of your kindness, Lord {02}{0C}3... but that I cannot accept.
+@4601.1
+I bear a grudge against Lord {02}{0C}3... I cannot serve you.
+@4601.2
+You jest... One should not tease a woman at such a time.
+@4601.3
+Though my body be captured, I shall never hand my heart to the enemy... Please give it up.
+@4601.4
+I hate Lord {02}{0C}3 so much, so very much... The hatred is like to burn me up.
+@4602
+Though a prisoner now, I once set out to dominate the realm... I cannot eat another house's stipend.
+@4602.1
+My ambition still seethes deep in my belly... Surrendering to the {02}{0C}5 clan is unthinkable.
+@4602.2
+{01}C{D6}{00}... You ask me to serve you? {02}{0C}3, even as a joke that is too much.
+@4602.3
+Even if the {02}{0B}5 clan falls, the fight of this {02}{0B}3 does not end. I can never surrender.
+@4602.4
+Silence, {01}C{10}{00}! I have not the slightest wish to serve you. Do not underestimate this {02}{0B}3.
+@4603
+You wish to make a traitor of this {02}{0B}3, but it will not work.
+@4603.1
+I would sooner starve than eat the stipend of the {02}{0C}5 clan.
+@4603.2
+Absurd! Did you think a fief this small would make this {02}{0B}3 defect? Lord {02}{0C}3 is a fool indeed.
+@4603.3
+What are you babbling, {01}C{10}{00}! Even if heaven and earth were turned upside down, I will never serve you!
+@4603.4
+This may be an age of gekokujo... no, precisely because it is, I would hold to loyalty and good faith.
+@4603.5
+I am what I am thanks to my lord and many others. I cannot forget that debt and defect...
+@4603.6
+I pity the soldiers who died. I cannot possibly accept a fief from the {02}{0C}5 clan...
+@4603.7
+I have no ear for such nonsense. Take my head, quickly.
+@4603.8
+Hmph... The {02}{0C}5 clan must be sorely short of men. Sooner or later it is fated to fall.
+@4604
+{01}C{0C}{00}... Farewell... Farewell...
+@4604.1
+The future of the {02}{0C}5 clan rests on {01}C{0C}{00}'s command... Do not betray the hopes of this {01}C{02}{00}.
+@4604.2
+Then I shall go on ahead... {01}C{0C}{00}, come at your leisure. Do not rush to die...
+@4604.3
+Mm... Tell everyone that {02}{0B}3 held to his resolve to the very end.
+@4604.4
+If you spare a thought for the bitterness of this {01}C{02}{00}, make the {02}{0C}5 clan the greatest house in the realm.
+@4605
+I have a request... Take a lock of my black hair and deliver it to a certain person.
+@4606
+Fifty years of a man's life... set against the heavens below, they are but a dream...
+@4606.1
+Fallen like dew... vanished like dew, this body of mine...
+@4606.2
+He who destroys the Taira is a Taira. He who destroyed {02}{0B}3 was {02}{0B}3 himself...
+@4606.3
+He who thinks of a great cause clings to life until the moment his head is struck off...
+@4606.4
+It was a life without rest. Next time I would like to live as carefree as a sparrow...
+@4606.5
+The way of the warrior is found in dying...
+@4606.6
+The bell of Gion Shoja echoes the impermanence of all things. The hue of the sala flowers shows that the mighty must fall. The proud do not last, like a spring... a spring night's...
+@4606.7
+...Hm, I felt I had forgotten something. I never told them where to put away the tea utensils. Such famous pieces... how careless of me.
+@4606.8
+I thought this place looked familiar. It is just like where I played as a boy. Stone throwing, stilts, hide and seek... how I miss them.
+@4606.9
+Oh... what a beautiful sunset. Tomorrow will surely be fine... Ha, no use talking about tomorrow, is there?
+@4606.10
+Dear me... I have broken my promise of a hawking trip again. That fellow will be furious.
+@4606.11
+How long will this age of strife last? If I must be born, I wish I had been born in a time of peace...
+@4606.12
+I suppose I shall be forgotten sooner or later. Even the name {02}{0B}2 will not survive to later ages...
+@4606.13
+A strange bird flies across the western sky... How fine to be a bird, free in the wide heavens... on and on, ever farther...
+@4606.14
+Last night I dreamt a long-dead friend came to visit. I woke in the middle of our talk, but it seems we can finish it now.
+@4607
+My thanks, {01}C{0C}{00}... but you and I must settle things one day. Bear that in mind.
+@4607.1
+{01}C{0C}{00}... this is not like you. But since it is your kindness, I shall thank you honestly for now.
+@4607.2
+It seems I must go on with this struggle between kin...
+@4607.3
+{01}C{0C}{00} is soft too... Only in that does it seem you resemble this {02}{0B}3.
+@4607.4
+Before family feeling sways me, I shall leave this place at once. Farewell, {01}C{0C}{00}...
+@4608
+Were we not enemies, I feel Lady {02}{0C}3 and I could have opened our hearts to each other. How strange... Well, until we meet again...
+@4608.1
+Ah, what is this...? This feeling of being pulled back... How very strange.
+@4608.2
+Lord {02}{0C}3, I shall hold a grudge against you forever. I shall never forget.
+@4608.3
+Lord {02}{0C}3... Let me look once more upon that hateful face, that I may never forget it.
+@4609
+{02}{0C}2... I shall keep that name firmly in my heart. Now, farewell!
+@4609.1
+My thanks... By the way, would you return my horse? It is my favourite.
+@4609.2
+Oh, is that true...? Then I shall leave at once, before Lord {02}{0C}3 changes his mind... Farewell.
+@4609.3
+I was careless this time, but next it will not go so. I look forward to meeting on the battlefield.
+@4609.4
+To save my honour as a warrior I was prepared to die here... but I shall endure the shame of living a little longer.
+@4609.5
+Lord {02}{0C}3... that you saved this {02}{0B}3, may you not regret it later. Farewell!
+@4609.6
+To release this {02}{0B}3, Lord {02}{0C}3 is still soft... But I will thank you all the same.
+@4609.7
+You mean to release me...? I do not know if I have a place to return to, but I shall live on in this age of strife a while longer.
+@4609.8
+It seems I have escaped with my life. {02}{0C}2... perhaps you are a man of great stature.
+@4610
+{02}{0B}2 has been taken into the service of the {02}{0C}k!
+@4611
+{02}{0B}2 has met a violent end...
+@4612
+{02}{0B}2 has been set free.
+@4613
+{01}C{E5}{00}... It seems our house has too small a fief to take this one into service.
+@4614
+Gain the Tea skill
+@4620
+Gain the Poach skill
+@4622
+Gain the Siege skill
+@4623
+Leadership rises by %d
+@4624
+Gain the Volley skill
+@4625
+Cannon troops become available
+@4626
+Gain the Arrow Rain skill
+@4627
+Gain the Rapid Fire skill
+@4628
+Archer troops become available
+@4629
+Gain the Defence skill
+@4630
+Gain the Rally skill
+@4631
+Gain the Charge skill
+@4632
+Gain the Flee skill
+@4633
+Gain the Cultivation skill
+@4634
+Gain the Commerce skill
+@4635
+Gain the Repair skill
+@4636
+Gain the Training skill
+@4637
+Gain the Recruit skill
+@4638
+Gain the Diplomacy skill
+@4639
+Gain the Recovery skill
+@4640
+Gain the Swordsman skill
+@4641
+Gain the Capture skill
+@4642
+Gain the Spear Wall skill
+@4643
+Cavalry become available
+@4644
+Gunners become available
+@4645
+Politics rises by %d
+@4646
+Intellect rises by %d
+@4647
+Baggage troops become available
+@4648
+Gain the Trade skill
+@4650
+Gain the Restore Order skill
+@4651
+Gain the Confuse skill
+@4652
+Gain the Survey skill
+@4653
+Gain the Persuade skill
+@4654
+Ambition rises by %d
+@4658
+Gain the Flood Control skill
+@4660
+Gain the Service skill
+@4663
+Gain the Shadow skill
+@4664
+Gain the Iron Wall skill
+@4665
+Gain the War God skill
+@4666
+I hear that when you grant an officer a fief, the number of troops he can take to battle grows as well.
+@4666.1
+Cultivating land raises your yield and so your rice income, and granting it as a fief to an officer raises his troop numbers too.
+@4666.2
+I hear that if you appoint a kin officer of the daimyo house as Corps Commander, the daimyo can give that corps orders directly.
+@4666.3
+They say the higher a Corps Commander's abilities, the more officers can be set under him as magistrates.
+@4666.4
+I hear that befriending the gentry may win you their aid in battle, or specialty goods as tribute.
+@4666.5
+It seems that when the Imperial Court's authority grows, the same court title brings greater prestige.
+@4666.6
+I hear that if you deepen your friendship with the ninja bands, they will send ninja to scout enemy provinces for you.
+@4666.7
+Granting fiefs cuts your rice income by that much. Half your lands held directly and half given as fiefs is said to be about right...
+@4667
+Thanks to this year's good harvest we can eat better than usual. It is a blessing indeed...
+@4667.1
+Thanks to this year's good harvest we may just manage to feed the family. It is a blessing indeed...
+@4668
+What a terrible harvest this year... Little crop, but the tax is the same. We can't live on this...
+@4669
+The typhoon ruined a lot of the rice, but at least we shall have no trouble with water. Who knows how the harvest will turn out...
+@4670
+Ohh... The plague is spreading through the whole village. People keep dropping. Please, do something!
+@4671
+They say there was an earthquake, did you hear? Well, the ground shook a little, that is all. Nothing to worry about.
+@4672
+This is snow country, so snow is only natural. We are used to heavy snow.
+@4673
+I came to sell the village fruit today.
+@4673.1
+I came to sell vegetables in town today.
+@4674
+Around {02}{97}2 there is plenty of land fit for fields. Cultivate it and it will grow richer and richer.
+@4675
+The land around {02}{97}2 could serve well enough as fields if you cultivated it.
+@4676
+The soil around {02}{97}2 is poor. You'll never get good fields out of it.
+@4677
+I came to sell clams in town today.
+@4678
+They say the {02}{A1}2 are on good terms with the {02})2.
+@4679
+We merchants go anywhere there is profit to be made. We call first on the daimyo houses that support us eagerly.
+@4679.1
+Put effort into commerce and your gold income will grow. Everything needs gold, so you should keep commerce thriving.
+@4680
+Ah, {02}{0C}2! I am {02}{0B}2 of the {02}{0B}{83}. If you wish to buy or sell anything, please summon me to the castle.
+@4681
+This month I have brought {02}G2, and many other wares besides. Please summon me to the castle.
+@4682
+It is spring! The weather is warm and the days are easy.
+@4683
+Another hot summer... I hope the rain falls properly and the rice grows well.
+@4684
+Autumn, the season of harvest! I wonder how the crop turned out. If it is good, there will be a festival.
+@4685
+So quiet, and somehow sacred... I do love winter.
+@4686
+Now and then it does one good to leave the temple and look in on the town... Oh, I would never break the precepts.
+@4686.1
+Temples and shrines spread their teachings to win believers. Officers too may convert to a particular sect through such preaching.
+@4686.2
+An officer who follows a certain sect may side with the temples when that sect's uprising breaks out. Be careful.
+@4686.3
+Befriending all the powers takes a great deal of gold and rice. It is best to concentrate your aid on the powers whose help you need.
+@4687
+They say {02}[2 is on good terms with the {02})2. Could they be taking money from them?
+@4688
+Ah, {01}C{0B}{00}. Enemy shinobi may well be lurking about. Take care when you go out into the town below the castle.
+@4689
+There is no saying that enemy shinobi are not hiding in this castle town too. Finding them is my duty...
+@4690
+Around here I once met a ronin named {02}{0C}2. %s
+@4690.1
+Even if you go to battle, it is hard to win without supplies. When you attack another province, take a baggage train along.
+@4691
+Hooray, hooray! It's the lord!
+@4691.1
+Here I am, catch me! Follow the sound of clapping hands!
+@4691.2
+Kago-me, kago-me... When, oh when shall we meet...
+@4692
+Switch to the corps governing the castle shown
+@4693
+Switch to the province of the castle shown
+@4694
+Corps %s Commander {02}{0B}2
+@4695
+Direct: the daimyo can give orders directly
+@4696
+Develop: prioritises developing the province
+@4697
+Defend: prioritises defending the province
+@4698
+Conquer: prioritises taking enemy castles
+@4699
+Merchant visiting: you can trade
+@4700
+No merchant: you cannot trade
+@4701
+Imperial Court (relations: %s)
+@4702
+Gentry (relations: %s)
+@4703
+Ikko temples (relations: %s)
+@4704
+Old Buddhist temples (relations: %s)
+@4705
+Christian temples (relations: %s)
+@4706
+Free city (relations: %s)
+@4707
+Ninja bands (relations: %s)
+@4708
+Navies (relations: %s)
+@4709
+Heavy snow: movement in battle is hampered
+@4710
+Typhoon: yield is falling in the castles here
+@4711
+Poor harvest: rice harvest is below normal
+@4712
+Famine: there is no rice harvest at all
+@4713
+Good harvest: rice harvest is above normal
+@4714
+Epidemic: yield and commerce are falling in the castles here
+@4715
+Earthquake: commerce and defence are falling in the castles here
+@4716
+No imperial lands
+@4717
+Imperial lands not returned to the Court
+@4718
+Imperial lands returned to the Court
+@4719
+No mines
+@4720
+Gold income from gold mines
+@4721
+Gold income from silver mines
+@4722
+Flood control in force on the rivers here
+@4723
+Switch the castle shown
+@4724
+A daimyo house joined to us by marriage
+@4725
+The ruling daimyo house we serve
+@4726
+A vassal daimyo house that serves us
+@4727
+A squad that can sortie to battle
+@4728
+A squad being replenished
+@4729
+Reserve troops that cannot sortie for lack of arms
+@4730
+A squad that can be organised by raising fiefs
+@4731
+Serving as magistrate for {1B}CGCultivate{1B}CD
+@4732
+Serving as magistrate for {1B}CGCommerce{1B}CD
+@4733
+Serving as magistrate for {1B}CGRepair{1B}CD
+@4734
+Serving as magistrate for {1B}CGTraining{1B}CD
+@4735
+Serving as magistrate for {1B}CGGuard{1B}CD
+@4736
+Serving as magistrate for {1B}CGRecruit{1B}CD
+@4737
+Serving as magistrate for {1B}CGPoach{1B}CD
+@4738
+Serving as magistrate for {1B}CGUprising{1B}CD
+@4739
+{1B}CGSortie{1B}CD is planned
+@4740
+On a {1B}CGTraining Trip{1B}CD
+@4741
+Unit type: Pikes
+@4742
+Unit type: Archers
+@4743
+Unit type: Cavalry
+@4744
+Unit type: Gunners
+@4745
+Unit type: Cannon
+@4746
+Unit type: Baggage train
+@4747
+Show officer details
+@4748
+Congratulations! You have at last united the realm, {01}C{CA}{00} My lord, your command was truly magnificent.
+@4749
+Truly... Everyone has worked well. Let me thank you all once more.
+@4749.1
+Hm. This is thanks to your efforts. You have all supported me well until now.
+@4750
+Everything we fought for was for this day. Congratulations, truly, on uniting the realm...
+@4751
+Even those who fell before their aim was won may now rest in peace...
+@4752
+So that their deaths are not in vain, we must unite Japan so that war never rises again.
+@4752.1
+So that their deaths are not in vain, we must unite Japan so that war never rises again.
+@4753
+Yes... When I think of how long I have ridden the battlefield, {01}C{E7}{00} of it... so much has happened.
+@4753.1
+Yes... When I think of how long I have ridden the battlefield, {01}C{E7}{00} of it... so much has happened.
+@4754
+As {01}C{0A}{00} says, what matters now is government. We cannot afford to steer wrongly.
+@4754.1
+As {01}C{0A}{00} says, what matters now is government. We cannot afford to steer wrongly.
+@4755
+My lord, your daughter {02}{0C}3 has come to offer her congratulations.
+@4755.1
+My lord, your heir {02}{0C}3 has come to offer his congratulations.
+@4756
+{01}C{DE}{00} {02}{0C}3 has come? Show them in at once.
+@4757
+Congratulations on uniting the realm. {01}C{09}{00}, your name will be told for ages to come...
+@4758
+I, {02}{0B}3, will strive from now on so as not to stain your name.
+@4759
+Well said. Whether the {02}{0B}5 reign over the realm endures depends on your efforts. Strive hard.
+@4761
+My lord, {02}{0C}2 of the {02}{0C}{83} has come to offer congratulations.
+@4762
+Congratulations. We of the {02}{0B}{83} have grown to this strength with your support.
+@4763
+If our strength has been of any use to you on this long road, we are glad.
+@4764
+Of course. From now on put that strength to use for our {02}{0B}k and for the realm.
+@4765
+Such kind words. We of the {02}{0B}{83} promise our unchanged cooperation from this day on...
+@4766
+That we could unite the realm is thanks to the cooperation of the many gathered here.
+@4767
+And yet the country I have in mind is only just beginning to be built...
+@4768
+To raise Japan into a land that can stand against the Ming and the Nanban, I will need all of you more than ever.
+@4769
+From now on too, put your strength to use for our {02}{0B}k and for all the people of the realm.
+@4771
+Thus, by the hand of {02}{0B}2, a brief peace came to Japan.
+@4772
+How {02}{0B}3 went on to build the country, we can no longer know...
+@4773
+Only this is certain: {02}{0B}3 ended the long age of war, and all the people rejoiced from the heart in this peace...
+@4774
+{02}{0C}5 has at last united the realm...
+@4775
+My lord, you must take part in the celebrations as well.
+@4776
+Yes... Everything we fought for was in the hope that this day would come.
+@4777
+Now that the realm is at peace, I will gladly go and pay my respects to {02}{0C}3.
+@4778
+I believe that would be best.
+@4779
+{01}C{09}{00}! I cannot accept this!
+@4780
+At this rate our {02}{0B}k will be forced to bow its head to the {02}{0C}k for all generations!
+@4781
+The realm may be united, but the {02}{0C}k's rule has not reached every corner of it.
+@4782
+If we aim for the realm, do you not think this moment is the last chance?
+@4783
+Listen well, {02}{0C}3.
+@4784
+The war of over a hundred years has at last ended, hm...
+@4785
+Thinking of the people, it is best that this peace continues as it is...
+@4786
+But if the {02}{0C}k governs badly and discontent spreads among the daimyo and the people of the provinces...
+@4787
+Then we shall rise and set the government right.
+@4788
+If you bring war back to the realm for your own ambition, the next to fall will be our {02}{0B}k. Bear that in mind. Is that clear?
+@4788.1
+If you bring war back to the realm for your own ambition, the next to fall will be our {02}{0B}k. Bear that in mind. Is that clear?
+@4789
+What... You had thought it through that far? Then I shall say no more.
+@4789.1
+Hm... You had thought it through that far...? Then I shall say no more.
+@4790
+Good, if you understand. Now, let us make ready to depart.
+@4791
+My lord, {02}{0C}2 of {02}{0C}U has come to offer congratulations.
+@4792
+Congratulations on uniting the realm...
+@4793
+{02}{0C}3, you have come a long way...
+@4794
+Thus {02}{0B}2 met the day the realm was united still in vassalage to the {02}{0C}k...
+@4795
+Whether {02}{0B}3 remained loyal to the {02}{0C}k to the end or raised the banner of revolt, we can no longer know...
+@4796
+{02}{0B}2 died without an heir. The dream of uniting the realm that {02}{0B}3 cherished was never fulfilled...
+@4797
+In the fierce struggles of the warring age, the {02}{0B}5 clan was destroyed, and never again appeared on the stage of history...
+@4801
+{1B}FL{1B}BB{1B}CKVictory Conditions{1B}CD{1B}BD{1B}FE
+@4802
+Bring all 135 castles in the land under your house and unite the realm to win. Castles held by other houses can be taken by winning battles.
+@4803
+You need not destroy every house in battle. Threaten a house into serving yours and you can still unite the realm. You may also submit to a strong house and aim for the realm under it.
+@4804
+{1B}FL{1B}BB{1B}CKThe Stage of War{1B}CD{1B}BD{1B}FE
+@4805
+Japan is divided into 54 provinces, such as Owari, Kai and Omi. Each province holds several castles, ruled by the daimyo houses. Besides castles, there are bases of other powers, such as the gentry and the temples and shrines.
+@4806
+A daimyo house consists of the daimyo, its head, and his officers. Each is based at some castle. If a house is left with no castle to base itself at, it is destroyed.
+@4807
+{1B}FL{1B}BB{1B}CKStrategy by Corps{1B}CD{1B}BD{1B}FE
+@4808
+As your domain grows, a daimyo alone can hardly handle the strategy of every province. When that happens, split off some of your retainers and create a new corps.
+@4809
+As Oda Nobunaga once did, choose a Corps Commander from among your retainers and give him a policy, and you can leave all of the strategy to him.
+@4810
+However, the Corps Commander's abilities decide the corps' strategy, so you must choose a capable officer.
+@4811
+A new corps' strategy depends on its commander's Politics, Leadership and Intellect. If they are low, fewer officers can be appointed magistrate. For a daimyo to take his ease, he needs excellent retainers.
+@4812
+{1B}FL{1B}BB{1B}CKWorking with the Powers{1B}CD{1B}BD{1B}FE
+@4813
+In this world, powers other than the daimyo houses hold great strength: the ninja bands, the navies, the gentry, the temples and shrines. Without their cooperation, uniting the realm is impossible.
+@4814
+Build friendship with the powers and they will help in many situations. If you are hostile with them, not only will they not help, they may become a great obstacle to your strategy.
+@4815
+{1B}FL{1B}BB{1B}CKNinja and Navies{1B}CD{1B}BD{1B}FE
+@4816
+Among the powers, the ninja bands and navies are especially important. With their superior skills, they do work that ordinary officers cannot.
+@4817
+Keep good relations with a ninja band and it will send you ninja. Dispatched ninja are a means of gathering information on other provinces, and by their skill they can even plot against enemy houses.
+@4818
+The navies are essential for crossing the sea. They fight other navies day and night to widen the waters they rule. Take care that the navy that serves you is not destroyed.
+@4819
+{1B}FL{1B}BB{1B}CKSecuring Wealth and Troops{1B}CD{1B}BD{1B}FE
+@4820
+The basis of strategy is to build up your wealth and troops while watching the powers. Wealth means gold and rice; troops means the number of squads each officer can field in battle.
+@4821
+To build up wealth, appoint magistrates of development and raise the commerce and yield of your provinces. Once you pick an officer as magistrate, he carries out his duty every month.
+@4822
+To build up troops, raise your retainers' fiefs. The number of squads an officer leads in battle is decided by the size of his fief.
+@4823
+Retainers' fiefs are cut from the yield of the provinces the daimyo rules. So yield affects not only your rice income but also the growth of your forces.
+@4824
+{1B}FL{1B}BB{1B}CKNo Fixed Path in Strategy{1B}CD{1B}BD{1B}FE
+@4825
+That was a brief introduction to the game, but once you begin you may not know what to do first. Should you build up wealth first? Or go straight to battle?
+@4826
+When the game begins, your retainers will propose what to do. Following their opinions is sure to serve you well. But the final decision is yours. Follow the path you believe in!
+@4829
+1582 Oda
+@4830
+1st Corps  Oda Nobunaga
+@4831
+2nd Corps  Oda Nobutada
+@4832
+3rd Corps  Shibata Katsuie
+@4833
+4th Corps  Akechi Mitsuhide
+@4834
+5th Corps  Hashiba Hideyoshi
+@4835
+Gentry
+@4836
+Temples
+@4837
+Ninja
+@4838
+Merchants
+@4839
+Navies
+@4840
+Shogunate
+@4841
+Court
+@4845
+To survive this age of war, we must win many more battles. For now, I believe we should increase our troops for the coming battles.
+@4846
+For anything we do, gold comes first. I believe we should develop the towns of {02}y2 and store up gold.
+@4847
+Our troops are strong, but to make the name of the {02}{0C}k known across the realm, I believe we should first train {01}C{0B}{00}'s troops. What say you?
+@4848
+If we hire ninja and scout the enemy, we can attack without missing our chance. Why not aid the ninja bands and deepen our friendship with them?
+@4849
+To widen our domain from here, winning over the gentry is the key. I believe we should aid the gentry and bring them to our side.
+@4850
+No stratagem is sufficient without knowing the enemy in full. I believe we should send ninja into other provinces to scout.
+@4851
+It is now time to advance our military plans on many fronts at once. If we create a new corps, we can respond to everything swiftly.
+@4852
+It would be a grave matter to falter just when we march out. I believe we should confirm our arrangements now.
+@4853
+To scout the provinces or carry out various schemes, we must ask the ninja bands to dispatch ninja.
+@4855
+[{1B}CRPersonnel{1B}CD] <{1B}CRRaise{1B}CD>: max squads\nof {02}y2 to %d (now %d)
+@4856
+[{1B}CRMagistrate{1B}CD] <{1B}CRCommerce{1B}CD>: commerce\nof {02}y2 to %d (now %d)
+@4857
+The previous daimyo's death ends\nthe Raise Training goal
+@4858
+[{1B}CRMagistrate{1B}CD] <{1B}CRTrain{1B}CD>: troop training\nof {02}{0B}2 to %d (now %d)
+@4859
+[{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>:\ntry to aid the ninja bands
+@4860
+[{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>:\ntry to aid the gentry
+@4861
+[{1B}CRNinja{1B}CD] <{1B}CRInfiltrate{1B}CD>:\nsend ninja into other provinces
+@4862
+[{1B}CRCorps{1B}CD] <{1B}CRCreate{1B}CD>:\nincrease the number of corps
+@4863
+[{1B}CRBattle{1B}CD] <{1B}CRSortie{1B}CD>:\nrehearse a sortie
+@4864
+[{1B}CRNinja{1B}CD] <{1B}CRDispatch{1B}CD>:\nask a ninja band to send ninja
+@4870
+What you say is quite right. I shall work to strengthen our troops.
+@4871
+What you say is quite right. I shall put effort into developing the commerce of {02}y2.
+@4872
+What you say is quite right. I shall put effort into training the troops.
+@4873
+What you say is quite right. I shall put effort into aiding the ninja bands.
+@4874
+What you say is quite right. I shall put effort into aiding the gentry.
+@4875
+What you say is quite right. I shall send ninja to learn the enemy's inner workings.
+@4876
+What you say is quite right. I shall create a new corps.
+@4877
+As you advise, I shall confirm the arrangements for the sortie.
+@4878
+As you advise, I shall ask the ninja bands to send ninja.
+@4879
+End the council? Your retainers will make no more proposals afterwards. Is that all right?
+@4880
+My military plans for the realm have taken shape in my mind. From now on I shall follow my own judgement. I expect much of you all.
+@4881
+My military plans for the realm have taken shape in my mind. From now on I shall follow my own judgement. I expect much of you all.
+@4883
+1. Use [{1B}CRPersonnel{1B}CD] <{1B}CRRaise{1B}CD> to grant a fief\n   to any retainer\n   (a fief raises the number of squads\n   the officer can hold)\n\n* If your rice yield is not enough,\n   raise it with [{1B}CRMagistrate{1B}CD] <{1B}CRCultivate{1B}CD>
+@4884
+1. Under [{1B}CRMagistrate{1B}CD], choose the officer to be\n   magistrate for <{1B}CRCommerce{1B}CD>\n2. Commerce rises monthly, so wait\n   until it reaches the goal\n\n* If the officer is not in the goal province,\n   send him there with [{1B}CRPersonnel{1B}CD] <{1B}CRMove{1B}CD>
+@4885
+1. Under [{1B}CRMagistrate{1B}CD], choose the officer to be\n   magistrate for <{1B}CRTrain{1B}CD>\n2. Training rises monthly, so wait\n   until it reaches the goal\n* Whoever trains, all your officers in the\n   province gain training, but here please\n   choose the officer named above
+@4886
+1. Use [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD> to send an envoy\n   to the ninja band\n2. Offer "Aid" to improve relations
+@4887
+1. Use [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD> to send an envoy\n   to the gentry\n2. Offer "Aid" to improve relations
+@4888
+1. Use [{1B}CRNinja{1B}CD] to send ninja into other\n   houses and gather information\n\n* If you have no ninja, borrow some from\n   a ninja band with [{1B}CRNinja{1B}CD] <{1B}CRDispatch{1B}CD>\n   (if you already have ninja,\n   <{1B}CRDispatch{1B}CD> is not needed)
+@4889
+1. Use [{1B}CRPersonnel{1B}CD] <{1B}CRMove{1B}CD> to send the officers\n   for the new corps to the province\n   it will govern\n2. Carry out [{1B}CRCorps{1B}CD] <{1B}CRCreate{1B}CD>\n\n* If you lack gold, save up the 500 gold\n   needed to create a corps
+@4890
+1. In [{1B}CRBattle{1B}CD] <{1B}CROrganise{1B}CD>, check each\n   commander's unit type and change it\n   if needed\n2. Choose [{1B}CRBattle{1B}CD] <{1B}CRSortie{1B}CD>\n3. Carry the sortie through\n   (it is a drill: no one actually sorties)
+@4891
+1. Use [{1B}CRNinja{1B}CD] <{1B}CRDispatch{1B}CD> to borrow ninja\n   from a ninja band\n\n* If no ninja band is on good terms with you,\n   improve relations with [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>
+@4892
+Yield is the harvest of rice (provisions). The higher the yield, the more rice is paid in during the 8th month.\n\nTo raise yield, choose an officer under [{1B}CRMagistrates{1B}CD] for <{1B}CRCultivate{1B}CD>. An officer with high {1B}CBPolitics{1B}CD or the "{1B}CBCultivation{1B}CD" skill works most efficiently.\n\nOnce you choose an officer, [{1B}CRMagistrates{1B}CD] orders are carried out every month.
+@4893
+The number of squads an officer leads in battle depends on the size of his fief.\nSo to raise your squads, grant fiefs to retainers with <{1B}CRRaise{1B}CD>.\nA fief is land granted by the daimyo, taken from the house's yield...\nWithout yield to give, you cannot raise a fief either.\nIn short, to raise squads, first <{1B}CRCultivate{1B}CD> to raise yield, then grant fiefs to retainers with <{1B}CRRaise{1B}CD>.
+@4894
+Commerce is how developed a town is. The higher the commerce, the more gold is paid in each month.\n\nTo raise commerce, choose an officer under [{1B}CRMagistrates{1B}CD] for <{1B}CRCommerce{1B}CD>. An officer with high {1B}CBPolitics{1B}CD or the "{1B}CBCommerce{1B}CD" skill works efficiently.\n\nOnce you choose an officer, [{1B}CRMagistrates{1B}CD] orders are carried out every month.
+@4895
+A unit's strength depends not only on its commander's abilities but greatly on the unit's own training. The higher the training, the better in battle.\nTo raise training, choose an officer under [{1B}CRMagistrates{1B}CD] for <{1B}CRTrain{1B}CD>. An officer with high {1B}CBLeadership{1B}CD or the "{1B}CBTraining{1B}CD" skill works efficiently.\n\nOnce you choose an officer, [{1B}CRMagistrates{1B}CD] orders are carried out every month.
+@4896
+To borrow ninja, you must first be on good terms with a ninja band.\nFor that, aid them through [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>.\n<{1B}CRNegotiate{1B}CD> again with a friendly band and you can ask it to plot against enemy houses or publicise your own.\n\nIf relations are bad and the band sees you as an enemy, it may plot against you. Even if you need no ninja, it never hurts to give aid.
+@4897
+To improve relations with the gentry, give aid through [{1B}CRPowers{1B}CD] <{1B}CRNegotiate{1B}CD>.\nOn good terms, they will fight on your side in battle and give various forms of cooperation.\n\nIf relations are bad and the gentry see you as an enemy, they may side against you in battle, and may even raise an uprising.\nWhen an uprising occurs, you receive no income and suffer heavy losses.
+@4898
+Once ninja are <{1B}CRDispatched{1B}CD> from a ninja band, you can carry out <{1B}CRInfiltrate{1B}CD>.\nWith <{1B}CRInfiltrate{1B}CD>, ninja sent into another province bring you information on other houses.\n\nWhat you learn depends on the length of the infiltration. Things like stored rice and total yield cannot be learned without a long stay.\n\nNote that ninja go home when their dispatch period ends.
+@4899
+A corps has a limit on the officers it can appoint as magistrates. When your domain grows, you must <{1B}CRCreate{1B}CD> a new corps.\nThe strategic ability of a corps made by <{1B}CRCreate{1B}CD> and magistrate limit depend on its commander's {1B}CBPolitics, Leadership and Intellect{1B}CD.\nCreating one corps costs 500 gold. The 2nd corps also needs 200 prestige, and the 3rd onwards 100 each.\nPrestige rises by winning battles or forming a <{1B}CRMarriage{1B}CD> with another house.
+@4900
+To win the age of war, you must give the order to sortie swiftly when the chance comes. What matters is to keep the best mix of unit types at all times.\nSortieing with nothing but baggage trains is as good as going to lose.\nCheck and change unit types with <{1B}CROrganise{1B}CD>. Always check when retainers increase.\nAlso, you can <{1B}CRSortie{1B}CD> from only one province. If the officers you want in the battle are scattered across provinces, <{1B}CRMove{1B}CD> them first.
+@4901
+To learn about other houses, you can have ninja <{1B}CRInfiltrate{1B}CD>, but you cannot without ninja.\nBorrow ninja from a ninja band with [{1B}CRNinja{1B}CD] <{1B}CRDispatch{1B}CD>.\n\nHowever, each ninja band has a range of activity. You cannot ask for <{1B}CRDispatch{1B}CD> from a band whose range does not include your provinces.\nThey may also refuse when relations are bad, so it is vital to improve relations with <{1B}CRNegotiate{1B}CD> beforehand.
+@4902
+Then let us brace ourselves and hear a new plan.
+@4903
+Well then, let us brace ourselves and start afresh.
+@4904
+{01}C{0B}{00}, the deadline for your goal is next month. Please check your goal once more.
+@4905
+All the goals proposed by your retainers are complete!
+@4906
+The martial fame of our {02}{0B}k now rings across the realm. This is thanks to your counsel.
+@4907
+I am honoured beyond words. There is nothing left that I can advise you...
+@4908
+My military plans for the realm are already fixed in my mind. To fulfil this great aim, I shall need your strength still.
+@4909
+{01}C{DB}{00} I shall follow you to the very end.
+@4910
+The domestic council ends here...
+@4913
+To lay the foundation of our {02}{0B}k's prosperity, do you have any good plan?
+@4914
+In that case, until you have made up your mind, {01}C{0B}{00}, would you open a council and let us retainers offer our counsel?
+@4915
+Oh... a fine idea. Then let us hold a council at once. Call the others as well.
+@4916
+Oh... a fine idea. I shall look forward to your counsel.
+@4918
+In the council, your retainers propose your next goal. When you complete the goal, the next council is held.
+@4919
+Once you set a goal, you can see the steps to achieve it and a detailed explanation.
+@4920
+To check your current goal during the game, click the [?] button on the castle town screen and then click [Check Goal].
+@4921
+If you choose [No more councils are needed] when setting a goal, no more councils will be held from then on.
+@4923
+The council will begin next month.
+@4924
+Give up on continuing your goal and abandon it? Is that all right?
+@4928
+You have achieved the Raise Yield goal for {02}y2!
+@4929
+{01}C{0B}{00}, the soil of {02}y2 has grown rich and its fields prosper.
+@4930
+{01}C{E4}{00} Yield is the foundation of the country. I look forward to the harvest.
+@4931
+All the land in {02}y2 has been tilled and can be cultivated no more. You failed to achieve the Raise Yield goal for {02}y2.
+@4932
+There is no land left in {02}y2... How galling that we let other houses take the land from under us.
+@4933
+There is no use in regret. Better to think of what to do next.
+@4934
+The deadline for the Raise Yield goal for {02}y2 has passed.
+@4935
+Month %d, the month I aimed for, has come... How careless of me.
+@4937
+Retainer {02}{0C}2 has come to {02}{97}2 to lecture {02}{0B}2 on governance.
+@4938
+{01}C{0B}{00}, today I would ask you to indulge me in a little talk.
+@4939
+If it is you who speaks, it must be something of benefit.
+@4940
+It concerns how to increase the nation's yield.
+@4941
+Shall I explain the method for Raise Yield once more?
+@4942
+Yield is the foundation of a rich country. Carrying out <Cultivate> is indispensable.
+@4943
+{01}C{E4}{00} I understand. I shall make use of it in governing. You have done well; you may withdraw.
+@4944
+Yes, my lord!
+@4945
+You have achieved the Raise Troops goal!
+@4946
+{01}C{0B}{00}, our troops have grown, and I look forward to battle.
+@4947
+{01}C{E4}{00} I look forward to the next battle.
+@4947.1
+{01}C{E4}{00} Be prepared; fear nothing.
+@4948
+The deadline for the Raise Troops goal has passed.
+@4954
+On how to build up your troops.
+@4955
+Shall I explain the method for Raise Troops once more?
+@4956
+Troops are the basis of war. It is essential to raise yield with <Cultivate> and then raise fiefs.
+@4959
+You have achieved the Raise Commerce goal for {02}y2!
+@4960
+{01}C{0B}{00}, trade in {02}y2 has grown much livelier.
+@4961
+{01}C{E4}{00} A rich country is best for the people as well as for us.
+@4962
+The deadline for the Raise Commerce goal for {02}y2 has passed.
+@4968
+On how to develop the nation's commerce.
+@4969
+Shall I explain the method for Raise Commerce once more?
+@4970
+To gain ample funds, commerce must be made to thrive. Carrying out <Commerce> is indispensable.
+@4973
+You have achieved the Raise Training goal!
+@4974
+{01}C{0B}{00}, our troops have been drilled and are now reassuring.
+@4974.1
+{01}C{0B}{00}, I would very much like the fruits of this training shown on the battlefield.
+@4975
+{01}C{E4}{00} With troops this well drilled, I shall crush them.
+@4975.1
+{01}C{E4}{00} Now we shall win battle after battle.
+@4976
+As the previous daimyo has died, the Raise Training goal can no longer be achieved.
+@4977
+What a loss of a valuable man... From here on, I alone will not be enough to protect myself...
+@4978
+War may come at any moment, so training is never wasted. It is no concern of others for you either, {01}C{0B}{00}.
+@4979
+The deadline for the Raise Training goal has passed.
+@4985
+On how to drill and train troops.
+@4986
+Shall I explain the method for Raise Training once more?
+@4987
+Troops are the basis of war. Do not forget to train them with <Train> and prepare for battle.
+@4990
+You have achieved the Aid Ninja goal!
+@4991
+{01}C{0B}{00}, if relations with the ninja bands are good, they will send ninja at once.
+@4992
+{01}C{E4}{00} It had better be so; otherwise the aid was wasted. Once we borrow ninja, I expect them to show their full strength.
+@4994
+Still, it is a pity that the aid to the ninja bands came to nothing.
+@4995
+Not everything is waste. Aid them again another time and you will surely succeed. Please do not lose heart.
+@4996
+The deadline for the Aid Ninja goal has passed.

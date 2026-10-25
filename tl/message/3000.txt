@@ -1,0 +1,1764 @@
+@3000
+Choose the officer to reward
+@3001
+Choose the gold and rice to give the officer
+@3002
+Give the reward. Is that all right?
+@3003
+my father
+@3003.1
+my mother
+@3003.2
+my elder brother
+@3003.3
+my elder sister
+@3003.4
+my younger brother
+@3003.5
+my younger sister
+@3003.6
+my wife
+@3003.7
+my husband
+@3003.8
+{02}{0D}3 of my kin
+@3003.9
+Lord {02}{0D}3 of my kin
+@3004
+our lord's father
+@3004.1
+our lord's mother
+@3004.2
+our lord's elder brother
+@3004.3
+our lord's elder sister
+@3004.4
+our lord's younger brother
+@3004.5
+our lord's younger sister
+@3004.6
+Lord {02}{0D}3 of our lord's kin
+@3004.7
+Lord {02}{0D}3 of our lord's kin
+@3005
+your father
+@3005.1
+your mother
+@3005.4
+your younger brother
+@3005.5
+your younger sister
+@3005.6
+{02}{0D}3 of your kin
+@3005.7
+Lord {02}{0D}3 of your kin
+@3005.37
+my younger sister
+@3006
+Hmm
+@3007
+
+@3007.1
+
+@3009
+
+
+@3010
+
+@3010.1
+
+@3012
+
+@3012.1
+
+@3013
+It seems all the wasteland around {02}{97}2 has now been cultivated.
+@3013.1
+It seems it would be hard to cultivate any more land around this castle.
+@3014
+{01}C{0B}{00}, all the land around {02}{97}2 has been cultivated.
+@3014.1
+{01}C{D6}{00}, {01}C{0B}{00}, every scrap of land around this castle is under the plough now!
+@3014.2
+{01}C{0B}{00}, it seems it would be hard to cultivate any more land around this castle.
+@3015
+{01}C{0B}{00}, all the land around {02}{97}2 has been cultivated.
+@3015.1
+{01}C{D6}{00}, {01}C{0B}{00}, every scrap of land around this castle is under the plough now!
+@3015.2
+{01}C{0B}{00}, it seems it would be hard to cultivate any more land around this castle.
+@3017
+It seems all the land in {02}y2 has now been tilled.
+@3017.1
+It seems there is no wasteland left in {02}y2.
+@3018
+{01}C{0B}{00}, all the land in {02}y2 has been tilled.
+@3018.1
+{01}C{0B}{00}, there is no wasteland left in {02}y2.
+@3018.2
+{01}C{D6}{00}, every scrap of {02}y2 is under the plough now!
+@3019
+{01}C{0B}{00}, all the land in {02}y2 has been tilled.
+@3019.1
+{01}C{0B}{00}, there is no wasteland left in {02}y2.
+@3019.2
+{01}C{D6}{00}, every scrap of {02}y2 is under the plough now!
+@3021
+It seems the yield of {02}{97}2 has reached its limit. I will end the cultivation work.
+@3021.1
+{01}C{0B}{00}, the yield of {02}{97}2 has reached its limit. I will end the cultivation work.
+@3022
+There is no land left to till in {02}y2. I will end the cultivation work.
+@3022.1
+There is no land left to till in {02}y2. I will end the cultivation work.
+@3023
+{01}C{DD}{00}, it seems there is not enough gold to cultivate {02}y2.
+@3024
+{01}C{0B}{00}, there is not enough gold to cultivate {02}y2.
+@3027
+It seems there is no land left to till around {02}{97}2.
+@3028
+{01}C{0B}{00}, there is no land left to cultivate around {02}{97}2.
+@3029
+{01}C{0B}{00}, there is no land left to cultivate around {02}{97}2.
+@3031
+There is no land left to till in {02}y2. No more can be cultivated.
+@3032
+{01}C{0B}{00}, there is no land left to till in {02}y2.
+@3033
+{01}C{0B}{00}, there is no land left to till in {02}y2.
+@3035
+Widening the fields and manuring the fallow land should bring good results.
+@3035.1
+Let us widen the fields of {02}y2 and open new paddies.
+@3036
+Opening new fields is my speciality. Leave the development of {02}y2 to me.
+@3036.1
+{01}C{D6}{00}, I will clear the wasteland of {02}y2 and turn it into fine fields.
+@3037
+{01}C{DB}{00} Opening new fields is my speciality. Leave the development of {02}y2 to me.
+@3037.1
+{01}C{DB}{00} I will carry out cultivation in {02}y2.
+@3037.2
+{01}C{DB}{00} I will clear the wasteland of {02}y2 and turn it into fine fields.
+@3039
+It seems the development of the castle town of {02}y2 is all finished.
+@3039.1
+It seems the development of the castle town of {02}y2 is all complete.
+@3040
+{01}C{0B}{00}, the development of the castle town of {02}y2 is all complete.
+@3040.1
+{01}C{0B}{00}, the castle town has grown as far as anyone could wish!
+@3041
+{01}C{0B}{00}, the development of the castle town of {02}y2 is all complete.
+@3041.1
+{01}C{0B}{00}, the castle town has grown as far as anyone could wish!
+@3043
+It seems the commerce of every castle in {02}y2 has reached its limit. I will end the commerce work.
+@3043.1
+{01}C{0B}{00}, the commerce of every castle in {02}y2 has reached its limit. I will end the commerce work.
+@3044
+It seems there is not enough gold. The castle town of {02}y2 cannot be developed like this.
+@3045
+{01}C{0B}{00}, there is not enough gold, so the castle town of {02}y2 cannot be developed.
+@3046
+{01}C{0B}{00}, there is not enough gold, so the castle town of {02}y2 cannot be developed.
+@3048
+The castle town of {02}y2 seems busy enough already. Any further investment would be wasted.
+@3049
+{01}C{0B}{00}, the castle town of {02}y2 is busy enough already. No further investment is possible.
+@3049.1
+It would be hard to build the castle town up any further...
+@3050
+{01}C{0B}{00}, the castle town of {02}y2 is busy enough already. No further investment is possible.
+@3050.1
+It would be hard to build the castle town up any further, I fear...
+@3052
+Developing the castle town and aiding the merchants should bring great results.
+@3052.1
+Shall I widen the castle town of {02}y2 and build a great market?
+@3053
+Leave it to me. Replanning the castle town and aiding the merchants, I will achieve great things.
+@3053.1
+It seems the time has come to put my knowledge to use. {01}C{D6}{00}, I can almost see the castle town growing.
+@3053.2
+Understood. I will bring merchants to the castle town of {02}y2 and have them trade.
+@3053.3
+Understood. I will widen the castle town of {02}y2 and get commerce thriving.
+@3053.4
+Understood. I will protect the merchants so that commerce thrives.
+@3054
+{01}C{DB}{00} Leave it to me. Replanning the castle town and aiding the merchants, I will achieve great things.
+@3054.1
+It seems the time has come to put my knowledge to use. {01}C{D6}{00}, I can almost see the castle town growing.
+@3054.2
+{01}C{DB}{00} I will bring merchants to the castle town of {02}y2 and have them trade.
+@3054.3
+{01}C{DB}{00} I will widen the castle town of {02}y2 and get commerce thriving.
+@3054.4
+{01}C{DB}{00} I will protect the merchants so that commerce thrives.
+@3056
+It seems the repairs to every castle in {02}y2 are finished.
+@3056.1
+It seems every castle in {02}y2 has been fully repaired.
+@3057
+{01}C{0B}{00}, every castle in {02}y2 has been fully repaired.
+@3057.1
+At last every castle has been repaired. The defences of {02}y2 are now complete.
+@3057.2
+{01}C{0B}{00}, the repairs to every castle are finished. It seems this is the limit of our house's castle-building skill.
+@3058
+{01}C{0B}{00}, every castle in {02}y2 has been fully repaired.
+@3058.1
+At last every castle has been repaired. The defences of {02}y2 are now complete.
+@3058.2
+{01}C{0B}{00}, the repairs to every castle are finished. It seems this is the limit of our house's castle-building skill.
+@3060
+It seems the defence of every castle in {02}y2 has reached its limit. I will end the repair work.
+@3060.1
+{01}C{0B}{00}, the defence of every castle in {02}y2 has reached its limit. I will end the repair work.
+@3061
+It seems the gold has run out... The repair work in {02}y2 cannot go on like this.
+@3062
+{01}C{0B}{00}, there is not enough gold, so the repair work in {02}y2 cannot be done.
+@3063
+{01}C{0B}{00}, there is not enough gold, so the repair work in {02}y2 cannot be done.
+@3007.*
+
+@3010.*
+
+@3012.*
+
+@3065
+It seems the castles of {02}y2 cannot be repaired any further.
+@3065.1
+It seems that with our house's castle-building skill, the castles of {02}y2 cannot be made any stronger.
+@3066
+{01}C{0B}{00}, the castles of {02}y2 are fully repaired. No more can be done.
+@3066.1
+{01}C{0B}{00}, I regret to say that with our house's castle-building skill, the castles of {02}y2 cannot be made any stronger.
+@3067
+{01}C{0B}{00}, the castles of {02}y2 are fully repaired. No more can be done.
+@3067.1
+{01}C{0B}{00}, I regret to say that with our house's castle-building skill, the castles of {02}y2 cannot be made any stronger.
+@3069
+For these repairs I shall try a new technique... It is sure to make the castle stronger still.
+@3069.1
+I shall repair the castles of {02}y2 and firm up their defences.
+@3070
+Understood, leave it to me. Castle repairs are what I do best. I will make a splendid job of it.
+@3070.1
+Understood. I shall repair the castles and firm up the defences of {02}y2.
+@3070.2
+Understood. I will put the castles' defences in order against the enemy.
+@3071
+{01}C{DB}{00} Leave it to me. Castle repairs are what I do best. I will make a splendid job of it.
+@3071.1
+{01}C{DB}{00} I shall repair the castles and firm up the defences of {02}y2.
+@3071.2
+{01}C{DB}{00} I will put the castles' defences in order against the enemy.
+@3073
+After hard training, it seems every one of the men has become an elite soldier.
+@3074
+{01}C{0B}{00}, the training of the troops is finished.
+@3074.1
+{01}C{0B}{00}, the troops of {02}{0B}U have trained thoroughly and are now an elite force.
+@3075
+{01}C{0B}{00}, the training of the troops is finished.
+@3075.1
+{01}C{0B}{00}, the troops of {02}{0B}U have trained thoroughly and are now an elite force.
+@3077
+It seems the training of the troops of {02}{0B}U is at its highest. I shall end the training work.
+@3077.1
+{01}C{0B}{00}, the training of the troops of {02}{0B}U is at its highest. I shall end the training work.
+@3078
+The troops of {02}{0B}U are thoroughly trained. No further training is needed.
+@3079
+The troops of {02}{0B}U are thoroughly trained. No further training is needed.
+@3080
+The troops of {02}{0B}U are thoroughly trained. No further training is needed.
+@3082
+There are no troops in {02}{0B}U, so no training can be done.
+@3083
+There are no troops in {02}{0B}U, so no training can be done.
+@3084
+There are no troops in {02}{0B}U, so no training can be done.
+@3086
+{01}C{DD}{00}, it seems we are short of gold and cannot continue training in {02}y2.
+@3087
+{01}C{0B}{00}, we are short of gold and cannot continue training in {02}y2.
+@3090
+{01}C{D6}{00}, with me drilling them, the troops will be an elite force in no time.
+@3090.1
+Even with me leading them, raw troops cannot win a battle. I had better train them thoroughly.
+@3091
+Leave the training of the troops to me. I will draw on my experience and make an elite force of them.
+@3091.1
+Understood. I shall train the troops and toughen them up.
+@3091.2
+However fine the general, raw troops cannot win a battle. I shall train them hard.
+@3092
+Leave the training of the troops to me. I will draw on my experience and make an elite force of them.
+@3092.1
+{01}C{DB}{00} I shall train the troops and toughen them up.
+@3092.2
+However fine the general, raw troops cannot win a battle. I shall train them hard.
+@3094
+I shall keep a strict watch so no suspicious persons slip in. Any spy I find will meet my blade.
+@3094.1
+I shall make the rounds myself and keep watch.
+@3095
+{01}C{D6}{00}, leave it to me. With me on watch, not one suspicious person will get away.
+@3095.1
+Understood. I shall keep a strict watch so no suspicious persons slip in.
+@3095.2
+Understood. I shall keep a strict watch so no enemy spies slip in.
+@3096
+{01}C{DB}{00} Leave it to me. With me making the rounds, not one suspicious person will get away.
+@3096.1
+{01}C{DB}{00} I shall keep a strict watch so no suspicious persons slip in.
+@3096.2
+{01}C{DB}{00} I shall keep a strict watch so no enemy spies slip in.
+@3098
+
+
+@3099
+If I search myself, I am sure to find a man of talent.
+@3099.1
+I shall search {02}y2 and seek out a man of talent.
+@3100
+{01}C{D6}{00}, leave it to me. I will find a man of talent without fail.
+@3100.1
+Understood. I shall search {02}y2 and seek out a man of talent.
+@3100.2
+Understood. I shall find a man of talent among the ronin here in {02}y2.
+@3101
+{01}C{DB}{00} Leave it to me. I will find a man of talent without fail.
+@3101.1
+{01}C{DB}{00} I shall search {02}y2 and seek out a man of talent.
+@3101.2
+{01}C{DB}{00} I shall find a man of talent among the ronin here in {02}y2.
+@3103
+For me, winning over {02}{0D}2 will be an easy matter.
+@3103.1
+If it is {02}{0D}2, it is worth a try.
+@3104
+{01}C{D6}{00}, leave it to me. In my hands, {02}{0D}2 will be talked round in no time.
+@3104.1
+Understood. I will win over {02}{0D}2 without fail.
+@3104.2
+Understood. Leave the winning over of {02}{0D}2 to me.
+@3105
+{01}C{DB}{00} Leave it to me. In my hands, {02}{0D}2 is sure to fall easily.
+@3105.1
+{01}C{DB}{00} I will win over {02}{0D}2 without fail.
+@3105.2
+{01}C{DB}{00} Leave the winning over of {02}{0D}2 to me.
+@3107
+{01}C{D6}{00}, I can just picture the {02})2 running about in a panic.
+@3107.1
+This plan looks promising... I shall give the {02})2 a nasty surprise.
+@3108
+Understood. I will make this plan succeed without fail.
+@3108.1
+{01}C{D6}{00}, a fine idea. I can just picture the {02})2 running about in a panic.
+@3109
+{01}C{DB}{00} I shall raise an uprising against the {02})2 in {02}y2 without fail.
+@3109.1
+{01}C{D6}{00}, I can just picture the {02})2 running about in a panic.
+@3111
+It seems we are short of fiefs... Even if I find a man of talent, I cannot recruit him...
+@3112
+We lack the fiefs to take ronin into service. No one can be recruited like this.
+@3113
+We lack the fiefs to take ronin into service. No one can be recruited like this.
+@3115
+I hear much talk of a ronin called {02}{0D}2. I wonder what sort of man he is. It may be worth a meeting...
+@3116
+{01}C{0B}{00}, I have found a promising ronin called {02}{0D}2. Shall I invite him to enter your service?
+@3116.1
+{01}C{0B}{00}, the ronin {02}{0D}2 seems to be quite a man. Shall I invite him to enter your service?
+@3116.2
+I hear much talk of a ronin called {02}{0D}2. I thought I might meet him and invite him to serve us.
+@3117
+{01}C{0B}{00}, I have found a promising ronin called {02}{0D}2. I would like to invite him to enter your service.
+@3117.1
+{01}C{0B}{00}, the ronin {02}{0D}2 seems to be quite a man. I would like to invite him to enter your service.
+@3117.2
+I hear much talk of a ronin called {02}{0D}2. I would like to meet him and invite him to serve us.
+@3119
+I shall invite him to serve our house.
+@3120
+{01}C{0C}{00}, please do.
+@3121
+Go and recruit him.
+@3123
+Rumours are only rumours. There is no need...
+@3124
+{01}C{0C}{00}, there is no need for that.
+@3125
+There is no need.
+@3127
+Recruit {02}{0B}2?
+@3128
+Well then, I shall look for other promising ronin.
+@3129
+I see... It cannot be helped. Then I shall look for other ronin.
+@3130
+I see... If {01}C{0B}{00} says so, it cannot be helped. I shall look for other ronin.
+@3132
+{01}C{0D}{00}, it has been a long time. It would be a waste to leave a man of your calibre a ronin. Do come to our house.
+@3132.1
+I need your strength, whatever it takes. Will you not lend me your help?
+@3132.2
+{01}C{0D}{00}... Would you consider serving my lord?
+@3132.3
+I heard talk of you in the castle town and came to find you. Would you consent to meet my master?
+@3132.4
+Are you interested in the {02}{0B}k? If you are willing, I will put in a word with my lord.
+@3133
+It would be a waste to leave a warrior of your skill a ronin. I ask you to serve our house.
+@3133.1
+You are just the kind of man I have been looking for. Help my master with that command of yours that moves troops at will.
+@3134
+It would be a waste to leave a man of your skill in diplomacy a ronin. I ask you to serve our house.
+@3134.1
+You are just the kind of man I have been looking for. Help my master with that cunning of yours that talks anyone round.
+@3135
+It would be a waste to leave a man of your skill in politics a ronin. I ask you to serve our house.
+@3135.1
+You are just the kind of man I have been looking for. Help my master with that knowledge of yours.
+@3136
+What do you say? Will you serve our house?
+@3136.1
+Would you consider working under me?
+@3136.2
+I need your strength, whatever it takes. Will you not lend me your help?
+@3136.3
+To end this age of war, I need your strength. Become my vassal.
+@3136.4
+Lord {02}{0C}3, would you consider entering our house's service? If you wish, I shall put in a word for you.
+@3136.5
+Lord {02}{0C}2... Would you consider serving my lord?
+@3136.6
+I heard talk of you in the castle town and came to find you. Would you consent to meet my master?
+@3136.7
+Are you interested in the {02}{0B}k? If you are willing, I will put in a word with my lord.
+@3138
+I had no wish to stay a ronin forever. This is a fine chance. I shall lend you my strength.
+@3138.1
+{01}C{DE}{00}, is that so? If I will do, I shall lend you my strength.
+@3138.2
+If the invitation comes from {01}C{09}{00}, I cannot refuse. I shall serve the {02}{0C}k.
+@3138.3
+{01}C{DE}{00}, {01}C{09}{00}, is it? If the invitation is yours, it is sound. Perhaps I shall settle down in the {02}{0C}k.
+@3139
+If the invitation comes from Lord {02}{0C}3, I cannot refuse. I shall serve the {02}{0C}k.
+@3139.1
+That Lord {02}{0C}3 should come to me in person... I am deeply moved. I swear my lifelong loyalty to my lord.
+@3139.2
+Lord {02}{0C}3, to come yourself, for one such as me... It is too great an honour. I shall work to meet your every expectation.
+@3139.3
+They say a warrior dies for the one who knows his worth... Lord {02}{0C}3, I place my life in your hands.
+@3140
+Thank you for asking me. If I will do, I gladly enter your service.
+@3140.1
+I cannot refuse so kind an invitation. I shall become a vassal of the {02}{0C}k.
+@3140.2
+I have waited for a chance like this. I place my life in the hands of the {02}{0C}k.
+@3140.3
+I have long wished to serve the {02}{0C}k. I am in your debt.
+@3142
+{01}C{0C}{00}, I have no wish to serve anyone just now. Give it up.
+@3142.1
+I have no wish to become your retainer. Give it up...
+@3142.2
+A kind invitation, but I do not care for your master. Give it up.
+@3142.3
+I do not think the {02}{0C}k has any need of me. Give it up.
+@3143
+I have no intention of serving anyone just now. Even an invitation from Lord {02}{0C}3 I must refuse.
+@3143.1
+Serve you, you say... {01}C{D6}{00}, Lord {02}{0C}3, that joke goes too far.
+@3143.2
+Please leave... I simply cannot bring myself to serve you.
+@3143.3
+The {02}{0C}k will be quite safe without the likes of me. Please leave...
+@3144
+Please go home. I have no intention of serving anyone just now.
+@3144.1
+I cannot trust your master. I am sorry, but give it up.
+@3144.2
+A kind invitation, but... I have no wish to serve anyone just now. Please give it up.
+@3144.3
+Please go home. I do not mean to come out into the world for a while yet.
+@3146
+How welcome! I expect great things of you.
+@3146.1
+Just like {01}C{09}{00}. I believed you would give me a good answer.
+@3146.2
+{01}C{0D}{00}, from now on let us build up the {02}{0B}k together.
+@3146.3
+{01}C{0D}{00}, I am glad you decided so. My lord is sure to be pleased. Let us go to him at once.
+@3147
+From this day, Lord {02}{0C}3 is one of the {02}{0B}k.
+@3147.1
+Serve well and the rewards will be whatever you wish. Show us all you can do.
+@3147.2
+How welcome! I expect great things of you.
+@3147.3
+To have a famed commander like you as my vassal... It is truly an honour.
+@3148
+How welcome. Let us go to Lord {02}{0D}3 at once.
+@3148.1
+{01}C{DE}{00}, you accept? Then let us go to my lord together at once.
+@3148.2
+I am much obliged. My lord is sure to be glad to have you with us.
+@3148.3
+Just what I expected of Lord {02}{0C}3. I believed you would give me a good answer.
+@3150
+A pity... I had thought you would give me a good answer...
+@3150.1
+It cannot be helped... You may change your mind one day. Come and see me when you do.
+@3150.2
+I see... A pity, but it cannot be helped. I shall give it up.
+@3150.3
+I see... I thought it a fine offer, but it cannot be helped... I shall give it up.
+@3151
+It seems I had hoped for too much. There is no point in going on.
+@3151.1
+No wish to serve our house, he says... Am I lacking in stature, I wonder...
+@3151.2
+Then I shall call again another day. I will come as many times as it takes to make you our vassal.
+@3151.3
+You may change your mind one day. Come and see me when you do.
+@3152.1
+It goes against the grain to let someone of your calibre go to waste... but it cannot be helped.
+@3152.2
+There is no point in pressing you further... Then I will take my leave.
+@3152.3
+A pity, but it cannot be helped. What am I to tell our lord...
+@3154
+I hear there is %s in your storehouse. If I may have it, I might consider serving you.
+@3154.1
+Is that so... If I were given %s, I would consider serving you.
+@3154.2
+If I may at least have %s, I might consider serving you.
+@3154.3
+Even at your request, I cannot do it for nothing. If I may at least have %s, I will consider it.
+@3155
+If I may have %s, I will consider serving you.
+@3155.1
+I hear there is %s in the storehouse of the {02}{0C}k. If I may have it, I will consider serving you.
+@3155.2
+I hear the {02}{0C}k is wealthy. Then as my condition for serving, I would ask for %s.
+@3155.3
+I have long wished to own %s. If I may have it, I will gladly enter your service.
+@3156.1
+I hear the {02}{0C}k is wealthy. Then as my condition for serving, I would ask for %s.
+@3156.2
+Is that so... If I were given %s, I would consider serving you.
+@3158
+{01}C{BE}{0B}, %s, you say... That is awkward. Our house has none just now.
+@3158.1
+That is awkward... Our house has no %s just now.
+@3159
+I am sorry. There is no %s in our house's storehouse just now.
+@3159.1
+{01}C{BE}{0B}, that is awkward. There is no %s in our house's storehouse just now.
+@3160
+I am sorry... There is no %s in our house's storehouse just now...
+@3160.1
+Of all things, %s... The truth is, our house has none just now.
+@3162
+Is that so... The {02}{0C}k has none? Then it cannot be helped. I will look for another master.
+@3162.1
+If you have none, it cannot be helped. I am sorry, but give up on me.
+@3163
+Is that so... Then let us forget this talk.
+@3163.1
+If you have none, it cannot be helped. I will look for another master.
+@3164
+Is that so... Then let us forget this talk of service.
+@3164.1
+The {02}{0C}k has none, you say? Then it cannot be helped... Let us say this talk never happened.
+@3166
+I hear the {02}G2 is in your storehouse. If I may have it, I might consider serving you.
+@3166.1
+Is that so... If I were given the {02}G2, I would consider serving you.
+@3166.2
+If I may at least have the {02}G2, I might consider serving you.
+@3166.3
+Even at your request, I cannot do it for nothing. If I may at least have the {02}G2, I will consider it.
+@3167
+If I may have the {02}G2, I will consider serving you.
+@3167.1
+I hear the {02}{0C}k holds the {02}G2. If I may have it, I will consider serving you.
+@3167.2
+I hear the {02}{0C}k is wealthy. Then as my condition for serving, I would ask for the {02}G2.
+@3167.3
+I have long wished to own the {02}G2. If I may have it, I will gladly enter your service.
+@3168
+If I may have the {02}G2, I will consider serving you.
+@3168.1
+I hear the {02}{0C}k is wealthy. Then as my condition for serving, I would ask for the {02}G2.
+@3170
+I see, so you want the {02}G2. It is indeed in our house's storehouse. Now, what to do...
+@3170.1
+I see... You want the {02}G2, you say? Now, what to do...
+@3170.2
+The {02}G2... Now, what to do...
+@3170.3
+The {02}G2 is indeed in our house's storehouse... Now, what to do...
+@3171
+What! You ask for the {02}G2... Lord {02}{0C}3, what shall we do?
+@3171.1
+I see... You want the {02}G2, you say? Lord {02}{0C}3, what shall we do?
+@3171.2
+I see, so you want the {02}G2... Lord {02}{0C}3, what shall we do?
+@3171.3
+The {02}G2... It was indeed in our house's storehouse, I believe... Lord {02}{0C}3, what shall we do?
+@3171.4
+The {02}G2 was indeed in our house's storehouse, I believe... Lord {02}{0C}3, what shall we do?
+@3173
+{01}C{0C}{00}, {01}C{BD}{0B} says that for the {02}G2 he will become a vassal. What shall we do?
+@3174
+{01}C{0C}{00}, a ronin named {02}{0D}2 says that for the {02}G2 he will become a vassal. What shall we do?
+@3175
+Lord {02}{0C}3, {01}C{BC}{0B} says that for the {02}G2 he will become a vassal. What shall we do?
+@3176
+Lord {02}{0C}3, {01}C{BB}{0B} says that for the {02}G2 he will become a vassal of our house. What shall we do?
+@3177
+Lord {02}{0C}3, a ronin named {02}{0D}2 says that for the {02}G2 he will become a vassal of our house. What shall we do?
+@3179
+I will give him the treasure
+@3179.1
+Let us give him the treasure
+@3179.2
+Let him have what he wants
+@3180
+I have no use for such a greedy man
+@3180.1
+We have no use for such a greedy man
+@3181
+Give the {02}G2 and recruit {02}{0B}2?
+@3182
+{01}C{DE}{00}, just like you, {01}C{0C}{00}. I, {02}{0B}3, will gladly work for you.
+@3182.1
+{01}C{D6}{00}, now that it is settled, I will gladly lend my strength. {01}C{0C}{00}, I look forward to working with you.
+@3182.2
+{01}C{D6}{00}, {01}C{0C}{00}, you have introduced me to a fine lord. I, {02}{0B}3, will gladly work for Lord {02}{0D}3.
+@3182.3
+To grant my demand so readily shows real calibre. I, {02}{0B}3, will gladly work for Lord {02}{0D}3.
+@3183
+I will not forget this kindness. I swear lifelong loyalty to the {02}{0D}k.
+@3183.1
+{01}C{DE}{00}, just like Lord {02}{0D}3. I, {02}{0B}3, will gladly work for Lord {02}{0D}3.
+@3183.2
+I am deeply moved. I will gladly enter your service.
+@3183.3
+To do so much for a man of small talent like me... I, {02}{0B}3, will serve you with all my heart.
+@3185
+If you grudge a thing like that, your calibre is plain enough.
+@3185.1
+{01}C{D6}{00}, you value things above people? Then the {02}{0C}k's days look numbered.
+@3185.2
+{01}C{D6}{00}, what a fine master you serve. One who has no idea how hard it is to find good men.
+@3185.3
+If {01}C{11}{00} grudges a thing like that, his calibre is plain enough.
+@3186
+If Lord {02}{0C}3 grudges a thing like that, his calibre is plain enough.
+@3186.1
+{01}C{D6}{00}, you value things above people? Then the {02}{0C}k's days look numbered. I decline.
+@3186.2
+It seems Lord {02}{0C}3 is quite unlike his reputation. I have no wish to serve a man like you.
+@3187
+If the {02}{0D}k grudges a thing like that to win a good man, its calibre is plain enough.
+@3187.1
+I have no use for a house like the {02}{0C}k that values things above people. I take my leave.
+@3187.2
+It seems Lord {02}{0D}3 is quite unlike his reputation. I have no wish to serve such a man. Please go.
+@3189
+{02}{0B}2 has joined the vassals in {02}y2 of %s.
+@3190
+
+
+@3191
+
+
+@3192.1
+
+
+@3193.*
+
+@3194.*
+
+@3195
+So the {02})2 lost a battle and {02}y2 with it... It cannot be helped. The uprising plot is off.
+@3195.1
+So the {02})2 has lost its lands in {02}y2... It cannot be helped. The uprising plot is off.
+@3196
+{01}C{0C}{00}, our target the {02})2 lost a battle and {02}y2 with it. The incitement must be called off.
+@3196.1
+It seems the {02})2 was beaten in {02}y2. I am calling off the uprising plot against them.
+@3197
+{01}C{0B}{00}, our target the {02})2 has lost its lands in {02}y2, so I am calling off the plot.
+@3197.1
+{01}C{0B}{00}, it seems the {02})2 was beaten in {02}y2. I am calling off the uprising plot against them.
+@3199
+We now stand as lord and vassal with the {02})2. The uprising plot must be called off at once...
+@3199.1
+We now stand as lord and vassal with the {02})2... There is no need to go on with the uprising plot.
+@3200
+Our house and the {02})2 are now lord and vassal. I am calling off the uprising plot.
+@3200.1
+{01}C{0C}{00}, we are now lord and vassal with our target the {02})2. I am calling off the incitement.
+@3201
+{01}C{0B}{00}, our house and the {02})2 are now lord and vassal, so I am calling off the uprising plot.
+@3201.1
+{01}C{0B}{00}, we are now lord and vassal with the {02})2. There is no more need for the scheme. I am calling off the uprising plot.
+@3203
+Both the {02})2 and our house are vassals of the {02}*2. One cannot raise an uprising against a daimyo under the same overlord. The uprising scheme is off.
+@3204
+Like our house, the {02})2 is a vassal of the {02}*2. A pity, but I am calling off the uprising scheme.
+@3205
+Both the {02})2 and our house are vassals of the {02}*2. One cannot scheme against a daimyo under the same overlord, so I am calling off the uprising scheme.
+@3207
+It seems there is no power left in {02}y2 that could raise an uprising. It is off.
+@3207.1
+It seems incitement in {02}y2 is no longer possible. It cannot be helped; the scheme is off.
+@3208
+An uprising can no longer be raised in {02}y2. A pity, but I am calling off the scheme.
+@3208.1
+{01}C{0C}{00}, an uprising plot in {02}y2 is no longer possible. I am calling off the scheme.
+@3209
+An uprising can no longer be raised in {02}y2. A pity, but I am calling off the uprising plot.
+@3209.1
+{01}C{0B}{00}, there is no power left in {02}y2 that could raise an uprising. I am calling off the plot in {02}y2.
+@3211
+Having moved to {02}{0B}U, I cannot go on with the uprising plot in {02}y2... It cannot be helped; the scheme is off.
+@3211.1
+Having moved to {02}{0B}U, I am too far from {02}y2... The uprising plot is off.
+@3212
+{02}{0B}U is too far away to go on with the uprising plot in {02}y2. A pity, but I am calling off the plot.
+@3212.1
+{01}C{0C}{00}, since the move, the uprising plot in {02}y2 can no longer go on. I am calling off the plot.
+@3213
+Having moved to {02}{0B}U, I can no longer go on with the uprising plot in {02}y2. I am calling off the plot.
+@3213.1
+{01}C{0B}{00}, having left {02}y2, I cannot go on with the uprising plot. I am calling off the plot in {02}y2.
+@3215
+The target daimyo house has been destroyed... The plot in {02}y2 is off.
+@3215.1
+The target daimyo house has been destroyed... It seems there was no need for a scheme after all.
+@3216
+Our target daimyo house has been destroyed. It seems the plot in {02}y2 has lost its point...
+@3216.1
+It seems the daimyo house we meant to raise an uprising against has been destroyed. The plot is useless now; I am calling off the plot in {02}y2.
+@3217
+The daimyo house we meant to raise an uprising against has been destroyed. I am calling off the plot in {02}y2.
+@3217.1
+Our target daimyo house has been destroyed, so there is no more need for a plot in {02}y2. I am calling off the uprising plot.
+@3219
+We are now bound to the {02})2 by marriage... The uprising plot must be called off at once...
+@3220
+Our house is now bound to the {02})2 by marriage... I am calling off the uprising plot.
+@3221
+{01}C{0B}{00}, our house has formed a marriage tie with the {02})2. I am calling off the uprising plot.
+@3221.1
+{01}C{0B}{00}, we have formed a marriage tie with the {02})2. I am calling off the incitement against them.
+@3223
+{01}C{DD}{00}, it seems we are short of gold and cannot go on with the uprising plot in {02}y2.
+@3224
+{01}C{0B}{00}, we are short of gold and cannot go on with the uprising plot in {02}y2.
+@3227
+Shall I try to talk the {02}o2 into rising up against the {02}{0D}k...
+@3227.1
+I shall stir up the {02}o2 and have them rise up against the {02}{0D}k.
+@3228
+Even the {02}{0D}k will be hard pressed if the {02}o2 rise up.
+@3228.1
+{01}C{0C}{00}, I shall now set about stirring up the {02}o2.
+@3229
+{01}C{0B}{00}, I shall try to talk the {02}o2 into rising up against the {02}{0D}k.
+@3229.1
+{01}C{0B}{00}, I shall now begin persuading the {02}o2. I only hope they rise up against the {02}{0D}k as planned...
+@3231
+Shall I try to talk the {02}[2 into rising up against the {02}{0D}k...
+@3231.1
+I shall stir up the {02}[2 and have them rise up against the {02}{0D}k.
+@3232
+Even the {02}{0D}k will be hard pressed if the {02}[2 rise up.
+@3232.1
+{01}C{0C}{00}, I shall now set about stirring up the {02}[2.
+@3233
+{01}C{0B}{00}, I shall try to talk the {02}[2 into rising up against the {02}{0D}k.
+@3233.1
+{01}C{0B}{00}, I shall now begin persuading the {02}[2. I only hope they rise up against the {02}{0D}k as planned...
+@3235
+Lord {02}{0C}3, the {02}{0D}k means to crush you, I hear. Stay as you are and you will be sitting waiting for death.
+@3235.1
+Lord {02}{0C}3, {02}{0D}3 deeply distrusts you. Leave it be and an attack is certain. Strike first...
+@3235.2
+Have you heard the talk about the {02}{0D}k? They mean to attack you. I could not bear to see Lord {02}{0C}3 destroyed. Consider yourself warned...
+@3235.3
+Lord {02}{0C}3, the other day a spy brought me grave news. {02}{0D}3 means to attack you... Rise up now and strike first.
+@3235.4
+Lord {02}{0C}3, do you know what {02}{0D}3 is planning... An attack on you. Strike them before they strike you.
+@3235.5
+Lord {02}{0C}3, did you know... {02}{0D}3 is preparing to attack you. Rise up without a moment's delay...
+@3236
+Lord {02}{0C}3, the {02}{0D}k means to crush you very soon. Stay as you are and you will be sitting waiting for death.
+@3236.1
+Lord {02}{0C}3, {02}{0D}3 distrusts you. Leave it be and an attack is certain. Please strike first...
+@3236.2
+Have you heard the talk about the {02}{0D}k? They mean to attack you soon... I could not bear to see Lord {02}{0C}3 destroyed. Consider yourself warned...
+@3236.3
+Lord {02}{0C}3, the other day a spy brought me grave news. {02}{0D}3 means to attack you soon... Rise up now and strike first.
+@3236.4
+Lord {02}{0C}3, do you know what {02}{0D}3 is planning... An attack on you. Strike them before they strike you.
+@3236.5
+Lord {02}{0C}3, did you know... {02}{0D}3 is preparing to attack you. Rise up without a moment's delay...
+@3238
+What! The {02}{0D}k plots such a thing... Then we have plans of our own!!
+@3238.1
+Lord {02}{0C}3, I am obliged to you. I never guessed {02}{0D}3 was planning such a thing. I shall teach them a lesson!
+@3238.2
+Those suspicious movements of late... I had my doubts, but... {02}{0D}3, I will not forgive this!
+@3238.3
+A hard tale to believe... but if it is true, we may be destroyed... Needs must. We will face the {02}{0D}k!
+@3238.4
+I knew such a day would come, but to move this fast... I was careless... Curse you, {02}{0D}3...
+@3238.5
+{01}C{DD}{00}... If that is true, force is the only answer. {01}C{D5}{00}, take up arms!
+@3239
+Trying to trap me, are you? I will not fall for such a scheme.
+@3239.1
+{01}C{D6}{00}, I am not one to fall for a scheme like that! If you value your life, be gone!
+@3239.2
+A scheme to drive a wedge between me, {02}{0B}3, and Lord {02}{0D}3. Did you think I would not see it? Be off with you!
+@3239.3
+What a foolish scheme. Did you think I could not see through a trick like that! You offend my eyes, be gone!
+@3239.4
+I am not one to dance to a scheme like that! Be off with you, you fool!
+@3239.5
+I have no ear for such ravings. The {02}{0D}k is no enemy of ours.
+@3239.6
+I cannot believe such a tale. Trying to trap me, are you? I will not fall for such a scheme.
+@3239.7
+{01}C{D6}{00}, I am not one to fall for a scheme like that! Someone throw this fool out!
+@3239.8
+A scheme to drive a wedge between me, {02}{0B}3, and Lord {02}{0D}3. Did you think I would not see it? Be off with you!
+@3239.9
+What a foolish scheme... Did you think I could not see through a trick like that! Throw this fellow out!
+@3239.10
+I am not one to dance to a scheme like that! Be off with you!
+@3240
+Oh, that is the spirit! Let us bring down the {02}{0D}k together!
+@3240.1
+Oh, we will lend what little strength we have!
+@3240.2
+The {02}{0D}k is our common enemy. Let us join forces and bring them down!
+@3240.3
+We too cannot forgive the way the {02}{0D}k behaves. The {02}{0B}k will lend what little strength it has!
+@3240.4
+Oh, let us crush {02}{0D}3 together.
+@3241
+Yes, that is the spirit! Let us bring down the {02}{0D}k together!
+@3241.1
+We will lend what little strength we have!
+@3241.2
+The {02}{0D}k is our common enemy. Let us join forces and bring them down!
+@3241.3
+The way the {02}{0D}k behaves cannot be forgiven. The {02}{0B}k will lend what little strength it has!
+@3241.4
+Yes, let us crush {02}{0D}3 together.
+@3243
+Hmm... It seems hard to get the {02}o2 to rise up. It cannot be helped. I will try again later.
+@3243.1
+Hmm, I never thought I would be seen through... It cannot be helped. I will try again later.
+@3243.2
+What, my scheme did not work... I underestimated the {02}o2. It cannot be helped. I will try again later.
+@3243.3
+Hmm, it seems I moved too soon. It cannot be helped. I will try again later.
+@3243.4
+I never thought it would fail... I must hurry back and rework my plans.
+@3243.5
+Tch, the {02}{0C}k is well trusted, it seems... It cannot be helped. I will try again later.
+@3244
+Tch... It seems hard to get the {02}o2 to rise up. It cannot be helped. I will try again later.
+@3244.1
+To think I would be seen through... It cannot be helped. I will try again later.
+@3244.2
+What, my scheme did not work... I underestimated the {02}o2. It cannot be helped. I will try again later.
+@3244.3
+It seems I moved too soon... It cannot be helped. I will try again later.
+@3244.4
+I never thought it would fail... I must hurry back and rework my plans.
+@3244.5
+Phew, the {02}{0C}k is well trusted, it seems... It cannot be helped. I will try again later.
+@3246
+Hmm... It seems hard to get the {02}[2 to rise up. It cannot be helped. I will try again later.
+@3246.1
+Hmm, I never thought I would be seen through... It cannot be helped. I will try again later.
+@3246.2
+What, my scheme did not work... I underestimated the {02}[2. It cannot be helped. I will try again later.
+@3246.3
+Hmm, it seems I moved too soon. It cannot be helped. I will try again later.
+@3247
+It seems hard to get the {02}[2 to rise up. It cannot be helped. I will try again later.
+@3247.2
+What, my scheme did not work... I underestimated the {02}[2. It cannot be helped. I will try again later.
+@3247.5
+I see... The {02}{0C}k is well trusted, it seems... It cannot be helped. I will try again later.
+@3249
+So the {02}o2 have resolved to rise against the {02}{0C}k... Just as I intended.
+@3249.1
+{01}C{D6}{00}, it seems to have worked. {02}{0C}3 must be in quite a panic by now.
+@3249.2
+I have stirred up the {02}o2 nicely. Now we either wait for the {02}{0C}k to weaken, or attack at once and settle it.
+@3249.3
+{01}C{D6}{00}, let us see what the {02}o2 can do.
+@3249.4
+I cannot stop laughing. The {02}o2 must do their very best for us now.
+@3249.5
+I never thought it would go this well. Let us watch the {02}o2 and the {02}{0C}k fight it out.
+@3250
+So the {02}o2 have resolved to rise against the {02}{0C}k... Just as I intended.
+@3250.1
+{01}C{D6}{00}, it seems to have worked. {02}{0C}3 must be in quite a panic by now.
+@3250.2
+I have stirred up the {02}o2 nicely. Now we either wait for the {02}{0C}k to weaken, or attack at once and settle it...
+@3250.3
+{01}C{D6}{00}, let us see what the {02}o2 can do.
+@3250.4
+I cannot stop laughing. The {02}o2 must do their very best for us now.
+@3250.5
+I never thought it would go this well. Let us watch the {02}o2 and the {02}{0C}k fight it out.
+@3252
+So the {02}[2 have resolved to rise against the {02}{0C}k... Just as I intended.
+@3252.1
+{01}C{D6}{00}, it seems to have worked. {02}{0C}3 must be in quite a panic by now.
+@3252.2
+I have stirred up the {02}[2 nicely. Now we either wait for the {02}{0C}k to weaken, or attack at once and settle it...
+@3252.3
+{01}C{D6}{00}, let us see what the {02}[2 can do.
+@3252.4
+I cannot stop laughing. The {02}[2 must do their very best for us now.
+@3252.5
+I never thought it would go this well. Let us watch the {02}[2 and the {02}{0C}k fight it out.
+@3253
+So the {02}[2 have resolved to rise against the {02}{0C}k... Just as I intended.
+@3253.2
+I have stirred up the {02}[2 nicely. Now we either wait for the {02}{0C}k to weaken, or attack at once and settle it.
+@3253.3
+{01}C{D6}{00}, let us see what the {02}[2 can do.
+@3253.4
+I cannot stop laughing. The {02}[2 must do their very best for us now.
+@3253.5
+I never thought it would go this well. Let us watch the {02}[2 and the {02}{0C}k fight it out.
+@3255
+The {02}{0D}k turning against us? I cannot believe it.
+@3255.1
+I cannot believe such a tale... The {02}{0D}k and we are supposed to be allies...
+@3255.2
+Lord {02}{0D}3 attacking us? I cannot believe it... Are you saying we have been deceived...
+@3255.3
+You expect me to believe that... That their conduct until now was all an act to put us off our guard...
+@3255.4
+What, you expect me to believe that! {01}C{D6}{00}... A poor joke... Lord {02}{0D}3 of all people would never...
+@3256
+And yet, now that you mention it, the {02}{0D}k has been acting strangely of late...
+@3256.1
+And yet... come to think of it, they have been rather too friendly... So the {02}{0D}k is...
+@3256.2
+Which of you am I to believe... Come to think of it, the {02}{0D}k has indeed been acting suspiciously... And yet...
+@3256.3
+And yet, now that you mention it, trusting {02}{0D}3 blindly is far too dangerous...
+@3257
+I failed to stir up an uprising, but {02}{0C}3 seems to have come to distrust the {02}{0D}k.
+@3257.1
+It went well enough... I could not get them to rise up, but I have planted suspicion. The incitement comes next...
+@3257.2
+I failed to stir up an uprising... but planting distrust of the {02}{0D}k will do for this time.
+@3257.3
+I failed to stir up an uprising... but it will do that {02}{0C}3 now distrusts {02}{0D}3.
+@3258
+Friendship between the {02}o2 and the {02}{0B}k is now %d.
+@3259
+Friendship between the {02}[2 and the {02}{0B}k is now %d.
+@3260
+It seems the uprising plot against the {02})2 in {02}y2 has succeeded. No further plotting is needed.
+@3260.1
+{01}C{0B}{00}, the uprising plot against the {02})2 in {02}y2 has succeeded. I am ending the plot.
+@3261
+There is not enough gold. I cannot go on trying to poach {02}{0D}2.
+@3261.1
+{01}C{0B}{00}, there is not enough gold to go on trying to poach {02}{0D}2.
+@3262
+It seems {02}{0D}2, whom I was trying to poach, is no longer a vassal of the {02})2. I am calling off the poaching.
+@3262.1
+{01}C{0B}{00}, {02}{0D}2, whom I was trying to poach, is no longer with the {02})2. I am calling off the poaching.
+@3263
+It seems the officer I was trying to poach has died. I am calling off the poaching.
+@3263.1
+{01}C{0B}{00}, it seems the officer I was trying to poach has died. I am calling off the poaching.
+@3264
+The daimyo house that {02}{0D}2, whom I was trying to poach, served has fallen. I am calling off the poaching.
+@3264.1
+{01}C{0B}{00}, the daimyo house that {02}{0D}2, whom I was trying to poach, served has fallen. I am calling off the poaching.
+@3265
+{02}{0D}2, whom I was trying to poach, has become a daimyo. I am calling off the poaching.
+@3265.1
+{01}C{0B}{00}, {02}{0D}2, whom I was trying to poach, has become a daimyo. I am calling off the poaching.
+@3266
+It seems {02}{0D}2, whom I was trying to poach, has retired. I am calling off the poaching.
+@3266.1
+{01}C{0B}{00}, {02}{0D}2, whom I was trying to poach, has retired. I am calling off the poaching.
+@3267
+We are now lord and vassal with the {02}{0D}k, so I am calling off the poaching of {02}{0D}2.
+@3267.1
+As we are now lord and vassal with the {02}{0D}k, I am calling off the poaching of {02}{0D}2.
+@3268
+Both the {02}{0D}k and our house serve the {02})2... I am calling off the poaching from the {02}{0D}k.
+@3268.1
+Both the {02}{0D}k and our house serve the {02})2. I am calling off the poaching from the {02}{0D}k.
+@3269
+We have made a marriage tie with the {02}{0D}k, so I am calling off the poaching of {02}{0D}2.
+@3269.1
+As a marriage tie has been made with the {02}{0D}k, I am calling off the poaching of {02}{0D}2.
+@3270
+It seems the poaching of {02}{0D}2 has succeeded. The poaching is over.
+@3270.1
+The poaching of {02}{0D}2 has succeeded. I am ending the poaching.
+@3271
+{01}C{0B}{00}, I think to work a stratagem on {02}{0D}2 of the {02}{0D}k. I ask your leave...
+@3271.1
+{01}C{0B}{00}, all is ready to work a stratagem on {02}{0D}2 of the {02}{0D}k. I ask your leave...
+@3271.2
+{01}C{0B}{00}, I thought to work a stratagem on {02}{0D}2 and throw the {02}{0D}k into confusion... May I have your leave?
+@3272
+All is ready to work a stratagem on {02}{0D}2 of the {02}{0D}k. Now, what shall it be...
+@3273
+{01}C{0B}{00}, I think to work a stratagem on {02}{0D}2 of the {02}{0D}k. I would ask your leave.
+@3274
+Spread rumours to lower loyalty
+@3275
+Tempt into becoming a ronin
+@3276
+Incite to rebellion
+@3277
+Tempt into defecting during battle
+@3278
+Persuade to serve our house
+@3279
+Do nothing this time
+@3280
+{01}C{0C}{00}, your master thinks little of you. All your loyalty is wasted on him.
+@3280.1
+{01}C{0C}{00}, your loyalty is lost on your master. Do you not see that he is sick of you?
+@3281
+{01}C{0C}{00}, your master thinks little of you. All your loyalty is wasted on him.
+@3281.1
+{01}C{0C}{00}, your loyalty is lost on your master. Were you to die on the battlefield, he would not even notice.
+@3282
+Did you think such slander would shake my loyalty? Leave at once!
+@3282.1
+I am not fool enough to sit and listen to such slander. You would be wise to leave at once.
+@3282.2
+Absurd! Mock my master any further and I will cut you down, {01}C{0C}{00}!
+@3282.3
+Such rumours are not worth believing.
+@3283
+Is that true!? If my deeds go unrecognised, perhaps I have chosen the wrong master...
+@3283.1
+What! Am I so disliked...
+@3284
+{01}C{E5}{00}... A failure. I will try again later.
+@3284.1
+A stubborn one... Not to believe a word I say...
+@3285
+{01}C{E5}{00}... So even my rumours do not work...
+@3285.1
+The rumours did not take? It seems the other side is one step ahead. It cannot be helped.
+@3286
+{01}C{D6}{00}... My rumours have thrown that one into fits of suspicion.
+@3286.1
+{01}C{D6}{00}... For my rumours to succeed this easily, I cannot stop laughing.
+@3286.2
+{01}C{D6}{00}... What a simple soul, to swallow my rumours whole.
+@3287
+To fall for my rumours... The loyalty of the {02}{0C}k's men is not so much after all.
+@3287.1
+{01}C{D6}{00}... The {02}{0C}k's unity is not so much after all.
+@3288
+Lord {02}{0B}2, the stratagem seems to have succeeded. {02}{0C}2 now seems to doubt his master.
+@3289
+A man of your calibre, {01}C{0C}{00}, is wasted on the likes of {02}{0D}2. Should you not seek a true master...
+@3289.1
+{01}C{0C}{00}, your master fears your talent. Do not wait to be disposed of: leave, and seek a new master...
+@3290
+A man of your calibre, {01}C{0C}{00}, is truly wasted on the likes of {02}{0D}2. Should you not go out into the world and seek a true master...
+@3290.1
+{01}C{0C}{00}, your talent must look like a threat to a narrow-minded master. Should you not take a fresh look at him...
+@3291
+Nonsense... I have resolved to serve the {02}{0B}k all my life.
+@3291.1
+Mind your own business. Whatever anyone says, I have but one master!
+@3292
+True... If I stay with the {02}{0B}k, I can already see where it ends.
+@3292.1
+{01}C{E5}{00}... Staying with the {02}{0B}k is starting to look foolish. Perhaps this is the moment to move on.
+@3293
+{01}C{E5}{00}... Not moved in the slightest... It cannot be helped. I will try again later.
+@3293.1
+{01}C{E5}{00}... Whatever I say is wasted...
+@3294
+{01}C{E5}{00}... {01}C{0C}{00}'s loyalty seems firm. I will try again later.
+@3294.1
+{01}C{E5}{00}... {01}C{0C}{00}'s loyalty is as unshakable as a rock... The persuasion has failed.
+@3295
+It seems that one has resolved to desert. Just as I intended.
+@3295.1
+Success. All that long plotting was worth it...
+@3296
+Got them...
+@3296.1
+...This desertion is a heavy blow to the {02}{0C}k. All that long plotting was worth it...
+@3297
+Lord {02}{0B}2, the stratagem seems to have succeeded. {02}{0C}2 has deserted the {02}{0C}k and become a ronin.
+@3298
+Lord {02}{0B}2! Grave news! {02}{0C}2 seems to have deserted our house.
+@3299
+What! {02}{0C}2 has deserted!? ...So, another house's scheme has got to him...
+@3300
+{02}{0B}2 of {02}{0B}U has deserted the {02}{0B}k and become a ronin.
+@3301
+How long do you mean to put up with your present station! Now is the time to strike out on your own and make your name.
+@3301.1
+Under the {02}{0C}k, {01}C{0C}{00}, your talent will never shine. Now is the chance to turn your back on the {02}{0C}k, stand on your own and make your name.
+@3302
+With the {02}{0C}k you will never get on in life. Is this not the perfect chance to make your name?
+@3302.1
+{01}C{0C}{00}, you have the virtue to lead. Would it not be better to be a lord yourself than to settle for being a vassal?
+@3303
+Nonsense... I am proud to serve the {02}{0B}k, and have no doubts about it whatever.
+@3303.1
+Your aim is to tempt me into stirring up strife within the {02}{0B}k. I will not fall for it!
+@3303.2
+My loyalty has not weakened so far that I would be fooled by your cheap tricks, {01}C{0C}{00}... Leave this place!
+@3304
+There is much in what you say, {01}C{0C}{00}. Perhaps I should raise my own banner...
+@3304.1
+True... Were I to end my days like this, I would have regrets. I shall raise my own banner.
+@3305
+A pity... That one was not so easily taken in.
+@3305.1
+{01}C{E5}{00}... A loyal heart, and a firm one. I will try again later.
+@3306
+Not to fall for my smooth talk... Well done, {02}{0C}2.
+@3306.1
+{01}C{E5}{00}... Inciting a rebellion seems a hard thing to do.
+@3307
+{01}C{D6}{00}... That one seems resolved to rebel. Just as I intended.
+@3307.1
+...If a rebellion breaks out now, the {02}{0C}k's strength will be sapped.
+@3308
+{01}C{D6}{00}... The resolve to rebel seems firm. Just as I intended.
+@3308.1
+{01}C{D6}{00}... To fall for my smooth talk, what an easy one to handle. I look forward to seeing how the rebellion turns out.
+@3309
+Lord {02}{0B}2, the stratagem seems to have succeeded! {02}{0C}2 seems resolved to rebel.
+@3310
+If you answer our call in the next battle, I promise you an ample fief.
+@3310.1
+My master thinks highly of your talent, {01}C{0C}{00}. Answer our call in the next battle and I promise you generous treatment.
+@3311
+{01}C{0C}{00}, lend us your talent, I beg you. Answer our call in the next battle and I promise you generous treatment.
+@3311.1
+{01}C{0C}{00}, are you content with your present treatment? Answer our call on the battlefield and I promise you better than you have now...
+@3312
+Tempting me to defect, how utterly base! Leave this instant!
+@3312.1
+Defect, you say! Underestimate me and you will regret it!
+@3312.2
+I mean to do my duty as a vassal of the {02}{0B}k. I have no intention of becoming a traitor!
+@3313
+An offer I could not have hoped for. In the next battle I will give up on the {02}{0B}k and take the side of the {02}{0C}k.
+@3313.1
+This is a godsend! In the next battle I will take your side.
+@3313.2
+To work for one who rates my talent highly is the greatest joy. I will take the side of the {02}{0C}k.
+@3313.3
+In truth I have long been unhappy with the {02}{0B}k. I have no regrets. I will take the side of the {02}{0C}k.
+@3314
+{01}C{E5}{00}... A wasted journey. I will try again later.
+@3314.1
+So my words could not persuade...
+@3315
+{01}C{DE}{00}! You accept? Then please, keep this secret until the next battle...
+@3315.1
+Nothing could please me more than your good answer, {01}C{0C}{00}. Then in the next battle, answer our signal.
+@3316
+Lord {02}{0B}2, the stratagem seems to have succeeded! {02}{0C}2 has agreed to betray his side.
+@3317
+Lord {02}{0B}2 of %s seems to have succeeded in a stratagem. {02}{0C}2 of the {02}{0C}k has promised to betray his side.
+@3318
+A man of your calibre, {01}C{0C}{00}, is far too good for the {02}{0C}k. How about serving my lord instead?
+@3318.1
+My lord desires you, {01}C{0C}{00}. How about serving the {02}{0B}k?
+@3318.2
+{01}C{0C}{00}, that rare talent of yours would come into its own with the {02}{0B}k. Will you not fight beside us?
+@3193
+
+@3193.1
+
+@3194
+
+@3194.1
+@3319
+Serving the {02}{0C}k wastes your talent. Why not make a name for yourself in our {02}{0B}k?
+@3319.1
+For me to take the realm, I need the strength of {01}C{0C}{00}. Will you not lend it to the {02}{0B}k?
+@3320
+Promise me a fief of %d and I will serve the {02}{0C}k.
+@3320.1
+I shall not come for nothing. Promise me a fief of %d, if you would be so kind.
+@3321
+Hm... A pity, but our clan can't spare a fief of %d...
+@3321.1
+Hm... I regret to say a fief of %d is too much for our clan just now.
+@3322
+That is no offer at all... If you mean to poach me, come back properly prepared.
+@3323
+A fief of %d is needed... {01}C{0B}{00}, what shall we do?
+@3324
+A fief of %d is needed... {01}C{0B}{00}, what will you do?
+@3325
+A fief of %d is needed... Now what to do...
+@3326
+{01}C{0B}{00}, a man named {02}{0D}2 of the {02}{0D}k says he will serve us for a fief of %d. What shall we do?
+@3326.1
+{01}C{0B}{00}, a man named {02}{0D}2 of the {02}{0D}k says he will serve us for a fief of %d. What shall we do?
+@3327
+Poach for a fief of %d
+@3328
+There is no such man.
+@3329
+Grant a fief of %d and poach {02}{0B}2? (Daimyo's own land: %d)
+@3330
+If you go that far, I cannot refuse to serve the {02}{0D}k. I shall desert at once.
+@3330.1
+I am overjoyed... I shall leave the {02}{0B}k at once and hasten to the {02}{0D}k.
+@3331
+To seek talent and be this stingy... The coffers of the {02}{0D}k must be shallow indeed.
+@3331.1
+I sense no sincerity at all. Who could swear loyalty to the {02}{0D}k? Be gone!
+@3332
+I am not without complaint about serving the {02}{0B}k... But I cannot betray my lord.
+@3332.1
+I am not without complaint about serving the {02}{0B}k... But I cannot betray my lord.
+@3332.2
+No. I have sworn lifelong loyalty to the {02}{0B}k.
+@3332.3
+Tempted to defect? You think little of me.
+@3333
+Hm... A wasted trip. I shall come again.
+@3333.1
+To fail to win such a talent is a great pity. What went wrong...
+@3334
+{01}C{DE}{00}, I am glad you decided so! The master will surely be pleased.
+@3334.1
+I hoped for that answer! The master will be pleased. Let us go at once, together.
+@3335
+{01}C{DE}{00}, I am glad you decided so! Show your full talent in my service.
+@3335.1
+I waited for that answer. I look forward to your future service, {01}C{0C}{00}.
+@3336
+{02}{0B}2, the stratagem succeeded! {02}{0C}2 has deserted the {02}{0C}k and become our retainer.
+@3337
+{02}{0B}2! Terrible news! {02}{0C}2 has deserted us and defected to the {02}{0D}k.
+@3338
+My lord! Terrible news! {02}{0D}2 has accepted the poaching offer of the {02}{0E}k and defected.
+@3339
+What!? {02}{0C}2 has defected!? Grr, they make a fool of me... Remember this!
+@3340
+What!? {02}{0C}2 has defected!? How dare they betray me! Remember this!
+@3341
+Someone seems to be attempting a poaching in {02}y2.
+@3342
+{02}{0B}2, an officer of the {02}{0B}k, seems to have defected to the {02}{0C}k.
+@3343
+Understood! I shall now infiltrate {02}y2 and scout the situation.
+@3344
+Understood! My task in {02}y2 is done, and I shall return.
+@3345
+{02}y2 has been unified under the {02})2. My task in {02}y2 is done, and I shall return.
+@3346
+Try it, then.
+@3347
+No, let us not do it this time.
+@3348
+Set fire to {02}{97}2?
+@3349
+Set fire to the rice storehouse at {02}{97}2?
+@3350
+Steal gold from {02}{97}2?
+@3351
+Steal a treasure from {02}{97}2?
+@3352
+Murder {02}{0B}2?
+@3353
+{02}{0B}3, under cover of darkness I mean to set fire to {02}{97}2 of the {02}{97}5. I ask your leave...
+@3353.1
+{02}{0B}3, I shall slip into {02}{97}2 of the {02}{97}5 under cover of night and set it ablaze. I ask your leave...
+@3353.2
+{02}{0B}3, the moon is hidden tonight, a perfect night for sabotage. I would try to set fire to {02}{97}2 of the {02}{97}5, with your leave...
+@3354
+A fine wind has risen... There will never be a better night to burn {02}{97}2 black...
+@3354.1
+The dead of night is our chance... Now!
+@3355
+A fine wind has risen... Now is the only time to burn {02}{97}2 black!
+@3355.1
+Throw in this fire, and {02}{97}2 will be burnt black...
+@3356
+That should be enough fire. Let us withdraw before we are noticed.
+@3356.1
+Pillars of flame rise on every side. That is enough. Let us withdraw.
+@3357
+That should be enough fire. Let us withdraw before we are noticed.
+@3357.1
+At this rate it will spread in no time. Let us withdraw before we are noticed.
+@3358
+Hm... The guard is too strict to approach. I give up for tonight...
+@3358.1
+The guard is stricter than I thought. I cannot get close. I shall try again.
+@3359
+Tsk... The guard is too strict to approach... Wiser to try again.
+@3359.1
+There is not a single gap! They would find me before I set a fire... I must give up.
+@3360
+The {02}{83}2 sabotage succeeded! The defence of {02}{97}2 of the {02}{97}5 fell by %d.
+@3361
+Someone seems to have slipped into {02}{97}2 and set fire to it. The defence of {02}{97}2 fell by %d.
+@3362
+{02}{0B}3, I mean to slip into {02}{97}2 of the {02}{97}5 under cover of darkness and set fire to the rice storehouse. I ask your leave...
+@3362.1
+{02}{0B}3, I shall slip into {02}{97}2 of the {02}{97}5 under cover of night and set fire to the rice storehouse. I ask your leave...
+@3362.2
+{02}{0B}3, I wish to slip into {02}{97}2 of the {02}{97}5 and burn down the rice storehouse. I beg your leave.
+@3363
+Set that storehouse alight, and the provisions will be gone in no time...
+@3363.1
+A good wind has risen... Light it now, and it will burn very well.
+@3364
+Set that storehouse alight, and the provisions will be gone in no time...
+@3364.1
+A good wind has risen... Now is the time to light it!
+@3366
+That should be enough fire. Let us withdraw before we are noticed.
+@3366.1
+It is spreading nicely... Let us withdraw before we are noticed.
+@3367
+Hm... The guard is too strict to approach. I shall try again...
+@3367.1
+The guard is stricter than I thought. I cannot get close... I give up this time.
+@3369
+The {02}{83}2 sabotage succeeded! The {02}{97}5 lost %d rice.
+@3370
+Someone seems to have slipped into {02}{97}2 and set fire to the rice storehouse. %d rice was lost.
+@3371
+{02}{0B}3, I mean to slip into {02}{97}2 of the {02}{97}5 and steal gold. I ask your leave...
+@3371.1
+{02}{0B}3, to steal gold I intend to slip into {02}{97}2 of the {02}{97}5. I ask your leave...
+@3371.2
+{02}{0B}3, to steal the gold of the {02}{97}5 I wish to slip into {02}{97}2. I ask your leave...
+@3372
+With a guard this lax, slipping in is easy. Now to find the treasury.
+@3372.1
+I got into {02}{97}2 with ease. I must find the treasury quickly...
+@3373
+Slipping into a castle is child's play. Let us find the treasury quickly.
+@3373.1
+A castle like this is easy for me. Now to find the treasury...
+@3374
+The gold is mine. Let us withdraw before we are noticed.
+@3374.1
+I must get this chest of gold to the master quickly... Farewell!
+@3375
+The gold is mine. Let us withdraw before we are noticed.
+@3375.1
+The chest of gold is mine! Now let us withdraw before the guards notice.
+@3376
+Hm... The guard is too strict to approach. I have no choice but to try again...
+@3376.1
+The guard is stricter than I thought. I cannot get close... I give up for tonight.
+@3376.2
+With a guard like this, I could never reach the treasury. A pity, but I give up...
+@3377
+Tsk... The guard is too strict to approach... Wiser to try again.
+@3377.1
+There is not a single gap! They would find me before I found the treasury... I must give up.
+@3378
+The {02}{83}2 operation succeeded! We slipped into {02}{97}2 of the {02}{97}5 and stole %d gold.
+@3379
+Someone seems to have slipped into {02}{97}2 and stolen %d gold.
+@3380
+I wish to slip into {02}{97}2 of the {02}{97}5 and steal a treasure. I ask your leave...
+@3381
+I shall slip into the castle and look for what I came for...
+@3381.1
+I shall slip into the castle. I must find the treasure quickly...
+@3382
+I shall slip into the castle and look for what I came for...
+@3382.1
+Once inside the castle, I must find the treasure quickly...
+@3383
+The treasure is mine. Let us withdraw before we are noticed.
+@3383.1
+The treasure is taken! No need to linger in such a place. I must hurry to the master.
+@3383.2
+Ah, there it is! Easy for the likes of me. Let us be gone.
+@3384
+The treasure is mine. Let us withdraw before we are noticed.
+@3384.1
+I have the treasure. No reason to linger. Let us return to the master.
+@3384.2
+Found it! Now I need only hand this treasure to the master.
+@3385
+The {02}{83}2 operation succeeded! We slipped into {02}{97}2 of the {02}{97}5 and stole {02}G2.
+@3386
+Hm... The guard is too strict to approach. Wiser to try again.
+@3386.1
+So many watchmen. I can do no work like this... I give up for tonight.
+@3387
+There are more watchmen than I thought. Too dangerous. Let us give up this time.
+@3387.1
+What a pity... With such a guard, I cannot even approach the treasure.
+@3388
+{02}{0B}2! Someone seems to have slipped into {02}{97}2 and stolen {02}G2!
+@3389
+{02}{0B}3, I mean to slip into {02}{97}2 of the {02}{97}5 and steal rice. I ask your leave...
+@3389.1
+{02}{0B}3, to steal rice I intend to slip into {02}{97}2 of the {02}{97}5. I ask your leave...
+@3389.2
+{02}{0B}3, to steal the rice of the {02}{97}5 I wish to slip into {02}{97}2. I ask your leave...
+@3390
+Steal rice from {02}{97}2?
+@3391
+Slipping into a castle is easy. Now to find the rice storehouse.
+@3391.1
+I got into {02}{97}2 with ease. I must find the rice storehouse quickly...
+@3392
+Slipping into a castle is child's play. Let us find the rice storehouse quickly.
+@3392.1
+A castle like this is easy for me. Now to find the rice storehouse...
+@3393
+The rice is stolen. All that is left is to withdraw.
+@3393.1
+One can never have too much rice. I shall take these bales to the master quickly.
+@3394
+The rice is stolen. Now let us withdraw before we are noticed.
+@3394.1
+The rice is mine! Now let us withdraw before the guards notice.
+@3395
+Hm... The guard is too strict to approach. I shall try again...
+@3395.2
+With a guard like this, I could never reach the storehouse. A pity, but I give up...
+@3396
+Tsk... The guard is too strict to approach... Wiser to try again.
+@3396.1
+There is not a single gap! They would find me before I found the storehouse... I must give up.
+@3397
+The {02}{83}2 operation succeeded! We slipped into {02}{97}2 of the {02}{97}5 and stole %d rice.
+@3398
+Someone seems to have slipped into {02}{97}2 and stolen %d rice.
+@3399
+{02}{0B}3, a chance has come to murder {02}{0C}2, an officer of the {02}{0C}k. What shall we do?
+@3400
+I bear {02}{0B}3 no grudge, but it is my duty... Your life is forfeit!
+@3400.1
+{02}{0B}3... In keeping with my duty, I shall take your life. Forgive me!
+@3401
+I bear {02}{0B}3 no grudge, but it is my duty... Your life is forfeit!
+@3401.1
+{02}{0B}3... In keeping with my duty, I shall take your life. Forgive me!
+@3402
+An assassin! A cowardly trick... Do you think such a method can fell me!
+@3402.1
+Insolent! Do you think I would fall to such a foul blade!
+@3402.2
+Assassin! Tell your master that I, {02}{0B}2, will not fall to such a despicable trick!
+@3403
+An assassin! A cowardly trick... Do you think to take the life of {02}{0B}2 so? Naive!
+@3403.1
+Insolent! Such tricks do not work on me! Show your face!
+@3403.2
+You dare aim at me? What nerve! Did you think such a trick would work?
+@3404
+It seems the {02}{83}2 assassination failed.
+@3405
+Ugh!! An assassin? Curse you, coward... {01}C{D7}{00}
+@3405.1
+Aaagh!! An assassin! {02}{0B}2 ends here... {01}C{D7}{00}
+@3405.2
+{01}C{D7}{00}!! Damn it! What... did you... do...
+@3405.3
+Gyaah! Curse you... Do not think... you will get away... with this! {01}C{D7}{00}!!
+@3406
+{01}C{D7}{00}!! Why must I... suffer this...
+@3406.1
+Aaah!! Why... why... me... {01}C{D7}{00}
+@3406.2
+{01}C{D7}{00}!! I will... not forgive... Heaven's wrath...!!
+@3407
+It seems the {02}{83}2 assassination succeeded.
+@3408
+{01}C{DE}{00}! You have done it! As expected of {02}{83}2!
+@3408.1
+As expected of {02}{83}2. Hiring you was worth it.
+@3408.2
+{02}{83}2... Not a change of expression as you got it done. A fearsome one.
+@3409
+{02}{0B}2! Terrible news! {02}{0C}2 has fallen to a ninja's hand and lost their life!
+@3410
+What! {01}C{0A}{00} was assassinated!? Curse them, what a cowardly deed...
+@3410.1
+What! {01}C{0A}{00} fell to an assassin's blade!? Impossible... Grr, I will not forgive this!
+@3410.2
+What! {01}C{0A}{00}... Then I shall have vengeance! Just watch...!
+@3410.3
+{01}C{0A}{00}... Impossible! With your ambitions only half fulfilled... Assassin! I cannot let you live!!
+@3411
+What!? {01}C{0A}{00} was assassinated!? What a cowardly deed...
+@3411.1
+Assassin! I will not forgive this! To lay hands on {01}C{0A}{00}, how cowardly!
+@3411.2
+Oh! {01}C{0A}{00}... I cannot believe it! How can I allow this!
+@3412
+{02}{0B}2 of the {02}{0B}k seems to have been assassinated by a ninja.
+@3413
+{01}C{D7}{00}!! Who are you! Guards! A suspicious character has slipped in!
+@3413.1
+{01}C{D7}{00}!! I-I will not be killed by a mere ninja! Guards! Seize that man!
+@3414
+{01}C{D7}{00}!! Who are you! Guards! A suspicious character has slipped in!
+@3414.1
+{01}C{D7}{00}!! I will not be killed by a mere ninja! Guards! Seize that one!
+@3415
+I could not finish the job... But I wounded them. Let us leave before the pursuers catch us.
+@3415.1
+Tsk! I could not finish the job... But I wounded them. Let me leave before the pursuers catch me.
+@3415.2
+Tsk! I failed to finish them! But it is unwise to press on... Let me leave.
+@3416
+{02}{83}2 wounded {02}{0B}2.
+@3417
+{02}{0B}2! {02}{0C}2 seems to have been wounded by a ninja.
+@3418
+Suspicious one! What are you doing there!?
+@3418.1
+Suspicious one! What are you doing there!?
+@3419
+......!
+@3420
+Though I am wounded, to let a spy pass would stain my {01}C{07}{00} name. Here I come!
+@3420.1
+Though I am wounded, to let a spy pass would stain my {01}C{07}{00} name. Here I come!
+@3420.2
+Whoever you are, you cannot escape me, the Sword Saint. Taste the secrets of the Shinkage school!
+@3420.3
+A spy? Then I cannot let you go. Taste the secret art of the Kashima Shinto school, the First Sword!
+@3420.4
+It is your bad luck to be found by me... I shall make you the rust on my blade!
+@3420.5
+I, {02}{0B}3, have not crossed battlefields for nothing. A spy will fall to a single stroke!
+@3420.6
+Halt! You will not escape!
+@3421
+Intruder! {01}C{D5}{00}, seize them!
+@3421.1
+Intruder! I shall seize you!
+@3421.2
+A suspicious character has slipped in! Men, seize them!
+@3422
+Damn! The castle is guarded this strictly...
+@3423
+{01}C{0B}{00}, let us capture {02}{0D}2 of the {02}{0D}k, who tried to poach us.
+@3424
+Ugh!? Found out! There is no helping it. Let us withdraw...
+@3424.1
+Ugh!? Found out! The stratagem is impossible now. Let me withdraw for the moment...
+@3424.2
+Ugh!? An interruption! No help for it. I withdraw here...
+@3424.3
+Ugh!? The guard is stricter than I thought. No help for it, I shall come again.
+@3425
+I lost them! What fast feet!
+@3425.1
+I lost them! What fast feet!
+@3426
+%s's {02}{0B}2 was captured by the {02}{0C}k during a poaching mission.
+@3427
+{02}{0B}2 of the {02}{0B}k was captured by the {02}{0C}k during a poaching mission. {02}{0B}2 seems to have been recruited.
+@3428
+{02}{0B}2 of the {02}{0B}k was captured by the {02}{0C}k during a poaching mission and seems to have met a bitter end.
+@3429
+{02}{83}2, sent to {02}y2, was discovered by {02}{84}2, a ninja in the service of the {02}{84}V!
+@3430
+{02}{83}2, sent to {02}y2, was discovered by {02}{0B}2, a local lord of {02}y2!
+@3430.1
+{02}{83}2, sent to {02}y2, was discovered by {02}{0B}2, head of the {02}{0B}k!
+@3430.2
+{02}{83}2, sent to {02}y2, was discovered by {02}{0B}2, an officer of the {02}{0B}k!
+@3431
+{02}{0B}2, a local lord of {02}y2, has discovered {02}{83}2, a ninja of the {02}{83}V!
+@3431.1
+{02}{0B}2, on guard in {02}y2, has discovered {02}{83}2, a ninja of the {02}{83}V!
+@3431.2
+{02}{0B}2, on guard in {02}y2, has discovered {02}{83}2, a ninja of the {02}{83}V!
+@3432
+The ninja {02}{83}2, lying low in {02}y2, was wounded.
+@3433
+The ninja {02}{83}2 has been slain... Unless another ninja is in {02}y2, we will lose sight of {02}y2.
+@3434
+{02}{0B}2, a local lord on guard in {02}y2, was wounded in a fight with a ninja.
+@3434.1
+{02}{0B}2, on guard in {02}y2, was wounded in a fight with an enemy ninja.
+@3434.2
+{02}{0B}2, on guard in {02}y2, was wounded in a fight with an enemy ninja.
+@3435
+{02}{0B}2, a local lord on guard in {02}y2, died after a swordfight with a ninja.
+@3435.1
+{02}{0B}2, on guard in {02}y2, was killed at the hands of an enemy ninja.
+@3435.2
+{02}{0B}2, on guard in {02}y2, was killed at the hands of an enemy ninja.
+@3436
+{02}{0B}2, a local lord of {02}y2, died after a swordfight with a ninja.
+@3436.1
+{02}{0B}2, daimyo of the {02}{0B}k, is said to have died after a swordfight with a ninja.
+@3436.2
+{02}{0B}2, an officer of the {02}{0B}k, is said to have died after a swordfight with a ninja.
+@3437
+The ninja {02}{83}2's ability rose to %s.
+@3439
+Fiefs will be granted in one lot to the officers who want a raise. Is that all right?
+@3440
+Raised the fiefs of %d officers.
+@3441
+Then I ask that you raise my fief by %d.
+@3441.2
+{01}C{0B}{00}, I humbly ask for a raise of %d in my fief.
+@3442
+With respect... Other retainers would envy me. No further raise is needed.
+@3442.1
+I could not possibly accept more. When I have won greater merit, I will accept your word.
+@3443
+I am grateful for the offer, but with any further raise I would feel I wrong the others. I decline this time.
+@3444
+I am grateful for the offer, but with my present merit I cannot take more fief. No raise is needed.
+@3445
+I am grateful for the offer, but I am content with my present fief. No raise is needed.
+@3445.1
+I have not won enough merit to deserve a raise. Please spare yourself the trouble.
+@3445.2
+A man like me needs no further raise. Give it to another who has done great deeds.
+@3447
+As you wish, I grant a raise of %d in fief.
+@3448
+This time the raise is %d in fief.
+@3449
+Cancel the raise
+@3450
+Now I can lead many more troops. Look forward to my deeds on the battlefield.
+@3450.1
+A greater fief feeds more troops. I shall repay this favour with feats of arms.
+@3450.2
+I am most grateful. I shall repay this favour with my spear.
+@3451
+Such generous favour is a great honour. I shall surely do work worthy of this reward.
+@3451.1
+Such generous favour is my good fortune. I shall keep striving so as not to betray {01}C{0B}{00}'s expectations.
+@3452
+I gladly accept this raise. I shall strive to repay the favour.
+@3453
+I gladly accept the raise in fief.
+@3454
+Thank you for granting my wish. I shall surely do work worthy of this reward.
+@3455
+A raise of %d will do nicely. I, {02}{0B}3, shall serve all the more faithfully.
+@3456
+A raise of %d... No, I have no complaint. I am most grateful.
+@3457
+It is not what I wished, but a raise of %d will content me.
+@3458
+It is not what I wished, but since you have raised it, I shall be content.
+@3459
+If the raise matches my merit, I am content.
+@3459.1
+At last I have a fief worthy of my merit. I feel rewarded.
+@3460
+Since I have received a fief worthy of my merit, I am content.
+@3461
+It is not what I wished, but as I have not received a fief worthy of my merit... I shall be content.
+@3462
+Since you are raising my fief, I have no complaint... but please consider my merit as well.
+@3462.1
+I am grateful for the raise in fief, but please consider my merit as well, and treat me more generously next time...
+@3463
+I am most grateful... But next time I expect a further raise.
+@3463.1
+I am most grateful... But do not forget that retainers are loyal when their fief matches their merit.
+@3464
+Hahaha, {01}C{0B}{00} is generous! Now I must show deeds worthy of this raise.
+@3464.1
+I have no words to thank you for such promotion. I shall surely meet your expectations.
+@3464.2
+As expected of {01}C{0B}{00}! Promote me and you cannot go wrong. I shall surely be of use.
+@3467
+A man like me, given such generous favour... I have no words to thank you. I, {02}{0B}3, swear lifelong loyalty.
+@3483
+Our clan's yield is hardly generous, yet to receive such a fief is more honour than I deserve.
+@3483.1
+I gladly accept this raise.
+@3484
+I hear there is not enough land for rewards, yet to raise even me is a blessing.
+@3485
+What! Is that so? Then next time, by all means...
+@3486
+I cut your fief by %d.
+@3487
+Cancel the cut
+@3488
+I cannot accept such a punishment. I must think about my future...
+@3488.1
+What is this! To stay silent would shame a warrior. Just you wait...
+@3489
+Why, why such a ruling for me? I do not understand!!
+@3489.1
+Why must I suffer such treatment? I do not understand {01}C{0B}{00}'s thinking!
+@3490
+It is presumptuous to object to {01}C{0B}{00}'s decisions, but... I cannot accept this treatment.
+@3491
+Why!? Have I displeased you in some way?
+@3492
+So my service was not enough...
+@3492.1
+Hmm... So my service was not enough...
+@3492.2
+So my service is still lacking...
+@3492.3
+I see... Then I shall strive to earn a reward next time.
+@3493
+{01}C{0B}{00}... Please do not frighten me so.
+@3493.1
+I see. What a relief.
+@3494
+No ruling this time, then. I shall await the next reward.
+@3495
+I gratefully accept. I, {02}{0B}3, pledge even more loyal service.
+@3496
+So my service was not enough...
+@3499.1
+Hmm... So my service was not enough...

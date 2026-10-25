@@ -1,0 +1,429 @@
+e640240	Rice
+e640248	Horses
+e640250	Guns
+e640258	Cannon
+e640260	Taciturn
+e640268	Polite
+e640270	Rough
+e640278	Noble
+e640280	Cheeky
+e640288	Dignified
+e640290	Talkative
+e640298	Normal
+e6402a0	Ignore
+e6402a8	Rather Ignore
+e6402b8	Rather Value
+e6402c8	Value
+e640300	No biography has been prepared yet.
+e640388	Court
+e640390	Free City
+e6403a0	Ninja
+e6403a8	Old Buddhist
+e6403b0	Ikko
+e6403b8	Christian
+e6403c0	Pirates
+e6403c8	Gentry
+e6403d0	Shogunate
+e6403d8	Normal
+e6403e0	Ill
+e6403e8	Injured
+e6403f0	Dead
+e640400	Gentry
+e640408	Notable
+e640410	Daimyo
+e640418	Active
+e640420	Retired
+e640428	Ronin
+e640430	Minor
+e640438	Unborn
+e640440	Princess
+e640448	Merchant
+e640450	Monk
+e640458	Ninja
+e640460	F
+e640468	M
+e640510	Name
+e640518	Given
+e640520	Alias
+e640528	Family
+e640530	Reading
+e640538	Gender
+e640540	Speech
+e640548	Status
+e640550	Prestige Wt.
+e640560	Origin Clan
+e640570	Rival Clan
+e640580	Born
+e640588	Debut
+e640590	Died
+e640598	Face No.
+e6405a0	Duty
+e6405a8	Compat.
+e6405b0	Bloodline No.
+e6405c0	Health
+e6405c8	Province
+e6405d0	Age
+e6405d8	City
+e6405e0	Old Buddhist
+e6405e8	Ikko
+e6405f0	Christian
+e6405f8	Uprising
+e640600	Unrest
+e640608	Normal
+e640610	Ikko
+e640618	Sect
+e640620	Status
+e640628	Uprising Target
+e640638	Title
+e640640	Court Rank
+e640648	Appointee
+e640658	Rank
+e640660	Reading
+e640668	Uprising
+e640670	Unrest
+e640678	Normal
+e640680	Gold Mine
+e640688	Horses
+e640690	Medic
+e640698	Castle
+e6406a0	Smith
+e6406a8	Skill
+e6406b0	Yield
+e6406b8	Status
+e6406c0	Uprising Target
+e6406d0	Poor Harvest
+e6406d8	Good Harvest
+e6406e0	Revolt
+e6406e8	Unrest
+e6406f0	%s
+e640758	Province
+e640760	Reading
+e640768	Region
+e640770	Province
+e640778	Sea Area
+e640780	Snow Rate
+e640788	Snow
+e640790	Max. Yield
+e6407a0	Ruling Daimyo
+e6407b0	Unifier
+e6407c0	No.
+e6407c8	Flood Ctrl.
+e6407d0	Uprising
+e6407d8	Harvest
+e6407e0	Typhoon
+e6407e8	Flood
+e6407f0	Drought
+e6407f8	Cold Dmg.
+e640800	Famine
+e640808	Heavy Snow
+e640810	Epidemic
+e640818	Earthquake
+e640820	Storm
+e640828	Castle1
+e640830	Castle2
+e640838	Castle3
+e640840	Daimyo 1
+e640848	Daimyo 2
+e640850	Daimyo 3
+e640858	Gentry
+e640860	Free City
+e640870	Temples
+e640878	Ninja
+e640880	Pirates
+e640888	Officers
+e640890	Troops
+e640898	Yield
+e6408a0	Powers 1
+e6408b0	Powers 2
+e6408c0	Powers 3
+e6408d0	Powers 4
+e6408e0	Powers 5
+e6408f0	Castle
+e6408f8	Imperial Land
+e640900	Squad
+e640908	0
+e640910	1
+e640918	2
+e640920	3
+e640928	4
+e640930	5
+e6409c0	Sr. 8th Lower
+e6409d0	Sr. 8th Upper
+e6409e0	Jr. 7th Lower
+e6409f0	Jr. 7th Upper
+e640a00	Sr. 7th Lower
+e640a10	Sr. 7th Upper
+e640a20	Jr. 6th Lower
+e640a30	Jr. 6th Upper
+e640a40	Sr. 6th Lower
+e640a50	Sr. 6th Upper
+e640a60	Jr. 5th Lower
+e640a70	Jr. 5th Upper
+e640a80	Sr. 5th Lower
+e640a90	Sr. 5th Upper
+e640aa0	Jr. 4th Lower
+e640ab0	Jr. 4th Upper
+e640ac0	Sr. 4th Lower
+e640ad0	Sr. 4th Upper
+e640ae0	Jr. 3rd Rank
+e640ae8	Sr. 3rd Rank
+e640af0	Jr. 2nd Rank
+e640af8	Sr. 2nd Rank
+e640b00	Jr. 1st Rank
+e640b08	Sr. 1st Rank
+e640938	6
+e640940	7
+e640948	8
+e640950	9
+e640958	-
+e640960	-
+e640968	1
+e640970	2
+e640978	3
+e640980	4
+e640988	5
+e640990	6
+e640998	7
+e6409a0	8
+e6409a8	9
+e640b60	%d mo.
+e640b68	S
+e640b70	A
+e640b78	B
+e640b80	C
+e640b88	D
+e640b90	E
+e640bf8	None
+e640c18	Abilities
+e640c20	Ninja Band
+e640c30	Sent To
+e640c40	Time Left
+e640c50	Target Province
+e640c60	Progress
+e640cb0	Ninja Sent
+e640cc0	Nobunaga's Birth
+e640cd0	Nobuyuki's Revolt
+e640ce0	Anti-Nobunaga Net
+e640cf0	Honnoji Incident
+e640d00	Clan Split
+e640d10	Viper of Mino
+e640d20	Battle of Yamazaki
+e640d30	Nobunaga's Coming of Age
+e640d40	Battle of Okehazama
+e640d50	Death of Shingen
+e640d60	Shikoku Campaign
+e640d70	Eve of Sekigahara
+e640d80	Osaka Campaigns
+e640d90	War of the Lords
+e640db8	Next
+e640dc0	Initial Setup
+e640dd0	Farm
+e640dd8	Comm.
+e640de0	Repair
+e640de8	Train
+e640df0	Guard
+e640df8	Recruit
+e640e00	Poach
+e640e08	Uprising
+e640e10	Ninja
+e640e18	Battle
+e640e20	Unit Type
+e640e30	Reward
+e640e38	Retire
+e640e40	Adopt
+e640e48	Dismiss
+e640e50	Training Trip
+e640e58	Create Corps
+e640e68	Split Corps
+e640e78	Join Corps
+e640e88	Reappoint Cmdr
+e640e98	War Council
+e640ea0	Transport
+e640ea8	Move
+e640eb0	Tribute
+e640eb8	Wed
+e640ec0	Threaten
+e640ec8	Vassalage
+e640ed0	Secede
+e640ed8	Joint
+e640ee0	Trade
+e640ee8	Negotiate
+e640ef0	Survey
+e640ef8	Arson
+e640f00	Request Dispatch
+e640f10	Request Trade
+e640f20	Appoint Post
+e640f30	Flood Ctrl.
+e640f40	Powers/Notables Serve
+e640f58	Powers: Covert Ops
+e640f68	Powers: Publicise
+e640f78	Powers: Gold Aid
+e640f90	Gentry/Temple Aid Req.
+e640fa8	Court: Imperial Words
+e640fc0	Court: Return Lands
+e640fd8	Court: Gold Request
+e640fe8	Court: Name Shogun
+e640ff8	Court: Grant Title
+e641008	Court: Gifts
+e641020	Court: Incite Corps Revolt
+e641040	Court: Clan Friendship Down
+e641060	Court: Power Friend. Down
+e641078	Free City: Trade
+e641090	Free City: Buy Treasure
+e6410a8	Free City: Dispatch
+e6410b8	Temple: Uprising
+e6410c8	Temple: Missions
+e6410d8	Gentry: Uprising
+e6410e8	Gentry: Specialties
+e6410f8	Gentry: Festival
+e641110	Gentry: Gift Primer
+e641128	Gentry: Guard
+e641140	Ninja: Extend Stay
+e641158	Ninja: Return
+e641168	Ninja: Intrigue
+e641178	Pirates: Trade
+e641188	Pirates: Expand
+e641198	Pirates: Piracy
+e6411a8	Court: Visit
+e6411b8	Powers: Troops
+e6411c8	Court Noble Talks
+e6411d8	Punish
+e649d68	BGM
+e649d70	SE
+e649d78	Tenbun
+e649d80	Koji
+e649d88	Eiroku
+e649d90	Genki
+e649d98	Tensho
+e649da0	Bunroku
+e649da8	Keicho
+e649db0	Genna
+e649db8	Kanei
+e649dc0	Shoho
+e649dc8	Keian
+e649dd0	Joo
+e649dd8	Meireki
+e649de0	Manji
+e649de8	Kanbun
+e649df0	Empo
+e649df8	Tenna
+e649e00	Jokyo
+e649e08	Genroku
+e649e10	Nemesis
+e649e18	Opposed
+e649e20	Distant
+e649e28	Friendly
+e649e30	Close
+e649e38	Shogunate
+e649e40	Court
+e649e48	Ninja
+e649e50	Temples
+e649e58	Free City
+e649e68	Gentry
+e649e70	Pirates
+e649e80	Power Name
+e649e90	Reading
+e649e98	Scale
+e649ea0	Hostile Daimyo
+e649eb0	Investment
+e649ec0	Friendship
+e649ec8	Ties
+e649ed0	Province
+e649ed8	Type
+e649ee0	Notable
+e64a4c0	Tengu's
+e64aa50	Orochimaru
+e64aed8	Izayoi's
+e64b138	Kanami
+e64cb18	Recruit
+e64cb28	Don't Recruit
+e64ceb0	Tengu's
+e64d440	Orochimaru
+e64da88	Page
+e64db50	Buy
+e64db58	Sell
+e64db60	%s for %d gold: %s
+e64db80	%s x%d for %d gold: %s (rate %1.02f)
+e64dba0	Haggle
+e64dba8	Overcharge
+e64dbb8	Call Off
+e64dbc8	%s: %s
+e64dbd8	Cancel %s
+e64dbe8	Finish Trading
+e64dd40	Execute
+e64dd48	Cancel
+e64de10	Train
+e64de18	Guard
+e64de20	None
+e64de90	Defend
+e64de98	Develop
+e64dea0	Conquer
+e64dea8	Direct
+e64ded8	+%4d more
+e64def0	%4d/%2d
+e64df08	Corps %s
+e64dff8	Imperial Land
+e64e070	Cultivate (G20)
+e64e080	Commerce (G20)
+e64e090	Repair (G10)
+e64e0a0	None
+e64e0b0	Recruit
+e64e0b8	Poach (G5)
+e64e0c8	Uprising
+e64e0d0	None
+e64e108	Close to %s
+e64e180	Gold %d
+e64e458	Gold Mine
+e64e460	Silver Mine
+e64e468	Ikko
+e64e470	Lord of Heaven
+e64e478	Buddha
+e64e480	et al.
+e64e488	Fine Sword
+e64e490	Fine Spear
+e64e498	Matchlock
+e64e4a0	Pistol
+e64e4a8	Tea Utensils
+e64e4b8	Swords
+e64e4c0	Learning Book
+e64e4c8	Strategy Book
+e64e4d0	Page
+e64e4d8	Pepper
+e64e4e8	Gold
+e64e4f0	Rice
+e64e4f8	Ikko
+e64e500	Old Buddhist
+e64e508	Christian
+e64e668	 Options 
+e64e6a0	 Quit Game 
+e64e6c0	Return to Title Screen
+e64e6e0	Switch to Demo Play
+e64eb40	Select Corps
+e64eb50	Select Policy
+e64eb68	Select Target
+e64eb78	Select Corps 1
+e64eb88	Select Corps 2
+e64eb98	Set Supplies
+e64eba8	Select New Commander
+e64ebb8	Confirm
+e64ebc0	Select Source
+e64ebd0	Select Destination
+e64ebe0	Confirm Choice
+e64ebf0	Change Corps
+e64ec00	Select Province
+e64ec10	Select Origin
+e64ec20	Select Ninja
+e64ec30	Select Destination
+e64ec40	Select Ninja Band
+e64ec50	Select Merchant
+e64ec60	Select Officer
+e64ec70	Select Temple
+e64ec80	Select Gentry
+e64ec90	Select Power
+e649d18	Scenario No.
+e649d28	Start Year
+e649d30	Start Month
+e649d38	Year
+e649d40	Month
+e649d48	Month Count
+e649d58	Event
