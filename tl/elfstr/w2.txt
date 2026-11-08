@@ -208,7 +208,7 @@ e640cf0	Honnoji Incident
 e640d00	Clan Split
 e640d10	Viper of Mino
 e640d20	Battle of Yamazaki
-e640d30	Nobunaga's Coming of Age
+e640d30	Coming of Age
 e640d40	Battle of Okehazama
 e640d50	Death of Shingen
 e640d60	Shikoku Campaign
@@ -398,28 +398,28 @@ e64e668	 Options
 e64e6a0	 Quit Game 
 e64e6c0	Return to Title Screen
 e64e6e0	Switch to Demo Play
-e64eb40	Select Corps
-e64eb50	Select Policy
-e64eb68	Select Target
-e64eb78	Select Corps 1
-e64eb88	Select Corps 2
-e64eb98	Set Supplies
-e64eba8	Select New Commander
+e64eb40	Corps
+e64eb50	Policy
+e64eb68	Target
+e64eb78	Corps 1
+e64eb88	Corps 2
+e64eb98	Supplies
+e64eba8	New Leader
 e64ebb8	Confirm
-e64ebc0	Select Source
-e64ebd0	Select Destination
-e64ebe0	Confirm Choice
+e64ebc0	Source
+e64ebd0	Destination
+e64ebe0	Confirm
 e64ebf0	Change Corps
-e64ec00	Select Province
-e64ec10	Select Origin
-e64ec20	Select Ninja
-e64ec30	Select Destination
-e64ec40	Select Ninja Band
-e64ec50	Select Merchant
-e64ec60	Select Officer
-e64ec70	Select Temple
-e64ec80	Select Gentry
-e64ec90	Select Power
+e64ec00	Province
+e64ec10	Origin
+e64ec20	Ninja
+e64ec30	Destination
+e64ec40	Ninja Band
+e64ec50	Merchant
+e64ec60	Officer
+e64ec70	Temple
+e64ec80	Gentry
+e64ec90	Power
 e649d18	Scenario No.
 e649d28	Start Year
 e649d30	Start Month

@@ -81,7 +81,7 @@ e626048	Hide minimap
 e626058	Brief/Full
 e626068	Switch powers
 e626078	Switch display
-e626090	\eCPPurple: ill/hurt  \eCGGreen: magistrate\eCW
+e626090	\eCPSick/Hurt  \eCGMagistrate\eCW
 e6260b0	Historical 1
 e6260c0	Historical 2
 e6260d0	Fictional

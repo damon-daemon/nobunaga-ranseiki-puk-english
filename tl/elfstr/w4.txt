@@ -21,7 +21,7 @@ e655460	Aid From
 e6554e0	Nobunaga's Ambition: Ranseiki w/PUK Save Data
 e656040	Nobunaga's Birth
 e656050	Nobuyuki's Revolt
-e656088	Nobunaga's Coming of Age
+e656088	Coming of Age
 e6560a8	Shingen's Death
 e6560b8	Shikoku Campaign
 e6564b0	-

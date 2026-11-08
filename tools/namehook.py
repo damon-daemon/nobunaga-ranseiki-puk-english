@@ -60,6 +60,15 @@ CASTLE_CAT = 0x210AE0                   # jal strcat(name copy, suffix table[+0x
 CASTLE_TYPE = 0x20FFA0                  # jal strlen(suffix word) in the type-word getter 0x20FF70
 HOUSE_CAT = 0x1A18AC                    # jal strcat(family copy, house suffix[+0x73]) in 0x1A17C0
 SHOGUN_CAT = 0x181EC8                   # jal strcat(family copy, "幕府") in 0x181E40
+# province vtbl+0x34 (0x1ECEF0) = sprintf(COPY(0), "%s国" e6406f0, a0+8): raw name, bypasses the hooked
+# GetName 0x1ECF50 (gentry battle forts "尾張 Fort", GitHub issue #5). Rewritten in place to take the name
+# from 0x1ECF50 instead (11 words 0x1ECF00-0x1ECF28; s1 = the name, frame unchanged).
+PROV_FMT = 0x1ECF00
+# Officer Info bio panel (0x3DF640): the line under the years is jal 0x1DB760 (full kana reading, String +0xC)
+# -> widget +0xC4. Retargeted to person GetName (hooked): the English full name (GitHub issue #6,
+# notes/survey/bioreading.md). The setter copies at once; the line box is 384 px.
+BIO_READING, FULL_READING = 0x3DF6E0, 0x1DB760
+SPRINTF = 0x137670
 
 # castle suffix table 0x18BF470 (13: 城 館 御坊 御所 寺 砦 町 城 城 寺 要塞 宮殿 迷宮)
 SUFFIX_EN = [' Castle', ' Hall', ' Gobo', ' Palace', 'ji', ' Fort', ' Town', ' Castle', ' Castle', 'dera',
@@ -443,6 +452,19 @@ def apply(elf, clean, seg, scens):
     for site, orig, label in sites:
         assert jal_target(word(site), site) == orig, 'hook site %x changed' % site
         elfseg.patch(elf, site, jal(lab[label]))
+    assert jal_target(word(BIO_READING), BIO_READING) == FULL_READING, 'bio reading site changed'
+    elfseg.patch(elf, BIO_READING, jal(PERSON_GETNAME))
+    # province formatted name: GetName (hooked) instead of the raw +8
+    assert (jal_target(word(PROV_FMT + 8), PROV_FMT + 8) == COPY and word(PROV_FMT + 0x20) == 0x26260008
+            and jal_target(word(PROV_FMT + 0x24), PROV_FMT + 0x24) == SPRINTF
+            and word(PROV_FMT + 0x28) == 0), 'province name getter 0x1ECEF0 changed'
+    elfseg.patch(elf, PROV_FMT, asm.assemble(PROV_FMT, [
+        ('jal', 0x1ECF50), ('nop',),                    # v0 = GetName(a0 = province)
+        ('or', 's1', 'v0', 'zero'),
+        ('jal', COPY), ('or', 'a0', 'zero', 'zero'),
+        ('or', 's0', 'v0', 'zero'), ('or', 'a0', 'v0', 'zero'),
+        ('lui', 'v0', 0x64), ('addiu', 'a1', 'v0', 0x6F0),
+        ('jal', SPRINTF), ('or', 'a2', 's1', 'zero')]))
     return ents, conflicts
 
 # ---------------------------------------------------------------- cli
