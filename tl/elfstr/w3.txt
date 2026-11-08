@@ -1,20 +1,20 @@
-e64eca0	Select Envoy
-e64ecc0	Select Post
-e64ecd0	Select Princess
-e64ece8	Select Destination
-e64ecf8	Select Reward
-e64ed08	Confirm Reward
+e64eca0	Envoy
+e64ecc0	Post
+e64ecd0	Princess
+e64ece8	Destination
+e64ecf8	Reward
+e64ed08	Confirm
 e64ed18	Change Treasure
-e64ed28	Select Treasure
-e64ed38	Select Fief
-e64ed48	Select Target
-e64ed58	Select Origin
+e64ed28	Treasure
+e64ed38	Fief
+e64ed48	Target
+e64ed58	Origin
 e64ed70	No navy to cross the sea.
-e64ed90	Select Unit Type
-e64eda0	Select Province
-e64eda8	Select Magistrate
-e64edb8	Select Poach Target
-e64edc8	Select Uprising Target
+e64ed90	Unit Type
+e64eda0	Province
+e64eda8	Magistrate
+e64edb8	Poach Target
+e64edc8	Uprising Target
 e64eeb8	Def.
 e64eec0	+%4d
 e64eec8	No change

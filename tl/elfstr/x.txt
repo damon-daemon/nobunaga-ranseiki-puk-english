@@ -95,3 +95,11 @@ e625cc8	Cursor
 e6e3658	Arms
 e6e3668	Reading
 e6e2e70	Save
+# memory-card operation words used gp-relative (addiu a?,gp,-0x6400/-0x63F8; 17 sites each, no lui/addiu pair
+# so the survey calls them "noref"): edit-officer "Could not %s" showed セーブ (GitHub issue #7)
+e6e3970	Save
+e6e3978	Load
+# step tabs (0x64EB40-0x64EDC8, "X選択"): tabs are sized to their text and the bar has no room for "Select X";
+# Sortie's 4th tab Confirm and the key bar's Sort were pushed off screen (GitHub issue #4)
+e64ecb0	Daimyo
+e64ecd8	Tribute
