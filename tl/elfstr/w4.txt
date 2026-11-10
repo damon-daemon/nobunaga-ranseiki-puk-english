@@ -181,7 +181,7 @@ e6e3108	 is planning
 e6e3118	Button
 e6e3120	As Vassal
 e6e3168	Report
-e6e3170	Options
+e6e3170	Menu
 e6e3178	Map
 e6e31a8	Townsman
 e6e31d8	Tea Caddy
@@ -240,7 +240,7 @@ e6e3670	Value
 e6e3678	Epithet
 e6e3680	Good
 e6e3690	Poor
-e6e36a8	Confirm
+e6e36a8	OK
 e6e36b0	Kunoichi
 e6e36b8	Male Ninja
 e6e3ae0	Daimyo 1

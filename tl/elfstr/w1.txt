@@ -37,8 +37,8 @@ e625ce0	Quit without saving changes?
 e625d00	Adjust value
 e625d10	Face type shown
 e625d20	Selected skill
-e625d30	Cancel
-e625d40	Switch type
+e625d30	Quit
+e625d40	Type
 e625d50	Enter the name
 e625d70	Enter the reading
 e625db8	Brief/Full
@@ -72,10 +72,10 @@ e625fb8	Can buy
 e625fc8	Total yield
 e625fd8	Total commerce
 e625fe8	Scheme progress
-e625ff8	Officers
-e626008	Set to max
-e626018	Set value
-e626028	Choose goods
+e625ff8	Roster
+e626008	Max
+e626018	Value
+e626028	Goods
 e626038	Show minimap
 e626048	Hide minimap
 e626058	Brief/Full
