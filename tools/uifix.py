@@ -263,4 +263,37 @@ def apply(elf, seg):
             ('j', site + 8),
             ('sll', 'v1', 'v1', 3)])
         elfseg.patch(elf, site, assemble(site, [('j', stub), ('nop',)]))
+    names(elf, seg)
     return drops
+
+# Issue #11 (notes/survey/treasure_ui.md). CUT12: five string-field getters copy a name of 13+ bytes
+# into a ring buffer and cut it at 12 (`sltiu at,v0,0xd` after strlen): treasure list Owner
+# 0x1D6B30, Court Ranks Appointee 0x1E0E30, real/foster parent 0x185B30/0x18E0C0, treasure 0x1D64B0.
+# The limit becomes 0x7FFF, so the direct String-assign path (as in the Name columns) is always taken.
+CUT12 = (0x1D6B94, 0x1E0EB4, 0x185BC0, 0x18E144, 0x1D6538)
+CUT12_OLD, CUT12_NEW = 0x2C41000D, 0x2C417FFF
+# TITLE_RECT: the window base 0x312BC0 builds the title plate (window+0xAC) with a fixed 192 x 24 text
+# rect (sp+0x50..0x5C) whatever the plate width a3 (style table 0x61FFD0: treasure window 148 px), so
+# long English names spilled past the plate instead of being squeezed (vwf SQUEEZE uses the text
+# object's width). Rect right = left + plate width - 1 when the plate is narrower than 192.
+TITLE_RECT = 0x312EC0                    # addiu t0,zero,0x1c; (delay) addiu t1,sp,0x50
+TITLE_RECT_OLD = (0x2408001C, 0x27A90050)
+
+def names(elf, seg):
+    w = lambda va: elfseg.word(elf, va)
+    for site in CUT12:
+        assert w(site) == CUT12_OLD, 'name cut site %x changed' % site
+        elfseg.patch(elf, site, struct.pack('<I', CUT12_NEW))
+    assert (w(TITLE_RECT), w(TITLE_RECT + 4)) == TITLE_RECT_OLD, 'title rect site changed'
+    stub = seg.code([
+        ('addiu', 't0', 'zero', 0x1C),
+        ('sltiu', 'v1', 'a3', 0xC0),
+        ('beqz', 'v1', 'done'),
+        ('lw', 'v0', 0x50, 'sp'),
+        ('addu', 'v0', 'v0', 'a3'),
+        ('addiu', 'v0', 'v0', -1),
+        ('sw', 'v0', 0x58, 'sp'),
+        'done:',
+        ('j', TITLE_RECT + 8),
+        ('nop',)])
+    elfseg.patch(elf, TITLE_RECT, assemble(TITLE_RECT, [('j', stub)]))   # delay slot = addiu t1,sp,0x50

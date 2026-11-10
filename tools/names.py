@@ -45,7 +45,7 @@ TABLES = {
     'regions':     (0x25BF2, 63, 11,   [(3, 8, 11, 34)]),
     'treasures':   (0x26349, 67, 380,  [(3, 14, 17, 50)]),
     'towns':       (0x2C754, 71, 12,   [(3, 18, 21, 50)]),     # merchant towns 商人町
-    'temples':     (0x2CAA9, 71, 21,   [(3, 18, 21, 50)]),
+    'temples':     (0x2CAA9, 71, 24,   [(3, 18, 21, 50)]),     # 21-22 chapels (empty in s1/6/8), 23 Obi Ankokuji (#10)
     'courttitles': (0x2D152, 56, 350,  [(3, 14, 17, 38)]),
     'kunishu':     (0x31DE3, 71, 54,   [(3, 18, 21, 50)]),     # 国衆 local powers
     'provinces':   (0x32D25, 75, 77,   [(3, 10, 13, 34)]),     # 64 provinces + 13 sea areas
@@ -276,6 +276,32 @@ def romaji(kana, given=False):
     if given and out.endswith('bee'):
         out = out[:-3] + 'bei'
     return out.capitalize()
+
+TITLE_TAILS = ('たいじょう', 'しょうじょう', 'じょう', 'かみ', 'すけ', 'べっとう', 'とう', 'くろうど')
+
+def title_romaji(kana):
+    """Court title reading as shown in the Court Ranks list's Reading column (issue #13):
+    おわりのかみ -> Owari no Kami, くろうどのべっとう -> Kurodo no Betto, だじょうだいじん -> Dajodaijin."""
+    m = re.fullmatch('(.+)の(%s)' % '|'.join(TITLE_TAILS), kana)
+    parts = [m.group(1), m.group(2)] if m else [kana]
+    out = ' no '.join(romaji(p) for p in parts)
+    return out.replace('hyoue', 'hyoe')                    # ひょうえ (兵衛) Hyoe, not Hyoue
+
+def romanise_readings(scen, table='courttitles'):
+    """Scenario file bytes with the table's kana readings replaced by romaji (NUL-padded in place)."""
+    out = bytearray(scen)
+    off, size, count, parts = TABLES[table]
+    for i in range(count):
+        for a, n, b, m in parts:
+            if b is None:
+                continue
+            p = off + i * size + b
+            rd = field(out[p:p + m])
+            if rd:
+                en = title_romaji(rd).encode('ascii')
+                assert len(en) < m, (table, i, en)
+                out[p:p + m] = en.ljust(m, b'\0')
+    return bytes(out)
 
 # ---------------------------------------------------------------- tl
 

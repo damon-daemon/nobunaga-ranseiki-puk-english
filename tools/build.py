@@ -71,7 +71,8 @@ def build_files(disc):
     sce_tl = scehead.load_tl(disc)
     files[scehead.FILE] = scehead.apply(disc.file(scehead.FILE), sce_tl)      # scenario titles (settings page)
     for k in names.SCENARIOS:
-        files[names.SCEN_FILE % k] = scehead.apply(disc.file(names.SCEN_FILE % k), sce_tl, 1)
+        files[names.SCEN_FILE % k] = names.romanise_readings(        # court title readings (#13)
+            scehead.apply(disc.file(names.SCEN_FILE % k), sce_tl, 1))
         files[scehead.VAR_FILE % k] = scehead.apply(disc.file(scehead.VAR_FILE % k), sce_tl, 1)
     english, bad = tl.build_all(quiet=True)
     if bad:

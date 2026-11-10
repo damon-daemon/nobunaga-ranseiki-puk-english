@@ -175,7 +175,81 @@ def apply(elf, seg):
         elfseg.patch(elf, site, assemble(site, [('j', stub), ('nop',)]))
     assert tuple(w(CLIP + 4 * i) for i in range(4)) == CLIP_OLD, 'clip site changed'
     elfseg.patch(elf, CLIP, assemble(CLIP, [('bltz', 's0', CLIP + 16), ('nop',), ('nop',), ('addiu', 's0', 'zero', 12)]))
+    if not os.environ.get('NO_GLYPH_SCALE'):
+        glyph_scale(elf, seg, scale)
     return table
+
+# GLYPH SCALE (issues #11/#12): with SQUEEZE alone the 12-px glyph sprites overlap ("letters seem to
+# overlap"). A squeezed glyph instead gets a copy of the sprite vtable 0x679730 whose size getter
+# (slot +0x74, 0x157A20: f12/f13 = float(+0x44 w / +0x48 h) -> draw +0x70 0x157A70) returns
+# w * scale >> 8, so the sprite is drawn narrower; the texture rectangle (u = col * w, 0x157B94) and
+# the int w stay. One clone per scale step of 8 (scale word just before each clone); the glyph
+# function sets the clone after the sprite ctor 0x157F80 (0x59CCD4, s2 = sprite, 0 when the pool is
+# out). Sprites are built every frame, so no object outlives its vtable choice.
+SPRITE_VT, VT_WORDS = 0x679730, 31
+SIZE_GETTER, SIZE_SLOT = 0x157A20, 0x74
+DRAW_FN, DRAW_SLOT, DRAW_END = 0x157A70, 0x70, 0x157CE4     # end = after jr ra + delay slot
+DRAW_JAL = 0x157C3C                      # jal 0x15AC70 (texture path), a3 = w loaded at 0x157C18
+GLYPH_SET = 0x59CCD4                     # andi s0,s7,0xff; sra a1,s0,4
+GLYPH_SET_OLD = (0x32F000FF, 0x00102903)
+STEP = 8
+
+def glyph_scale(elf, seg, scale):
+    w = lambda va: elfseg.word(elf, va)
+    assert (w(GLYPH_SET), w(GLYPH_SET + 4)) == GLYPH_SET_OLD, 'glyph sprite site changed'
+    assert w(SPRITE_VT + SIZE_SLOT) == SIZE_GETTER
+    orig = [w(SIZE_GETTER + 4 * i) for i in range(20)]
+    assert orig[7:9] == [0xC4800044, 0x46800320], 'size getter changed'   # lwc1 f0,0x44(a0); cvt.s.w f12,f0
+    getter = seg.code([('word', x) for x in orig[:7]] + [
+        ('lw', 't8', 0, 'a0'),
+        ('lw', 't8', -4, 't8'),                 # this clone's scale
+        ('lw', 't9', 0x44, 'a0'),
+        ('addiu', 't9', 't9', -1),              # cell column 11 is blank (see DRAW_COPY)
+        ('sll', 't9', 't9', 4),                 # (w - 1) * 16 * scale >> 8: 1/16 px
+        ('mult', 't9', 't9', 't8'),
+        ('srl', 't9', 't9', 8),
+        ('word', 0x44990000),                   # mtc1 t9,f0
+        ('nop',),
+        ('word', 0x46800320),                   # cvt.s.w f12,f0
+        ('lui', 'at', 0x3D80),                  # 1/16
+        ('word', 0x44810800),                   # mtc1 at,f1
+        ('nop',),
+        ('word', 0x46016302),                   # mul.s f12,f12,f1
+    ] + [('word', x) for x in orig[9:]])
+    # the draw (slot +0x70) passes the texture size a3 = w to 0x15AC70 (u1 = u0 + w): PCSX2 samples
+    # past u1 on a downscaled sprite (a full-height line after 'o', the sheet's last column, whose
+    # neighbour is outside the sheet). Copy (branches are internal) with a3 = w - 1 in the delay slot.
+    assert w(DRAW_JAL) == 0x0C056B1C and w(DRAW_JAL + 4) == 0 and w(DRAW_END - 8) == 0x03E00008
+    body = [w(a) for a in range(DRAW_FN, DRAW_END, 4)]
+    body[(DRAW_JAL + 4 - DRAW_FN) // 4] = 0x24E7FFFF       # addiu a3,a3,-1
+    draw = seg.code([('word', x) for x in body])
+    vt = [w(SPRITE_VT + 4 * i) for i in range(VT_WORDS)]
+    assert vt[DRAW_SLOT // 4] == DRAW_FN
+    vt[SIZE_SLOT // 4] = getter
+    vt[DRAW_SLOT // 4] = draw
+    lo_k = SQUEEZE_MIN // STEP
+    clones = None
+    for k in range(lo_k, 256 // STEP):
+        a = seg.add(struct.pack('<I', k * STEP + STEP // 2) + struct.pack('<%dI' % VT_WORDS, *vt), 128)
+        clones = clones or a
+    stub = seg.code([
+        ('beqz', 's2', 'skip'),
+        ('lui', 'at', hi(scale)),
+        ('lw', 't8', lo(scale), 'at'),
+        ('sltiu', 'at', 't8', 256),
+        ('beqz', 'at', 'skip'),
+        ('srl', 't8', 't8', 3),                 # / STEP
+        ('addiu', 't8', 't8', -lo_k),
+        ('sll', 't8', 't8', 7),                 # clone stride 128
+        ('lui', 'at', hi(clones + 4)),
+        ('addiu', 'at', 'at', lo(clones + 4)),
+        ('addu', 't8', 't8', 'at'),
+        ('sw', 't8', 0, 's2'),
+        'skip:',
+        ('andi', 's0', 's7', 0xFF),
+        ('j', GLYPH_SET + 8),
+        ('word', GLYPH_SET_OLD[1])])
+    elfseg.patch(elf, GLYPH_SET, assemble(GLYPH_SET, [('j', stub), ('nop',)]))
 
 if __name__ == '__main__':
     cells, adv = glyph_cells()
